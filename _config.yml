@@ -1,15 +1,12 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title:  Portfolio-Proficiency-Project
+author: [C Brennan Poole](https://github.com/oudcollective "Casey Brennan Poole GitHub Account")
+email:  CBrennanP@chasingthewindllc.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+  C Brennan is a lifetime student and natural leader. The Chasing the Wind brand is very well in it's infancy, but it is almost impossible to fathom the brand failing with the sustainability / Toyota Way Management methodolog Brennan has begun to instill in everything he does. 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: @OUDcollective
+github_username:  OUDcollective
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-cayman
+theme: minima
