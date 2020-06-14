@@ -1,14 +1,19 @@
-# C-Brennan-Poole-Portfolio-Project
----
-## Mission
----  
+# The Quantified Self 
 
-> To create an efficient, simplistic, comprehensive applicant tracking system friendly process that's simple to adjust to specific positions and aesthetically pleasing for anyone who happens upon it.
+> A comprehensive view at the body of work that is C Brennan Poole. 
+
+---
+
+## Mission
+---     
+
+to create a truly meritocratic digital community that knows no bounds; understands the categorical labels and need for them in organizational behavior but doesn't apply them to himself or community, and to help create a sustainable, profitable business that future generations will look to.
+
 ---  
 
 ## Work Summary  
 ---  
-.
+
  
 No # | Position | Employer | Physical Address | Start Date | End Date | (Promotion Y/N) | Contact
 ---|---|---|---|---|---|---|---
