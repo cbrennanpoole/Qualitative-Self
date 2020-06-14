@@ -3,16 +3,19 @@
 ## Mission
 
 > To create an efficient, simplistic, comprehensive applicant tracking system friendly process that's simple to adjust to specific positions and aesthetically pleasing for anyone who happens upon it.
----
-## Work Summary
 
+---  
+
+## Work Summary  
+---  
+  
 No # | Position | Employer | Physical Address | Start Date | End Date | (Promotion Y/N) | Contact 
 ---|---|---|---|---|---|---|---
 1 | Chief Principal | Chasing the Wind, LLC | Covington, GA | Nov 2018 | Present | N | (470) 327-2626
 2 | Logistics Coorginator | Amazon Logistics | Stockbridge, GA | Oct 2017 | Feb 2018 | N | Unknnown (VPN)
 3 | Maintenance & Landscape  | Pine Hills | Stockbridge, GA | Aug 2016 | Aug 2017 | Y  | (770) 474-1870 
 4 | Self-employed (Freelance) | Sub-Contract Work | Stockbridge, GA | Feb 2014 | Jan 2017 | N | (678) 856-5729
-5 | Dispatch Supervisor | Annex Freight Systems | Newnan, GA | March 2013 | Nov 2013 | N | ____
+5 | Dispatch Supervisor | Annex Freight Systems | Newnan, GA | March 2013 | Nov 2013 | N | x
 6 | Operations Manager | Saia LTL Freight Inc | Ellenwood, GA | July 2011 | Feb 2013 | N | (800) 950-7242
 7 | Dispatch Supervisor | Saia LTL Freight Inc | Johns Creek, GA | July 2009 | July 2011 | Y | (800) 315-7242
 8 | Operations Supervisor | Saia LTL Freight Inc | Ellenwood, GA | March 2008 | July 2009 | Y | (800) 950-7242
@@ -20,16 +23,19 @@ No # | Position | Employer | Physical Address | Start Date | End Date | (Promoti
 10 | Team Lead | Ted's Montana Grill | Midtown Atlanta, GA | Nov 2005 | May 2006 | Y | (404) 355-3897 
 11| Trainer & Manager | Italian Oven | Stockbridge, GA | Dec 2003 | Jan 2005 | Y | (770) 507-4827
 12 | Customer Service Associate | Lowe's Inc | Stockbridge, GA | March 2003 | Nov 2003 | Y | (770) 506-9665
-13 | Freight Handler | Roadway Express Inc | Atlanta, GA | Aug 2002 | Feb 2003 | Y | Out-of-Business
+13 | Freight Handler | Roadway Express Inc | Atlanta, GA | Aug 2002 | Feb 2003 | Y | Out-of-Business  
+
 ---
 ## EDUCATION
-### Operations Management 
-#### Bachelor of Business Administration
-#### J Mack Robinson College of Business
-#### Georgia State University, Atlanta, GA
+---
+**Specialization** : Service Operations Management 
+**Degree** : Bachelor of Business Administration
+**College** : J Mack Robinson College of Business
+**University** : Georgia State University, Atlanta, GA
+**Recognition** : **FACULTY SCHOLAR** : 2004 | **DEAN'S LIST** : 2005
 
-No # | Name of School | City | State | Begin | End | Degree | Add'l Info
----|---|---|---|---|---|---|---
+**No # | Name of School | City | State | Begin | End | Degree | Add'l Info**
+:---|:---:|:---:|:---:|:---:|:---:|:---:|---:
 1 | Salem High School | Conyers | GA | Aug 1999 | May 2001 | Dual Degree | College Preperatory & General Business Admininstration
 2 | Georgia State University / J Mack Robinson College of Business | Atlanta | GA | Aug 2002 | May 2006 | BBA | Operations Management 
 3 |  Faculty Scholar 2004 | 🎓 | 👨🏽‍🏫 | Deans List 2005 | 🕴🏽 | 🏫 | Class of 2006
@@ -57,44 +63,47 @@ Using March Madness to Learn Data Science | Learning Infographic Design | Learni
 The Four Levels of Writing Mastery | Personal Branding on Social Media | Switching Your Career | UX Foundations: Content Strategy
 Web Development Foundations: Web Technologies | Gaining Skills with Linkedin Learning | Learning Brainstorming | Strategic Thinking
 Writing a Compelling Blog Post | Why are Opioids So Addictive (University South Florida) | Introduction to HTML, CSS, & Java | ✌🏽
----
+
+---  
+
 ## SUMMARY
 
 > Operations strategist determined to provide total Customer Satisfaction by fostering and mentoring the people process, developing cross-functional collaborative environments; while using creative problem solving techniques and establishing easy to understand but increasingly difficult to achieve key performance indicators.
+
 ---
+
 # EXPERIENCE
-## LOGISTICS COORDINATOR 
-### Amazon Inc, Work-at-Home 
-#### Oct 2017 – Jan 2018 
 
+---
+
+### Amazon Inc / Remote
+**LOGISTICS COORDINATOR**
+Oct 2017 – Jan 2018 
 - Relentlessly advocate for customers; always protecting confidentially and data; anticipate needs and underlying issues and treating their time and attention as sacred; overall effective communication skills and composure under pressure.
-
 - Field inbound calls from Amazon Flex Delivery Partners; mapping their progress, navigating and troubleshooting the variables; guiding, and encouraging 100% successful delivery of Amazon goods and services.
-
 - Forge concrete customer and team partnerships and own the Customer-Centric process by taking accountability when necessary and delivering personalized, peculiar experiences that customers love. 
-
 - Virtual work environment encouraging active participation using various mediums to foster the team dynamic and engaging cross-functional teams in facilitating the construction of innovative problem resolution strategies.
 ---
-## GENERAL MAINTENANCE 
-## Pine Hills / Stockbridge, GA
-#### Aug 2016 – Aug 2017 
 
+### Pine Hills  / Stockbridge, GA 
+***LANDSCAPER***
+Aug 2016 – Aug 2017 
 - Take ownership of the residential development by demonstrating unquestionable work ethic while nurturing and nursing the land and serving as caregiver to the community. 
-
 - Develop a partnership with residents by always offering to assist and delivering on early on requisition duties. 
 ---
-## DISPATCH SUPERVISOR 
+
+ 
 ### Annex Freight Systems / Newnan, GA 
-#### Mar 2013 - Oct 2013 
-
+***DISPATCH SUPERVISOR***
+Mar 2013 - Oct 2013 
 - Provide pipeline management and logistics analysis for rail, truck-load, and less than load (LTL) customers eliminating no less than $60,000 in shipping expense for customers. 
-
 - Accurate and expedient data entry into terminal operating systems and end of shift report monitoring to ensure operation maintains guaranteed 99.4% on-time service standard. 
 ---
-## OPERATIONS MANAGER 
-### Saia LTL Inc / Ellenwood, GA
-#### Jul 2011 - Feb 2013 
 
+
+### Saia LTL Inc / Ellenwood, GA
+***OPERATIONS MANAGER***
+Jul 2011 - Feb 2013 
 - Design, Develop, and implement daily ops plan to ensure 98.6% on-time service standard. 
     - Consisting of approximately 650,000 to 1.5 million pounds of overnight due-service origin freight, and 
     - Approximately 4 to 6 million pounds in-bound break tonnage due-in nightl
@@ -103,7 +112,6 @@ Writing a Compelling Blog Post | Why are Opioids So Addictive (University South 
         - No less than 120 line-haul drivers,  
         - Over 100 local drivers and totaling  
         - Nearly 400 Atlanta domicile associates.
-
 - Craft operations strategy aligning organizations vision with operations team and associates.
     - 1st day introduction issued a challenge to perform as one unit and single team. 
         - With a command to excellence. 
@@ -111,7 +119,6 @@ Writing a Compelling Blog Post | Why are Opioids So Addictive (University South 
         - Promise to return to open door management policy. 
             - addressing all inquires 
             - committing  to resolve the unaddressed concerns. 
-
 - Explore the underlying issues affecting the workforce; 
     - actively listen in individual and group information gathering sessions; 
     - analyze and identify anomalies and outliers, 
@@ -121,7 +128,6 @@ Writing a Compelling Blog Post | Why are Opioids So Addictive (University South 
         - questions of doubt and  
         - resistance to change.  
         - acted as the voice of the dock to senior management in advocating for legitimate equipment needs.  
-
 - Author and co-collaborator to:   
     -__20%__ productivity enhancement.  
     - No less than _40%__ gain in delivery before exception metric.  
@@ -129,40 +135,33 @@ Writing a Compelling Blog Post | Why are Opioids So Addictive (University South 
     - Shaving of __6__ local routes, and  
     - altogether resulting in no less than __2%__ overall on-time service improvement.  
 ---    
-## DISPATCH SUPERVISOR  
-### Saia LTL Inc / Johns Creek, GA  
-#### Jul 2009 - Jul 2011  
 
+
+### Saia LTL Inc / Johns Creek, GA  
+***DISPATCH SUPERVISOR***
+Jul 2009 - Jul 2011  
 - Regional travel providing terminal ops team  
     - training,  
     - tutoring, tips, and  
     - organizational education, at the discretion of the Vice President of Line Haul.  
-
 - Establish cross-functional constructive collaboration,  
     - forging the foundation for a profitable partnership;   
     - enabling regional lane load average improvement up-ticks and  
     - fostering, best-in-class, awards and  
     - peer recognition for Memphis and Oklahoma City regional operations teams.  
-
 - Call center setting 600-minute shifts and 480-minute phone time expectation,  
     - Averaged over 530 minutes at all times.  
     - Take ownership of approximately 250-325 nightly incoming calls of concern  
     - Provide assurance as needed and attempting to always deliver patient yet confident directives.  
     - Express appreciation for the drivers oftentimes forgotten role in the operation.
-
 - Forge a genuine relationship with drivers of responsibility through 
     - Active listening and  
     - Conflict resolution.  
-
 - Build rapport while following through on all issues and requests in an efficiant manner.  
-
 - Plan scehduled time-off effectively and without fail as to maintain integrity and honor all approved time off requests.  
     - Allow SOP to guide by following letter of law and making exceptions or allowing for excuses.  
-
 - Articulate expectations clearly and concise.  
-
 - Develop an efficient and autonomous set workflow processes establishing a more adaptive and accountable workforce with all-new standards of service.  
-
 - Push to improve regional perspective  
     - Defining benchmark measure at 98.6%  while progressively improving to a 99.4% SOP.  
         - Created the catalyst to an almost instant recognition,  
@@ -183,37 +182,30 @@ Writing a Compelling Blog Post | Why are Opioids So Addictive (University South 
             - prediction forecasting, for the daily controllable areas;  
         - Produce an environment conducive to excellence that executes consistently.  
   ----
-## OPERATIONS SUPERVISOR  
+
+
 ### Saia LTL Inc / Ellenwood, GA  
-#### Mar 2008 - Jul 2009  
-
+***OPERATIONS SUPERVISOR***
+Mar 2008 - Jul 2009  
 - Monitor, oversee, guide, and provide proper work direction to assigned production associates.  
-
 - Support meeting production metrics and develop a daily checklist to   
     - guarantee on-time service standard 98.6%,   
     - on time close schedule of 93.5%, and   
     - on time departure 96.5%.  
-
 - Improve quality through dock mentor program and education, including cross-training production associates and peers.  
-
 - Pro-active analysis trends and identify patterns to develop a proposal for new due service schedule (or eliminate existing schedule by building loads with multi-point destinations).  
-
 - Implement   
     - six-sigma management principles,   
     - support management goals and   
     - develop staff to achieve ongoing improvement.  
-
 - Verify all service freight has been  
     - picked up,  
     - accounted for,  
     - handled properly,  
     - loaded and   
     - either closed or over the road (OTR) in AS400 software, with a plan to depart on time to destination to ensure service time.  
-
 - Establish next day operations game plan by reviewing inbound tonnage levels.  
-
 - Ensure zone has the equipment to load on and reconcile equipment number to match status in software.  
-
 - Create a fluid transition and encourage cross-function collaboration with inbound operation team by 
     - reconciling due service,   
     - monitoring and  
@@ -224,34 +216,25 @@ Writing a Compelling Blog Post | Why are Opioids So Addictive (University South 
         - pin-wheeled, and   
         - verifying tools for zone have been replenished and organized.  
  ---
-## Trainer- Server 
-### Ted's Montana Grill / Atlanta, GA 
-#### Dec 2005 - May 2006
-PROVIDE DISTINCTIVE DINING OFFERING CLASSIC AMERICAN COMFORT FOOD IN A SALOON SETTING
-
-- Implement suggestive sales technique by identifying customers preference.
-
-- Offer tailored-to-individual insight on menu items, daily blue-plate specials, seasonal dessert offering, and signature bar drinks.
-
-
-## Trainer-Manager 
- ### The Italian Oven, Stockbridge, GA 
- #### Dec 2003 - Jan 2005
  
- CONSISTENTLY CREATE UNFORGETTABLE DINING AUTHORING AN AUTHENTIC ATMOSPHERE & ADOPTING A UNIQUE, FAMILY-FRIENDLY FEELING
+### Ted's Montana Grill / Atlanta, GA 
+***Trainer- Server***
+Dec 2005 - May 2006
+- Implement suggestive sales technique by identifying customers preference.
+- Offer tailored-to-individual insight on menu items, daily blue-plate specials, seasonal dessert offering, and signature bar drinks.
+---
 
-- Menu presentation in a non-solicited style that's simplistic, yet, sophisticated in its approach; identifying and articulating insightful Italian pairings with a thoughtful and tasteful introduction as the appetizer.
-
+### The Italian Oven, Stockbridge, GA 
+***Trainer-Manager***
+Dec 2003 - Jan 2005
+ - Menu presentation in a non-solicited style that's simplistic, yet, sophisticated in its approach; identifying and articulating insightful Italian pairings with a thoughtful and tasteful introduction as the appetizer.
 - Entering those taste buds with exotic entree offerings while delivering on desires and creating a courtship to the evening.
-
 - Ultimately managing to marry those taste buds together timely with wine and spirits.
-
 - Not-to-soon, but shortly thereafter, serving a seductively succulent dessert, as the passionate and promising honeymoon; an eloquent end to an exciting evening.
 ---
 
-
----
 ## SKILLS
+---
 
 Business Insight | Customer Focus | Decision Quality | Active Listener | Global Perspective | Organizational Dynamics
 ---|---|---|---|---|---
@@ -267,37 +250,37 @@ Product Team Integration | Project Management | Quality | Sales | Six Sigma | Su
 Telephone Skills | Total Quality Management | Vision | Writing | 😁| 🍑
 
 ### SKILLS ASSESSMENT FROM COCA-COLA
-#### Business Administration
-##### Cross-Functional Collaboration
-###### Experience in facilitation of multi-disciplinary teams
-###### Logistics
+- Business Administration
+    - Cross-Functional Collaboration
+    - Experience in facilitation of multi-disciplinary teams
+    - Logistics
 
-> Leadership – Strong organizational and planning abilities, teamwork and interpersonal skills with the ability to communicate and execute strategies
+> **Leadership** : *Strong organizational and planning abilities, teamwork and interpersonal skills* with the *ability to communicate and execute strategies*.
 
-> Project Management background that will drive collaborative working relationships to achieve incremental sales and supplier performance metrics.
+> **Project Management** background that will *drive collaborative working relationships to achieve incremental sales and supplier performance metrics*.
 
-Six Sigma | Solid business acumen | Strong Team Leadership | Strategic Thinking | Planning and consulting skills
+**Six Sigma | Solid business acumen | Strong Team Leadership | Strategic Thinking | Planning and consulting skills**
 ---|---|---|---|---
 
-- Strong negotiation and influencing skills
-- Writing /Presentation Skills in English
-- Analytical rigour-- balance quantitative and qualitative 
-- Building Relationships – strong collaboration skills among peers in all organizational level
+1. **Strong negotiation** and **influencing skills**.
+2. **Writing /Presentation** Skills in English.
+3. **Analytical rigour**-- balance *quantitative* and *qualitative*.
+4. **Building Relationships** – strong collaboration skills among peers in all organizational level.
 
 Developing Talent | Supply Chain Management | Teamwork 
 ---|---|---
 
-- Accomplishes results through the coordination of a team of professionals as well as working cross-functionally.  
-- Acts as an advisor to others and communicates deadlines clearly and consistently.
-- The ability to apply forecasting techniques and skills to support Region planning and apply the system knowledge to improve reporting process/model. 
-- Budgeting, planning and forecasting skills with attention to detail. 
-- Problem Analysis and Problem Solving. 
-- Accounting Experience. 
-- Proficient in Excel to be able to apply the skill in managing database and ability to convert and analyze the data
-- SAP/Hyperion Experience is a strong plus. Collaborative/Team Player. 
-- Effective Communication Skill. Take ownership and acting with Integrity
-- Ability to build endearing customer relationships 
-- Proven leader of professionals 
+- Accomplishes results through the **coordination of a team of professionals** as well as **working cross-functionally**.  
+- Acts as an *advisor to others* and *communicates deadlines clearly and consistently.*
+- The ability to *apply forecasting techniques* and skills to *support Region planning* and apply the system knowledge to *improve reporting process/model*. 
+- *Budgeting, planning* and *forecasting skills* with **attention to detail**. 
+- *Problem Analysis* and *Problem Solving*. 
+- **Accounting Experience**
+- **Proficient in Excel** to be able to apply the skill in *managing database* and *ability to convert* and *analyze the data*.
+- ***SAP/Hyperion Experience*** is a *strong plus*. ***Collaborative/Team Player***.
+- **Effective Communication Skill**. **Take ownership** and **acting with Integrity**.
+- Ability to ***build endearing customer relationships***.
+- ***Proven leader of professionals***.
 - Cross channel knowledge including QSR Foodservice and CR preferred 
 - Expertise in cross collaboration and project management due to nature of innovation mindset of the customer 
 - Strong strategic thinking, relationship-building, selling and negotiating skills. 
