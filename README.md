@@ -56,9 +56,12 @@ BCOM 3950 Business Communication and Professional Development | ACCT 2101 Princi
 ACCT 4210 Cost/Managerial Accounting | ECON 2106 Principles of Microeconomics | ECON 2106 Principles Of Macroeconomics 
 FI 3300 Corporation Finance | MGS 3100 Business Analysis | MGS 3400 Managing People in Organization
 BUSA 3000 Globalization and Business Practices | MK 3010 Basic Marketing | BUSA 2106 Legal Environment of Business 
+
 ---
 
 ## Continued Learning
+
+---
 
 Raising Capital | Creating the Conditions for Others to Thrive | Developing a Learning Mindset | Learning Data Science
 ---|---|---|---
@@ -70,12 +73,15 @@ Using March Madness to Learn Data Science | Learning Infographic Design | Learni
 The Four Levels of Writing Mastery | Personal Branding on Social Media | Switching Your Career | UX Foundations: Content Strategy
 Web Development Foundations: Web Technologies | Gaining Skills with Linkedin Learning | Learning Brainstorming | Strategic Thinking
 Writing a Compelling Blog Post | Why are Opioids So Addictive (University South Florida) | Introduction to HTML, CSS, & Java | ✌🏽
+
 ---  
 
 ## SUMMARY
+
 ---    
 
 > Operations strategist determined to provide total Customer Satisfaction by fostering and mentoring the people process, developing cross-functional collaborative environments; while using creative problem solving techniques and establishing easy to understand but increasingly difficult to achieve key performance indicators.
+
 ---
 
 # EXPERIENCE
@@ -87,6 +93,7 @@ Oct 2017 – Jan 2018
 - Field inbound calls from Amazon Flex Delivery Partners; mapping their progress, navigating and troubleshooting the variables; guiding, and encouraging 100% successful delivery of Amazon goods and services.
 - Forge concrete customer and team partnerships and own the Customer-Centric process by taking accountability when necessary and delivering personalized, peculiar experiences that customers love. 
 - Virtual work environment encouraging active participation using various mediums to foster the team dynamic and engaging cross-functional teams in facilitating the construction of innovative problem resolution strategies.
+
 ---
 
 ### Pine Hills  / Stockbridge, GA 
@@ -94,6 +101,7 @@ Oct 2017 – Jan 2018
 Aug 2016 – Aug 2017 
 - Take ownership of the residential development by demonstrating unquestionable work ethic while nurturing and nursing the land and serving as caregiver to the community. 
 - Develop a partnership with residents by always offering to assist and delivering on early on requisition duties. 
+
 ---
     
 ### Annex Freight Systems / Newnan, GA 
@@ -101,6 +109,7 @@ Aug 2016 – Aug 2017
 Mar 2013 - Oct 2013 
 - Provide pipeline management and logistics analysis for rail, truck-load, and less than load (LTL) customers eliminating no less than $60,000 in shipping expense for customers. 
 - Accurate and expedient data entry into terminal operating systems and end of shift report monitoring to ensure operation maintains guaranteed 99.4% on-time service standard. 
+
 ---
 
 ### Saia LTL Inc / Ellenwood, GA
@@ -136,6 +145,7 @@ Jul 2011 - Feb 2013
     - Complete and permanent cancellation of __4__ due-service line-haul runs from multi-layer load process.  
     - Shaving of __6__ local routes, and  
     - altogether resulting in no less than __2%__ overall on-time service improvement.  
+
 ---    
 
 ### Saia LTL Inc / Johns Creek, GA  
@@ -182,7 +192,8 @@ Jul 2009 - Jul 2011
             - planning,  
             - prediction forecasting, for the daily controllable areas;  
         - Produce an environment conducive to excellence that executes consistently.  
-  ----
+
+----
 
 ### Saia LTL Inc / Ellenwood, GA  
 ***OPERATIONS SUPERVISOR***
@@ -215,13 +226,15 @@ Mar 2008 - Jul 2009
         - braced, and   
         - pin-wheeled, and   
         - verifying tools for zone have been replenished and organized.  
- ---
+
+---
 
 ### Ted's Montana Grill / Atlanta, GA 
 ***Trainer- Server***
 Dec 2005 - May 2006
 - Implement suggestive sales technique by identifying customers preference.
 - Offer tailored-to-individual insight on menu items, daily blue-plate specials, seasonal dessert offering, and signature bar drinks.
+
 ---
 
 ### The Italian Oven, Stockbridge, GA 
@@ -231,9 +244,11 @@ Dec 2003 - Jan 2005
 - Entering those taste buds with exotic entree offerings while delivering on desires and creating a courtship to the evening.
 - Ultimately managing to marry those taste buds together timely with wine and spirits.
 - Not-to-soon, but shortly thereafter, serving a seductively succulent dessert, as the passionate and promising honeymoon; an eloquent end to an exciting evening.
+
 ---    
 
 ## SKILLS
+
 ---  
 
 Business Insight | Customer Focus | Decision Quality | Active Listener | Global Perspective | Organizational Dynamics
@@ -249,7 +264,10 @@ Fleet Operations | Lean Processes | Lean Six Sigma | Legal | Listening | Process
 Product Team Integration | Project Management | Quality | Sales | Six Sigma | Supply Chain
 Telephone Skills | Total Quality Management | Vision | Writing | 😁| 🍑
 
+---
+
 ### SKILLS ASSESSMENT FROM COCA-COLA
+
 --- 
 
 - Business Administration
