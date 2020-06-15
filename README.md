@@ -1,6 +1,10 @@
 # The Quantified Self 
 
-> A comprehensive view at the body of work that is C Brennan Poole. 
+----
+
+> A comprehensive view at the body of work that is C Brennan Poole.    
+
+---
 
 [Feel Free to Check - Out the Interactive Version of 'The Quantified-Self; made with Google Sheets](https://bit.ly/The-Quantified-Self-twenty-20 "I thought I was onto somethinig with this creation, as it turns out - the world wide web is truly a black abyss - unless you have ad-spend or take to plagiarizing that is...")
 
@@ -366,10 +370,14 @@ Developing Talent | Supply Chain Management | Teamwork
 - **Ability to Lead Cross-functional teams to Deliver Results.
 - **Expertise in Innovation, Supply Chain and/or Technical Function(s)**.
 
+---
 
-[Let's Connect on LinkedI](https://linkedin.com/in/oudcollective) | [Follow Me on LinkedIn (company](https://linkedin.com/company/the-wind) | [Follow on Twitter](https://twitter.com/oudcollective   
+
+[Let's Connect on LinkedIn](https://linkedin.com/in/oudcollective) | [Follow Me on LinkedIn (company](https://linkedin.com/company/the-wind) | [Follow on Twitter](https://twitter.com/oudcollective   
 :---|:---:|---:|    
 [Popular on Pinterest](https://www.pinterest.com/withwindllc | [Quora](https://quora.com/c-brennnan-poole | [Medium](https://medium.com/@becomingbrennan)    
+
+---
 
 copyright© 2020 chasing the wind, some rights reserved. works are licensed under a creative commons (cc by-sa) international free cultural works 4.0 license. link to license: < https://creativecommons.org/licenses/by-sa/4.0/ >in other words, feel free to remix, reuse, redistribute but make sure attribute with a link back to title of the work,  the original author slash artist, the source of the work, and compatible license.
 
