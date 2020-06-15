@@ -4,6 +4,15 @@
 
 ---
 
+## Check out my condensed CV
+
+---
+
+[Dark Theme](https://bit.ly/Real-time-PDF-dark-theme "Google Docs Viewer") | [ATS - Friendly Docs Viewer](https://bit.ly/ATS-Real-time-PDF "a less disruptive version")
+:---|---:
+[Downloadable File](https://bit.ly/dark-theme-resume) | [Downloadable -see above-](https://bit.ly/twenty-20-CV)
+
+
 ## Mission
 ---     
 
@@ -40,7 +49,9 @@ No # | Position | Employer | Physical Address | Start Date | End Date | (Promoti
 **University** : Georgia State University, Atlanta, GA
 **Recognition** : **FACULTY SCHOLAR** : 2004 | **DEAN'S LIST** : 2005
 
-**No # | Name of School | City | State | Begin | End | Degree | Add'l Info**
+---
+
+No # | Name of School | City | State | Begin | End | Degree | Add'l Info
 :---|:---:|:---:|:---:|:---:|:---:|:---:|---:
 1 | Salem High School | Conyers | GA | Aug 1999 | May 2001 | Dual Degree | College Preperatory & General Business Admininstration
 2 | Georgia State University / J Mack Robinson College of Business | Atlanta | GA | Aug 2002 | May 2006 | BBA | Operations Management 
@@ -68,11 +79,11 @@ Raising Capital | Creating the Conditions for Others to Thrive | Developing a Le
 Enhancing Your Productivity | Google My Business Basics | Growing Your Small Business with Linkedin | Pitching Yourself
 Marketing Your Side Hustle | OMCA Certification for Online Marketing Test | Managing Your Time | Purpose-Driven Sales
 Social Leadership | Teaching Technical Skills Through Video | Web Programming Foundations | Diversity & Inclusion in a Global Setting 
-Information Literacy | Learning From Failure | Learning to Teach Online | Logistics Foundations | Web Development Foundations: Full-Stack vs Front-End 
+Information Literacy | Learning From Failure | Learning to Teach Online | Logistics Foundations
 Using March Madness to Learn Data Science | Learning Infographic Design | Learning Rest API's | Marketing to Millennials 
 The Four Levels of Writing Mastery | Personal Branding on Social Media | Switching Your Career | UX Foundations: Content Strategy
 Web Development Foundations: Web Technologies | Gaining Skills with Linkedin Learning | Learning Brainstorming | Strategic Thinking
-Writing a Compelling Blog Post | Why are Opioids So Addictive (University South Florida) | Introduction to HTML, CSS, & Java | ✌🏽
+Writing a Compelling Blog Post | Why are Opioids So Addictive (University South Florida) | Introduction to HTML, CSS, & Java | Web Development Foundations: Full-Stack vs Front-End 
 
 ---  
 
@@ -141,7 +152,7 @@ Jul 2011 - Feb 2013
         - acted as the voice of the dock to senior management in advocating for legitimate equipment needs.  
 - Author and co-collaborator to:   
     -__20%__ productivity enhancement.  
-    - No less than _40%__ gain in delivery before exception metric.  
+    - No less than __40%__ gain in delivery before exception metric.  
     - Complete and permanent cancellation of __4__ due-service line-haul runs from multi-layer load process.  
     - Shaving of __6__ local routes, and  
     - altogether resulting in no less than __2%__ overall on-time service improvement.  
@@ -260,9 +271,10 @@ Drives Vision | Forward to Think | Instills Trust | Nimble Learner | Resilient |
 Authentic | Microsoft 365 | Word, Excel, Power Point, Dynamics, Access | Costumer Focused | Power Bi | HTML5, CSS, Java
 All Around Asset |  Perspective Taking | Accountancy | Call Center | Customer Complaint Resolution | Customer Relationship Management (CRM)
 Data Analysis | Data Entry | Decision Making | Demand Planning | Executive Management | Markdown
-Fleet Operations | Lean Processes | Lean Six Sigma | Legal | Listening | Processes Evaluation | Marketing | Social Media Marketing Mentoring | Operating Systems | Organizational Skills | Policy Analysis | Problem Solving | Process Engineering 
-Product Team Integration | Project Management | Quality | Sales | Six Sigma | Supply Chain
-Telephone Skills | Total Quality Management | Vision | Writing | 😁| 🍑
+Fleet Operations | Lean Processes | Lean Six Sigma | Legal | Listening | Processes Evaluation
+Marketing | Social Media Marketing Mentoring | Operating Systems | Organizational Skills | Policy Analysis | Problem Solving
+Process Engineering | Product Team Integration | Project Management | Quality | Sales | Six Sigma
+Supply Chain | Telephone Skills | Total Quality Management | Vision | Writing | 😁
 
 ---
 
