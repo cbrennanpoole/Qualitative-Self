@@ -376,9 +376,9 @@ copyright© 2020 chasing the wind, some rights reserved. works are licensed unde
 
 ---
 
-[Let's Connect on LinkedIn](https://linkedin.com/in/oudcollective) | [Follow Me on LinkedIn (company](https://linkedin.com/company/the-wind) | [Follow on Twitter](https://twitter.com/oudcollective   
+[Let's Connect on LinkedIn](https://linkedin.com/in/oudcollective) | [Follow Me on LinkedIn (company](https://linkedin.com/company/the-wind) | [Follow on Twitter](https://twitter.com/oudcollective)  
 :---|:---:|---:|    
-[Popular on Pinterest](https://www.pinterest.com/withwindllc | [Quora](https://quora.com/c-brennnan-poole | [Medium](https://medium.com/@becomingbrennan)    
+[Popular on Pinterest](https://www.pinterest.com/withwindllc) | [Quora](https://quora.com/c-brennnan-poole | [Medium](https://medium.com/@becomingbrennan)    
      
 
 This repository is licensed under [MIT](../LICENSE) *if ever I get to delivering in-demand code - that is*. (c) 2019 GitHub, Inc.
