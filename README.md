@@ -2,9 +2,11 @@
 
 > A comprehensive view at the body of work that is C Brennan Poole. 
 
+[Feel Free to Check - Out the Interactive Version of 'The Quantified-Self; made with Google Sheets](https://bit.ly/The-Quantified-Self-twenty-20 "I thought I was onto somethinig with this creation, as it turns out - the world wide web is truly a black abyss - unless you have ad-spend or take to plagiarizing that is...")
+
 ---
 
-## Check out my condensed CV
+## Check out my condensed CV(s)
 
 ---
 
@@ -51,11 +53,11 @@ No # | Position | Employer | Physical Address | Start Date | End Date | (Promoti
 
 ---
 
-No # | Name of School | City | State | Begin | End | Degree | Add'l Info
-:---|:---:|:---:|:---:|:---:|:---:|:---:|---:
-1 | Salem High School | Conyers | GA | Aug 1999 | May 2001 | Dual Degree | College Preperatory & General Business Admininstration
-2 | Georgia State University / J Mack Robinson College of Business | Atlanta | GA | Aug 2002 | May 2006 | BBA | Operations Management 
-3 |  Faculty Scholar 2004 | 🎓 | 👨🏽‍🏫 | Deans List 2005 | 🕴🏽 | 🏫 | Class of 2006
+No # | Name of School | City | State | Begin | End | Degree | Add'l Info    
+:---|:---:|:---:|:---:|:---:|:---:|:---:|---:    
+1 | Salem High School | Conyers | GA | Aug 1999 | May 2001 | Dual Degree | College Preperatory & General Business Admininstration    
+2 | Georgia State University / J Mack Robinson College of Business | Atlanta | GA | Aug 2002 | May 2006 | BBA | Operations Management   
+
 ---
 ## Courses: 
 
@@ -266,10 +268,10 @@ Business Insight | Customer Focus | Decision Quality | Active Listener | Global 
 ---|---|---|---|---|---
 Strategic Mindset | Action Oriented | Demonstrates Resourcefulness | Planning & Alignment | Ensures Accountability | Interpersonal Savvy
 Customer-Centric | Total Customer Satisfaction | Customer Success Champion | Network Builder | Cultivates Innovation | Optimizes Work Processes
-Drives Results | Talent Developer | Strategic Vision | Effective | Efficient Communicator | Values Diversity
-Drives Vision | Forward to Think | Instills Trust | Nimble Learner | Resilient | Situational Adaptability
-Authentic | Microsoft 365 | Word, Excel, Power Point, Dynamics, Access | Costumer Focused | Power Bi | HTML5, CSS, Java
-All Around Asset |  Perspective Taking | Accountancy | Call Center | Customer Complaint Resolution | Customer Relationship Management (CRM)
+ Drives Results | Talent Developer | Strategic Vision | Effective | Efficient Communicator | Values Diversity
+ Drives Vision | Forward to Think | Instills Trust | Nimble Learner | Resilient | Situational Adaptability
+ Authentic | Microsoft 365 | Word, Excel, Power Point, Dynamics, Access | Costumer Focused | Power Bi | HTML5, CSS, Java
+ All Around Asset |  Perspective Taking | Accountancy | Call Center | Customer Complaint Resolution | Customer Relationship Management (CRM)
 Data Analysis | Data Entry | Decision Making | Demand Planning | Executive Management | Markdown
 Fleet Operations | Lean Processes | Lean Six Sigma | Legal | Listening | Processes Evaluation  
 Marketing | Social Media Marketing Mentoring | Operating Systems | Organizational Skills | Policy Analysis | Problem Solving
@@ -363,6 +365,11 @@ Developing Talent | Supply Chain Management | Teamwork
     - **Verbal and Written**.
 - **Ability to Lead Cross-functional teams to Deliver Results.
 - **Expertise in Innovation, Supply Chain and/or Technical Function(s)**.
+
+
+[Let's Connect on LinkedI](https://linkedin.com/in/oudcollective) | [Follow Me on LinkedIn (company](https://linkedin.com/company/the-wind) | [Follow on Twitter](https://twitter.com/oudcollective   
+:---|:---:|---:|    
+[Popular on Pinterest](https://www.pinterest.com/withwindllc | [Quora](https://quora.com/c-brennnan-poole | [Medium](https://medium.com/@becomingbrennan)    
 
 copyright© 2020 chasing the wind, some rights reserved. works are licensed under a creative commons (cc by-sa) international free cultural works 4.0 license. link to license: < https://creativecommons.org/licenses/by-sa/4.0/ >in other words, feel free to remix, reuse, redistribute but make sure attribute with a link back to title of the work,  the original author slash artist, the source of the work, and compatible license.
 
