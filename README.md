@@ -271,7 +271,7 @@ Drives Vision | Forward to Think | Instills Trust | Nimble Learner | Resilient |
 Authentic | Microsoft 365 | Word, Excel, Power Point, Dynamics, Access | Costumer Focused | Power Bi | HTML5, CSS, Java
 All Around Asset |  Perspective Taking | Accountancy | Call Center | Customer Complaint Resolution | Customer Relationship Management (CRM)
 Data Analysis | Data Entry | Decision Making | Demand Planning | Executive Management | Markdown
-Fleet Operations | Lean Processes | Lean Six Sigma | Legal | Listening | Processes Evaluation
+Fleet Operations | Lean Processes | Lean Six Sigma | Legal | Listening | Processes Evaluation  
 Marketing | Social Media Marketing Mentoring | Operating Systems | Organizational Skills | Policy Analysis | Problem Solving
 Process Engineering | Product Team Integration | Project Management | Quality | Sales | Six Sigma
 Supply Chain | Telephone Skills | Total Quality Management | Vision | Writing | 😁
@@ -287,9 +287,9 @@ Supply Chain | Telephone Skills | Total Quality Management | Vision | Writing | 
     - Experience in facilitation of multi-disciplinary teams
     - Logistics
 
-> **Leadership** : *Strong organizational and planning abilities, teamwork and interpersonal skills* with the *ability to communicate and execute strategies*.
+**Leadership** : *Strong organizational and planning abilities, teamwork and interpersonal skills* with the *ability to communicate and execute strategies*.
 
-> **Project Management** : background that will *drive collaborative working relationships to achieve incremental sales and supplier performance metrics*.
+**Project Management** : background that will *drive collaborative working relationships to achieve incremental sales and supplier performance metrics*.
 
 Six Sigma | Solid business acumen | Strong Team Leadership | Strategic Thinking | Planning and consulting skills
 ---|---|---|---|---
@@ -297,7 +297,7 @@ Six Sigma | Solid business acumen | Strong Team Leadership | Strategic Thinking 
 1. **Strong negotiation** and **influencing skills**.
 2. **Writing /Presentation** Skills in English.
 3. **Analytical rigour**-- balance *quantitative* and *qualitative*.
-4. **Building Relationships** – strong collaboration skills among peers in all organizational level.
+4. **Building Relationships** – *strong collaboration skills among peers in all organizational level*.
 
 Developing Talent | Supply Chain Management | Teamwork
 ---|---|---
@@ -337,31 +337,35 @@ Developing Talent | Supply Chain Management | Teamwork
 - Demonstrated ability and qualified to facilitate team-based problem-solving on the production floor using advanced Risk Assessment, Incident Investigation and 5 Why methodology. 
 - Lead Gemba events and work on root cause analysis.   
 - First-Aid and Adult CPR trained,• Best Practices: knowledge of procurement, industry and business best practices to guide thought leadership and ensure effective procurement strategies. Includes the ability to recognise value creation opportunities within the supply chain.
-- Create and manage databases for reporting. Maintain and update category spend and volumes and provide insights 
-- Executing Business Results in a Supply Chain Environment 
-- Enable procurement effectiveness by developing and applying tools and KPIs 
-- Synthesize data and identify problems through financial analysis and recommend solutions 
-- Supplier Performance, Inventory, Financial reports.,
-- Cross Functional Relationships: 
-    - knowledge of and ability to articulate to senior management the benefits of supporting cross-functional objectives to achieve the business plan.,
-- Deep Ecommerce knowledge and digital customers landscape 
-- Understands industry research and trends and anticipates future customer or market needs 
-- Driving Innovation 
-- Strategical Thinking 
-- Positive Influence & Negotiation 
-- Shopper knowledge 
-- Adaptability 
-- Project management - Task Oriented - Deliver results 
-- Effective communication 
-    - Team-building abilities, 
-    - Bringing together key stakeholders 
-- Value chain experience 
-- Financial skills 
-- Excellent Project
-    - Program Management Skills
-- Effective Communications Skills 
-    - Verbal and Written 
-- Ability to Lead Cross-functional teams to Deliver Results.
-- Expertise in Innovation, Supply Chain and/or Technical Function(s)  
+- **Create and manage databases for reporting. Maintain and update category spend and volumes and provide insights.  
+- Executing Business Results in a Supply Chain Environment.
+- Enable procurement effectiveness by *developing and applying tools and KPIs*.
+- *Synthesize data and identify problems through financial analysis and recommend solutions*.
+- **Supplier Performance, Inventory, Financial reports**.
+- **Cross Functional Relationships**: 
+    - knowledge of and **ability to articulate to senior management** the *benefits of supporting cross-functional objectives* to achieve the business plan.,
+- *Deep Ecommerce knowledge and digital customers landscape*. 
+- **Understands industry research and trends** and **anticipates future customer or market needs**.
+- **Driving Innovation**.
+- **Strategical Thinking**.
+- **Positive Influence & Negotiation**
+- **Shopper knowledge**.
+- **Adaptability**.
+- **Project management - Task Oriented - Deliver results.
+- **Effective communication**.
+    - **Team-building abilities**,
+    - **Bringing together key stakeholders**.
+- **Value chain experience**
+- **Financial skills**.
+- **Excellent Project**.
+    - **Program Management Skills**.
+- **Effective Communications Skills**.
+    - **Verbal and Written**.
+- **Ability to Lead Cross-functional teams to Deliver Results.
+- **Expertise in Innovation, Supply Chain and/or Technical Function(s)**.
 
-This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
+copyright© 2020 chasing the wind, some rights reserved. works are licensed under a creative commons (cc by-sa) international free cultural works 4.0 license. link to license: < https://creativecommons.org/licenses/by-sa/4.0/ >in other words, feel free to remix, reuse, redistribute but make sure attribute with a link back to title of the work,  the original author slash artist, the source of the work, and compatible license.
+
+---
+
+This repository is licensed under [MIT](../LICENSE) *if ever I get to delivering in-demand code - that is*. (c) 2019 GitHub, Inc.
