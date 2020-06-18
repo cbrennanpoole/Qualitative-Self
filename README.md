@@ -6,6 +6,10 @@
 
 ---
 
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vSMpI_MaRwjOW5Jkhxg_0-C6F_Ou5MJatfVPRCyRLukwhlziuOAljgg5gRf1XXiNlN0p5I_Q_0r-CIm/pub?w=1200&amp;h=627">
+
+---
+
 ## Check out my condensed CV(s)
 
 ---
