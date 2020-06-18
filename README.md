@@ -1,6 +1,21 @@
 # The Quantified Self 
 
-> A comprehensive view at the body of work that is C Brennan Poole. 
+----
+
+> A comprehensive view at the body of work that is C Brennan Poole.    
+
+---
+
+## Check out my condensed CV(s)
+
+---
+
+[Dark Theme](https://bit.ly/Real-time-PDF-dark-theme "Google Docs Viewer") | [ATS - Friendly Docs Viewer](https://bit.ly/ATS-Real-time-PDF "a less disruptive version")
+:---|---:
+[Downloadable File](https://bit.ly/dark-theme-resume) | [Downloadable -see above-](https://bit.ly/twenty-20-CV)
+
+
+[Feel Free to Check - Out the Interactive Version of 'The Quantified-Self; made with Google Sheets](https://bit.ly/The-Quantified-Self-twenty-20 "I thought I was onto somethinig with this creation, as it turns out - the world wide web is truly a black abyss - unless you have ad-spend or take to plagiarizing that is...")
 
 ---
 
@@ -40,11 +55,13 @@ No # | Position | Employer | Physical Address | Start Date | End Date | (Promoti
 **University** : Georgia State University, Atlanta, GA
 **Recognition** : **FACULTY SCHOLAR** : 2004 | **DEAN'S LIST** : 2005
 
-**No # | Name of School | City | State | Begin | End | Degree | Add'l Info**
-:---|:---:|:---:|:---:|:---:|:---:|:---:|---:
-1 | Salem High School | Conyers | GA | Aug 1999 | May 2001 | Dual Degree | College Preperatory & General Business Admininstration
-2 | Georgia State University / J Mack Robinson College of Business | Atlanta | GA | Aug 2002 | May 2006 | BBA | Operations Management 
-3 |  Faculty Scholar 2004 | 🎓 | 👨🏽‍🏫 | Deans List 2005 | 🕴🏽 | 🏫 | Class of 2006
+---
+
+No # | Name of School | City | State | Begin | End | Degree | Add'l Info    
+:---|:---:|:---:|:---:|:---:|:---:|:---:|---:    
+1 | Salem High School | Conyers | GA | Aug 1999 | May 2001 | Dual Degree | College Preperatory & General Business Admininstration    
+2 | Georgia State University / J Mack Robinson College of Business | Atlanta | GA | Aug 2002 | May 2006 | BBA | Operations Management   
+
 ---
 ## Courses: 
 
@@ -68,11 +85,11 @@ Raising Capital | Creating the Conditions for Others to Thrive | Developing a Le
 Enhancing Your Productivity | Google My Business Basics | Growing Your Small Business with Linkedin | Pitching Yourself
 Marketing Your Side Hustle | OMCA Certification for Online Marketing Test | Managing Your Time | Purpose-Driven Sales
 Social Leadership | Teaching Technical Skills Through Video | Web Programming Foundations | Diversity & Inclusion in a Global Setting 
-Information Literacy | Learning From Failure | Learning to Teach Online | Logistics Foundations | Web Development Foundations: Full-Stack vs Front-End 
+Information Literacy | Learning From Failure | Learning to Teach Online | Logistics Foundations
 Using March Madness to Learn Data Science | Learning Infographic Design | Learning Rest API's | Marketing to Millennials 
 The Four Levels of Writing Mastery | Personal Branding on Social Media | Switching Your Career | UX Foundations: Content Strategy
 Web Development Foundations: Web Technologies | Gaining Skills with Linkedin Learning | Learning Brainstorming | Strategic Thinking
-Writing a Compelling Blog Post | Why are Opioids So Addictive (University South Florida) | Introduction to HTML, CSS, & Java | ✌🏽
+Writing a Compelling Blog Post | Why are Opioids So Addictive (University South Florida) | Introduction to HTML, CSS, & Java | Web Development Foundations: Full-Stack vs Front-End 
 
 ---  
 
@@ -141,7 +158,7 @@ Jul 2011 - Feb 2013
         - acted as the voice of the dock to senior management in advocating for legitimate equipment needs.  
 - Author and co-collaborator to:   
     -__20%__ productivity enhancement.  
-    - No less than _40%__ gain in delivery before exception metric.  
+    - No less than __40%__ gain in delivery before exception metric.  
     - Complete and permanent cancellation of __4__ due-service line-haul runs from multi-layer load process.  
     - Shaving of __6__ local routes, and  
     - altogether resulting in no less than __2%__ overall on-time service improvement.  
@@ -255,14 +272,15 @@ Business Insight | Customer Focus | Decision Quality | Active Listener | Global 
 ---|---|---|---|---|---
 Strategic Mindset | Action Oriented | Demonstrates Resourcefulness | Planning & Alignment | Ensures Accountability | Interpersonal Savvy
 Customer-Centric | Total Customer Satisfaction | Customer Success Champion | Network Builder | Cultivates Innovation | Optimizes Work Processes
-Drives Results | Talent Developer | Strategic Vision | Effective | Efficient Communicator | Values Diversity
-Drives Vision | Forward to Think | Instills Trust | Nimble Learner | Resilient | Situational Adaptability
-Authentic | Microsoft 365 | Word, Excel, Power Point, Dynamics, Access | Costumer Focused | Power Bi | HTML5, CSS, Java
-All Around Asset |  Perspective Taking | Accountancy | Call Center | Customer Complaint Resolution | Customer Relationship Management (CRM)
+ Drives Results | Talent Developer | Strategic Vision | Effective | Efficient Communicator | Values Diversity
+ Drives Vision | Forward to Think | Instills Trust | Nimble Learner | Resilient | Situational Adaptability
+ Authentic | Microsoft 365 | Word, Excel, Power Point, Dynamics, Access | Costumer Focused | Power Bi | HTML5, CSS, Java
+ All Around Asset |  Perspective Taking | Accountancy | Call Center | Customer Complaint Resolution | Customer Relationship Management (CRM)
 Data Analysis | Data Entry | Decision Making | Demand Planning | Executive Management | Markdown
-Fleet Operations | Lean Processes | Lean Six Sigma | Legal | Listening | Processes Evaluation | Marketing | Social Media Marketing Mentoring | Operating Systems | Organizational Skills | Policy Analysis | Problem Solving | Process Engineering 
-Product Team Integration | Project Management | Quality | Sales | Six Sigma | Supply Chain
-Telephone Skills | Total Quality Management | Vision | Writing | 😁| 🍑
+Fleet Operations | Lean Processes | Lean Six Sigma | Legal | Listening | Processes Evaluation  
+Marketing | Social Media Marketing Mentoring | Operating Systems | Organizational Skills | Policy Analysis | Problem Solving
+Process Engineering | Product Team Integration | Project Management | Quality | Sales | Six Sigma
+Supply Chain | Telephone Skills | Total Quality Management | Vision | Writing | 😁
 
 ---
 
@@ -275,9 +293,9 @@ Telephone Skills | Total Quality Management | Vision | Writing | 😁| 🍑
     - Experience in facilitation of multi-disciplinary teams
     - Logistics
 
-> **Leadership** : *Strong organizational and planning abilities, teamwork and interpersonal skills* with the *ability to communicate and execute strategies*.
+**Leadership** : *Strong organizational and planning abilities, teamwork and interpersonal skills* with the *ability to communicate and execute strategies*.
 
-> **Project Management** : background that will *drive collaborative working relationships to achieve incremental sales and supplier performance metrics*.
+**Project Management** : background that will *drive collaborative working relationships to achieve incremental sales and supplier performance metrics*.
 
 Six Sigma | Solid business acumen | Strong Team Leadership | Strategic Thinking | Planning and consulting skills
 ---|---|---|---|---
@@ -285,7 +303,7 @@ Six Sigma | Solid business acumen | Strong Team Leadership | Strategic Thinking 
 1. **Strong negotiation** and **influencing skills**.
 2. **Writing /Presentation** Skills in English.
 3. **Analytical rigour**-- balance *quantitative* and *qualitative*.
-4. **Building Relationships** – strong collaboration skills among peers in all organizational level.
+4. **Building Relationships** – *strong collaboration skills among peers in all organizational level*.
 
 Developing Talent | Supply Chain Management | Teamwork
 ---|---|---
@@ -325,31 +343,43 @@ Developing Talent | Supply Chain Management | Teamwork
 - Demonstrated ability and qualified to facilitate team-based problem-solving on the production floor using advanced Risk Assessment, Incident Investigation and 5 Why methodology. 
 - Lead Gemba events and work on root cause analysis.   
 - First-Aid and Adult CPR trained,• Best Practices: knowledge of procurement, industry and business best practices to guide thought leadership and ensure effective procurement strategies. Includes the ability to recognise value creation opportunities within the supply chain.
-- Create and manage databases for reporting. Maintain and update category spend and volumes and provide insights 
-- Executing Business Results in a Supply Chain Environment 
-- Enable procurement effectiveness by developing and applying tools and KPIs 
-- Synthesize data and identify problems through financial analysis and recommend solutions 
-- Supplier Performance, Inventory, Financial reports.,
-- Cross Functional Relationships: 
-    - knowledge of and ability to articulate to senior management the benefits of supporting cross-functional objectives to achieve the business plan.,
-- Deep Ecommerce knowledge and digital customers landscape 
-- Understands industry research and trends and anticipates future customer or market needs 
-- Driving Innovation 
-- Strategical Thinking 
-- Positive Influence & Negotiation 
-- Shopper knowledge 
-- Adaptability 
-- Project management - Task Oriented - Deliver results 
-- Effective communication 
-    - Team-building abilities, 
-    - Bringing together key stakeholders 
-- Value chain experience 
-- Financial skills 
-- Excellent Project
-    - Program Management Skills
-- Effective Communications Skills 
-    - Verbal and Written 
-- Ability to Lead Cross-functional teams to Deliver Results.
-- Expertise in Innovation, Supply Chain and/or Technical Function(s)  
+- **Create and manage databases for reporting. Maintain and update category spend and volumes and provide insights.  
+- Executing Business Results in a Supply Chain Environment.
+- Enable procurement effectiveness by *developing and applying tools and KPIs*.
+- *Synthesize data and identify problems through financial analysis and recommend solutions*.
+- **Supplier Performance, Inventory, Financial reports**.
+- **Cross Functional Relationships**: 
+    - knowledge of and **ability to articulate to senior management** the *benefits of supporting cross-functional objectives* to achieve the business plan.,
+- *Deep Ecommerce knowledge and digital customers landscape*. 
+- **Understands industry research and trends** and **anticipates future customer or market needs**.
+- **Driving Innovation**.
+- **Strategical Thinking**.
+- **Positive Influence & Negotiation**
+- **Shopper knowledge**.
+- **Adaptability**.
+- **Project management - Task Oriented - Deliver results.
+- **Effective communication**.
+    - **Team-building abilities**,
+    - **Bringing together key stakeholders**.
+- **Value chain experience**
+- **Financial skills**.
+- **Excellent Project**.
+    - **Program Management Skills**.
+- **Effective Communications Skills**.
+    - **Verbal and Written**.
+- **Ability to Lead Cross-functional teams to Deliver Results.
+- **Expertise in Innovation, Supply Chain and/or Technical Function(s)**.
 
-This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
+---
+
+copyright© 2020 chasing the wind, some rights reserved. works are licensed under a creative commons (cc by-sa) international free cultural works 4.0 license. link to license: < https://creativecommons.org/licenses/by-sa/4.0/ >in other words, feel free to remix, reuse, redistribute but make sure attribute with a link back to title of the work,  the original author slash artist, the source of the work, and compatible license.
+
+---
+
+[Let's Connect on LinkedIn](https://linkedin.com/in/oudcollective) | [Follow Me on LinkedIn (company](https://linkedin.com/company/the-wind) | [Follow on Twitter](https://twitter.com/oudcollective)  
+:---|:---:|---:|    
+[Popular on Pinterest](https://www.pinterest.com/withwindllc) | [Quora](https://quora.com/c-brennnan-poole)    
+[Medium](https://medium.com/@C.Brennan.Poole) | [Rockin' Chair Panel](https://medium.com/rockinchairpanel    
+  
+
+This repository is licensed under [MIT](../LICENSE) *if ever I get to delivering in-demand code - that is*. (c) 2019 GitHub, Inc.
