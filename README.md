@@ -381,10 +381,12 @@ copyright© 2020 chasing the wind, some rights reserved. works are licensed unde
 
 ---
 
-[Let's Connect on LinkedIn](https://linkedin.com/in/oudcollective) | [Follow Me on LinkedIn (company](https://linkedin.com/company/the-wind) | [Follow on Twitter](https://twitter.com/oudcollective) | [LinkedIn Control Page](https://linkedin.com/in/c-brennan-poole)
-:---|:---:|:---:|---:  
-[Popular on Pinterest](https://www.pinterest.com/withwindllc) | [Quora](https://quora.com/c-brennnan-poole) | [instagram](https://instagram.com/twenty20times) | [Some Links](https://my.bio/thewindllc)
-[Medium](https://medium.com/@C.Brennan.Poole) | [Rockin' Chair Panel](https://medium.com/rockinchairpanel) | [DEV](https://dev.to/cbrennanpoole) | [Hackernoon](https:/hackernoon.com/@chasing-the-wind)
+[Let's Connect on LinkedIn](https://linkedin.com/in/oudcollective) | [Follow Me on LinkedIn (company](https://linkedin.com/company/the-wind) 
+[Follow on Twitter](https://twitter.com/oudcollective) | [LinkedIn Control Page](https://linkedin.com/in/c-brennan-poole)
+[Popular on Pinterest](https://www.pinterest.com/withwindllc) | [Quora](https://quora.com/c-brennnan-poole)
+[instagram](https://instagram.com/twenty20times) | [Some Links](https://my.bio/thewindllc)    
+[Medium](https://medium.com/@C.Brennan.Poole) | [Rockin' Chair Panel](https://medium.com/rockinchairpanel)
+[DEV](https://dev.to/cbrennanpoole) | [Hackernoon](https:/hackernoon.com/@chasing-the-wind)
   
 
 This repository is licensed under [MIT](../LICENSE) *if ever I get to delivering in-demand code - that is*. (c) 2019 GitHub, Inc.
