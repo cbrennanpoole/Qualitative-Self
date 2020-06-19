@@ -6,6 +6,7 @@
 
 ---
 
+
 ![C BRENNAN POOLE](https://camo.githubusercontent.com/29977588d9fbd41675e40fd5656c0de818389388/68747470733a2f2f646f63732e676f6f676c652e636f6d2f64726177696e67732f642f652f32504143582d3176534d70495f4d6152776a4f57354a6b6878675f302d4336465f4f75354d4a6174665650524379524c756b77686c7a69754f416c6a676735675266315858694e6c4e307035495f515f30722d43496d2f7075623f773d3132303026683d363237)
 
 ---
@@ -380,10 +381,10 @@ copyright© 2020 chasing the wind, some rights reserved. works are licensed unde
 
 ---
 
-[Let's Connect on LinkedIn](https://linkedin.com/in/oudcollective) | [Follow Me on LinkedIn (company](https://linkedin.com/company/the-wind) | [Follow on Twitter](https://twitter.com/oudcollective)  
-:---|:---:|---:|    
-[Popular on Pinterest](https://www.pinterest.com/withwindllc) | [Quora](https://quora.com/c-brennnan-poole)    
-[Medium](https://medium.com/@C.Brennan.Poole) | [Rockin' Chair Panel](https://medium.com/rockinchairpanel    
+[Let's Connect on LinkedIn](https://linkedin.com/in/oudcollective) | [Follow Me on LinkedIn (company](https://linkedin.com/company/the-wind) | [Follow on Twitter](https://twitter.com/oudcollective) | [LinkedIn Control Page](https://linkedin.com/in/c-brennan-poole)
+:---|:---:|:---:|---:  
+[Popular on Pinterest](https://www.pinterest.com/withwindllc) | [Quora](https://quora.com/c-brennnan-poole) | [instagram](https://instagram.com/twenty20times) | [Some Links](https://my.bio/thewindllc)
+[Medium](https://medium.com/@C.Brennan.Poole) | [Rockin' Chair Panel](https://medium.com/rockinchairpanel) | [DEV](https://dev.to/cbrennanpoole) | [Hackernoon](https:/hackernoon.com/@chasing-the-wind)
   
 
 This repository is licensed under [MIT](../LICENSE) *if ever I get to delivering in-demand code - that is*. (c) 2019 GitHub, Inc.
