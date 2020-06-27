@@ -1,4 +1,4 @@
-# The Quantified Self 
+# The Qualitative Self - as - the Quantified Sits in Google Sheets  
 
 ----
 
@@ -54,18 +54,26 @@ No # | Position | Employer | Physical Address | Start Date | End Date | (Promoti
 ---
 ## EDUCATION
 ---
-**Specialization** : Service Operations Management 
-**Degree** : Bachelor of Business Administration
-**College** : J Mack Robinson College of Business
-**University** : Georgia State University, Atlanta, GA
-**Recognition** : **FACULTY SCHOLAR** : 2004 | **DEAN'S LIST** : 2005
+
+```
+**Specialization** : Service Operations Management <br>
+**Degree** : Bachelor of Business Administration <br>
+**College** : J Mack Robinson College of Business <br>
+**University** : Georgia State University, Atlanta, GA <br>
+**Recognition** : **FACULTY SCHOLAR** : 2004 | **DEAN'S LIST** : 2005 <br>
+```
 
 ---
 
 No # | Name of School | City | State | Begin | End | Degree | Add'l Info    
-:---|:---:|:---:|:---:|:---:|:---:|:---:|---:    
-1 | Salem High School | Conyers | GA | Aug 1999 | May 2001 | Dual Degree | College Preperatory & General Business Admininstration    
-2 | Georgia State University / J Mack Robinson College of Business | Atlanta | GA | Aug 2002 | May 2006 | BBA | Operations Management   
+:---|:---:|:---:|:---:|:---:|:---:|:---:|---:   
+1 | Berkmar High School | Lawrenceville | GA | Aug 1997 | May 1998 | Freshman Year | 4.0 GPA
+2 | Sandy Creek High School | Tyrone | GA | Aug 1999 | Jan 1999 | Sophomore 1st Semester | 4.0 GPA
+3 | Salem High School | Conyers | GA | Jan 1999 | May 1999 | Sopomore | 2nd Semester
+4 | Northview High School | Dothan | AL | Aug 1999 | May 2000 | Junior Year | 4.0 Work Study at Richard H Ramsey IV, Esquire
+5 | Salem High School | Conyers | GA | Aug 1999 | May 2001 | Dual Degree | College Preperatory & General Business Admininstration    
+6 | University of West Georgia | Carrollton | GA | Aug 2001 | May 2002 | Undergraduate Studies | Undecided 
+7 | Georgia State University / J Mack Robinson College of Business | Atlanta | GA | Aug 2002 | May 2006 | BBA | Operations Management   
 
 ---
 ## Courses: 
