@@ -1,4 +1,8 @@
-# The Qualitative Self - as - the Quantified Sits in Google Sheets  
+# The Qualitative Self
+
+```
+the Quantified Sits in Google Sheets  
+```
 
 ----
 
@@ -11,7 +15,7 @@
 
 ---
 
-## Check out my condensed CV(s)
+## Check out my condensed résumés
 
 ---
 
@@ -20,11 +24,12 @@
 [Downloadable File](https://bit.ly/dark-theme-resume) | [Downloadable -see above-](https://bit.ly/twenty-20-CV)
 
 
-[Feel Free to Check - Out the Interactive Version of 'The Quantified-Self; made with Google Sheets](https://bit.ly/The-Quantified-Self-twenty-20 "I thought I was onto somethinig with this creation, as it turns out - the world wide web is truly a black abyss - unless you have ad-spend or take to plagiarizing that is...")
+[Feel Free to Check - Out the Interactive Version of 'The Quantified-Self'; made with Google Sheets](https://bit.ly/The-Quantified-Self-twenty-20 "I thought I was onto somethinig with this creation, as it turns out - the world wide web is truly a black abyss - unless you have ad-spend or take to plagiarizing that is...")
 
 ---
 
 ## Mission
+
 ---     
 
 to create a truly meritocratic digital community that knows no bounds; understands the categorical labels and need for them in organizational behavior but doesn't apply them to himself or community, and to help create a sustainable, profitable business that future generations will look to.
@@ -32,6 +37,7 @@ to create a truly meritocratic digital community that knows no bounds; understan
 ---  
 
 ## Work Summary  
+
 ---  
 
  
@@ -52,16 +58,22 @@ No # | Position | Employer | Physical Address | Start Date | End Date | (Promoti
 13 | Freight Handler | Roadway Express Inc | Atlanta, GA | Aug 2002 | Feb 2003 | Y | Out-of-Business  
 
 ---
+
 ## EDUCATION
+
 ---
 
-```
-**Specialization** : Service Operations Management <br>
-**Degree** : Bachelor of Business Administration <br>
-**College** : J Mack Robinson College of Business <br>
-**University** : Georgia State University, Atlanta, GA <br>
-**Recognition** : **FACULTY SCHOLAR** : 2004 | **DEAN'S LIST** : 2005 <br>
-```
+**Case Study** : <br>
+ - The Toyota Way and Toyota Production Systems Guiding Principles (Sustainability Best - on - Earth Best Practices).
+**Specialization** : <br>
+ - Service Operations Management. <br>
+**Degree** : <br> 
+ - Bachelor of Business Administration. <br>
+**College** : <br>
+ - J Mack Robinson College of Business. <br>
+**University** : <br>
+ - Georgia State University, Atlanta, GA. <br>
+**Recognition** : **FACULTY SCHOLAR** : 2004 | **DEAN'S LIST** : 2005. <br>
 
 ---
 
@@ -115,7 +127,9 @@ Writing a Compelling Blog Post | Why are Opioids So Addictive (University South 
 ---
 
 # EXPERIENCE
-    
+
+---
+
 ### Amazon Inc / Remote    
 ***LOGISTICS COORDINATOR***
 Oct 2017 – Jan 2018 
@@ -134,7 +148,7 @@ Aug 2016 – Aug 2017
 
 ---
     
-### Annex Freight Systems / Newnan, GA 
+### Annex Freight Systems Inc / Newnan, GA 
 ***DISPATCH SUPERVISOR***
 Mar 2013 - Oct 2013 
 - Provide pipeline management and logistics analysis for rail, truck-load, and less than load (LTL) customers eliminating no less than $60,000 in shipping expense for customers. 
@@ -142,7 +156,7 @@ Mar 2013 - Oct 2013
 
 ---
 
-### Saia LTL Inc / Ellenwood, GA
+### Saia LTL Freight Inc / Ellenwood, GA
 ***OPERATIONS MANAGER***
 Jul 2011 - Feb 2013 
 - Design, Develop, and implement daily ops plan to ensure 98.6% on-time service standard. 
@@ -178,7 +192,7 @@ Jul 2011 - Feb 2013
 
 ---    
 
-### Saia LTL Inc / Johns Creek, GA  
+### Saia LTL Freight Inc / Johns Creek, GA  
 ***DISPATCH SUPERVISOR***
 Jul 2009 - Jul 2011  
 - Regional travel providing terminal ops team  
@@ -225,7 +239,7 @@ Jul 2009 - Jul 2011
 
 ----
 
-### Saia LTL Inc / Ellenwood, GA  
+### Saia LTL Freight Inc / Ellenwood, GA  
 ***OPERATIONS SUPERVISOR***
 Mar 2008 - Jul 2009  
 - Monitor, oversee, guide, and provide proper work direction to assigned production associates.  
@@ -293,11 +307,11 @@ Data Analysis | Data Entry | Decision Making | Demand Planning | Executive Manag
 Fleet Operations | Lean Processes | Lean Six Sigma | Legal | Listening | Processes Evaluation  
 Marketing | Social Media Marketing Mentoring | Operating Systems | Organizational Skills | Policy Analysis | Problem Solving
 Process Engineering | Product Team Integration | Project Management | Quality | Sales | Six Sigma
-Supply Chain | Telephone Skills | Total Quality Management | Vision | Writing | 😁
+Supply Chain | Telephone Skills | Total Quality Management | Vision | Writing | Design
 
 ---
 
-### SKILLS ASSESSMENT FROM COCA-COLA
+### SKILLS ASSESSMENT FROM COCA-COLA ATS
 
 --- 
 
@@ -385,16 +399,17 @@ Developing Talent | Supply Chain Management | Teamwork
 
 ---
 
-copyright© 2020 chasing the wind, some rights reserved. works are licensed under a creative commons (cc by-sa) international free cultural works 4.0 license. link to license: < https://creativecommons.org/licenses/by-sa/4.0/ >in other words, feel free to remix, reuse, redistribute but make sure attribute with a link back to title of the work,  the original author slash artist, the source of the work, and compatible license.
-
----
-
 [Let's Connect on LinkedIn](https://linkedin.com/in/oudcollective) | [Follow Me on LinkedIn (company](https://linkedin.com/company/the-wind) 
+:---: | :---:
 [Follow on Twitter](https://twitter.com/oudcollective) | [LinkedIn Control Page](https://linkedin.com/in/c-brennan-poole)
 [Popular on Pinterest](https://www.pinterest.com/withwindllc) | [Quora](https://quora.com/c-brennnan-poole)
 [instagram](https://instagram.com/twenty20times) | [Some Links](https://my.bio/thewindllc)    
 [Medium](https://medium.com/@C.Brennan.Poole) | [Rockin' Chair Panel](https://medium.com/rockinchairpanel)
 [DEV](https://dev.to/cbrennanpoole) | [Hackernoon](https:/hackernoon.com/@chasing-the-wind)
-  
+
+---
+
+
+copyright© 2020 chasing the wind, some rights reserved. works are licensed under a creative commons (cc by-sa) international free cultural works 4.0 license. link to license: < https://creativecommons.org/licenses/by-sa/4.0/ >in other words, feel free to remix, reuse, redistribute but make sure attribute with a link back to title of the work,  the original author slash artist, the source of the work, and compatible license.
 
 This repository is licensed under [MIT](../LICENSE) *if ever I get to delivering in-demand code - that is*. (c) 2019 GitHub, Inc.
