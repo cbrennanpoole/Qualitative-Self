@@ -200,7 +200,43 @@ not too thick... the coke float...
 
 ---
 
+### with Wind LLC <br>
+
+`
+CREATIVE STRATEGIST
+`<br>
+Covington, GA | Nov 2018 - Present <br>
+1. Deliver 4,000% growth YOY (1 / 19 - 1 / 20); increase followers + 750% (July '20).
+2. Acknowledgement for sustainable IMPACT 
+    - set to be recognized on Climate day; novel coronavirus cancellation causation. 
+3. Invite to GovCity III cohort for SXSW 2020 and 2nd invite to startup festival after the 
+    - unsolicited offer from SXSW 2020 Executive Producer extended an invite (to apply; also a COVID.CARES cancellation ). 
+4. Extend reach to effectively garner the attention of the *United Nations- Habitat* in partnership with Dubai Municipality for their **International Awards for Best Practices and Sustainable Models 2020** with twenty - three attempts of encouragement trying to get ‘*with Wind*’ all - in.
+5. Short-list by the annual Publication 
+    - Red Herring’s Top 100 N American Tech Startups, 
+    - Inc 5000, 
+    - Red Oak Labs. 
+6. Invite to be featured on AMC Networks by 
+    - newswatch 06/20.
+7. Invites and shortlists by 
+    - Learn Launch, 
+    - Hatch Pitch, 
+    - Gener8tor. 
+8. Chief Executive of dribbble; Zack Onisko, drafts to platform; as non-designer and like-minded growth - hack.
+9. Grow Pinterest company page to over 
+    - 500,000 views / month; literally ‘in the midst’ of novel quarantine states of global confusion; 
+    - increasing engagement well over 50% for February and March 2020 attaining 
+    - over 2.5 million in impressions past 90 days (Apr - Jul '20). 
+10. Maintain and continue to create a +9.5% engagement rate on LinkedIn’s with Wind Company Page. 
+11. Google Cloud for Startups & Google Cloud Next participant. 
+12. Hatch by Digital Ocean recipient. 
+13. Segment for Startups. 
+14. Amazon (AWS) partner path.
+15. Microsoft partner path.
+16. *Do you want to build a snowman? I have plenty of ice ready - in - wait y'all*!
+
 ### Amazon Inc <br>
+
 `
 LOGISTICS COORDINATOR 
 `<br>
@@ -225,6 +261,10 @@ Stockbridge, GA  | Aug 2016 – Aug 2017 <br>
 ## Leadership Roles     
     
 --- 
+
+`
+Ain't nothing but the Real Thing Baby!
+`<br>
 
 ### Annex Freight Systems Inc <br>
 
