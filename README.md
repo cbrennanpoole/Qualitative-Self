@@ -11,27 +11,27 @@ Comprehensive view and full - body - of - work that is
 --- 
 
 `
-my me
-`
+on c... yes — 
+`<br>
 
 ## C Brennan Poole
 
 ---
 
 `
-drop the -asey; & 'chasing'; wanna go NASCAR racing? 
+check it out. dropped the -asey. no mas 'chasing'. wanna go NASCAR racing? 
 `<br>
 
 ![C BRENNAN POOLE](https://camo.githubusercontent.com/29977588d9fbd41675e40fd5656c0de818389388/68747470733a2f2f646f63732e676f6f676c652e636f6d2f64726177696e67732f642f652f32504143582d3176534d70495f4d6152776a4f57354a6b6878675f302d4336465f4f75354d4a6174665650524379524c756b77686c7a69754f416c6a676735675266315858694e6c4e307035495f515f30722d43496d2f7075623f773d3132303026683d363237)
 
 ---
 
-## Feel Free
+## Have a look see 
 
 ---
 
 `
-to have a looksee at the condensed CVs
+at C's condensed CVs
 `<br>
 
 [Material Design Inspired Dark Theme CV](https://bit.ly/Real-time-PDF-dark-theme "Google Docs Viewer") | [ATS - Friend Google Docs Viewer](https://bit.ly/ATS-Real-time-PDF "a less disruptive version")
@@ -56,6 +56,7 @@ to create a truly meritocratic digital community that knows no bounds; understan
 ---  
 
 ## Professional Table
+
 ---  
 
 `
@@ -87,6 +88,7 @@ No # | Position | Employer | Physical Address | Start Date | End Date | (Promoti
 `
 Frame - of - Work i.e. Higher Learning
 `<br>
+
 #### Georgia State University, Atlanta, GA.
 
 ---
@@ -107,6 +109,7 @@ Faculty Scholar 2004 | Dean's List 2005
             2. Best - on - earth Best Business Practices.
         - Kaizen Leadership.
         - Kanban Project Management. 
+    
 ---
 
 ## Body - of - Work : 
@@ -128,7 +131,7 @@ No | school | city | state | start | end | details | add'l
 
 ---
 `
-no 1
+No 1. delicious. 
 `<br>
 
 ---
@@ -136,6 +139,7 @@ no 1
 ### More Expensive Curriculum i.e.
 
 ---
+
 `traditional higher learning
 `<br>
     
@@ -159,7 +163,7 @@ BUSA 3000 Globalization and Business Practices | MK 3010 Basic Marketing | BUSA 
  `<br>
 
 Raising Capital | Creating the Conditions for Others to Thrive | Developing a Learning Mindset | Learning Data Science
-:---|:---:|:---:|---:
+:---|:---|---:|---:
 Enhancing Your Productivity | Google My Business Basics | Growing Your Small Business with Linkedin | Pitching Yourself
 Marketing Your Side Hustle | OMCA Certification for Online Marketing Test | Managing Your Time | Purpose-Driven Sales
 Social Leadership | Teaching Technical Skills Through Video | Web Programming Foundations | Diversity & Inclusion in a Global Setting 
@@ -345,7 +349,10 @@ Mar 2008 - Jul 2009
         - blocked,  
         - braced, and   
         - pin-wheeled, and   
-        - verifying tools for zone have been replenished and organized.  
+9. Verify zone is ready for cross - over, 
+    - tools - in - place, 
+    - doors chocked & blocked.
+    - equipment / load bars stowed. 
 
 ---
 
@@ -395,13 +402,13 @@ Supply Chain | Telephone Skills | Total Quality Management | Vision | Writing | 
 
 ---
 
-###  COCA-COLA ( $KO ) ATS Overview :
+###  COCA-COLA ATS - Overview :
 
 --- 
 
 `
-on the highway to anywhere
-`
+$KO : on the highway to anywhere
+`<br>
 
 1. Business Administration
     - Cross-Functional Collaboration
@@ -426,14 +433,14 @@ on the highway to anywhere
 10. Supply Chain Management
 11. Teamwork
 12. Accomplishes results through the coordination of a team of professionals as well as working cross-functionally.  
-13. Acts as an advisor to others* and communicates deadlines clearly and consistently.
-14. The ability to *apply forecasting techniques* and skills to *support Region planning* and apply the system knowledge to *improve reporting process/model*. 
+13. Acts as an advisor to others and communicates deadlines clearly and consistently.
+14. The ability to apply forecasting techniques and skills to support region planning and apply the system knowledge to improve reporting process / model. 
 15. Budgeting, 
-    - Planning* and 
-    - Forecasting Skills* with 
+    - Planning and 
+    - Forecasting Skills with 
     - Attention - to - Detail.
 16. Problem Analysis and 
-    - Problem Solving*. 
+    - Problem Solving. 
 17. Accounting Experience.
     - Proficient in Excel : 
          1. able to apply the skill in managing database and 
@@ -442,7 +449,7 @@ on the highway to anywhere
 18. SAP/Hyperion Experience is a strong plus collaborative / team player.
      - Effective Communication Skills. 
          1. Takes Ownership and 
-         2. Acts with Integrity**.
+         2. Acts with Integrity.
      - Ability to build endearing customer relationships.
 19. Proven leader of professionals.
     - Cross channel knowledge including QSR Foodservice and CR preferred 
@@ -486,7 +493,7 @@ on the highway to anywhere
 35. Demonstrated ability and qualified to facilitate team-based problem-solving on the production floor using 
     - Advanced Risk Assessment, 
     - Incident Investigation and 
-    - 5 Why methodology. 
+    - Five Why methodology. 
 36. Lead Gemba events and work on root cause analysis.   
 37. First-Aid and Adult CPR trained 
 38. Best practices: 
@@ -496,7 +503,7 @@ on the highway to anywhere
 39. Create and manage databases for reporting.
     - Maintain and update category spend and 
     - Volumes and 
-        1. Provid Insightful Analysis.  
+        1. Provide Insightful Analysis.  
 40. Executes Business Results in a Supply Chain Environment.
 41. Enable procurement effectiveness by 
     - Developing and 
@@ -537,11 +544,14 @@ on the highway to anywhere
     - Technical Function(s).
 
 ---
+
 ### Links 
+
+---
+
 `
 the pause that refreshes
-`
-----
+`<br>
 
 [Let's Connect on LinkedIn](https://linkedin.com/in/oudcollective) | [Follow Me on LinkedIn (company](https://linkedin.com/company/the-wind) 
 :---|---:
@@ -559,16 +569,16 @@ the pause that refreshes
 
 `
 the great national temperance drink
-`
+`<br>
 
 copyright© 2020 chasing the wind, some rights reserved. works are licensed under a creative commons (cc by-sa) international free cultural works 4.0 license. link to license: < https://creativecommons.org/licenses/by-sa/4.0/ >in other words, feel free to remix, reuse, redistribute but make sure attribute with a link back to title of the work,  the original author slash artist, the source of the work, and compatible license.
 
 ---
 
-*This repository is licensed under* [MIT](../LICENSE) *if ever I get to delivering in-demand code - that is.* (c) 2019 [GitHub](https://github.com/OUDcollective/Quantified-Self)*, Inc. All rights to their namesake and logo are reserved. Thanks for hosting us!*
+`
+ahh... that's the good stuff!
+`<br>
 
 ---
 
-`
-ahh... the good stuff!
-`
+*This repository is licensed under* [MIT](../LICENSE) *if ever I get to delivering in-demand code - that is.* (c) 2019 [GitHub](https://github.com/OUDcollective/Quantified-Self)*, Inc. All rights to their namesake and logo are reserved. Thanks for hosting us!*
