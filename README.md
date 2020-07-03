@@ -235,6 +235,9 @@ Covington, GA | Nov 2018 - Present <br>
 15. Microsoft partner path.
 16. *Do you want to build a snowman? I have plenty of ice ready - in - wait y'all*!
 
+
+---
+
 ### Amazon Inc <br>
 
 `
