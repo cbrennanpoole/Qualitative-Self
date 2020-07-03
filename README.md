@@ -11,7 +11,7 @@ Comprehensive view and full - body - of - work that is
 --- 
 
 `
-on c... yes — 
+on c; yes — 
 `<br>
 
 ## C Brennan Poole
@@ -86,7 +86,7 @@ No # | Position | Employer | Physical Address | Start Date | End Date | (Promoti
 ---
 
 `
-Frame - of - Work i.e. Higher Learning
+higher learning... ever heard of stigmatization? 
 `<br>
 
 #### Georgia State University, Atlanta, GA.
@@ -94,7 +94,7 @@ Frame - of - Work i.e. Higher Learning
 ---
 
 `
-Faculty Scholar 2004 | Dean's List 2005
+Faculty Scholar 2004 | Dean's List 2005 | Class of 2006
 `<br>
 1. COLLEGE :
     - The J Mack Robinson College of Business. 
@@ -103,24 +103,27 @@ Faculty Scholar 2004 | Dean's List 2005
 3. Specialization :
     - Service Operations Management.
 4. Case - study : 
-    - The Toyota Way and 
+    - The Toyota Way & 
         - Toyota Production Systems Guiding Principles.
-            1. Sustainability.<br>
-            2. Best - on - earth Best Business Practices.
-        - Kaizen Leadership.
-        - Kanban Project Management. 
+            1. sustainability.<br>
+            2. best business practices.<br>
+        - Kaizen Leadership.<br>
+            1. continuous improvement 
+            2. am still learning the integration continuum however. 
+        - Kanban Project Management. <br>
     
 ---
 
 ## Body - of - Work : 
 
 ---
+
 `
-k - 12
+lean on me : k - 12
 `<br>
     
 No | school | city | state | start | end | details | add'l    
-:---|:---:|:---:|:---:|:---:|:---:|:---:|---:   
+:---|:---|---|---|---|---|---:|---:   
 8 | Berkmar High School | Lawrenceville | GA | Aug 1997 | May 1998 | Freshman Year | 4.0 GPA
 7 | Sandy Creek High School | Tyrone | GA | Aug 1999 | Jan 1999 | Sophomore 1st Semester | 4.0 GPA
 6 | Salem High School | Conyers | GA | Jan 1999 | May 1999 | Sopomore | 2nd Semester
@@ -140,11 +143,11 @@ No 1. delicious.
 
 ---
 
-`traditional higher learning
+`Have a Coke on Me : traditional postsecondary  
 `<br>
     
 MGS 4740 Operations Strategy | MGS 4760 Total Quality Management | MGS 4700 Operations Management  
-:---|:---:|---:
+:---|:---|---:
 MGS 4730 Project Management | MGS 4000 Managerial Decision Making | MGS 4770 Service Operations Management
 MGS 4110 Analysis of Business Data | MGS 4120 Optimal Resource Allocation | MGS 4300 Managing Human Resources
 BCOM 3950 Business Communication and Professional Development | ACCT 2101 Principles of Accounting I | ACCT 2102 Principles of Accounting II 
@@ -187,18 +190,21 @@ how am i doing?
 
 ---
 
-# Work Experience
+# Work History
+
+---
+
 `
-not too thick?
+not too thick... the coke float...
 `<br>
 
 ---
 
-### Amazon Inc / Remote <br>
+### Amazon Inc <br>
 `
 LOGISTICS COORDINATOR 
 `<br>
-Oct 2017 – Jan 2018 
+Virtual | Oct 2017 – Jan 2018 <br>
 1. Relentlessly advocate for customers; always protecting confidentially and data; anticipate needs and underlying issues and treating their time and attention as sacred; overall effective communication skills and composure under pressure.
 2. Field inbound calls from Amazon Flex Delivery Partners; mapping their progress, navigating and troubleshooting the variables; guiding, and encouraging 100% successful delivery of Amazon goods and services.
 3. Forge concrete customer and team partnerships and own the Customer-Centric process by taking accountability when necessary and delivering personalized, peculiar experiences that customers love. 
@@ -206,10 +212,11 @@ Oct 2017 – Jan 2018
 
 ---
 
-### Pine Hills  / Stockbridge, GA  <br>
+### Pine Hills <br> 
+
 `LANDSCAPER
 `<br>
-Aug 2016 – Aug 2017 
+Stockbridge, GA  | Aug 2016 – Aug 2017 <br>
 1. Take ownership of the residential development by demonstrating unquestionable work ethic while nurturing and nursing the land and serving as caregiver to the community. 
 2. Develop a partnership with residents by always offering to assist and delivering on early on requisition duties. 
 
@@ -219,20 +226,22 @@ Aug 2016 – Aug 2017
     
 --- 
 
-### Annex Freight Systems Inc / Newnan, GA  <br>
+### Annex Freight Systems Inc <br>
+
 `DISPATCH SUPERVISOR
 `<br>
-Mar 2013 - Oct 2013 
+Newnan, GA  | Mar 2013 - Oct 2013 <br>
 1. Provide pipeline management and logistics analysis for rail, truck-load, and less than load (LTL) customers eliminating no less than $60,000 in shipping expense for customers. 
 2. Accurate and expedient data entry into terminal operating systems and end of shift report monitoring to ensure operation maintains guaranteed 99.4% on-time service standard. 
 
 ---
 
-### Saia LTL Freight Inc / Ellenwood, GA <br>
+### Saia LTL Freight Inc <br> 
+
 `
 OPERATIONS MANAGER
 `<br>
-Jul 2011 - Feb 2013 
+Ellenwood, GA | Jul 2011 - Feb 2013 <br>
 1. Design, Develop, and implement daily ops plan to ensure 98.6% on-time service standard. 
     - Consisting of approximately 650,000 to 1.5 million pounds of overnight due-service origin freight, and 
     - Approximately 4 to 6 million pounds in-bound break tonnage due-in nightl
@@ -268,11 +277,11 @@ Jul 2011 - Feb 2013
 
 ---    
 
-### Saia LTL Freight Inc / Johns Creek, GA   <br>
+### Saia LTL Freight Inc <br>
 `
 DISPATCH SUPERVISOR
 `<br>
-Jul 2009 - Jul 2011  
+ Johns Creek, GA | Jul 2009 - Jul 2011 <br>
 1. Regional travel providing terminal ops team  
     - training,  
     - tutoring, tips, and  
@@ -317,11 +326,11 @@ Jul 2009 - Jul 2011
 
 ----
 
-### Saia LTL Freight Inc / Ellenwood, GA <br>
+### Saia LTL Freight Inc <br>
 `
 OPERATIONS SUPERVISOR
 `<br>
-Mar 2008 - Jul 2009  
+Ellenwood, GA | Mar 2008 - Jul 2009 <br>
 1. Monitor, oversee, guide, and provide proper work direction to assigned production associates.  
 2. Support meeting production metrics and develop a daily checklist to   
     - guarantee on-time service standard 98.6%,   
@@ -356,21 +365,21 @@ Mar 2008 - Jul 2009
 
 ---
 
-### Ted's Montana Grill / Atlanta, GA  <br>
+### Ted's Montana Grill <br>
 `
 Trainer - Server
 `<br>
-Dec 2005 - May 2006
+Atlanta, GA  | Dec 2005 - May 2006 <br>
 1. Implement suggestive sales technique by identifying customers preference.
 2. Offer tailored-to-individual insight on menu items, daily blue-plate specials, seasonal dessert offering, and signature bar drinks.
 
 ---
 
-### The Italian Oven, Stockbridge, GA  <br>
+### The Italian Oven <br>
 `
 Trainer-Manager
 `<br>
-Dec 2003 - Jan 2005
+Stockbridge, GA  | Dec 2003 - Jan 2005 <br>
  1. Menu presentation in a non-solicited style that's simplistic, yet, sophisticated in its approach; identifying and articulating insightful Italian pairings with a thoughtful and tasteful introduction as the appetizer.
 2. Enter taste buds with exotic entree offerings while delivering on desires and creating a courtship to the evening.
 3.  Ultimately managing to marry those taste buds together timely with wine and spirits.
@@ -387,7 +396,7 @@ at the intersection of everywhere
 `
 
 Business Insight | Customer Focus | Decision Quality | Active Listener | Global Perspective | Organizational Dynamics
-:---|:---:|:---:|:---:|:---:|---:
+:---|:---|---|---|---:|---:
 Strategic Mindset | Action Oriented | Demonstrates Resourcefulness | Planning & Alignment | Ensures Accountability | Interpersonal Savvy
 Customer-Centric | Total Customer Satisfaction | Customer Success Champion | Network Builder | Cultivates Innovation | Optimizes Work Processes
  Drives Results | Talent Developer | Strategic Vision | Effective | Efficient Communicator | Values Diversity
@@ -411,20 +420,24 @@ $KO : on the highway to anywhere
 `<br>
 
 1. Business Administration
-    - Cross-Functional Collaboration
+`Cross-Functional Collaboration
+` <br>
     - Experience in facilitation of multi-disciplinary teams
     - Logistics
 2. Leadership : 
-    - Strong organizational and planning abilities, 
+`
+Strong organizational and planning ability
+`<br>
     - Teamwork and interpersonal skills with the 
     - Ability to communicate and execute strategies.
 3. Project Management : 
      - background that will drive collaborative working relationships to achieve incremental sales and supplier performance metrics.
 4. Six Sigma : 
-     - Solid business acumen 
-     - Strong Team Leadership
-     - Strategic Thinking
-     - Planning and Consulting Skills
+`Solid business acumen 
+`<br>
+    - Strong Team Leadership
+    - Strategic Thinking
+    - Planning and Consulting Skills
 5. Strong negotiation and influencing skills.
 6. Writing /Presentation : Skills in English.
 7. Analytical rigour : balance *quantitative* and *qualitative*.
@@ -455,7 +468,9 @@ $KO : on the highway to anywhere
     - Cross channel knowledge including QSR Foodservice and CR preferred 
     - Expertise in cross collaboration and project management due to nature of innovation mindset of the customer 
 20. Strong strategic thinking, 
-    - Relationship - building, 
+`
+Relationship - building
+`<br>
     - Selling and 
     - Negotiating Skills. 
     - Working knowledge of C4V selling platform.
@@ -464,8 +479,9 @@ $KO : on the highway to anywhere
         1. Drive growth for retail customers and 
         2. History of delivering plan objectives.
 22. Ability to Lead 
-    - Cross-functional teams to 
-    - Deliver Results.
+`Cross-functional teams
+`<br>
+    - to deliver results.
 23. Ability to thrive in a growth-oriented team environment
 24. Actively engage with associates and team leads with observations, inspections, GEMBA walks, corrective actions. 
 25. Assist in the filing of documentation required by various regulatory agencies (i.e. OSHA, EPA, others). 
@@ -479,69 +495,112 @@ $KO : on the highway to anywhere
     - ~Lotus Notes~, 
     - Other SAAS. 
 28. Effectively utilize basic 
-    - Technical math skills, 
+`
+Technical math skills
+`<br>
     - Basic grammar, and 
     - Technical writing skills. 
 29. Assist in development and presentation of SES-related training topics. 
 30. Assist implementation of safety programs and/or procedures for new line installations (i.e. LOTO). 
 31. Work with Maintenance Department to track completion of safety work orders.  
 32. Work up to ~12~ make that 16 - 20 hours, overtime, and weekends to meet the business requirements.
-    - Ensure all tasks are performed toward achieving the safety, quality, service and cost objectives. 
+`
+cost objectives
+`<br>
+    - Ensure all tasks are performed toward achieving the safety, quality, and service.
     - Demonstrate good attendance in accordance with plant attendance guidelines. • Self starter, ability to work with limited direction. 
 33. Ability to present topics to small and large groups of people. 
 34. Attend SES Committee Meetings. 
-35. Demonstrated ability and qualified to facilitate team-based problem-solving on the production floor using 
+35. Demonstrated ability and qualified to facilitate 
+`
+team-based problem-solving
+`<br>
     - Advanced Risk Assessment, 
     - Incident Investigation and 
     - Five Why methodology. 
 36. Lead Gemba events and work on root cause analysis.   
-37. First-Aid and Adult CPR trained 
+37. First-Aid and 
+`CPR trained 
+`<br>
 38. Best practices: 
-    - Knowledge of procurement, 
+`Knowledge of procurement
+`<br>
     - Industry and business best practices to guide thought leadership and ensure effective procurement strategies. 
     - Includes the ability to recognise value creation opportunities within the supply chain.
 39. Create and manage databases for reporting.
+`
+Insightful analysis
+`<br>
     - Maintain and update category spend and 
-    - Volumes and 
-        1. Provide Insightful Analysis.  
-40. Executes Business Results in a Supply Chain Environment.
+    - Volumes.
+40. Executes Business Results in a
+`
+supply - chain environment
+`<br>
 41. Enable procurement effectiveness by 
     - Developing and 
     - Applying tools and 
         1. KPIs.
 42. Synthesize data and 
-    - Identify problems through financial analysis; 
+`
+Identifies problems
+`<br>
+    - Through financial analysis; 
     - Proficiency in recommending solutions.
 43. Supplier Performance, 
     - Inventory, 
     - Financial reports.
 44. Cross Functional Relationships : 
-    - knowledge of and ability to articulate to senior management  the benefits of supporting cross-functional objectives to achieve the business plan.
-45. Deep Ecommerce knowledge and the
-    - Digital Customers Landscape or Journey. 
+`
+knowledge
+`<br>
+    - of and ability to articulate to senior management  the 
+    - benefits of supporting cross-functional objectives to 
+         - achieve the business plan.
+45. Deep Ecommerce knowledge; understands the
+`Digital Customers Landscape
+`<br>    
+   - or Journey. 
 46. Understands industry research and trends and 
-    - Anticipates future customer or 
+`
+Anticipates 
+`<br>
+    - future customer &
          1. Market needs.
 47. Drives Innovation.
-48. Strategical Thinker.
-    - Positive Influence & Negotiator.
+48. Strategic Thinker.
+`
+Positive Influence
+`<br>
+    - and negotiator.
     - Shopper knowledge.
 49. Adaptability.
 50. Project management : 
-    - Task - Oriented to 
-    - Deliver Results.
+`
+Task - Oriented
+`<br>
 51. Effective communication & Interpersonal Savvy : 
-    - Team-building ability,
-    - Bringing key stakeholders together.
+`
+Team-building 
+`<br>
+    - Ability
+        1. Brings key stakeholders together.
 52. Value chain experience
-    - Financial skills.
-- **Excellent Project / Program Management Skills.
+`
+Financial skills.
+`<br>
+    - Excellent Project / Program Management Skills.
     - Effective Communications Skills
     - Verbal and Written.
 53. Ability to Lead Cross-functional teams to Deliver Results.
-    - Expertise in Innovation, 
-    - Supply Chain and/or 
-    - Technical Function(s).
+`
+Technical Proficiency
+`<br>
+    - Expertise in Innovation,
+    - Logistics, and the 
+    - the North American infrastructure 
+        - i.e. interstate and highway systems i.e. 
+        - the global leader and most innovative supply chain on the planet. 
 
 ---
 
