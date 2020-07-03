@@ -29,14 +29,15 @@ condensed CVs
 :---|---:
 [Download pdf File](https://bit.ly/dark-theme-resume) | [Download pdf file](https://bit.ly/twenty-20-CV)
 
----
 
 [Interactive Heatmap i.e. 'The Quantified-Self'; a Google Sheets Project](https://bit.ly/The-Quantified-Self-twenty-20 "I thought I was onto something with this creation, as it turns out - the world wide web is truly a black abyss - unless you have ad-spend or take to plagiarizing to please the ATS, which I refuse anymore; utterly refuse.")
 
 ---
 
 ## My Mission
-
+`
+yes... i have chosen to accept it.
+`
 ---     
 
 to create a truly meritocratic digital community that knows no bounds; understands the categorical labels and need for them in organizational behavior but doesn't apply them to himself or community, and to help create a sustainable, profitable business that future generations will look to.
@@ -44,12 +45,13 @@ to create a truly meritocratic digital community that knows no bounds; understan
 ---  
 
 ## Professional Table
-
+`
+datasets
+`
 ---  
-
  
 No # | Position | Employer | Physical Address | Start Date | End Date | (Promotion Y/N) | Contact
----|---|---|---|---|---|---|---
+:---|:---:|:---:|:---:|:---:|:---:|:---:|---:
 1 | Chief Principal | Chasing the Wind, LLC | Covington, GA | Nov 2018 | Present | N | (470) 327-2626
 2 | Logistics Coorginator | Amazon Logistics | Stockbridge, GA | Oct 2017 | Feb 2018 | N | Unknnown (VPN)
 3 | Maintenance & Landscape  | Pine Hills | Stockbridge, GA | Aug 2016 | Aug 2017 | Y  | (770) 474-1870 
@@ -66,55 +68,52 @@ No # | Position | Employer | Physical Address | Start Date | End Date | (Promoti
 
 ---
 
-### Institutional Frame - of - Work i.e.
-
----
-
+### Institutional 
 `
-Higher Learning 
+Frame - of - Work i.e. Higher Learning
+`<br>
+#### Georgia State University, Atlanta, GA.
 `
-
-#### Georgia State University, Atlanta, GA. <br>
- 
-COLLEGE :<br>
-- The J Mack Robinson College of Business. <br>
-Degree :<br>
-- Bachelor of Business Administration. <br>
-Specialization :<br>
-- Service Operations Management. <br>
-Case - study : <br>
-- The Toyota Way and 
-    1. Toyota Production Systems Guiding Principles.
-        - Sustainability. 
-        - Best - on - earth Best Business Practices.<br>
+Faculty Scholar 2004 | Dean's List 2005
+`<br>
+1. COLLEGE :
+    - The J Mack Robinson College of Business. 
+2. Degree :
+    - Bachelor of Business Administration.
+3. Specialization :
+    - Service Operations Management.
+4. Case - study : 
+    - The Toyota Way and 
+        - Toyota Production Systems Guiding Principles.
+            1. Sustainability.<br>
+            2. Best - on - earth Best Business Practices.
         - Kaizen Leadership.
         - Kanban Project Management. 
- `              
- samurai - (wishful - thinking) - warrior
- `
-Recognition : <br>
-- Faculty Scholar 2004.<br>
-- Dean's List 2005. <br>
-
 ---
 
-## Whole - Self Body - of - ( School ) Work : 
-
-No # | school | city | state | start | end | details | add'l    
-:---|:---:|:---:|:---:|:---:|:---:|:---:|---:   
-1 | Berkmar High School | Lawrenceville | GA | Aug 1997 | May 1998 | Freshman Year | 4.0 GPA
-2 | Sandy Creek High School | Tyrone | GA | Aug 1999 | Jan 1999 | Sophomore 1st Semester | 4.0 GPA
-3 | Salem High School | Conyers | GA | Jan 1999 | May 1999 | Sopomore | 2nd Semester
-4 | Northview High School | Dothan | AL | Aug 1999 | May 2000 | Junior Year | 4.0 Work Study at Richard H Ramsey IV, Esquire
-5 | Salem High School | Conyers | GA | Aug 1999 | May 2001 | Dual Degree | College Preperatory & General Business Admininstration    
-6 | University of West Georgia | Carrollton | GA | Aug 2001 | May 2002 | Undergraduate Studies | Undecided 
-7 | Georgia State University / J Mack Robinson College of Business | Atlanta | GA | Aug 2002 | May 2006 | BBA | Operations Management   
-
----
-
-### The More Expensive Curriculum i.e.
-`traditional institutional higher learning
+## Body - of - Work : 
 `
+k - 12
+`<br>
+
+No | school | city | state | start | end | details | add'l    
+:---|:---:|:---:|:---:|:---:|:---:|:---:|---:   
+8 | Berkmar High School | Lawrenceville | GA | Aug 1997 | May 1998 | Freshman Year | 4.0 GPA
+7 | Sandy Creek High School | Tyrone | GA | Aug 1999 | Jan 1999 | Sophomore 1st Semester | 4.0 GPA
+6 | Salem High School | Conyers | GA | Jan 1999 | May 1999 | Sopomore | 2nd Semester
+5 | Northview High School | Dothan | AL | Aug 1999 | May 2000 | Junior Year | 4.0 Work Study at Richard H Ramsey IV, Esquire
+4 | Salem High School | Conyers | GA | Aug 1999 | May 2001 | Dual Degree | College Preperatory & General Business Admininstration    
+3 | University of West Georgia | Carrollton | GA | Aug 2001 | May 2002 | Undergraduate Studies | Undecided 
+2 | Georgia State University / J Mack Robinson College of Business | Atlanta | GA | Aug 2002 | May 2006 | BBA | Operations Management   
+`
+no 1
+`<br>
+
+---
+
+### More Expensive Curriculum i.e.
+`traditional higher learning
+`<br>
 
 ---
 
@@ -132,7 +131,7 @@ BUSA 3000 Globalization and Business Practices | MK 3010 Basic Marketing | BUSA 
 ## MOOC Work 
 `
  7 - 3 : 3 - 11 : 11 - 7 
- `
+ `<br>
  
 ---
 
@@ -152,7 +151,7 @@ Writing a Compelling Blog Post | Why are Opioids So Addictive (University South 
 ## Summary
 `
 how am i doing?
-`
+`<br>
 
 ---    
 
@@ -162,15 +161,15 @@ how am i doing?
 
 # Work Experience
 `
-a consummate professional
-`
+is it too much?
+`<br>
 
 ---
 
 ### Amazon Inc / Remote    
 `
-LOGISTICS COORDINATOR
-`
+LOGISTICS COORDINATOR 
+`<br>
 Oct 2017 – Jan 2018 
 1. Relentlessly advocate for customers; always protecting confidentially and data; anticipate needs and underlying issues and treating their time and attention as sacred; overall effective communication skills and composure under pressure.
 2. Field inbound calls from Amazon Flex Delivery Partners; mapping their progress, navigating and troubleshooting the variables; guiding, and encouraging 100% successful delivery of Amazon goods and services.
@@ -181,7 +180,7 @@ Oct 2017 – Jan 2018
 
 ### Pine Hills  / Stockbridge, GA 
 `LANDSCAPER
-`
+`<br>
 Aug 2016 – Aug 2017 
 1. Take ownership of the residential development by demonstrating unquestionable work ethic while nurturing and nursing the land and serving as caregiver to the community. 
 2. Develop a partnership with residents by always offering to assist and delivering on early on requisition duties. 
@@ -194,7 +193,7 @@ Aug 2016 – Aug 2017
 
 ### Annex Freight Systems Inc / Newnan, GA 
 `DISPATCH SUPERVISOR
-`
+`<br>
 Mar 2013 - Oct 2013 
 1. Provide pipeline management and logistics analysis for rail, truck-load, and less than load (LTL) customers eliminating no less than $60,000 in shipping expense for customers. 
 2. Accurate and expedient data entry into terminal operating systems and end of shift report monitoring to ensure operation maintains guaranteed 99.4% on-time service standard. 
@@ -204,7 +203,7 @@ Mar 2013 - Oct 2013
 ### Saia LTL Freight Inc / Ellenwood, GA
 `
 OPERATIONS MANAGER
-`
+`<br>
 Jul 2011 - Feb 2013 
 1. Design, Develop, and implement daily ops plan to ensure 98.6% on-time service standard. 
     - Consisting of approximately 650,000 to 1.5 million pounds of overnight due-service origin freight, and 
@@ -244,7 +243,7 @@ Jul 2011 - Feb 2013
 ### Saia LTL Freight Inc / Johns Creek, GA  
 `
 DISPATCH SUPERVISOR
-`
+`<br>
 Jul 2009 - Jul 2011  
 1. Regional travel providing terminal ops team  
     - training,  
@@ -293,7 +292,7 @@ Jul 2009 - Jul 2011
 ### Saia LTL Freight Inc / Ellenwood, GA  
 `
 OPERATIONS SUPERVISOR
-`
+`<br>
 Mar 2008 - Jul 2009  
 1. Monitor, oversee, guide, and provide proper work direction to assigned production associates.  
 2. Support meeting production metrics and develop a daily checklist to   
@@ -329,7 +328,7 @@ Mar 2008 - Jul 2009
 ### Ted's Montana Grill / Atlanta, GA 
 `
 Trainer - Server
-`
+`<br>
 Dec 2005 - May 2006
 1. Implement suggestive sales technique by identifying customers preference.
 2. Offer tailored-to-individual insight on menu items, daily blue-plate specials, seasonal dessert offering, and signature bar drinks.
@@ -339,7 +338,7 @@ Dec 2005 - May 2006
 ### The Italian Oven, Stockbridge, GA 
 `
 Trainer-Manager
-`
+`<br>
 Dec 2003 - Jan 2005
  1. Menu presentation in a non-solicited style that's simplistic, yet, sophisticated in its approach; identifying and articulating insightful Italian pairings with a thoughtful and tasteful introduction as the appetizer.
 2. Enter taste buds with exotic entree offerings while delivering on desires and creating a courtship to the evening.
@@ -350,13 +349,13 @@ Dec 2003 - Jan 2005
 
 ## Skills
 `
-seriously
+i'm serious
 `
 
 ---  
 
 Business Insight | Customer Focus | Decision Quality | Active Listener | Global Perspective | Organizational Dynamics
----|---|---|---|---|---
+:---|:---:|:---:|:---:|:---:|---:
 Strategic Mindset | Action Oriented | Demonstrates Resourcefulness | Planning & Alignment | Ensures Accountability | Interpersonal Savvy
 Customer-Centric | Total Customer Satisfaction | Customer Success Champion | Network Builder | Cultivates Innovation | Optimizes Work Processes
  Drives Results | Talent Developer | Strategic Vision | Effective | Efficient Communicator | Values Diversity
@@ -512,9 +511,14 @@ the real thing baby...
     - Technical Function(s).
 
 ---
+### Links 
+`
+the pause that refreshes
+`
+----
 
 [Let's Connect on LinkedIn](https://linkedin.com/in/oudcollective) | [Follow Me on LinkedIn (company](https://linkedin.com/company/the-wind) 
-:---: | :---:
+:---|---:
 [Follow on Twitter](https://twitter.com/oudcollective) | [LinkedIn Control Page](https://linkedin.com/in/c-brennan-poole)
 [Popular on Pinterest](https://www.pinterest.com/withwindllc) | [Quora](https://quora.com/c-brennnan-poole)
 [instagram](https://instagram.com/twenty20times) | [Some Links](https://my.bio/thewindllc)    
@@ -523,7 +527,12 @@ the real thing baby...
 
 ---
 
-
+```
 copyright© 2020 chasing the wind, some rights reserved. works are licensed under a creative commons (cc by-sa) international free cultural works 4.0 license. link to license: < https://creativecommons.org/licenses/by-sa/4.0/ >in other words, feel free to remix, reuse, redistribute but make sure attribute with a link back to title of the work,  the original author slash artist, the source of the work, and compatible license.
+```
 
-This repository is licensed under [MIT](../LICENSE) *if ever I get to delivering in-demand code - that is*. (c) 2019 GitHub, Inc.
+*This repository is licensed under [MIT](../LICENSE) **if ever I get to delivering in-demand code** - that is. (c) 2019 [GitHub](https://github.com/OUDcollective/Quantified-Self), Inc. All rights to their namesake and logo are reserved. Thanks for hosting us!*
+
+`
+the good stuff!
+`
