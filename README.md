@@ -48,7 +48,7 @@ at C's condensed CVs
 ---     
 
 `
-yes... i have chosen to accept it.
+yes; i accept.
 `<br>
 
 to create a truly meritocratic digital community that knows no bounds; understands the categorical labels and need for them in organizational behavior but doesn't apply them to himself or community, and to help create a sustainable, profitable business that future generations will look to.
@@ -86,7 +86,7 @@ No # | Position | Employer | Physical Address | Start Date | End Date | (Promoti
 ---
 
 `
-higher learning... ever heard of stigmatization? 
+higher learning y'all met stigmatization yet? 
 `<br>
 
 #### Georgia State University, Atlanta, GA.
@@ -119,7 +119,7 @@ Faculty Scholar 2004 | Dean's List 2005 | Class of 2006
 ---
 
 `
-lean on me : k - 12
+lean on me : k - 16
 `<br>
     
 No | school | city | state | start | end | details | add'l    
@@ -134,7 +134,7 @@ No | school | city | state | start | end | details | add'l
 
 ---
 `
-No 1. delicious. 
+No 1 : the real thing
 `<br>
 
 ---
@@ -143,7 +143,7 @@ No 1. delicious.
 
 ---
 
-`Have a Coke on Me : traditional postsecondary  
+`have a Coke on me + postsecondary  
 `<br>
     
 MGS 4740 Operations Strategy | MGS 4760 Total Quality Management | MGS 4700 Operations Management  
@@ -162,7 +162,7 @@ BUSA 3000 Globalization and Business Practices | MK 3010 Basic Marketing | BUSA 
 ---
 
 `
- 7 - 3 : 3 - 11 : 11 - 7 
+ 7 - 3. 3 - 11. 11 - 7 
  `<br>
 
 Raising Capital | Creating the Conditions for Others to Thrive | Developing a Learning Mindset | Learning Data Science
@@ -183,7 +183,7 @@ Writing a Compelling Blog Post | Why are Opioids So Addictive (University South 
 ---    
 
 `
-how am i doing?
+doing okay?
 `<br>
 
 > Operations strategist determined to provide total Customer Satisfaction by fostering and mentoring the people process, developing cross-functional collaborative environments; while using creative problem solving techniques and establishing easy to understand but increasingly difficult to achieve key performance indicators.
@@ -195,7 +195,7 @@ how am i doing?
 ---
 
 `
-not too thick... the coke float...
+not too thick? the coke float!
 `<br>
 
 ---
@@ -459,7 +459,7 @@ Supply Chain | Telephone Skills | Total Quality Management | Vision | Writing | 
 --- 
 
 `
-$KO : on the highway to anywhere
+on the highway to anywhere : $KO
 `<br>
 
 1. Business Administration
@@ -566,13 +566,13 @@ team-based problem-solving
 `CPR trained 
 `<br>
 38. Best practices: 
-`Knowledge of procurement
+`knowledge of procurement
 `<br>
     - Industry and business best practices to guide thought leadership and ensure effective procurement strategies. 
     - Includes the ability to recognise value creation opportunities within the supply chain.
 39. Create and manage databases for reporting.
 `
-Insightful analysis
+insightful analysis
 `<br>
     - Maintain and update category spend and 
     - Volumes.
@@ -586,7 +586,7 @@ supply - chain environment
         1. KPIs.
 42. Synthesize data and 
 `
-Identifies problems
+identifies problems
 `<br>
     - Through financial analysis; 
     - Proficiency in recommending solutions.
@@ -595,7 +595,7 @@ Identifies problems
     - Financial reports.
 44. Cross Functional Relationships : 
 `
-knowledge
+knowledge of the Truth
 `<br>
     - of and ability to articulate to senior management  the 
     - benefits of supporting cross-functional objectives to 
@@ -606,21 +606,21 @@ knowledge
    - or Journey. 
 46. Understands industry research and trends and 
 `
-Anticipates 
+anticipates variables
 `<br>
     - future customer &
          1. Market needs.
 47. Drives Innovation.
 48. Strategic Thinker.
 `
-Positive Influence
+positive influencer
 `<br>
     - and negotiator.
     - Shopper knowledge.
 49. Adaptability.
 50. Project management : 
 `
-Task - Oriented
+task - driven affect leader
 `<br>
 51. Effective communication & Interpersonal Savvy : 
 `
@@ -630,14 +630,14 @@ Team-building
         1. Brings key stakeholders together.
 52. Value chain experience
 `
-Financial skills.
+financial skillset
 `<br>
     - Excellent Project / Program Management Skills.
     - Effective Communications Skills
     - Verbal and Written.
 53. Ability to Lead Cross-functional teams to Deliver Results.
 `
-Technical Proficiency
+technically proficient
 `<br>
     - Expertise in Innovation,
     - Logistics, and the 
@@ -652,7 +652,7 @@ Technical Proficiency
 ---
 
 `
-the pause that refreshes
+the pause that refreshes...
 `<br>
 
 [Let's Connect on LinkedIn](https://linkedin.com/in/oudcollective) | [Follow Me on LinkedIn (company](https://linkedin.com/company/the-wind) 
@@ -684,3 +684,6 @@ ahh... that's the good stuff!
 ---
 
 *This repository is licensed under* [MIT](../LICENSE) *if ever I get to delivering in-demand code - that is.* (c) 2019 [GitHub](https://github.com/OUDcollective/Quantified-Self)*, Inc. All rights to their namesake and logo are reserved. Thanks for hosting us!*
+`
+In Jesus Name. Amen!
+`<br>
