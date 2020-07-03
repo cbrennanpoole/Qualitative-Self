@@ -4,26 +4,35 @@
 
 `
 Quantified Self sits within Google Sheets link is below
-`
+`<br>
 
-> Comprehensive view and full - body - of - work that is 
+Comprehensive view and full - body - of - work that is 
 
 --- 
+
+`
+my me
+`
 
 ## C Brennan Poole
 
 ---
 
+`
+drop the -asey; & 'chasing'; wanna go NASCAR racing? 
+`<br>
+
 ![C BRENNAN POOLE](https://camo.githubusercontent.com/29977588d9fbd41675e40fd5656c0de818389388/68747470733a2f2f646f63732e676f6f676c652e636f6d2f64726177696e67732f642f652f32504143582d3176534d70495f4d6152776a4f57354a6b6878675f302d4336465f4f75354d4a6174665650524379524c756b77686c7a69754f416c6a676735675266315858694e6c4e307035495f515f30722d43496d2f7075623f773d3132303026683d363237)
 
 ---
 
-## Feel Free to have a look - see at the 
-`
-condensed CVs
-`
+## Feel Free
 
 ---
+
+`
+to have a looksee at the condensed CVs
+`<br>
 
 [Material Design Inspired Dark Theme CV](https://bit.ly/Real-time-PDF-dark-theme "Google Docs Viewer") | [ATS - Friend Google Docs Viewer](https://bit.ly/ATS-Real-time-PDF "a less disruptive version")
 :---|---:
@@ -35,21 +44,24 @@ condensed CVs
 ---
 
 ## My Mission
+
+---     
+
 `
 yes... i have chosen to accept it.
-`
----     
+`<br>
 
 to create a truly meritocratic digital community that knows no bounds; understands the categorical labels and need for them in organizational behavior but doesn't apply them to himself or community, and to help create a sustainable, profitable business that future generations will look to.
 
 ---  
 
 ## Professional Table
-`
-datasets
-`
 ---  
- 
+
+`
+dad can do datasets
+`<br>
+
 No # | Position | Employer | Physical Address | Start Date | End Date | (Promotion Y/N) | Contact
 :---|:---:|:---:|:---:|:---:|:---:|:---:|---:
 1 | Chief Principal | Chasing the Wind, LLC | Covington, GA | Nov 2018 | Present | N | (470) 327-2626
@@ -68,11 +80,17 @@ No # | Position | Employer | Physical Address | Start Date | End Date | (Promoti
 
 ---
 
-### Institutional 
+### Institutional Framework i.e.
+
+---
+
 `
 Frame - of - Work i.e. Higher Learning
 `<br>
 #### Georgia State University, Atlanta, GA.
+
+---
+
 `
 Faculty Scholar 2004 | Dean's List 2005
 `<br>
@@ -92,10 +110,12 @@ Faculty Scholar 2004 | Dean's List 2005
 ---
 
 ## Body - of - Work : 
+
+---
 `
 k - 12
 `<br>
-
+    
 No | school | city | state | start | end | details | add'l    
 :---|:---:|:---:|:---:|:---:|:---:|:---:|---:   
 8 | Berkmar High School | Lawrenceville | GA | Aug 1997 | May 1998 | Freshman Year | 4.0 GPA
@@ -105,6 +125,8 @@ No | school | city | state | start | end | details | add'l
 4 | Salem High School | Conyers | GA | Aug 1999 | May 2001 | Dual Degree | College Preperatory & General Business Admininstration    
 3 | University of West Georgia | Carrollton | GA | Aug 2001 | May 2002 | Undergraduate Studies | Undecided 
 2 | Georgia State University / J Mack Robinson College of Business | Atlanta | GA | Aug 2002 | May 2006 | BBA | Operations Management   
+
+---
 `
 no 1
 `<br>
@@ -112,11 +134,11 @@ no 1
 ---
 
 ### More Expensive Curriculum i.e.
-`traditional higher learning
-`<br>
 
 ---
-
+`traditional higher learning
+`<br>
+    
 MGS 4740 Operations Strategy | MGS 4760 Total Quality Management | MGS 4700 Operations Management  
 :---|:---:|---:
 MGS 4730 Project Management | MGS 4000 Managerial Decision Making | MGS 4770 Service Operations Management
@@ -129,11 +151,12 @@ BUSA 3000 Globalization and Business Practices | MK 3010 Basic Marketing | BUSA 
 ---
 
 ## MOOC Work 
+
+---
+
 `
  7 - 3 : 3 - 11 : 11 - 7 
  `<br>
- 
----
 
 Raising Capital | Creating the Conditions for Others to Thrive | Developing a Learning Mindset | Learning Data Science
 :---|:---:|:---:|---:
@@ -149,11 +172,12 @@ Writing a Compelling Blog Post | Why are Opioids So Addictive (University South 
 ---  
 
 ## Summary
+
+---    
+
 `
 how am i doing?
 `<br>
-
----    
 
 > Operations strategist determined to provide total Customer Satisfaction by fostering and mentoring the people process, developing cross-functional collaborative environments; while using creative problem solving techniques and establishing easy to understand but increasingly difficult to achieve key performance indicators.
 
@@ -161,12 +185,12 @@ how am i doing?
 
 # Work Experience
 `
-is it too much?
+not too thick?
 `<br>
 
 ---
 
-### Amazon Inc / Remote    
+### Amazon Inc / Remote <br>
 `
 LOGISTICS COORDINATOR 
 `<br>
@@ -178,7 +202,7 @@ Oct 2017 – Jan 2018
 
 ---
 
-### Pine Hills  / Stockbridge, GA 
+### Pine Hills  / Stockbridge, GA  <br>
 `LANDSCAPER
 `<br>
 Aug 2016 – Aug 2017 
@@ -191,7 +215,7 @@ Aug 2016 – Aug 2017
     
 --- 
 
-### Annex Freight Systems Inc / Newnan, GA 
+### Annex Freight Systems Inc / Newnan, GA  <br>
 `DISPATCH SUPERVISOR
 `<br>
 Mar 2013 - Oct 2013 
@@ -200,7 +224,7 @@ Mar 2013 - Oct 2013
 
 ---
 
-### Saia LTL Freight Inc / Ellenwood, GA
+### Saia LTL Freight Inc / Ellenwood, GA <br>
 `
 OPERATIONS MANAGER
 `<br>
@@ -240,7 +264,7 @@ Jul 2011 - Feb 2013
 
 ---    
 
-### Saia LTL Freight Inc / Johns Creek, GA  
+### Saia LTL Freight Inc / Johns Creek, GA   <br>
 `
 DISPATCH SUPERVISOR
 `<br>
@@ -289,7 +313,7 @@ Jul 2009 - Jul 2011
 
 ----
 
-### Saia LTL Freight Inc / Ellenwood, GA  
+### Saia LTL Freight Inc / Ellenwood, GA <br>
 `
 OPERATIONS SUPERVISOR
 `<br>
@@ -325,7 +349,7 @@ Mar 2008 - Jul 2009
 
 ---
 
-### Ted's Montana Grill / Atlanta, GA 
+### Ted's Montana Grill / Atlanta, GA  <br>
 `
 Trainer - Server
 `<br>
@@ -335,7 +359,7 @@ Dec 2005 - May 2006
 
 ---
 
-### The Italian Oven, Stockbridge, GA 
+### The Italian Oven, Stockbridge, GA  <br>
 `
 Trainer-Manager
 `<br>
@@ -348,11 +372,12 @@ Dec 2003 - Jan 2005
 ---    
 
 ## Skills
-`
-i'm serious
-`
 
 ---  
+
+`
+at the intersection of everywhere
+`
 
 Business Insight | Customer Focus | Decision Quality | Active Listener | Global Perspective | Organizational Dynamics
 :---|:---:|:---:|:---:|:---:|---:
@@ -370,12 +395,13 @@ Supply Chain | Telephone Skills | Total Quality Management | Vision | Writing | 
 
 ---
 
-###  COCA-COLA ( $KO ) ATS Overview ( meticulously - detail ) 
-`
-the real thing baby...
-`
+###  COCA-COLA ( $KO ) ATS Overview :
 
 --- 
+
+`
+on the highway to anywhere
+`
 
 1. Business Administration
     - Cross-Functional Collaboration
@@ -527,12 +553,22 @@ the pause that refreshes
 
 ---
 
-```
-copyright© 2020 chasing the wind, some rights reserved. works are licensed under a creative commons (cc by-sa) international free cultural works 4.0 license. link to license: < https://creativecommons.org/licenses/by-sa/4.0/ >in other words, feel free to remix, reuse, redistribute but make sure attribute with a link back to title of the work,  the original author slash artist, the source of the work, and compatible license.
-```
+#### Legalese
 
-*This repository is licensed under [MIT](../LICENSE) **if ever I get to delivering in-demand code** - that is. (c) 2019 [GitHub](https://github.com/OUDcollective/Quantified-Self), Inc. All rights to their namesake and logo are reserved. Thanks for hosting us!*
+---
 
 `
-the good stuff!
+the great national temperance drink
+`
+
+copyright© 2020 chasing the wind, some rights reserved. works are licensed under a creative commons (cc by-sa) international free cultural works 4.0 license. link to license: < https://creativecommons.org/licenses/by-sa/4.0/ >in other words, feel free to remix, reuse, redistribute but make sure attribute with a link back to title of the work,  the original author slash artist, the source of the work, and compatible license.
+
+---
+
+*This repository is licensed under* [MIT](../LICENSE) *if ever I get to delivering in-demand code - that is.* (c) 2019 [GitHub](https://github.com/OUDcollective/Quantified-Self)*, Inc. All rights to their namesake and logo are reserved. Thanks for hosting us!*
+
+---
+
+`
+ahh... the good stuff!
 `
