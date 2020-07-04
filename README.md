@@ -428,15 +428,68 @@ Stockbridge, GA  | Dec 2003 - Jan 2005 <br>
 3.  Ultimately managing to marry those taste buds together timely with wine and spirits.
 4. Not-to-soon, but shortly thereafter, serving a seductively succulent dessert, as the passionate and promising honeymoon; an eloquent end to an exciting evening.
 
+---
+
+### Shared Awards as One Unit : One Continent : Heal the Whole - (freakin') - Earth
+
+`hey Google... git actionable how 'bout it? Let's fact check whole - page pa - pa - pa - pretty pleeease Jessica?
+`
+<br>
+
+---
+
+#### 2013
+
+- Responsible Care® Partner of the Year —American Chemistry Council
+- First Place for Safety in the "General Commodities LTL/Local Division" —American Trucking Associations Safety Management Council
+- Third Place for Safety in the "General Commodities LTL/Linehaul Division" —American Trucking Associations Safety Management Council
+- Top 100 Motor Carrier, "G75" Green Supply Chain Partner —Inbound Logistics Magazine
+- Gold Team Award —Lowe's Companies Inc.
+- LTL National Carrier of the Year —Walmart
+
+
+#### 2012
+- Carrier of the Year —Ames True Temper
+- First Place for Safety in the "General Commodities LTL/Local Division" —American Trucking Associations Safety Management Council
+- Third Place for Safety in the "General Commodities LTL/Linehaul Division" —American Trucking Associations Safety Management Council
+- Top 100 Motor Carrier —Inbound Logistics Magazine
+- Gold Team Award —Lowe's Companies Inc.
+
+
+#### 2011
+- Super Regional LTL Carrier of the Year —Access America Transport
+- First Place for Safety in the "General Commodities LTL/Local Division" —American Trucking Associations Safety Management Council
+- Third Place for Safety in the "General Commodities LTL/Linehaul Division" —American Trucking Associations Safety Management Council
+- Best-in-Class Carrier —GlobalTranz
+- Top 100 Motor Carrier —Inbound Logistics Magazine
+- InformationWeek 500 Honoree —InformationWeek
+- Saia City Driver Robyn Rabalais Awarded 2011 "Safe Driver Award of Honor" for the South Atlantic Region —National Safety Council
+- Interregional Quality Carrier of the Year —Ryder System, Inc.
+- Strategic Partner Carrier of the Year —Unishippers Global Logistics, LLC
+
+#### 2010
+- Super Regional LTL Carrier of the Year —Access America Transport
+- First Place for Safety in the "General Commodities LTL/Local Division" —American Trucking Associations Safety Management Council
+- Interregional Carrier of the Year —CoLinx, LLC
+- Best-in-Class Carrier —GlobalTranz
+- InformationWeek 500 Honoree —InformationWeek
+- Top 100 Motor Carrier —Inbound Logistics Magazine
+- Silver Team Award —Lowe's Companies Inc.
+
+
+[this is my story; professional - side any way - as we all have at least 3 - most 4 right?](https://www.saia.com/about-us/awards "C Brennan Poole injured his back in the summer of 2012 forever changing the course of his life from a non - fault near - miss; spawning seven years of whole - truth wildernass walking with whole - gamut; got woke - they had jokes - i got angry - said some things, tried again, oh lord - I certainly did... We'll see")
+
+
 ---    
 
 ## Skills
 
----  
 
 `
 at the intersection of everywhere
 `
+
+---  
 
 Business Insight | Customer Focus | Decision Quality | Active Listener | Global Perspective | Organizational Dynamics
 :---|:---|---|---|---:|---:
@@ -456,11 +509,13 @@ Supply Chain | Telephone Skills | Total Quality Management | Vision | Writing | 
 
 ###  COCA-COLA ATS - Overview :
 
---- 
 
 `
 on the highway to anywhere : $KO
-`<br>
+`
+<br>
+
+--- 
 
 1. Business Administration
 `Cross-Functional Collaboration
