@@ -2,30 +2,36 @@
 
 ## Our Pledge
 
+
 1. Build Bridges
 2. Close Gaps
-3. Bend Curves
+3. Bend Curves'.
 4. Eradicate Gates
+> or die trying
 
-> or die tryin'. 
 
-## I AM 
+## I AM
+`
+c brennan poole and
+`<br>
+
+it's nice to meet you!
 
 ---
 
-c brennan poole and it's nice to meet ya. 
+Holding a theory. Well - actually, I hold lots of those; but, the main theory : these elusive algorithms and the dynamics likely affecting the learning models to further cause problems.
 
-I hold a theory - well lots of them actually - but the main one; the altruistic algorithm and way of the code. 
+---
 
-> It's simple - while - actionable. 
+> Simple - while - actionable.
 
-**Do the Next Right Thing**.
+*Do the Next Right Thing*.
 
-Not unlike the prophet Olaf. 
+It's not unlike Olaf prophesy - he's oftentimes prescribing.
 
-That sums up my ask, but I will leave the *legalese* in for the stuck in the syntax & lost in the verbiage. 
+That sums up my ask, but I will leave the *legalese* in for the stuck in the syntax & lost in the verbiage.
 
-Please don't forget - or - lose sight of the forest for the trees. We all do. Especially me. No one is perfect. However, **Learned Trait Hate** and Unconscious Bias simply are no longer tolerable. 
+Please don't forget - or - lose sight of the forest for the trees. We all do. Especially me. No one is perfect. However, *Learned Trait Hate* and Unconscious Bias simply are no longer tolerable.
 
 In the interest of fostering an open and welcoming environment, we as
 contributors and maintainers pledge to making participation in our project and
@@ -45,7 +51,7 @@ include:
 * Focusing on what is best for the community
 * Showing empathy towards other community members
 
-Examples of unacceptable behavior by participants include:
+### Examples of unacceptable behavior by participants include:
 
 * The use of sexualized language or imagery and unwelcome sexual attention or
  advances
