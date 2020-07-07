@@ -1,36 +1,32 @@
 # The Qualitative 
 
 `
-Qualified Self that is Casey Brennan Poole DOB 10 May, 1983
+well - over - Qualified Self : DOB 10 May, 1983 | Sign : Taurus | Albany, GA | Hospital : Phoebe Putney Hospital | Last 4 : 3938 | DL # 052388052 | Children : Y
 `<br>
 
 ----
 
 
-# C Brennan Poole
+## C Brennan Poole
 
-`
-on c; yes — 
-`<br>
+<br>
 
 ---
+```
 
-`
-check it out as a growth - hack, this snippet is likely the best wisdom you will attain from entire site (drumroll..3...2...1) : dropped the -asey. i.e. no more 'chasing'; do you want to go 'NASCAR racing'? It is a bit of riddle but it is 'verily verily' simple. The ' ' should be the clear giveaway(s).  
-`<br>
+as a growth - hack, this snippet is the best wisdom you will attain from entire site (drumroll..3...2...1) : dropped the '-asey'. i.e. no more 'chasing'; do you want to go 'NASCAR racing'? It is a bit of riddle but it is 'verily verily' simple. The '_' should be the clear giveaway(s) x 4.   
+
+```
+---
 
 ![C BRENNAN POOLE](https://camo.githubusercontent.com/29977588d9fbd41675e40fd5656c0de818389388/68747470733a2f2f646f63732e676f6f676c652e636f6d2f64726177696e67732f642f652f32504143582d3176534d70495f4d6152776a4f57354a6b6878675f302d4336465f4f75354d4a6174665650524379524c756b77686c7a69754f416c6a676735675266315858694e6c4e307035495f515f30722d43496d2f7075623f773d3132303026683d363237)
 
 ---
 
-### Have a look see 
-
----
-
+### Traditional Resume : Condensed Curriculum Vitae
 `
-at C's condensed CVs
-`
-<br>
+Have a look see on C
+`<br>
 
 ---
 
@@ -38,9 +34,12 @@ at C's condensed CVs
 :---|---:
 [Download pdf File](https://bit.ly/dark-theme-resume) | [Download pdf file](https://bit.ly/twenty-20-CV)
 
----
+#### Quantified Self : 
+`
+Design - Thinking out loud : need to revisit; in the name accessibility / usability
+`<br>
 
-[Interactive Heatmap |Quantified-Self : Google Sheets](https://bit.ly/The-Quantified-Self-twenty-20 "I thought I was onto something with this creation, as it turns out - the world wide web is truly a black abyss - unless you have ad-spend or take to plagiarizing to please the ATS, which I refuse anymore; utterly refuse.")
+[Interactive Heatmap |Quantified-Self : Google Sheets](https://bit.ly/The-Quantified-Self-twenty-20 "I thought I was onto something with this creation, as it turns out - the world wide web is truly a black abyss - unless you have ad-spend or take to plagiarizing to please the ATS, which I refuse anymore; utterly refuse.")<br>
 
 ---
 
@@ -253,13 +252,13 @@ Covington, GA | Nov 2018 - Present <br>
     - 500,000 + views / month ( average 02/2020 - 06/2020 ); 
         1. ‘in the midst’ of novel quarantine states of global confusion; 
     - Drive engagement analytics over 50% growth month-over-month (Feb and Mar 2020) attaining 
-        1. > 2.5 million / impressions past 90 days (Apr - Jul '20).
-        1. + 300% increase of actionable engaged audience (same timeline).
+        2. > 2.5 million / impressions past 90 days (Apr - Jul '20).
+        3. + 300% increase of actionable engaged audience (same timeline).
 10. Establish +9.5% engagement rate on LinkedIn’s with Wind Company Page. 
     - Sustainable impact YOY holding the average.
 11. Google Cloud for Startups 
     - [Google Cloud Next Participant starting 14 July, 2020](https://g.co/cloudnext "free to register and participate; i have thousands to spend, let's talk!").
-        - Leadership Participant.
+        1. Leadership Participant.
 12. [Hatch Startup Program by Digital Ocean](https://www.digitalocean.com/hatch/ "10k in credits lets Develop already!") Participant.
 13. [Segment for Startups](https://segment.com/industry/startups/ "up to 1 million and I've found sustainable : seek geeks and whispering direct injects via Git.actionable y'all") participant.
 14. [Amazon (AWS) partner path](https://aws.amazon.com/partners/training/ "is there anybody out there? Just hit me at git.actionable@chasingthewindllc.com")
@@ -275,6 +274,7 @@ Covington, GA | Nov 2018 - Present <br>
 
 `
 Wilderness Walking while wandering and wondering would wind - down in the 7 years joy from suffering journey it all-too-often times does helping to make c brennan once - and with Good Lord willing - for all - is once again in the practice of helping others in making sustainability sustainable. 
+`<br>
 
 ---
 
@@ -287,7 +287,8 @@ Wilderness Walking while wandering and wondering would wind - down in the 7 year
             2. Team 
             3. Chief in CTO seat.
                 - Notice (again)  
-                   - Bottoms Up, right? Great! 
+                   1. Bottoms Up, right? 
+                   2. Great! 
         - Let US build a true meritocracy to 
             1. Fix US plus, 
             2. eradicate the - IT -  gates .
@@ -883,11 +884,11 @@ knowledge of the Truth
 
 ### Links 
 
----
-
 `
 the pause that refreshes...
 `<br>
+
+---
 
 [Let's Connect on LinkedIn](https://linkedin.com/in/oudcollective) | [Follow Me on LinkedIn (company](https://linkedin.com/company/the-wind) 
 :---|---:
@@ -901,10 +902,14 @@ the pause that refreshes...
 
 #### Legalese
 
----
-
 `
 the great national temperance drink
+`<br>
+
+---
+##### Creative Commons 
+`
+( CC BY-SA )
 `<br>
 
 copyright© 2020 chasing the wind, some rights reserved. works are licensed under a creative commons (cc by-sa) international free cultural works 4.0 license. link to license: 
@@ -915,13 +920,14 @@ in other words, feel free to remix, reuse, redistribute but make sure attribute 
 
 ---
 
+##### Software Licensing 
 `
 ahh... that's the good stuff!
-`<br>
+`<bar>
 
 ---
 
 This repository is licensed under* [MIT](../LICENSE) *if ever I get to delivering in-demand code - that is.* (c) #twenty20times [GitHub](https://github.com/OUDcollective/Quantified-Self)*, Inc. All rights to their namesake and logo are reserved. Thanks for hosting us!    
 `
-In Jesus Name. Amen!
+In Jesus Name. Amen! Hallel Allah. Praise Jehova. Hare Krsna. Hare Rama. Rama Rama. Want to flip Scripts; Move Consciousness with me? 
 `<br>
