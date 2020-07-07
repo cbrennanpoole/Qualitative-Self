@@ -9,58 +9,51 @@ well - over - Qualified Self : DOB 10 May, 1983 | Sign : Taurus | Albany, GA | H
 
 ## C Brennan Poole
 
-<br>
 
 ---
-```
 
-as a growth - hack, this snippet is the best wisdom you will attain from entire site (drumroll..3...2...1) : dropped the '-asey'. i.e. no more 'chasing'; do you want to go 'NASCAR racing'? It is a bit of riddle but it is 'verily verily' simple. The '_' should be the clear giveaway(s) x 4.   
+> as a growth - hack, this snippet is the best wisdom you will attain from entire site (drumroll..3...2...1) : dropped the '-asey'. i.e. no more 'chasing'; do you want to go 'NASCAR racing'? It is a bit of riddle but it is 'verily verily' simple. The '_' should be the clear giveaway(s) x 4.   
 
-```
 ---
 
 ![C BRENNAN POOLE](https://camo.githubusercontent.com/29977588d9fbd41675e40fd5656c0de818389388/68747470733a2f2f646f63732e676f6f676c652e636f6d2f64726177696e67732f642f652f32504143582d3176534d70495f4d6152776a4f57354a6b6878675f302d4336465f4f75354d4a6174665650524379524c756b77686c7a69754f416c6a676735675266315858694e6c4e307035495f515f30722d43496d2f7075623f773d3132303026683d363237)
 
 ---
 
-### Traditional Resume : Condensed Curriculum Vitae
+#### Quantified Self : 
+
 `
-Have a look see on C
+Quantified over Qualified or is it Quantitative : Qualitatitve always been more a QA man myself and you? 
+`<br>
+
+[Interactive CV on Google Sheets](https://bit.ly/The-Quantified-Self-twenty-20 "I thought I was onto something with this creation, as it turns out - the world wide web is truly a black abyss - unless you have ad-spend or take to plagiarizing to please the ATS, which I refuse anymore; utterly refuse.")<br>
+
+---
+
+### Resume : More Traditional :
+`
+Curriculum Vitae
 `<br>
 
 ---
 
-[Material Design Inspired Dark Theme CV](https://bit.ly/Real-time-PDF-dark-theme "Google Docs Viewer") | [ATS - Friend Google Docs Viewer](https://bit.ly/ATS-Real-time-PDF "a less disruptive version")
+Dark Theme Doc | ATS Friendly Resume 
 :---|---:
+[Material Design Inspired Dark Theme CV](https://bit.ly/Real-time-PDF-dark-theme "Google Docs Viewer") | [ATS - Friend Google Docs Viewer](https://bit.ly/ATS-Real-time-PDF "a less disruptive version")
 [Download pdf File](https://bit.ly/dark-theme-resume) | [Download pdf file](https://bit.ly/twenty-20-CV)
-
-#### Quantified Self : 
-`
-Design - Thinking out loud : need to revisit; in the name accessibility / usability
-`<br>
-
-[Interactive Heatmap |Quantified-Self : Google Sheets](https://bit.ly/The-Quantified-Self-twenty-20 "I thought I was onto something with this creation, as it turns out - the world wide web is truly a black abyss - unless you have ad-spend or take to plagiarizing to please the ATS, which I refuse anymore; utterly refuse.")<br>
 
 ---
 
 ## My Mission
 
 `
-yes; 
-`
-<br>
+yes; i accept.
+`<br>
 
 ---
-
-`
-i accept.
-`
----
-
 <br>
 > to create a truly meritocratic digital community that knows no bounds; understands the categorical labels and need for them in organizational behavior but doesn't apply them to himself or community, and to help create a sustainable, profitable business that future generations will look to.
 <br>
-
 ---  
 
 ## Professional Table     
@@ -69,7 +62,6 @@ i accept.
 dad can do datasets
 `
 <br>
-
 ---  
 
 No # | Position | Employer | Physical Address | Start Date | End Date | (Promotion Y/N) | Contact
@@ -87,26 +79,25 @@ No # | Position | Employer | Physical Address | Start Date | End Date | (Promoti
 11| Trainer & Manager | Italian Oven | Stockbridge, GA | Dec 2003 | Jan 2005 | Y | (770) 507-4827
 12 | Customer Service Associate | Lowe's Inc | Stockbridge, GA | March 2003 | Nov 2003 | Y | (770) 506-9665
 13 | Freight Handler | Roadway Express Inc | Atlanta, GA | Aug 2002 | Feb 2003 | Y | Out-of-Business  
-
+<br>
 ---
-
-## Institutional Framework i.e.
+<br>
+## Institutional Framework
      
 `
-higher learning 
+i.e. higher learning 
 `
 <br>
-
 ---
 
 ### Georgia State University
-    
+    <br>
     33 Gilmer Street Atlanta, GA 30315 
-
+<br>
 `
 Faculty Scholar 2004 | Dean's List 2005 | Class of 2006
-`<br>
-
+`
+<br>
 ---    
       
 1. COLLEGE :
@@ -125,14 +116,13 @@ Faculty Scholar 2004 | Dean's List 2005 | Class of 2006
                    - Still learning the integration continuum.   
                 2. Kanban 
                    - Project Management. 
-                   <br>
-    
+<br>
 ---
 
-### Secondary and Postsecondary Path - Paving : 
+### Secondary and Postsecondary
 
 `
-lean on me : 12 - 16
+lean on me :9 - 16 
 `
 <br>
     
@@ -181,7 +171,8 @@ BUSA 3000 Globalization and Business Practices | MK 3010 Basic Marketing | BUSA 
 
 `
  7 - 3. 3 - 11. 11 - 7. 
- ` <br>
+ ` 
+ <br>
 
 ---
 
@@ -202,8 +193,8 @@ Writing a Compelling Blog Post | Why are Opioids So Addictive (University South 
 
 `
 am i doing okay?
-`<br>
-
+`
+<br>
 ---
 
 > Operations strategist determined to provide total Customer Satisfaction by fostering and mentoring the people process, developing cross-functional collaborative environments; while using creative problem solving techniques and establishing easy to understand but increasingly difficult to achieve key performance indicators.
@@ -267,24 +258,23 @@ Covington, GA | Nov 2018 - Present <br>
 
 `
 Wilderness Walking while wandering and wondering would wind - down in the 7 years joy from suffering journey helping to make c brennan be able to once more start helping others mantra : in the business of making sustainability sustainable business. You are mean! SEO Friendly? 
-`<br>
-
+`
+<br>
 ---
-
-- Need : 
-    1. Like - minded, 
-        - Change the game for generations to come;  
-        - Must get rich while enjoying said run; 
-            1. Seeks 
-                - Geeks for 
-                - Team 
-                - Chief in CTO seat.
-                - Notice (again)  
-                   1. Bottoms Up, right? 
-                   2. Great! 
-        - Let US build a true meritocracy to 
-            1. Fix US plus, 
-            2. eradicate the - IT -  gates .
+Need : 
+1. Like - minded, 
+    - Change the game for generations to come;  
+    - Must get rich while enjoying said run; 
+       1. Seeks 
+            - Geeks for 
+            - Team 
+            - Chief in CTO seat.
+            - Notice (again)  
+               1. Bottoms Up, right? 
+               2. Great! 
+    - Let US build a true meritocracy to 
+        1. Fix US plus, 
+        2. eradicate the - IT -  gates .
    
 ---
 
@@ -442,8 +432,6 @@ DISPATCH SUPERVISOR
 
 ---
 
-> NOTE : team effort and shared team success as several key players on the NSH, MPS, OKC region teams would be promoted and nationally distributed to spawn similar results and deliver sustainable impact; the playbook : The State Way (Robinson College of Business) + the case study on kaizen leadership, sustainable models, and champion of earth author Kiichiro Toyoda i.e. Toyota Production Systems i.e. The Toyota Way 2001. 
-
 #### Saia LTL Freight Inc <br>
 
 `
@@ -460,7 +448,7 @@ Ellenwood, GA | Mar 2008 - Jul 2009 <br>
 2. Support meeting of production metrics to establish a continuous improvement environment and engaged workforce with development of simple process; a daily check-list for 
     - Professional Freighthandlers, 
     - Peers in cross-functional collaboration with 
-        1. AtlDispatchOps (Linehaul Dispatch). 
+        1. Atlanta & Central Dispatch out-of the Corporate Office with Atlanta Dock Operations. 
     - Provide Guarantee of on-time customer service standard of 98.6% by working tirelessly to improve the controllables i.e.
         1. on-time close schedule, meeting or exceeding the 93.5% rate of on-time closes ( direct controllable ), and   
         2. on time departure 96.5% (indirect controllable). 
@@ -475,10 +463,10 @@ Ellenwood, GA | Mar 2008 - Jul 2009 <br>
 5. Implement   
     - six-sigma management principles,
     - Pull just-in-time (J.I.T.) workflow models 
-        1. yard hostler change in standard work process. 
-        2. shift dock stand to areas more conducive to the employee than the supervisor-of-responsibility (bottoms up again).
+        1. Yard hostler changes in standard work process. 
+        2. Shift dock stand to areas more conducive to the employee than the supervisor-of-responsibility (bottoms up again).
     - Support upper - management goals and regional management expectations by offering the terminal perspective at quarterly meetings, and   
-        1. develop staff to fall-in-line helping to further achieve the goal of 
+        1. Develop staff to fall-in-line helping to further achieve the goal of 
             - always on A / B testing,
             - real - time human resources establishing a body of 
         2. Continuous 'integration / improvement'.
@@ -490,7 +478,7 @@ Ellenwood, GA | Mar 2008 - Jul 2009 <br>
             - Closed (CLO) Load - to - Ride (LTR) or 
             - Over-the-road (OTR); 
         3. Ensure AS400 (dos-based) became a daily task with a continuous reconciliation strategy, 
-            - with plan for departure and direct verification with the linehaul unit; which 
+            - With plan for departure and direct verification with the linehaul unit; which 
                1. further tear - down barriers in place 
                    - cross-(dys)functionally among the various units that had 
                        1. Begun to stagnate due to groupthink rather than 
@@ -917,7 +905,4 @@ ahh... that's the good stuff!
 
 ---
 
-This repository is licensed under* [MIT](../LICENSE) *if ever I get to delivering in-demand code - that is.* (c) #twenty20times [GitHub](https://github.com/OUDcollective/Quantified-Self)*, Inc. All rights to their namesake and logo are reserved. Thanks for hosting us!    
-`
-In Jesus Name. Amen! Hallel Allah. Praise Jehova. Hare Krsna. Hare Rama. Rama Rama. Want to flip Scripts; Move Consciousness with me? 
-`<br>
+This repository is licensed under* [MIT](../LICENSE) *if ever I get to delivering in-demand code - that is.* (c) #twenty20times [GitHub](https://github.com/OUDcollective/Quantified-Self "In Jesus Name. Amen! Hallel Allah. Praise Jehova. Hare Krsna. Hare Rama. Rama Rama. Want to flip Scripts; Move Consciousness with me?"), Inc. All rights to their namesake and logo are reserved. Thanks for hosting us! IAM [C brennan Poole ](https://www.bing.com/search?q=c+brennan+poole+chasing+the+wind "Bing powered by Microsoft : hacking traffic to the SERP to keep the sticky effect alive and well while attempting to roket launch inefficiencies into a total process overhaul i.e. digital transformation with Wind and C Brennan Poole pandemic forced states since dropped 'chasing' now simply DBA with Wind")         
