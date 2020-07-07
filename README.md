@@ -45,10 +45,12 @@ at C's condensed CVs
 
 ## My Mission
 
+
+
 `
 yes; i accept.
 `<br>
----
+
 
 ```
 
@@ -95,30 +97,33 @@ higher learning y'all met stigmatization yet?
 
 #### Georgia State University, Atlanta, GA.
 
----
 
 `
 Faculty Scholar 2004 | Dean's List 2005 | Class of 2006
 `<br>
+
+---
+
 1. COLLEGE :
     - The J Mack Robinson College of Business. 
 2. Degree :
     - Bachelor of Business Administration.
 3. Specialization :
     - Service Operations Management.
-4. Case - study : 
-    - The Toyota Way & 
-        - Toyota Production Systems Guiding Principles.
-            1. sustainability.<br>
-            2. best business practices.<br>
-        - Kaizen Leadership.<br>
-            1. continuous improvement 
-            2. am still learning the integration continuum however. 
-        - Kanban Project Management. <br>
+        - Case - study : 
+            - The Toyota Way & 
+            - Toyota Production Systems Guiding Principles.
+                1. sustainability.<br>
+                2. best business practices.<br>
+            - Kaizen Leadership.<br>
+                1. Continuous Improvement 
+                   - Still learning the **integration continuum**.   
+                2. Kanban 
+                   - Project Management. <br>
     
 ---
 
-## Upperclass Stats : 
+## Secondary and Postsecondary Path - paving : 
 
 ---
 
@@ -137,13 +142,14 @@ No | school | city | state | start | end | details | add'l
 2 | Georgia State University / J Mack Robinson College of Business | Atlanta | GA | Aug 2002 | May 2006 | BBA | Operations Management   
 
 ---
+
 `
 No 1 : the real thing
 `<br>
 
 ---
 
-### More Expensive Curriculum i.e.
+### Expensive Curriculum i.e.
 
 
 `
@@ -195,8 +201,6 @@ am i doing okay?
 
 # Real - time Real - life Experience
 
----
-
 `
 not too thick? the coke float!
 `<br>
@@ -228,34 +232,43 @@ Covington, GA | Nov 2018 - Present <br>
 8. Chief Executive of dribbble; Zack Onisko, drafts to platform; as non-designer and like-minded growth - hack.
 9. Achieve Popular on Pinterest status with  
     - 500,000 + views / month ( average 02/2020 - 06/2020 ); 
-        - ‘in the midst’ of novel quarantine states of global confusion; 
+        1. ‘in the midst’ of novel quarantine states of global confusion; 
     - Drive engagement analytics over 50% growth month-over-month (Feb and Mar 2020) attaining 
-        - > 2.5 million / impressions past 90 days (Apr - Jul '20).
-        - + 300% increase of actionable engaged audience (same timeline).
+        1. > 2.5 million / impressions past 90 days (Apr - Jul '20).
+        1. + 300% increase of actionable engaged audience (same timeline).
 10. Establish +9.5% engagement rate on LinkedIn’s with Wind Company Page. 
     - Sustainable impact YOY holding the average.
 11. Google Cloud for Startups 
     - [Google Cloud Next Participant starting 14 July, 2020](https://g.co/cloudnext "free to register and participate; i have thousands to spend, let's talk!").
         - Leadership Participant.
 12. [Hatch Startup Program by Digital Ocean](https://www.digitalocean.com/hatch/ "10k in credits lets Develop already!") Participant.
-13. [Segment for Startups](https://segment.com/industry/startups/ "up to 1 million and I've found sustainable : seek geeks and whispering direct injects via Git.actionable y'all") 
+13. [Segment for Startups](https://segment.com/industry/startups/ "up to 1 million and I've found sustainable : seek geeks and whispering direct injects via Git.actionable y'all") participant.
 14. [Amazon (AWS) partner path](https://aws.amazon.com/partners/training/ "is there anybody out there? Just hit me at git.actionable@chasingthewindllc.com")
 15. [Microsoft partner](https://partner.microsoft.com/en-US/membership/competencies "it takes two; that's you! Yes You! +1 678-338-7339 Yes equity" ) Path.
-16. *Do you want to build a snowman?* 
-    - Found sustainable 1 July, 2020. 
-        - Need : 
-            1. like - minded, 
-            2. change the game, and 
-            3. get rich enjoying the run; 
+
+--- 
+
+> Do you want to build a snowman?'
+
+---
+
+### ON 1 July, 2020. 
+
+- Need : 
+    1. like - minded, 
+    2. change the game, and 
+    3. get rich enjoying the run; 
         - Seeks 
             1. Geeks for 
-                - Team 
-                - Chief in CTO seat.
-                    1. Notice the 
-                        - Bottoms Up, right? Great! 
-        - Let's build a true meritocracy to 
-            1. fix US + 
-            2. IT Gates!
+            2. Team 
+            3. Chief in CTO seat.
+                - Notice (again)  
+                   - Bottoms Up, right? Great! 
+            4. Let US build a true meritocracy to 
+                - Fix US plus, 
+                - IT gates (btw),
+   
+#### C Brennan Mission  other generations will look to for instruction during their inevitabl and imminent times of uncertainty. 
 
 ---
 
@@ -582,7 +595,7 @@ Unsolicited Promotion awarded to C Brennan (formalities right?) by fmr VP of Lin
 
 `
 at the intersection of everywhere
-`
+`<br>
 
 ---  
 
@@ -649,14 +662,14 @@ Strong organizational and planning ability
     - Problem Solving. 
 17. Accounting Experience.
     - Proficient in Excel : 
-         1. able to apply the skill in managing database and 
-         2. ability to convert and 
-         3. analyze the data.
+        1. able to apply the skill in managing database and 
+        2. ability to convert and 
+        3. analyze the data.
 18. SAP/Hyperion Experience is a strong plus collaborative / team player.
-     - Effective Communication Skills. 
-         1. Takes Ownership and 
-         2. Acts with Integrity.
-     - Ability to build endearing customer relationships.
+    - Effective Communication Skills. 
+        1. Takes Ownership and 
+        2. Acts with Integrity.
+    - Ability to build endearing customer relationships.
 19. Proven leader of professionals.
     - Cross channel knowledge including QSR Foodservice and CR preferred 
     - Expertise in cross collaboration and project management due to nature of innovation mindset of the customer 
@@ -664,29 +677,36 @@ Strong organizational and planning ability
 `
 Relationship - building
 `<br>
-    - Selling and 
-    - Negotiating Skills. 
+    - Has professional Selling and 
+    - Negotiation best-practices Skills. 
     - Working knowledge of C4V selling platform.
 21. Experience in developing successful Collaborative Business Plans and 
+    `
+    strong strategic thinking
+    `   
     - Price / package plans to 
         1. Drive growth for retail customers and 
         2. History of delivering plan objectives.
 22. Ability to Lead 
 `Cross-functional teams
 `<br>
-    - to deliver results.
-23. Ability to thrive in a growth-oriented team environment
-24. Actively engage with associates and team leads with observations, inspections, GEMBA walks, corrective actions. 
-25. Assist in the filing of documentation required by various regulatory agencies (i.e. OSHA, EPA, others). 
+23. Ability to thrive in a growth-oriented team environment    
+`
+Strategic thinking who;
+24. Active listening and authentic engagement with 
+    - associates and 
+    - team leads with 
+        1. observations, 
+        2. inspections, 
+        3. GEMBA walks, 
+            - corrective actions. 
+25. Filing of documentation required by various regulatory agencies (i.e. OSHA, EPA, others). 
     - Assist the development and filing of documentation for the Integrated Management System.  
     - Assist with SES inspections, audits, and documentation as needed. 
 26. Generate daily/weekly/monthly reports and audit results, as assigned. 
 27. Effectively utilize software: 
-    - Excel, 
-    - Word, 
-    - PowerPoint, 
-    - ~Lotus Notes~, 
-    - Other SAAS. 
+`
+Excel | Word | PowerPoint | - ~Lotus Notes~ | Other PAAS. 
 28. Effectively utilize basic 
 `
 Technical math skills
@@ -694,7 +714,11 @@ Technical math skills
     - Basic grammar, and 
     - Technical writing skills. 
 29. Assist in development and presentation of SES-related training topics. 
-30. Assist implementation of safety programs and/or procedures for new line installations (i.e. LOTO). 
+`
+technical writer
+`<br>
+30. Assist implementation of safety programs and/or procedures for new line installations.
+    - i.e. in electrix
 31. Work with Maintenance Department to track completion of safety work orders.  
 32. Work up to ~12~ make that 16 - 20 hours, overtime, and weekends to meet the business requirements.
 `
@@ -704,7 +728,7 @@ cost objectives
     - Demonstrate good attendance in accordance with plant attendance guidelines. • Self starter, ability to work with limited direction. 
 33. Ability to present topics to small and large groups of people. 
 34. Attend SES Committee Meetings. 
-35. Demonstrated ability and qualified to facilitate 
+35. Demonstrated ability. More than qualified to facilitate 
 `
 team-based problem-solving
 `<br>
@@ -823,7 +847,11 @@ the pause that refreshes...
 the great national temperance drink
 `<br>
 
-copyright© 2020 chasing the wind, some rights reserved. works are licensed under a creative commons (cc by-sa) international free cultural works 4.0 license. link to license: < https://creativecommons.org/licenses/by-sa/4.0/ >in other words, feel free to remix, reuse, redistribute but make sure attribute with a link back to title of the work,  the original author slash artist, the source of the work, and compatible license.
+copyright© 2020 chasing the wind, some rights reserved. works are licensed under a creative commons (cc by-sa) international free cultural works 4.0 license. link to license: 
+< https://creativecommons.org/licenses/by-sa/4.0/ >
+in other words, feel free to remix, reuse, redistribute but make sure attribute with a 
+    - Link back to title of the work,    
+    - The original author slash artist, the source of the work, and compatible license.
 
 ---
 
@@ -833,7 +861,7 @@ ahh... that's the good stuff!
 
 ---
 
-*This repository is licensed under* [MIT](../LICENSE) *if ever I get to delivering in-demand code - that is.* (c) 2019 [GitHub](https://github.com/OUDcollective/Quantified-Self)*, Inc. All rights to their namesake and logo are reserved. Thanks for hosting us!*
+This repository is licensed under* [MIT](../LICENSE) *if ever I get to delivering in-demand code - that is.* (c) #twenty20times [GitHub](https://github.com/OUDcollective/Quantified-Self)*, Inc. All rights to their namesake and logo are reserved. Thanks for hosting us!    
 `
 In Jesus Name. Amen!
 `<br>
