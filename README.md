@@ -1,43 +1,44 @@
-# The Qualitative Self
+# The Qualitative 
+
+`
+Qualified Self that is Casey Brennan Poole DOB 10 May, 1983
+`<br>
 
 ----
 
-`
-Quantified Self sits within Google Sheets link is below
-`<br>
 
-Comprehensive view and full - body - of - work that is 
-
---- 
+# C Brennan Poole
 
 `
 on c; yes — 
 `<br>
 
-## C Brennan Poole
-
 ---
 
 `
-check it out. dropped the -asey. no mas 'chasing'. wanna go NASCAR racing? 
+check it out as a growth - hack, this snippet is likely the best wisdom you will attain from entire site (drumroll..3...2...1) : dropped the -asey. i.e. no more 'chasing'; do you want to go 'NASCAR racing'? It is a bit of riddle but it is 'verily verily' simple. The ' ' should be the clear giveaway(s).  
 `<br>
 
 ![C BRENNAN POOLE](https://camo.githubusercontent.com/29977588d9fbd41675e40fd5656c0de818389388/68747470733a2f2f646f63732e676f6f676c652e636f6d2f64726177696e67732f642f652f32504143582d3176534d70495f4d6152776a4f57354a6b6878675f302d4336465f4f75354d4a6174665650524379524c756b77686c7a69754f416c6a676735675266315858694e6c4e307035495f515f30722d43496d2f7075623f773d3132303026683d363237)
 
 ---
 
-## Have a look see 
+### Have a look see 
 
 ---
 
 `
 at C's condensed CVs
-`<br>
+`
+<br>
+
+---
 
 [Material Design Inspired Dark Theme CV](https://bit.ly/Real-time-PDF-dark-theme "Google Docs Viewer") | [ATS - Friend Google Docs Viewer](https://bit.ly/ATS-Real-time-PDF "a less disruptive version")
 :---|---:
 [Download pdf File](https://bit.ly/dark-theme-resume) | [Download pdf file](https://bit.ly/twenty-20-CV)
 
+---
 
 [Interactive Heatmap |Quantified-Self : Google Sheets](https://bit.ly/The-Quantified-Self-twenty-20 "I thought I was onto something with this creation, as it turns out - the world wide web is truly a black abyss - unless you have ad-spend or take to plagiarizing to please the ATS, which I refuse anymore; utterly refuse.")
 
@@ -45,11 +46,17 @@ at C's condensed CVs
 
 ## My Mission
 
+`
+yes; 
+`
+<br>
 
+---
 
 `
-yes; i accept.
-`<br>
+i accept.
+`
+<br>
 
 
 ```
@@ -58,14 +65,16 @@ to create a truly meritocratic digital community that knows no bounds; understan
 
 ```
 
+<br>
+
 ---  
- 
 
 ## Professional Table     
 
 `
 dad can do datasets
-`<br>
+`
+<br>
 
 ---  
 
@@ -87,50 +96,53 @@ No # | Position | Employer | Physical Address | Start Date | End Date | (Promoti
 
 ---
 
-### Institutional Framework i.e.
+## Institutional Framework i.e.
+     
+`
+higher learning 
+`
+<br>
 
 ---
 
-`
-higher learning y'all met stigmatization yet? 
-`<br>
-
-#### Georgia State University, Atlanta, GA.
-
+### Georgia State University, Atlanta, GA.
 
 `
 Faculty Scholar 2004 | Dean's List 2005 | Class of 2006
-`<br>
+`
+<br>
 
----
-
+---    
+      
 1. COLLEGE :
     - The J Mack Robinson College of Business. 
-2. Degree :
+2. DEGREE :
     - Bachelor of Business Administration.
-3. Specialization :
+3. SPECIALIZATION :
     - Service Operations Management.
         - Case - study : 
             - The Toyota Way & 
-            - Toyota Production Systems Guiding Principles.
+            - [Toyota Production Systems Guiding Principles](https://global.toyota/en/company/vision-and-philosophy/production-system/).
                 1. sustainability.<br>
                 2. best business practices.<br>
             - Kaizen Leadership.<br>
                 1. Continuous Improvement 
                    - Still learning the **integration continuum**.   
                 2. Kanban 
-                   - Project Management. <br>
+                   - Project Management. 
+                   <br>
     
 ---
 
-## Secondary and Postsecondary Path - paving : 
-
----
+### Secondary and Postsecondary Path - Paving : 
 
 `
 lean on me : 12 - 16
-`<br>
+`
+<br>
     
+---
+
 No | school | city | state | start | end | details | add'l    
 :---|:---|---|---|---|---|---:|---:   
 8 | Berkmar High School | Lawrenceville | GA | Aug 1997 | May 1998 | Freshman Year | 4.0 GPA
@@ -145,17 +157,20 @@ No | school | city | state | start | end | details | add'l
 
 `
 No 1 : the real thing
-`<br>
+`
+<br>
 
 ---
 
 ### Expensive Curriculum i.e.
 
-
 `
 postsecondary ... have a coke on me
-`<br>
-    
+`
+<br>
+
+---
+
 MGS 4740 Operations Strategy | MGS 4760 Total Quality Management | MGS 4700 Operations Management  
 :---|:---|---:
 MGS 4730 Project Management | MGS 4000 Managerial Decision Making | MGS 4770 Service Operations Management
@@ -167,13 +182,14 @@ BUSA 3000 Globalization and Business Practices | MK 3010 Basic Marketing | BUSA 
 
 ---
 
-## MOOC Work 
-
----
+### MOOC Work 
 
 `
  7 - 3. 3 - 11. 11 - 7. 
- `<br>
+ `
+ <br>
+
+---
 
 Raising Capital | Creating the Conditions for Others to Thrive | Developing a Learning Mindset | Learning Data Science
 :---|:---|---:|---:
@@ -188,26 +204,29 @@ Writing a Compelling Blog Post | Why are Opioids So Addictive (University South 
 
 ---  
 
-## Summary
-
+#### Summary
 
 `
 am i doing okay?
-`<br>
+`
+<br>
+
+---
 
 > Operations strategist determined to provide total Customer Satisfaction by fostering and mentoring the people process, developing cross-functional collaborative environments; while using creative problem solving techniques and establishing easy to understand but increasingly difficult to achieve key performance indicators.
 
 ---
 
-# Real - time Real - life Experience
+### Real - Time Real - Life Work Experiences
 
 `
 not too thick? the coke float!
-`<br>
+`
+<br>
 
 ---
 
-### with Wind LLC <br>
+#### with Wind LLC <br>
 
 `
 CREATIVE STRATEGIST & PRINCIPAL OPS CHIEF
@@ -252,27 +271,30 @@ Covington, GA | Nov 2018 - Present <br>
 
 ---
 
-### ON 1 July, 2020. 
+##### ON 1 July, 2020. 
 
-- Need : 
-    1. like - minded, 
-    2. change the game, and 
-    3. get rich enjoying the run; 
+`
+Wilderness Walking while wandering and wondering would wind - down in the 7 years joy from suffering journey it all-too-often times does helping to make c brennan once - and with Good Lord willing - for all - is once again in the practice of helping others in making sustainability sustainable. 
+
+---
+
+- Needs : 
+    1. Like - minded, 
+    2. Change the game, and 
+    3. Get rich enjoying the run; 
         - Seeks 
             1. Geeks for 
             2. Team 
             3. Chief in CTO seat.
                 - Notice (again)  
                    - Bottoms Up, right? Great! 
-            4. Let US build a true meritocracy to 
-                - Fix US plus, 
-                - IT gates (btw),
+        - Let US build a true meritocracy to 
+            1. Fix US plus, 
+            2. eradicate the - IT -  gates .
    
-#### C Brennan Mission  other generations will look to for instruction during their inevitabl and imminent times of uncertainty. 
-
 ---
 
-### Amazon Inc <br>
+#### Amazon Inc <br>
 
 `
 LOGISTICS COORDINATOR 
@@ -285,7 +307,7 @@ Virtual | Oct 2017 – Jan 2018 <br>
 
 ---
 
-### Pine Hills <br> 
+#### Pine Hills <br> 
 
 `LANDSCAPE & GENERAL MAINTENANCE
 `<br>
@@ -295,7 +317,7 @@ Stockbridge, GA  | Aug 2016 – Aug 2017 <br>
 
 ---
     
-## Professional Leadership Roles     
+### Professional & Leadership Roles ( Corporate US )      
 
 `
 Ain't nothing but the Real Thing Baby!
@@ -303,7 +325,7 @@ Ain't nothing but the Real Thing Baby!
     
 --- 
 
-### Annex Freight Systems Inc <br>
+#### Annex Freight Systems Inc <br>
 
 `
 DISPATCH SUPERVISOR
@@ -314,7 +336,7 @@ Newnan, GA  | Mar 2013 - Oct 2013 <br>
 
 ---
 
-### Saia LTL Freight Inc <br> 
+#### Saia LTL Freight Inc <br> 
 
 `
 TERMINAL OPERATIONS MANAGER
@@ -355,7 +377,7 @@ Ellenwood, GA | Jul 2011 - Feb 2013 <br>
 
 ---    
 
-### Saia LTL Freight Inc <br>
+#### Saia LTL Freight Inc <br>
 
 `
 DISPATCH SUPERVISOR
@@ -412,7 +434,7 @@ DISPATCH SUPERVISOR
                     - best-in-class break ( medium terminals MPS, TN with Joe Boykin 2010) , and   
                     - best-in-class relay ( OKC + TUL terminal 2010 ) 
                     - most improved regional service standards (MPS & OKC regions).   
-        3. Serve as liaison / conduit to growth for   
+        - Serve as liaison / conduit to growth for   
             - terminal DockOps,  
             - Sales Unit,  
             - Specialized & Accelerated Shipping,  
@@ -421,8 +443,8 @@ DISPATCH SUPERVISOR
             - Customer Success Team, and finally;
                 1. Regional Managers, 
                 2. C-Suite ( bottoms : up as mentioned ) 
-        4. Pro-active planning using a predictive forecasting algorithm and logarithmic model as co-authored with Jong Choi in Linehaul Planning. 
-        5. Produce an environment conducive to excellence creating consistence in KPIs and confidence in the budding team that was about to rocket launch their carrers throughout the network making a definitive and sustainable impact on the carrier and industry for years to come. 
+        - Pro-active planning using a predictive forecasting algorithm and logarithmic model as co-authored with Jong Choi in Linehaul Planning. 
+        - Produce an environment conducive to excellence creating consistence in KPIs and confidence in the budding team that was about to rocket launch their carrers throughout the network making a definitive and sustainable impact on the carrier and industry for years to come. 
 
 ----
 
@@ -432,7 +454,8 @@ NOTE : team effort and shared team success as several key players on the NSH, MP
 
 ```
 
-### Saia LTL Freight Inc <br>
+#### Saia LTL Freight Inc <br>
+
 `
 OPERATIONS SUPERVISOR
 `<br>
@@ -447,14 +470,14 @@ Ellenwood, GA | Mar 2008 - Jul 2009 <br>
 2. Support meeting of production metrics to establish a continuous improvement environment and engaged workforce with development of simple process; a daily check-list for 
     - Professional Freighthandlers, 
     - Peers in cross-functional collaboration with 
-        - AtlDispatchOps (Linehaul Dispatch). 
+        1. AtlDispatchOps (Linehaul Dispatch). 
     - Provide Guarantee of on-time customer service standard of 98.6% by working tirelessly to improve the controllables i.e.
-        - on-time close schedule, meeting or exceeding the 93.5% rate of on-time closes ( direct controllable ), and   
-        - on time departure 96.5% (indirect controllable). 
+        1. on-time close schedule, meeting or exceeding the 93.5% rate of on-time closes ( direct controllable ), and   
+        2. on time departure 96.5% (indirect controllable). 
 3. Improve quality implementing an already well-established but not utilized dock mentor program and daily education during safety meetings,
     - emphasizing a cross-functionall training of production associates and peers that encouraged (rather than the previous practice of discouraging) the changing of day and night shifts on the Friday and Saturday shift; 
-        - Immediate boost in employee morale as it was an ask they had all-but demanded for years, and 
-        - Further fuel the increasingly difficult to achieve KPIs the team had begun looking forward to beating. 
+        1. Immediate boost in employee morale as it was an ask they had all-but demanded for years, and 
+        2. Further fuel the increasingly difficult to achieve KPIs the team had begun looking forward to beating. 
 4. Trend analysis, demand-planning, and overall statistical analysis of seasonal trends in tonnage and seasonal workforce issues helping to 
     - identify patterns to develop a proposal for new due service schedule for linehaul runs or 
     - eliminate existing schedule by building loads with multi-point destinations, and 
@@ -462,45 +485,56 @@ Ellenwood, GA | Mar 2008 - Jul 2009 <br>
 5. Implement   
     - six-sigma management principles,
     - Pull just-in-time (J.I.T.) workflow models 
-        - yard hostler change in standard work process. 
-        - shift dock stand to areas more conducive to the employee than the supervisor-of-responsibility (bottoms up again).
+        1. yard hostler change in standard work process. 
+        2. shift dock stand to areas more conducive to the employee than the supervisor-of-responsibility (bottoms up again).
     - Support upper - management goals and regional management expectations by offering the terminal perspective at quarterly meetings, and   
-        - develop staff to fall-in-line helping to further achieve the goal of 
+        1. develop staff to fall-in-line helping to further achieve the goal of 
             - always on A / B testing,
             - real - time human resources establishing a body of 
-                - continuous 'integration / improvement'.
+        2. Continuous 'integration / improvement'.
 5. Verify nightly thru report reconciliation due - service freight;   
-    - had been picked up,  
-    - was accounted for,  
-        - handled properly,  
-        - loaded out and either 
-            - Closed and Load - to - Ride (LTR) or 
+    - Picked up and status properly,  
+    - Accounted for; i.e.      
+        1. Proper loading technique in place,  
+        2. Shipments status as loaded out (LOA), 
+            - Closed (CLO) Load - to - Ride (LTR) or 
             - Over-the-road (OTR); 
-        - ensure AS400 (dos-based) became a daily task with a continuous reconciliation strategy, 
-           - with plan for departure and direct verification with the linehaul unit; which 
-               - further tore - down barriers that were in place cross - functionally among the various units that had begun to stagnate due to groupthink rathter than thrive through collaboration as was the prescription (placebo i.e. spoonful of sugar) AtlDockOps didn't know they were in need of. 
-6. Establish DailyOps game - plan (as the excel sheet was labelled - no hyper-link unfortunately. 
+        3. Ensure AS400 (dos-based) became a daily task with a continuous reconciliation strategy, 
+            - with plan for departure and direct verification with the linehaul unit; which 
+               1. further tear - down barriers in place 
+                   - cross-(dys)functionally among the various units that had 
+                       1. Begun to stagnate due to groupthink rather than 
+                           - thrive through collaboration as was the 
+                           - very prescription (placebo i.e. spoonful of sugar) AtlDockOps didn't know they were in need of. 
+6. Establish DailyOps game - plan (as the excel sheet was labelled - no hyper-link unfortunately).
 7. Ensure zone has sufficient equipment to load on
-    - Reconcile equipment in reality with 
-        - that of the GUI matching of trailers and 
-    - preparation of manifest for 
-        - checks and balances process that was beginning to be disregarded. 
-8. Create a fluid transition and encourage cross-function collaboration with inbound operation team by 
-    - reconciling due service,   
-    - monitoring incoming freight levels and late - morning dues service to 2-day points (Toledo, Cincinnati, Indianapolis, Detroit, etc.) and  
-    - audit national account incessantly while gaining an intimate understanding of companies single largest shippers i.e. Lowe's Inc., Sherwin Williams, Behr, Home Depot, etc. 
-    - Verifying and sign-off of shipments in loading status (LOA) by establishing a daily crossover and 'walk-the-doors' standard work process with incoming supervisor, peer, and come to find out (thanks to the process originally frowned upon ) a lifetime friend; the freight must be : 
-        - blocked,  
-        - braced, and   
-        - pin-wheeled, and   
-9. Verify zone is ready for cross - over by double - checking the stations to ensure, 
-    - tools - in - place, 
-    - doors chocked & blocked.
-    - equipment / load bars stowed. 
+    - Reconciling equipment on dock with 
+        1. Graphical User Interface (GUI);
+    - place newe manifest for at end of loading door to ensure standard work process was optimized and 
+        1. Checks &
+        2. Balances 
+            - Process was still being practiced and 
+            - In place ready for the inbound crew.
+8. Create fluid transition, 
+    - Encourage cross-function collaboration with inbound operation team by 
+    - Monitoring incoming freight levels and late - morning dues service to 2-day points (Toledo, Cincinnati, Indianapolis, Detroit, etc.) and  
+    - Audit national account incessantly while gaining an intimate understanding of companies single largest shippers i.e. Lowe's Inc., Sherwin Williams, Behr, Home Depot, etc. 
+    - Verify and 
+        1. Sign-off shipments in loading status (LOA) 
+            - Establish daily crossover and 'walk-the-doors' standard work process with incoming supervisor / peer, double check shipments in LOA status and guarantee 
+        2. Freight is Block with proper protocol technique,  
+        3. Braced using best practices for guidance, 
+        4. Pin-wheeled to ensure the foundation of the load was in tact and capable of full utilization of space (the service provided in LTL is space ), and   
+9. Verify zone is ready for cross-over by 
+    - Filling of internal work stations needs : 
+        1. Tools : in - place and braced, 
+        2. doors chocked & blocked.
+        3. equipment / load bars stowed. 
 
 ---
 
-### Ted's Montana Grill <br>
+#### Ted's Montana Grill <br>
+
 `
 Trainer - Server
 `<br>
@@ -510,34 +544,35 @@ Atlanta, GA  | Dec 2005 - May 2006 <br>
 
 ---
 
-### The Italian Oven <br>
+#### The Italian Oven <br>
+
 `
 Trainer-Manager
 `<br>
 Stockbridge, GA  | Dec 2003 - Jan 2005 <br>
- 1. Menu presentation in a non-solicited style that's simplistic, yet, sophisticated in its approach; identifying and articulating insightful Italian pairings with a thoughtful and tasteful introduction as the appetizer.
+1. Menu presentation in a non-solicited style that's simplistic, yet, sophisticated in its approach; identifying and articulating insightful Italian pairings with a thoughtful and tasteful introduction as the appetizer.
 2. Enter taste buds with exotic entree offerings while delivering on desires and creating a courtship to the evening.
 3.  Ultimately managing to marry those taste buds together timely with wine and spirits.
 4. Not-to-soon, but shortly thereafter, serving a seductively succulent dessert, as the passionate and promising honeymoon; an eloquent end to an exciting evening.
 
 ---
 
-## Shared Awards as One Unit : One Continent : Heal the Whole - (freakin') - Earth
-
-`hey Google... git actionable how 'bout it? Let's fact check whole - page pa - pa - pa - pretty pleeease Jessica?
+### Shared Awards : Service as a Singular Unit 
+    
 `
-<br>
+Solo Continent & Indivual - Healing - Whole - (freakin') - Earth
+`<br>
 
 ---
 
-### 2013 DOCK - TO DRIVER PROGRAM INSTITUTION IN '12 - '13
+#### 2013 FINAL YEAR AS TERMINAL OPS MANAGER IN-INDUSTRY 
 
 `
-ENTIRE INDUSTRY WAS LEVERAGING THE GREAT RECESSION AND 44 (POTUS) POLITICS TO MISTREAT VETS & ABUSE PART - TIMERS (even food service as I managed it too during these times of true - national uncertainty; here we sit again; a former champion of industry - whispering now softly - put me in coach - i have a few trick plays...
-`
+DOCK - TO DRIVER PROGRAM INSTITUTION IN END 2012 : Entire transportation industry and most of the North American economy had taken to politicking in these uncertain times by playing with hours, forcing full-time workers off the clock just as their overtime would kick-in while not allowing the part - time associates to receive over or on average 25 / hours per work week (Obamacare uncertainty brings out absolute worst in US management and executive leadership / corporatocracy and use-case study #1 of xxx,xxx for epitome of pandemic plus riots in streets of US; the freight and transportation industry had officially become dependent on that very part-time laborforce; in exchange for their tireless commitment, many thousands would either be laid - off completely, or have their hours cut to wages they would not be able to sustain if it continued; the answer and what was step in the right direction was the dock - to - driver inaugural program and I had the honor of facilitating the framework while recommending and pitching the prospect to many of part - time players on the AtlDockOps Team. To this day, I still receive a random thank you when spotted in public or heart - felt thank you and gift around the holidays for helping 12 team players and their families find sustainability just out of a Great Recession.     
+`<br> 
 
-<br> 
-
+---
+    
 - Responsible Care® Partner of the Year —American Chemistry Council
 - First Place for Safety in the "General Commodities LTL/Local Division" —American Trucking Associations Safety Management Council
 - Third Place for Safety in the "General Commodities LTL/Linehaul Division" —American Trucking Associations Safety Management Council
@@ -545,21 +580,28 @@ ENTIRE INDUSTRY WAS LEVERAGING THE GREAT RECESSION AND 44 (POTUS) POLITICS TO MI
 - Gold Team Award —Lowe's Companies Inc.
 - LTL National Carrier of the Year —Walmart
 
+---
 
-### 2012 FREIGHT DIMENSIONER TECHNOLOGY PROCESS OVERHAUL PLUS IMPLEMENTATION
+#### 2012 TEAM AWARDS 
+`
+FREIGHT DIMENSIONER TECHNOLOGY INSTITUTION & TOTAL (DISRUPTIVE as MOST EFFECTIVE & IMMEDIATELY IMPACTFUL OF THE 3 PROGRAMS )  PROCESS OVERHAUL TO STANDARD WORK PROCESSES, EFFICIENCIES, AND BOTTOM-LINE IMPACT TO THE BLACK ALMOST WITH THE FLIP OF THE SWITCH.
+`<br>
+
+---
+
 - Carrier of the Year —Ames True Temper
 - First Place for Safety in the "General Commodities LTL/Local Division" —American Trucking Associations Safety Management Council
 - Third Place for Safety in the "General Commodities LTL/Linehaul Division" —American Trucking Associations Safety Management Council
 - Top 100 Motor Carrier —Inbound Logistics Magazine
 - Gold Team Award —Lowe's Companies Inc.
 
-
-### 2011 QUALITY MATTERS CAMPAIGN SAIA LTL TRADEMARKS CAMPAIGN
+#### 2011 QUALITY MATTERS CAMPAIGN SAIA LTL TRADEMARKS CAMPAIGN
 
 `
-Unsolicited Promotion awarded to C Brennan (formalities right?) by fmr VP of Linehaul Current VP at Schneider Mr Sir Rob Bulick - an amazing man & mentor.
-`
-<br>
+First Full Year as Terminal Operations Manager with Saia AtlDockOps Team 
+`<br>
+
+---
 
 - Super Regional LTL Carrier of the Year —Access America Transport
 - First Place for Safety in the "General Commodities LTL/Local Division" —American Trucking Associations Safety Management Council
@@ -570,11 +612,13 @@ Unsolicited Promotion awarded to C Brennan (formalities right?) by fmr VP of Lin
 - Interregional Quality Carrier of the Year —Ryder System, Inc.
 - Strategic Partner Carrier of the Year —Unishippers Global Logistics, LLC
 
-### 2010 SAIA TEAM AWARDS
+#### 2010 SAIA TEAM AWARDS
 
-`C Brennan puts earns stripes servicing the overnight due - service - and what is emphatically the heaviest region in the nation overnight due out the Atlanta break for 1 - year to the date & took to a lateral play - call to the ACO for a lesson in dispatchin' with Mr Sir Jong Choi - Champion at all things - hidden hero - GENIUS - WOKE
 `
-<br>
+Unsolicited Promotion awarded to C Brennan (formalities right?) by fmr VP of Linehaul Current VP at Schneider Mr Sir Rob Bulick - an amazing man & mentor.
+`<br>
+
+---
 
 - Super Regional LTL Carrier of the Year —Access America Transport
 - First Place for Safety in the "General Commodities LTL/Local Division" —American Trucking Associations Safety Management Council
@@ -585,13 +629,19 @@ Unsolicited Promotion awarded to C Brennan (formalities right?) by fmr VP of Lin
 - Silver Team Award —Lowe's Companies Inc.
 
 
-[this is my story; professional - side any way - as we all have at least 3 - most 4 right?](https://www.saia.com/about-us/awards "C Brennan Poole injured his back in the summer of 2012 forever changing the course of his life from a non - fault near - miss; spawning seven years of whole - truth wildernass walking with whole - gamut; got woke - they had jokes - i got angry - said some things, tried again, oh lord - I certainly did... We'll see")
+##### C PROFESSIONAL CAREER  
 
+`
+NATURAL SOJOURNER : C Brennan earns stripes servicing the overnight due - service - and what is emphatically the heaviest region in the nation overnight due out the Atlanta break for 1 - year to the date & took to a lateral play - call to the ACO for a lesson in dispatchin' with Mr Sir Jong Choi - Champion at all things - hidden hero - GENIUS - WOKE
+`<br>
+
+---
+
+[This is my story](https://www.saia.com/about-us/awards "C Brennan Poole injured his back in the summer of 2012 forever changing the course of his life from a non - fault near - miss; spawning seven years of whole - truth wildernass walking with whole - gamut; got woke - they had jokes - i got angry - said some things, tried again, oh lord - I certainly did... We'll see"); professional - side any way - as we all have at least 3 - most 4 right?
 
 ---    
 
 ## Skills
-
 
 `
 at the intersection of everywhere
@@ -615,45 +665,58 @@ Supply Chain | Telephone Skills | Total Quality Management | Vision | Writing | 
 
 ---
 
-###  COCA-COLA ATS - Overview :
+###  Skills Assessment : Application Tracking Systems Done Right at
 
 
 `
-on the highway to anywhere : $KO
+... Coca - Cola; 'hey! - How'd you do that?' enjoy... on the highway to anywhere : $KO
 `
 <br>
 
 --- 
 
 1. Business Administration
-`Cross-Functional Collaboration
+`cross-Functional Collaboration
 ` <br>
     - Experience in facilitation of multi-disciplinary teams
     - Logistics
 2. Leadership : 
-`
-Strong organizational and planning ability
+`strong organizational and planning ability
 `<br>
     - Teamwork and interpersonal skills with the 
     - Ability to communicate and execute strategies.
 3. Project Management : 
      - background that will drive collaborative working relationships to achieve incremental sales and supplier performance metrics.
 4. Six Sigma : 
-`Solid business acumen 
+`solid business acumen 
 `<br>
     - Strong Team Leadership
     - Strategic Thinking
     - Planning and Consulting Skills
-5. Strong negotiation and influencing skills.
-6. Writing /Presentation : Skills in English.
-7. Analytical rigour : balance *quantitative* and *qualitative*.
-8. Building Relationships – strong collaboration skills among peers in all organizational level.
+5. Strong negotiation
+`& influencing skills
+`<br>
+6. Writing /Presentation : 
+`Skills in English
+`<br>
+7. Analytical rigour : 
+`can balance the quantitative and qualitative
+`<br>
+8. Building Relationships
+`strong collaboration skills among peers in all organizational levels.
+`<br.
 9. Developing Talent
 10. Supply Chain Management
 11. Teamwork
-12. Accomplishes results through the coordination of a team of professionals as well as working cross-functionally.  
-13. Acts as an advisor to others and communicates deadlines clearly and consistently.
-14. The ability to apply forecasting techniques and skills to support region planning and apply the system knowledge to improve reporting process / model. 
+12. Accomplishes results through the coordination of a team of professionals.
+`working cross-functionally
+`<br>
+13. Acts as an advisor to others.
+`communicates deadlines clearly and consistently
+`<br>
+14. The ability to apply forecasting techniques and skills to support region planning. 
+`applies system knowledge to improve reporting process / model. 
+`<br>
 15. Budgeting, 
     - Planning and 
     - Forecasting Skills with 
@@ -665,35 +728,39 @@ Strong organizational and planning ability
         1. able to apply the skill in managing database and 
         2. ability to convert and 
         3. analyze the data.
-18. SAP/Hyperion Experience is a strong plus collaborative / team player.
+18. SAP/Hyperion Experience is a strong plus
+`collaborative / team player.
+`<br>
     - Effective Communication Skills. 
         1. Takes Ownership and 
         2. Acts with Integrity.
     - Ability to build endearing customer relationships.
-19. Proven leader of professionals.
+19. Proven leader 
+`leads peers with professionalism
+`<br>
     - Cross channel knowledge including QSR Foodservice and CR preferred 
     - Expertise in cross collaboration and project management due to nature of innovation mindset of the customer 
 20. Strong strategic thinking, 
-`
-Relationship - building
+`Relationship - building
 `<br>
     - Has professional Selling and 
     - Negotiation best-practices Skills. 
     - Working knowledge of C4V selling platform.
-21. Experience in developing successful Collaborative Business Plans and 
-    `
-    strong strategic thinking
-    `   
+21. Experience in developing successful Collaborative environments
+`Business Plans and strong strategic thinking skills
+`<br>   
     - Price / package plans to 
         1. Drive growth for retail customers and 
         2. History of delivering plan objectives.
 22. Ability to Lead 
-`Cross-functional teams
+`cross-functional teams
 `<br>
 23. Ability to thrive in a growth-oriented team environment    
-`
-Strategic thinking who;
-24. Active listening and authentic engagement with 
+`Strategic thinking
+`<br>
+24. Active listening
+`authentic engagement with
+`<br>
     - associates and 
     - team leads with 
         1. observations, 
@@ -714,28 +781,27 @@ Technical math skills
     - Basic grammar, and 
     - Technical writing skills. 
 29. Assist in development and presentation of SES-related training topics. 
-`
-technical writer
+`technical writer
 `<br>
 30. Assist implementation of safety programs and/or procedures for new line installations.
     - i.e. in electrix
 31. Work with Maintenance Department to track completion of safety work orders.  
 32. Work up to ~12~ make that 16 - 20 hours, overtime, and weekends to meet the business requirements.
-`
-cost objectives
+`cost objectives
 `<br>
     - Ensure all tasks are performed toward achieving the safety, quality, and service.
     - Demonstrate good attendance in accordance with plant attendance guidelines. • Self starter, ability to work with limited direction. 
 33. Ability to present topics to small and large groups of people. 
 34. Attend SES Committee Meetings. 
-35. Demonstrated ability. More than qualified to facilitate 
-`
-team-based problem-solving
+35. Demonstrated ability. 
+`More than qualified to facilitate team-based problem-solving
 `<br>
     - Advanced Risk Assessment, 
     - Incident Investigation and 
     - Five Why methodology. 
-36. Lead Gemba events and work on root cause analysis.   
+36. Lead Gemba events. 
+`work on root cause analysis.   
+`<br>
 37. First-Aid and 
 `CPR trained 
 `<br>
@@ -744,11 +810,11 @@ team-based problem-solving
 `<br>
     - Industry and business best practices to guide thought leadership and ensure effective procurement strategies. 
     - Includes the ability to recognise value creation opportunities within the supply chain.
-39. Create and manage databases for reporting.
+39. Create and manage databases.
 `
-insightful analysis
+insightful analysis of database management as a proficient business analysis & data scientist
 `<br>
-    - Maintain and update category spend and 
+    - Maintain, update category spend, and 
     - Volumes.
 40. Executes Business Results in a
 `
@@ -773,51 +839,45 @@ knowledge of the Truth
 `<br>
     - of and ability to articulate to senior management  the 
     - benefits of supporting cross-functional objectives to 
-         - achieve the business plan.
+         1. achieve the business plan.
 45. Deep Ecommerce knowledge; understands the
 `Digital Customers Landscape
 `<br>    
    - or Journey. 
 46. Understands industry research and trends and 
-`
-anticipates variables
+`anticipates variables
 `<br>
     - future customer &
          1. Market needs.
 47. Drives Innovation.
 48. Strategic Thinker.
-`
-positive influencer
+`positive influencer
 `<br>
     - and negotiator.
     - Shopper knowledge.
 49. Adaptability.
 50. Project management : 
-`
-task - driven affect leader
+`task - driven affect leader
 `<br>
 51. Effective communication & Interpersonal Savvy : 
-`
-Team-building 
+`Team-building 
 `<br>
     - Ability
         1. Brings key stakeholders together.
 52. Value chain experience
-`
-financial skillset
+`financial skillset
 `<br>
     - Excellent Project / Program Management Skills.
     - Effective Communications Skills
     - Verbal and Written.
 53. Ability to Lead Cross-functional teams to Deliver Results.
-`
-technically proficient
+`technically proficient
 `<br>
     - Expertise in Innovation,
     - Logistics, and the 
     - the North American infrastructure 
-        - i.e. interstate and highway systems i.e. 
-        - the global leader and most innovative supply chain on the planet. 
+        1. i.e. interstate and highway systems i.e. 
+        2. the global leader and most innovative supply chain on the planet. 
 
 ---
 
