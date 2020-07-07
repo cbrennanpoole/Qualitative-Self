@@ -7,8 +7,10 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## Describe the bug  
+`
+What, Where, How, Who
+`<br>
 
 **To Reproduce**
 Steps to reproduce the behavior:
@@ -23,14 +25,39 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+## Desktop (please complete the following information) :
+`
+ mac : pc : chromebook 
+`<br>
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
+- [x] OS: [i.e. iOS]
+- [ ] Browser
+    - [ ] Firefox
+    - [ ] Chrome (_version_)
+    - [ ] Safari (device 
+    - [ ] Opera
+    - [ ] Edge
+    - [ ] Other : __specify please__
+- [ ] Version : [i.e. 22]
+
+** Mobile Phones (please complete the following information):**
+`
+iOS & Android 
+!
+
+
+
+
+
+
+
+
+- [ ] Android 
+    - [ ] Brand
+    - [ ] Version (if applicable / available
+- [ ] iOS: 
+    - [ ] Model 
+    - [ ] Version 
  - Browser [e.g. stock browser, safari]
  - Version [e.g. 22]
 
