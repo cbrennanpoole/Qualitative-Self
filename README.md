@@ -55,15 +55,10 @@ yes;
 `
 i accept.
 `
+---
+
 <br>
-
-
-```
-
-to create a truly meritocratic digital community that knows no bounds; understands the categorical labels and need for them in organizational behavior but doesn't apply them to himself or community, and to help create a sustainable, profitable business that future generations will look to.
-
-```
-
+> to create a truly meritocratic digital community that knows no bounds; understands the categorical labels and need for them in organizational behavior but doesn't apply them to himself or community, and to help create a sustainable, profitable business that future generations will look to.
 <br>
 
 ---  
@@ -104,12 +99,13 @@ higher learning
 
 ---
 
-### Georgia State University, Atlanta, GA.
+### Georgia State University
+    
+    33 Gilmer Street Atlanta, GA 30315 
 
 `
 Faculty Scholar 2004 | Dean's List 2005 | Class of 2006
-`
-<br>
+`<br>
 
 ---    
       
@@ -126,7 +122,7 @@ Faculty Scholar 2004 | Dean's List 2005 | Class of 2006
                 2. best business practices.<br>
             - Kaizen Leadership.<br>
                 1. Continuous Improvement 
-                   - Still learning the **integration continuum**.   
+                   - Still learning the integration continuum.   
                 2. Kanban 
                    - Project Management. 
                    <br>
@@ -161,10 +157,10 @@ No 1 : the real thing
 
 ---
 
-### Expensive Curriculum i.e.
+### Postsecondary i.e.
 
 `
-postsecondary ... have a coke on me
+expensive curriculum ... have a coke on me
 `
 <br>
 
@@ -185,8 +181,7 @@ BUSA 3000 Globalization and Business Practices | MK 3010 Basic Marketing | BUSA 
 
 `
  7 - 3. 3 - 11. 11 - 7. 
- `
- <br>
+ ` <br>
 
 ---
 
@@ -207,8 +202,7 @@ Writing a Compelling Blog Post | Why are Opioids So Addictive (University South 
 
 `
 am i doing okay?
-`
-<br>
+`<br>
 
 ---
 
@@ -220,8 +214,7 @@ am i doing okay?
 
 `
 not too thick? the coke float!
-`
-<br>
+`<br>
 
 ---
 
@@ -273,19 +266,19 @@ Covington, GA | Nov 2018 - Present <br>
 ##### ON 1 July, 2020. 
 
 `
-Wilderness Walking while wandering and wondering would wind - down in the 7 years joy from suffering journey it all-too-often times does helping to make c brennan once - and with Good Lord willing - for all - is once again in the practice of helping others in making sustainability sustainable. 
+Wilderness Walking while wandering and wondering would wind - down in the 7 years joy from suffering journey helping to make c brennan be able to once more start helping others mantra : in the business of making sustainability sustainable business. You are mean! SEO Friendly? 
 `<br>
 
 ---
 
-- Needs : 
+- Need : 
     1. Like - minded, 
-    2. Change the game, and 
-    3. Get rich enjoying the run; 
-        - Seeks 
-            1. Geeks for 
-            2. Team 
-            3. Chief in CTO seat.
+        - Change the game for generations to come;  
+        - Must get rich while enjoying said run; 
+            1. Seeks 
+                - Geeks for 
+                - Team 
+                - Chief in CTO seat.
                 - Notice (again)  
                    1. Bottoms Up, right? 
                    2. Great! 
@@ -445,15 +438,11 @@ DISPATCH SUPERVISOR
                 1. Regional Managers, 
                 2. C-Suite ( bottoms : up as mentioned ) 
         - Pro-active planning using a predictive forecasting algorithm and logarithmic model as co-authored with Jong Choi in Linehaul Planning. 
-        - Produce an environment conducive to excellence creating consistence in KPIs and confidence in the budding team that was about to rocket launch their carrers throughout the network making a definitive and sustainable impact on the carrier and industry for years to come. 
+        - Produce an environment conducive to excellence creating consistence in KPIs and confidence in the budding team that was about to rocket launch their carrers throughout the network making a definitive and sustainable impact on the carrier and industry for years to come. <br>
 
-----
+---
 
-```
-
-NOTE : team effort and shared team success as several key players on the NSH, MPS, OKC region teams would be promoted and nationally distributed to spawn similar results and deliver sustainable impact; the playbook : The State Way (Robinson College of Business) + the case study on kaizen leadership, sustainable models, and champion of earth author Kiichiro Toyoda i.e. Toyota Production Systems i.e. The Toyota Way 2001. 
-
-```
+> NOTE : team effort and shared team success as several key players on the NSH, MPS, OKC region teams would be promoted and nationally distributed to spawn similar results and deliver sustainable impact; the playbook : The State Way (Robinson College of Business) + the case study on kaizen leadership, sustainable models, and champion of earth author Kiichiro Toyoda i.e. Toyota Production Systems i.e. The Toyota Way 2001. 
 
 #### Saia LTL Freight Inc <br>
 
@@ -558,10 +547,10 @@ Stockbridge, GA  | Dec 2003 - Jan 2005 <br>
 
 ---
 
-### Shared Awards : Service as a Singular Unit 
+### Shared Awards : 
     
 `
-Solo Continent & Indivual - Healing - Whole - (freakin') - Earth
+Service is only successful on an enterprise level as a Singular Unit no matter the scope 
 `<br>
 
 ---
@@ -666,11 +655,10 @@ Supply Chain | Telephone Skills | Total Quality Management | Vision | Writing | 
 
 ---
 
-###  Skills Assessment : Application Tracking Systems Done Right at
-
+###  Skills Assessment : Application Tracking Systems
 
 `
-... Coca - Cola; 'hey! - How'd you do that?' enjoy... on the highway to anywhere : $KO
+ Done Right at ... Coca - Cola; 'hey! - enjoy ... on the highway to anywhere :
 `
 <br>
 
@@ -722,20 +710,22 @@ Supply Chain | Telephone Skills | Total Quality Management | Vision | Writing | 
     - Planning and 
     - Forecasting Skills with 
     - Attention - to - Detail.
-16. Problem Analysis and 
-    - Problem Solving. 
+16. Problem Analysis 
+    `Problem Solving
+    `<br>
 17. Accounting Experience.
-    - Proficient in Excel : 
-        1. able to apply the skill in managing database and 
-        2. ability to convert and 
-        3. analyze the data.
+    `Proficient in Excel
+    `<br>
+    - able to apply the skill in managing database and 
+    - ability to convert and 
+    - analyze the data.
 18. SAP/Hyperion Experience is a strong plus
 `collaborative / team player.
 `<br>
     - Effective Communication Skills. 
         1. Takes Ownership and 
         2. Acts with Integrity.
-    - Ability to build endearing customer relationships.
+- Ability to build endearing customer relationships.
 19. Proven leader 
 `leads peers with professionalism
 `<br>
@@ -836,7 +826,7 @@ identifies problems
     - Financial reports.
 44. Cross Functional Relationships : 
 `
-knowledge of the Truth
+Knowledge of the Truth
 `<br>
     - of and ability to articulate to senior management  the 
     - benefits of supporting cross-functional objectives to 
