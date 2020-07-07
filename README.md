@@ -39,29 +39,33 @@ at C's condensed CVs
 [Download pdf File](https://bit.ly/dark-theme-resume) | [Download pdf file](https://bit.ly/twenty-20-CV)
 
 
-[Interactive Heatmap i.e. 'The Quantified-Self'; a Google Sheets Project](https://bit.ly/The-Quantified-Self-twenty-20 "I thought I was onto something with this creation, as it turns out - the world wide web is truly a black abyss - unless you have ad-spend or take to plagiarizing to please the ATS, which I refuse anymore; utterly refuse.")
+[Interactive Heatmap |Quantified-Self : Google Sheets](https://bit.ly/The-Quantified-Self-twenty-20 "I thought I was onto something with this creation, as it turns out - the world wide web is truly a black abyss - unless you have ad-spend or take to plagiarizing to please the ATS, which I refuse anymore; utterly refuse.")
 
 ---
 
 ## My Mission
 
----     
-
 `
 yes; i accept.
 `<br>
+---
+
+```
 
 to create a truly meritocratic digital community that knows no bounds; understands the categorical labels and need for them in organizational behavior but doesn't apply them to himself or community, and to help create a sustainable, profitable business that future generations will look to.
 
----  
-
-## Professional Table
+```
 
 ---  
+ 
+
+## Professional Table     
 
 `
 dad can do datasets
 `<br>
+
+---  
 
 No # | Position | Employer | Physical Address | Start Date | End Date | (Promotion Y/N) | Contact
 :---|:---:|:---:|:---:|:---:|:---:|:---:|---:
@@ -114,12 +118,12 @@ Faculty Scholar 2004 | Dean's List 2005 | Class of 2006
     
 ---
 
-## Body - of - Work : 
+## Upperclass Stats : 
 
 ---
 
 `
-lean on me : k - 16
+lean on me : 12 - 16
 `<br>
     
 No | school | city | state | start | end | details | add'l    
@@ -141,9 +145,9 @@ No 1 : the real thing
 
 ### More Expensive Curriculum i.e.
 
----
 
-`have a Coke on me + postsecondary  
+`
+postsecondary ... have a coke on me
 `<br>
     
 MGS 4740 Operations Strategy | MGS 4760 Total Quality Management | MGS 4700 Operations Management  
@@ -162,7 +166,7 @@ BUSA 3000 Globalization and Business Practices | MK 3010 Basic Marketing | BUSA 
 ---
 
 `
- 7 - 3. 3 - 11. 11 - 7 
+ 7 - 3. 3 - 11. 11 - 7. 
  `<br>
 
 Raising Capital | Creating the Conditions for Others to Thrive | Developing a Learning Mindset | Learning Data Science
@@ -180,17 +184,16 @@ Writing a Compelling Blog Post | Why are Opioids So Addictive (University South 
 
 ## Summary
 
----    
 
 `
-doing okay?
+am i doing okay?
 `<br>
 
 > Operations strategist determined to provide total Customer Satisfaction by fostering and mentoring the people process, developing cross-functional collaborative environments; while using creative problem solving techniques and establishing easy to understand but increasingly difficult to achieve key performance indicators.
 
 ---
 
-# Work History
+# Real - time Real - life Experience
 
 ---
 
@@ -203,11 +206,11 @@ not too thick? the coke float!
 ### with Wind LLC <br>
 
 `
-CREATIVE STRATEGIST
+CREATIVE STRATEGIST & PRINCIPAL OPS CHIEF
 `<br>
 Covington, GA | Nov 2018 - Present <br>
 1. Deliver 4,000% growth YOY (1 / 19 - 1 / 20); increase followers + 750% (July '20).
-2. Acknowledgement for sustainable IMPACT 
+2. Sustainable Impact Award Recognition by Climate Collaborative 
     - set to be recognized on Climate day; novel coronavirus cancellation causation. 
 3. Invite to GovCity III cohort for SXSW 2020 and 2nd invite to startup festival after the 
     - unsolicited offer from SXSW 2020 Executive Producer extended an invite (to apply; also a COVID.CARES cancellation ). 
@@ -217,24 +220,42 @@ Covington, GA | Nov 2018 - Present <br>
     - Inc 5000, 
     - Red Oak Labs. 
 6. Invite to be featured on AMC Networks by 
-    - newswatch 06/20.
-7. Invites and shortlists by 
+    - NewsWatch would send three inquiries 20 Jun - 23 2020 (note : with Wind *did not nor do we take to 'chasing'*).
+7. Invitation & short-list offers 
     - Learn Launch, 
     - Hatch Pitch, 
     - Gener8tor. 
 8. Chief Executive of dribbble; Zack Onisko, drafts to platform; as non-designer and like-minded growth - hack.
-9. Grow Pinterest company page to over 
-    - 500,000 views / month; literally ‘in the midst’ of novel quarantine states of global confusion; 
-    - increasing engagement well over 50% for February and March 2020 attaining 
-    - over 2.5 million in impressions past 90 days (Apr - Jul '20). 
-10. Maintain and continue to create a +9.5% engagement rate on LinkedIn’s with Wind Company Page. 
-11. Google Cloud for Startups & Google Cloud Next participant. 
-12. Hatch by Digital Ocean recipient. 
-13. Segment for Startups. 
-14. Amazon (AWS) partner path.
-15. Microsoft partner path.
-16. *Do you want to build a snowman? I have plenty of ice ready - in - wait y'all*!
-
+9. Achieve Popular on Pinterest status with  
+    - 500,000 + views / month ( average 02/2020 - 06/2020 ); 
+        - ‘in the midst’ of novel quarantine states of global confusion; 
+    - Drive engagement analytics over 50% growth month-over-month (Feb and Mar 2020) attaining 
+        - > 2.5 million / impressions past 90 days (Apr - Jul '20).
+        - + 300% increase of actionable engaged audience (same timeline).
+10. Establish +9.5% engagement rate on LinkedIn’s with Wind Company Page. 
+    - Sustainable impact YOY holding the average.
+11. Google Cloud for Startups 
+    - [Google Cloud Next Participant starting 14 July, 2020](https://g.co/cloudnext "free to register and participate; i have thousands to spend, let's talk!").
+        - Leadership Participant.
+12. [Hatch Startup Program by Digital Ocean](https://www.digitalocean.com/hatch/ "10k in credits lets Develop already!") Participant.
+13. [Segment for Startups](https://segment.com/industry/startups/ "up to 1 million and I've found sustainable : seek geeks and whispering direct injects via Git.actionable y'all") 
+14. [Amazon (AWS) partner path](https://aws.amazon.com/partners/training/ "is there anybody out there? Just hit me at git.actionable@chasingthewindllc.com")
+15. [Microsoft partner](https://partner.microsoft.com/en-US/membership/competencies "it takes two; that's you! Yes You! +1 678-338-7339 Yes equity" ) Path.
+16. *Do you want to build a snowman?* 
+    - Found sustainable 1 July, 2020. 
+        - Need : 
+            1. like - minded, 
+            2. change the game, and 
+            3. get rich enjoying the run; 
+        - Seeks 
+            1. Geeks for 
+                - Team 
+                - Chief in CTO seat.
+                    1. Notice the 
+                        - Bottoms Up, right? Great! 
+        - Let's build a true meritocracy to 
+            1. fix US + 
+            2. IT Gates!
 
 ---
 
@@ -253,7 +274,7 @@ Virtual | Oct 2017 – Jan 2018 <br>
 
 ### Pine Hills <br> 
 
-`LANDSCAPER
+`LANDSCAPE & GENERAL MAINTENANCE
 `<br>
 Stockbridge, GA  | Aug 2016 – Aug 2017 <br>
 1. Take ownership of the residential development by demonstrating unquestionable work ethic while nurturing and nursing the land and serving as caregiver to the community. 
@@ -261,17 +282,18 @@ Stockbridge, GA  | Aug 2016 – Aug 2017 <br>
 
 ---
     
-## Leadership Roles     
-    
---- 
+## Professional Leadership Roles     
 
 `
 Ain't nothing but the Real Thing Baby!
 `<br>
+    
+--- 
 
 ### Annex Freight Systems Inc <br>
 
-`DISPATCH SUPERVISOR
+`
+DISPATCH SUPERVISOR
 `<br>
 Newnan, GA  | Mar 2013 - Oct 2013 <br>
 1. Provide pipeline management and logistics analysis for rail, truck-load, and less than load (LTL) customers eliminating no less than $60,000 in shipping expense for customers. 
@@ -282,9 +304,9 @@ Newnan, GA  | Mar 2013 - Oct 2013 <br>
 ### Saia LTL Freight Inc <br> 
 
 `
-OPERATIONS MANAGER
+TERMINAL OPERATIONS MANAGER
 `<br>
-Ellenwood, GA | Jul 2011 - Feb 2013 <br>
+Ellenwood, GA | Jul 2011 - Feb 2013 <br>    
 1. Design, Develop, and implement daily ops plan to ensure 98.6% on-time service standard. 
     - Consisting of approximately 650,000 to 1.5 million pounds of overnight due-service origin freight, and 
     - Approximately 4 to 6 million pounds in-bound break tonnage due-in nightl
@@ -321,11 +343,12 @@ Ellenwood, GA | Jul 2011 - Feb 2013 <br>
 ---    
 
 ### Saia LTL Freight Inc <br>
+
 `
 DISPATCH SUPERVISOR
 `<br>
  Johns Creek, GA | Jul 2009 - Jul 2011 <br>
-1. Regional travel providing terminal ops team  
+1. Regional travel providing DockOps team  
     - training,  
     - tutoring, tips, and  
     - organizational education, at the discretion of the Vice President of Line Haul.  
@@ -336,72 +359,128 @@ DISPATCH SUPERVISOR
     - peer recognition for Memphis and Oklahoma City regional operations teams.  
 3. Call center setting 600-minute shifts and 480-minute phone time expectation,  
     - Averaged over 530 minutes at all times.  
-    - Take ownership of approximately 250-325 nightly incoming calls of concern  
-    - Provide assurance as needed and attempting to always deliver patient yet confident directives.  
-    - Express appreciation for the drivers oftentimes forgotten role in the operation.
-4. Forge a genuine relationship with drivers of responsibility through 
-    - Active listening and  
-    - Conflict resolution.  
-5. Build rapport while following through on all issues and requests in an efficiant manner.  
-6. Plan scehduled time-off effectively and without fail as to maintain integrity and honor all approved time off requests.  
-    - Allow SOP to guide by following letter of law and making exceptions or allowing for excuses.  
-7. Articulate expectations clearly and concise.  
-8. Develop an efficient and autonomous set workflow processes establishing a more adaptive and accountable workforce with all-new standards of service.  
-9. Push to improve regional perspective  
-    - Defining benchmark measure at 98.6%  while progressively improving to a 99.4% SOP.  
-        1. Created the catalyst to an almost instant recognition,  
-        2. Receiving multiple service awards, including   
-            - best break-bulk, and   
-            - most improved regional service standards.   
-        3. Serve as liaison for  
-            - terminal ops,  
-            - sales force,  
-            - specialized shipping,  
-            - regional management, and  
-            - executive leaders,   
-            - drivers,  
-            - interline carriers, and  
-            - customer service department;  
-        4. Pro-actively reacting to the daily variables while perfecting the  
-            - planning,  
-            - prediction forecasting, for the daily controllable areas;  
-        5. Produce an environment conducive to excellence that executes consistently.  
+    - Ownership of 250-325 average nightly calls of concern from all angles.  
+    - Assurance Supervisor : Empathetic ear as needed; attempting to always deliver 
+        - Patient 
+        - Confident standark work processes.
+    - Express appreciation for line and city drivers' as
+        - in-house surveys and feedback continued-to-show : 
+            - driver-to-dispatch and 
+            - drivers-to-dockOps Team 
+                - relations were in a continual decline in recent years.
+4. Forge authentic relationship with region & drivers-of-responsibility through 
+    - Active listening,
+    - People Empowerment, 
+    - Continuous Improvement mind-set, 
+    - Inclusive & Transformative leadership strategy.
+    - Consistancy in day-to-day interactions; especially with 
+        - Conflict resolution, 
+        - Call - off expectations, 
+        - Seniority SOP.
+5. Build rapport by following through without fail. 
+6. Plan-to-cover and pre-plan efficiently for 
+    - Driver time-off requests; 
+        - If Drivers could begin to follow the standard work  process
+        - Accepting the long - standing rules in place while also not waivering or making regular exceptions
+    - Requests were honored; further improving the KPI most in-need of immediate improvement.
+7. Articulate expectations in a 
+    - clear and 
+    - concise manner.    
+8. Develop efficient, near autonomous set of workflow processes to 
+    - establishing more adaptive and accountable workforce with 
+        - all-new customer service standards; the formula 
+            - positive reinforcement + continuous improvement + people empowerment equals epitome of sustainable leadership.  
+9. Improve the regional Ops perspective (as the Memphis OKC regions were not the most sought after upon entry).   
+    - Define clear expections : setting the benchmark (standard expectation directly inline with the company expectation of 98.6%; while 
+        - created an environment conducive to continuous improvement that would halt and catch fire the 2nd year; ultimately 
+            - establishing and further improving on a 99.4% SOP after departure from position.  
+            - Creating catalyst to almost instant recognition,  
+                1. Recepient (as team unit) of multiple internal service awards, including   
+                    - best-in-class break ( medium terminals MPS, TN with Joe Boykin 2010) , and   
+                    - best-in-class relay ( OKC + TUL terminal 2010 ) 
+                    - most improved regional service standards (MPS & OKC regions).   
+        3. Serve as liaison / conduit to growth for   
+            - terminal DockOps,  
+            - Sales Unit,  
+            - Specialized & Accelerated Shipping,  
+            - Drivers,  
+            - Interline carriers (3rd party), and  
+            - Customer Success Team, and finally;
+                1. Regional Managers, 
+                2. C-Suite ( bottoms : up as mentioned ) 
+        4. Pro-active planning using a predictive forecasting algorithm and logarithmic model as co-authored with Jong Choi in Linehaul Planning. 
+        5. Produce an environment conducive to excellence creating consistence in KPIs and confidence in the budding team that was about to rocket launch their carrers throughout the network making a definitive and sustainable impact on the carrier and industry for years to come. 
 
 ----
+
+```
+
+NOTE : team effort and shared team success as several key players on the NSH, MPS, OKC region teams would be promoted and nationally distributed to spawn similar results and deliver sustainable impact; the playbook : The State Way (Robinson College of Business) + the case study on kaizen leadership, sustainable models, and champion of earth author Kiichiro Toyoda i.e. Toyota Production Systems i.e. The Toyota Way 2001. 
+
+```
 
 ### Saia LTL Freight Inc <br>
 `
 OPERATIONS SUPERVISOR
 `<br>
 Ellenwood, GA | Mar 2008 - Jul 2009 <br>
-1. Monitor, oversee, guide, and provide proper work direction to assigned production associates.  
-2. Support meeting production metrics and develop a daily checklist to   
-    - guarantee on-time service standard 98.6%,   
-    - on time close schedule of 93.5%, and   
-    - on time departure 96.5%.  
-3. Improve quality through dock mentor program and education, including cross-training production associates and peers.  
-4. Pro-active analysis trends and identify patterns to develop a proposal for new due service schedule (or eliminate existing schedule by building loads with multi-point destinations).  
-4. Implement   
-    - six-sigma management principles,   
-    - support management goals and   
-    - develop staff to achieve ongoing improvement.  
-5. Verify all service freight has been  
-    - picked up,  
-    - accounted for,  
-    - handled properly,  
-    - loaded and   
-    - either closed or over the road (OTR) in AS400 software, with a plan to depart on time to destination to ensure service time.  
-6. Establish next day operations game plan by reviewing inbound tonnage levels.  
-7. Ensure zone has the equipment to load on and reconcile equipment number to match status in software.  
+1. Monitor, oversee, guide, and support proper work direction to 
+    - professional freight handlers 
+    - Line Drivers 
+    - City (PUD) Drivers
+    - Interline (3rd Party) extensions of organization (Drivers), 
+    - DispatchOps, 
+    - Clerical Associates.  
+2. Support meeting of production metrics to establish a continuous improvement environment and engaged workforce with development of simple process; a daily check-list for 
+    - Professional Freighthandlers, 
+    - Peers in cross-functional collaboration with 
+        - AtlDispatchOps (Linehaul Dispatch). 
+    - Provide Guarantee of on-time customer service standard of 98.6% by working tirelessly to improve the controllables i.e.
+        - on-time close schedule, meeting or exceeding the 93.5% rate of on-time closes ( direct controllable ), and   
+        - on time departure 96.5% (indirect controllable). 
+3. Improve quality implementing an already well-established but not utilized dock mentor program and daily education during safety meetings,
+    - emphasizing a cross-functionall training of production associates and peers that encouraged (rather than the previous practice of discouraging) the changing of day and night shifts on the Friday and Saturday shift; 
+        - Immediate boost in employee morale as it was an ask they had all-but demanded for years, and 
+        - Further fuel the increasingly difficult to achieve KPIs the team had begun looking forward to beating. 
+4. Trend analysis, demand-planning, and overall statistical analysis of seasonal trends in tonnage and seasonal workforce issues helping to 
+    - identify patterns to develop a proposal for new due service schedule for linehaul runs or 
+    - eliminate existing schedule by building loads with multi-point destinations, and 
+    - increase hiring efforts earlier than strategy had set - forth (hiring in Jan and Feb to have a cross-functionally proficient unit of part - time associates to cover the seasonal up-tick in vacation requests that aligned with school season and seasonality of vacationing for the nation Saia was expected to service (This is US, not the current US; correction : This was US, no mas - unfortunately for US). 
+5. Implement   
+    - six-sigma management principles,
+    - Pull just-in-time (J.I.T.) workflow models 
+        - yard hostler change in standard work process. 
+        - shift dock stand to areas more conducive to the employee than the supervisor-of-responsibility (bottoms up again).
+    - Support upper - management goals and regional management expectations by offering the terminal perspective at quarterly meetings, and   
+        - develop staff to fall-in-line helping to further achieve the goal of 
+            - always on A / B testing,
+            - real - time human resources establishing a body of 
+                - continuous 'integration / improvement'.
+5. Verify nightly thru report reconciliation due - service freight;   
+    - had been picked up,  
+    - was accounted for,  
+        - handled properly,  
+        - loaded out and either 
+            - Closed and Load - to - Ride (LTR) or 
+            - Over-the-road (OTR); 
+        - ensure AS400 (dos-based) became a daily task with a continuous reconciliation strategy, 
+           - with plan for departure and direct verification with the linehaul unit; which 
+               - further tore - down barriers that were in place cross - functionally among the various units that had begun to stagnate due to groupthink rathter than thrive through collaboration as was the prescription (placebo i.e. spoonful of sugar) AtlDockOps didn't know they were in need of. 
+6. Establish DailyOps game - plan (as the excel sheet was labelled - no hyper-link unfortunately. 
+7. Ensure zone has sufficient equipment to load on
+    - Reconcile equipment in reality with 
+        - that of the GUI matching of trailers and 
+    - preparation of manifest for 
+        - checks and balances process that was beginning to be disregarded. 
 8. Create a fluid transition and encourage cross-function collaboration with inbound operation team by 
     - reconciling due service,   
-    - monitoring and  
-    - auditing national account shipment status,  
-    - verifying shipments have been   
+    - monitoring incoming freight levels and late - morning dues service to 2-day points (Toledo, Cincinnati, Indianapolis, Detroit, etc.) and  
+    - audit national account incessantly while gaining an intimate understanding of companies single largest shippers i.e. Lowe's Inc., Sherwin Williams, Behr, Home Depot, etc. 
+    - Verifying and sign-off of shipments in loading status (LOA) by establishing a daily crossover and 'walk-the-doors' standard work process with incoming supervisor, peer, and come to find out (thanks to the process originally frowned upon ) a lifetime friend; the freight must be : 
         - blocked,  
         - braced, and   
         - pin-wheeled, and   
-9. Verify zone is ready for cross - over, 
+9. Verify zone is ready for cross - over by double - checking the stations to ensure, 
     - tools - in - place, 
     - doors chocked & blocked.
     - equipment / load bars stowed. 
