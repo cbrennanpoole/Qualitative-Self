@@ -35,17 +35,21 @@ Dark Theme Doc | ATS Friendly Resume
 
 ## My Mission
 
-`yes; i accept.`<br>
+`yes; i accept.` 
+
+<br>
 
 > to create a truly meritocratic digital community that knows no bounds; understands the categorical labels and need for them in organizational behavior but doesn't apply them to himself or community, and to help create a sustainable, profitable business that future generations will look to.
 
 
 ## Professional Table     
     
-`dad can do datasets`
+`dad can do datasets` 
+
+<br>
     
 No # | Position | Employer | Physical Address | Start Date | End Date | (Promotion Y/N) | Contact
-:---|:---:|:---:|:---:|:---:|:---:|:---:|---:
+:---|:---|:---|:---:|:---:|---:|---:|---:
 1 | Chief Principal | Chasing the Wind, LLC | Covington, GA | Nov 2018 | Present | N | (470) 327-2626
 2 | Logistics Coorginator | Amazon Logistics | Stockbridge, GA | Oct 2017 | Feb 2018 | N | Unknnown (VPN)
 3 | Maintenance & Landscape  | Pine Hills | Stockbridge, GA | Aug 2016 | Aug 2017 | Y  | (770) 474-1870 
@@ -59,6 +63,8 @@ No # | Position | Employer | Physical Address | Start Date | End Date | (Promoti
 11| Trainer & Manager | Italian Oven | Stockbridge, GA | Dec 2003 | Jan 2005 | Y | (770) 507-4827
 12 | Customer Service Associate | Lowe's Inc | Stockbridge, GA | March 2003 | Nov 2003 | Y | (770) 506-9665
 13 | Freight Handler | Roadway Express Inc | Atlanta, GA | Aug 2002 | Feb 2003 | Y | Out-of-Business  
+
+
 <br>
 
 
