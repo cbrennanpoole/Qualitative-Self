@@ -8,7 +8,9 @@ well - over - Qualified Self : DOB 10 May, 1983 | Sign : Taurus | Albany, GA | H
 
 
 ## C Brennan Poole
-`as a growth - hack, this snippet is the best wisdom you will attain from entire site` `(drumroll..3...2...1)` : dropped the '-asey'. i.e. no more 'chasing'; do you want to go 'NASCAR racing'? It is a bit of riddle but it is 'verily verily' simple. The '_' should be the clear giveaway(s) x 4.   
+
+`as a growth - hack, this snippet is the best wisdom you will attain from entire site` `(drumroll..3...2...1)` : 
+dropped the '-asey'. i.e. no more 'chasing'; do you want to go 'NASCAR racing'? It is a bit of riddle but it is 'verily verily' simple. The '_' should be the clear giveaway(s) x 4.   
 
 ---
 
@@ -23,6 +25,7 @@ well - over - Qualified Self : DOB 10 May, 1983 | Sign : Taurus | Albany, GA | H
 [Interactive CV on Google Sheets](https://bit.ly/The-Quantified-Self-twenty-20 "I thought I was onto something with this creation, as it turns out - the world wide web is truly a black abyss - unless you have ad-spend or take to plagiarizing to please the ATS, which I refuse anymore; utterly refuse.")<br>
 
 ### Resume : More Traditional :
+
 `Curriculum Vitae`<br>
 
 Dark Theme Doc | ATS Friendly Resume 
@@ -32,25 +35,21 @@ Dark Theme Doc | ATS Friendly Resume
 
 ## My Mission
 
-`---<br>
-yes; i accept.
-`<br>
+`yes; i accept.`<br>
 
-<br>
 > to create a truly meritocratic digital community that knows no bounds; understands the categorical labels and need for them in organizational behavior but doesn't apply them to himself or community, and to help create a sustainable, profitable business that future generations will look to.
-<br>
- 
+
 
 ## Professional Table     
-
-`dad can do datasets`<br>
-
+    
+`dad can do datasets`
+    
 No # | Position | Employer | Physical Address | Start Date | End Date | (Promotion Y/N) | Contact
-:---|:---:|:---:|:---:|:---:|:---:|:---:|---:
+:---|:---:|:e---:|:---:|:---:|:---:|:---:|---:
 1 | Chief Principal | Chasing the Wind, LLC | Covington, GA | Nov 2018 | Present | N | (470) 327-2626
 2 | Logistics Coorginator | Amazon Logistics | Stockbridge, GA | Oct 2017 | Feb 2018 | N | Unknnown (VPN)
 3 | Maintenance & Landscape  | Pine Hills | Stockbridge, GA | Aug 2016 | Aug 2017 | Y  | (770) 474-1870 
-4 | Self-employed (Freelance) | Sub-Contract Work | Stockbridge, GA | Feb 2014 | Jan 2017 | N | (678) 856-5729
+4 | Selffffff-employed (Freelance) | Sub-Contract Work | Stockbridge, GA | Feb 2014 | Jan 2017 | N | (678) 856-5729
 5 | Dispatch Supervisor | Annex Freight Systems | Newnan, GA | March 2013 | Nov 2013 | N | x
 6 | Operations Manager | Saia LTL Freight Inc | Ellenwood, GA | July 2011 | Feb 2013 | N | (800) 950-7242
 7 | Dispatch Supervisor | Saia LTL Freight Inc | Johns Creek, GA | July 2009 | July 2011 | Y | (800) 315-7242
@@ -65,19 +64,13 @@ No # | Position | Employer | Physical Address | Start Date | End Date | (Promoti
 
 <br>
 ## Institutional Framework
-     
-`
-i.e. higher learning 
-`
-<br>
----
+
+`i.e. higher learning <br>`<br>
 
 ### Georgia State University
-    <br>33 Gilmer Street Atlanta, GA 30315<br>    
-`Faculty Scholar 2004 | Dean's List 2005 | Class of 2006`
-<br>
----    
-      
+`33 Gilmer Street Atlanta, GA 30315`<br>    
+`Faculty Scholar 2004 | Dean's List 2005 | Class of 2006`<br>
+
 1. COLLEGE :
     - The J Mack Robinson College of Business. 
 2. DEGREE :
