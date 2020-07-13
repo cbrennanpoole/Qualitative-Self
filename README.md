@@ -315,22 +315,26 @@ Ain't nothing but the Real Thing Baby!
 DISPATCH SUPERVISOR
 `<br>
 Newnan, GA  | Mar 2013 - Oct 2013 <br>
-1. Provide pipeline management and logistics analysis for rail, truck-load, and less than load (LTL) customers eliminating no less than $60,000 in shipping expense for customers. 
-2. Accurate and expedient data entry into terminal operating systems and end of shift report monitoring to ensure operation maintains guaranteed 99.4% on-time service standard. 
+1. Stream-line processes within the supply chain and within the internal, inter-departmental operations and customer service team
+2. Provide Total Customer Satisfaction by providing a more enjoyable service experience with team members, drivers, delivery partners, warehouse associates, third-party vendors, & most importantly, the customer
+3. Provide pipeline management and logistics analysis for rail, truckload, and less than load (LTL) customers eliminating no less than $60,000 in shipping expense for customers
+4. Ensure company resources are most profitably utilized and assigned to customer orders in a way that keep company commitments to customers and drivers
+5. Maintain direct contact with various departments within the organization to coordinate and increase the efficiency driver, truck and trailer assignments
+6. Supervise local drivers and plan current as well as future run schedules while aligning drivers and coverage for runs
+7. Spot quote customer business in a way that maximizes company revenue and resource utilization.Communicated any delays due to weather or other emergencies to the appropriate
+party to maintain client satisfaction rating of above 98.5%
 
 ---
 
 #### Saia LTL Freight Inc <br> 
 
-`
-TERMINAL OPERATIONS MANAGER
-`<br>
+`TERMINAL OPERATIONS MANAGER`<br>
 Ellenwood, GA | Jul 2011 - Feb 2013 <br>    
 1. Design, Develop, and implement daily ops plan to ensure 98.6% on-time service standard. 
     - Consisting of approximately 650,000 to 1.5 million pounds of overnight due-service origin freight, and 
     - Approximately 4 to 6 million pounds in-bound break tonnage due-in nightl
     - Associate shift composition of 
-        1. 100-125 hourly dock associates,   
+    100-125 hourly dock associates,   
         2. No less than 120 line-haul drivers,  
         3. Over 100 local drivers and totaling  
         4. Nearly 400 Atlanta domicile associates.
@@ -380,46 +384,46 @@ DISPATCH SUPERVISOR
     - Averaged over 530 minutes at all times.  
     - Ownership of 250-325 average nightly calls of concern from all angles.  
     - Assurance Supervisor : Empathetic ear as needed; attempting to always deliver 
-        - Patient 
-        - Confident standark work processes.
+        1. Patient 
+        2. Confident standark work processes.
     - Express appreciation for line and city drivers' as
-        - in-house surveys and feedback continued-to-show : 
+        1. in-house surveys and feedback continued-to-show : 
             - driver-to-dispatch and 
             - drivers-to-dockOps Team 
-                - relations were in a continual decline in recent years.
+                1. relations were in a continual decline in recent years.
 4. Forge authentic relationship with region & drivers-of-responsibility through 
     - Active listening,
     - People Empowerment, 
     - Continuous Improvement mind-set, 
     - Inclusive & Transformative leadership strategy.
     - Consistancy in day-to-day interactions; especially with 
-        - Conflict resolution, 
-        - Call - off expectations, 
-        - Seniority SOP.
+        1. Conflict resolution, 
+        2. Call - off expectations, 
+        3. Seniority SOP.
 5. Build rapport by following through without fail. 
 6. Plan-to-cover and pre-plan efficiently for 
     - Driver time-off requests; 
-        - If Drivers could begin to follow the standard work  process
-        - Accepting the long - standing rules in place while also not waivering or making regular exceptions
+        7. If Drivers could begin to follow the standard work  process
+        8. Accepting the long - standing rules in place while also not waivering or making regular exceptions
     - Requests were honored; further improving the KPI most in-need of immediate improvement.
 7. Articulate expectations in a 
     - clear and 
     - concise manner.    
 8. Develop efficient, near autonomous set of workflow processes to 
-    - establishing more adaptive and accountable workforce with 
-        - all-new customer service standards; the formula 
+    - Establishing more adaptive and accountable workforce with 
+        1. All-new customer service standards; the formula 
             - positive reinforcement + continuous improvement + people empowerment equals epitome of sustainable leadership.  
 9. Improve the regional Ops perspective (as the Memphis OKC regions were not the most sought after upon entry).   
     - Define clear expections : setting the benchmark (standard expectation directly inline with the company expectation of 98.6%; while 
-        - created an environment conducive to continuous improvement that would halt and catch fire the 2nd year; ultimately 
+        1. created an environment conducive to continuous improvement that would halt and catch fire the 2nd year; ultimately 
             - establishing and further improving on a 99.4% SOP after departure from position.  
             - Creating catalyst to almost instant recognition,  
                 1. Recepient (as team unit) of multiple internal service awards, including   
                     - best-in-class break ( medium terminals MPS, TN with Joe Boykin 2010) , and   
                     - best-in-class relay ( OKC + TUL terminal 2010 ) 
                     - most improved regional service standards (MPS & OKC regions).   
-        - Serve as liaison / conduit to growth for   
-            - terminal DockOps,  
+        2. Serve as liaison / conduit to growth for   
+            - Terminal DockOps,  
             - Sales Unit,  
             - Specialized & Accelerated Shipping,  
             - Drivers,  
@@ -427,16 +431,14 @@ DISPATCH SUPERVISOR
             - Customer Success Team, and finally;
                 1. Regional Managers, 
                 2. C-Suite ( bottoms : up as mentioned ) 
-        - Pro-active planning using a predictive forecasting algorithm and logarithmic model as co-authored with Jong Choi in Linehaul Planning. 
-        - Produce an environment conducive to excellence creating consistence in KPIs and confidence in the budding team that was about to rocket launch their carrers throughout the network making a definitive and sustainable impact on the carrier and industry for years to come. <br>
+        3. Pro-active planning using a predictive forecasting algorithm and logarithmic model as co-authored with Jong Choi in Linehaul Planning. 
+        4. Produce an environment conducive to excellence creating consistence in KPIs and confidence in the budding team that was about to rocket launch their carrers throughout the network making a definitive and sustainable impact on the carrier and industry for years to come. <br>
 
 ---
 
 #### Saia LTL Freight Inc <br>
 
-`
-OPERATIONS SUPERVISOR
-`<br>
+`OPERATIONS SUPERVISOR`<br>
 Ellenwood, GA | Mar 2008 - Jul 2009 <br>
 1. Monitor, oversee, guide, and support proper work direction to 
     - professional freight handlers 
@@ -450,8 +452,8 @@ Ellenwood, GA | Mar 2008 - Jul 2009 <br>
     - Peers in cross-functional collaboration with 
         1. Atlanta & Central Dispatch out-of the Corporate Office with Atlanta Dock Operations. 
     - Provide Guarantee of on-time customer service standard of 98.6% by working tirelessly to improve the controllables i.e.
-        1. on-time close schedule, meeting or exceeding the 93.5% rate of on-time closes ( direct controllable ), and   
-        2. on time departure 96.5% (indirect controllable). 
+        2. on-time close schedule, meeting or exceeding the 93.5% rate of on-time closes ( direct controllable ), and   
+        3. on time departure 96.5% (indirect controllable). 
 3. Improve quality implementing an already well-established but not utilized dock mentor program and daily education during safety meetings,
     - emphasizing a cross-functionall training of production associates and peers that encouraged (rather than the previous practice of discouraging) the changing of day and night shifts on the Friday and Saturday shift; 
         1. Immediate boost in employee morale as it was an ask they had all-but demanded for years, and 
@@ -537,17 +539,14 @@ Stockbridge, GA  | Dec 2003 - Jan 2005 <br>
 
 ### Shared Awards : 
     
-`
-Service is only successful on an enterprise level as a Singular Unit no matter the scope 
-`<br>
+`Service is only successful on an enterprise level as a Singular Unit no matter the scope`<br>
 
 ---
 
 #### 2013 FINAL YEAR AS TERMINAL OPS MANAGER IN-INDUSTRY 
 
 `
-DOCK - TO DRIVER PROGRAM INSTITUTION IN END 2012 : Entire transportation industry and most of the North American economy had taken to politicking in these uncertain times by playing with hours, forcing full-time workers off the clock just as their overtime would kick-in while not allowing the part - time associates to receive over or on average 25 / hours per work week (Obamacare uncertainty brings out absolute worst in US management and executive leadership / corporatocracy and use-case study #1 of xxx,xxx for epitome of pandemic plus riots in streets of US; the freight and transportation industry had officially become dependent on that very part-time laborforce; in exchange for their tireless commitment, many thousands would either be laid - off completely, or have their hours cut to wages they would not be able to sustain if it continued; the answer and what was step in the right direction was the dock - to - driver inaugural program and I had the honor of facilitating the framework while recommending and pitching the prospect to many of part - time players on the AtlDockOps Team. To this day, I still receive a random thank you when spotted in public or heart - felt thank you and gift around the holidays for helping 12 team players and their families find sustainability just out of a Great Recession.     
-`<br> 
+DOCK - TO DRIVER PROGRAM INSTITUTION IN END 2012 : Entire transportation industry and most of the North American economy had taken to politicking in these uncertain times by playing with hours, forcing full-time workers off the clock just as their overtime would kick-in while not allowing the part - time associates to receive over or on average 25 / hours per work week (Obamacare uncertainty brings out absolute worst in US management and executive leadership / corporatocracy and use-case study #1 of xxx,xxx for epitome of pandemic plus riots in streets of US; the freight and transportation industry had officially become dependent on that very part-time laborforce; in exchange for their tireless commitment, many thousands would either be laid - off completely, or have their hours cut to wages they would not be able to sustain if it continued; the answer and what was step in the right direction was the dock - to - driver inaugural program and I had the honor of facilitating the framework while recommending and pitching the prospect to many of part - time players on the AtlDockOps Team.`<br> 
 
 ---
     
@@ -575,9 +574,7 @@ FREIGHT DIMENSIONER TECHNOLOGY INSTITUTION & TOTAL (DISRUPTIVE as MOST EFFECTIVE
 
 #### 2011 QUALITY MATTERS CAMPAIGN SAIA LTL TRADEMARKS CAMPAIGN
 
-`
-First Full Year as Terminal Operations Manager with Saia AtlDockOps Team 
-`<br>
+`First Full Year as Terminal Operations Manager with Saia AtlDockOps Team`<br>
 
 ---
 
@@ -621,9 +618,7 @@ NATURAL SOJOURNER : C Brennan earns stripes servicing the overnight due - servic
 
 ## Skills
 
-`
-at the intersection of everywhere
-`<br>
+`at the intersection of everywhere`<br>
 
 ---  
 
@@ -645,9 +640,8 @@ Supply Chain | Telephone Skills | Total Quality Management | Vision | Writing | 
 
 ###  Skills Assessment : Application Tracking Systems
 
-`
- Done Right at ... Coca - Cola; 'hey! - enjoy ... on the highway to anywhere :
-`
+` Done Right at ... Coca - Cola; Hey! - enjoy ... on the highway to anywhere :` Coca - Cola on  a few of the woude.  
+Best, Siiiii
 <br>
 
 --- 
@@ -702,22 +696,19 @@ Supply Chain | Telephone Skills | Total Quality Management | Vision | Writing | 
     `Problem Solving
     `<br>
 17. Accounting Experience.
-    `Proficient in Excel
-    `<br>
+    `Proficient in Excel`<br>
     - able to apply the skill in managing database and 
     - ability to convert and 
     - analyze the data.
 18. SAP/Hyperion Experience is a strong plus
-`collaborative / team player.
-`<br>
+`collaborative / team player.`<br>
     - Effective Communication Skills. 
         1. Takes Ownership and 
         2. Acts with Integrity.
 - Ability to build endearing customer relationships.
 19. Proven leader 
-`leads peers with professionalism
-`<br>
-    - Cross channel knowledge including QSR Foodservice and CR preferred 
+`leads peers with professionalism`<br>
+    `Cross channel knowledge including QSR Foodservice and CR preferred` 
     - Expertise in cross collaboration and project management due to nature of innovation mindset of the customer 
 20. Strong strategic thinking, 
 `Relationship - building
@@ -738,21 +729,22 @@ Supply Chain | Telephone Skills | Total Quality Management | Vision | Writing | 
 `Strategic thinking
 `<br>
 24. Active listening
-`authentic engagement with
-`<br>
-    - associates and 
+`authentic engagement`<br>
+    - with associates and 
     - team leads with 
         1. observations, 
         2. inspections, 
         3. GEMBA walks, 
             - corrective actions. 
-25. Filing of documentation required by various regulatory agencies (i.e. OSHA, EPA, others). 
+25. Filing of documentation required by we chemtrekheaded to various regulatory agencies `OSHA,` `EPA`.<br>
     - Assist the development and filing of documentation for the Integrated Management System.  
     - Assist with SES inspections, audits, and documentation as needed. 
 26. Generate daily/weekly/monthly reports and audit results, as assigned. 
 27. Effectively utilize software: 
-`
+
 Excel | Word | PowerPoint | - ~Lotus Notes~ | Other PAAS. 
+
+
 28. Effectively utilize basic 
 `
 Technical math skills
@@ -766,27 +758,22 @@ Technical math skills
     - i.e. in electrix
 31. Work with Maintenance Department to track completion of safety work orders.  
 32. Work up to ~12~ make that 16 - 20 hours, overtime, and weekends to meet the business requirements.
-`cost objectives
-`<br>
+`cost objectives`<br>
     - Ensure all tasks are performed toward achieving the safety, quality, and service.
     - Demonstrate good attendance in accordance with plant attendance guidelines. • Self starter, ability to work with limited direction. 
 33. Ability to present topics to small and large groups of people. 
 34. Attend SES Committee Meetings. 
 35. Demonstrated ability. 
-`More than qualified to facilitate team-based problem-solving
-`<br>
+`More than qualified to facilitate team-based problem-solving`<br>
     - Advanced Risk Assessment, 
     - Incident Investigation and 
     - Five Why methodology. 
 36. Lead Gemba events. 
-`work on root cause analysis.   
-`<br>
+`work on root cause analysis.`<br>
 37. First-Aid and 
-`CPR trained 
-`<br>
+`CPR trained`<br>
 38. Best practices: 
-`knowledge of procurement
-`<br>
+`knowledge of procurement`<br>
     - Industry and business best practices to guide thought leadership and ensure effective procurement strategies. 
     - Includes the ability to recognise value creation opportunities within the supply chain.
 39. Create and manage databases.
@@ -804,9 +791,7 @@ supply - chain environment
     - Applying tools and 
         1. KPIs.
 42. Synthesize data and 
-`
-identifies problems
-`<br>
+`identifies problems`<br>
     - Through financial analysis; 
     - Proficiency in recommending solutions.
 43. Supplier Performance, 
@@ -820,8 +805,7 @@ Knowledge of the Truth
     - benefits of supporting cross-functional objectives to 
          1. achieve the business plan.
 45. Deep Ecommerce knowledge; understands the
-`Digital Customers Landscape
-`<br>    
+`Digital Customers Landscape`<br>    
    - or Journey. 
 46. Understands industry research and trends and 
 `anticipates variables
@@ -900,8 +884,7 @@ in other words, feel free to remix, reuse, redistribute but make sure attribute 
 
 ##### Software Licensing 
 `
-ahh... that's the good stuff!
-`<bar>
+ahh... that's the good stuff!`<bar>
 
 ---
 
