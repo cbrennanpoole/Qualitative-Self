@@ -45,7 +45,7 @@ Dark Theme Doc | ATS Friendly Resume
 `dad can do datasets`
     
 No # | Position | Employer | Physical Address | Start Date | End Date | (Promotion Y/N) | Contact
-:---|:---:|:e---:|:---:|:---:|:---:|:---:|---:
+:---|:---:|:---:|:---:|:---:|:---:|:---:|---:
 1 | Chief Principal | Chasing the Wind, LLC | Covington, GA | Nov 2018 | Present | N | (470) 327-2626
 2 | Logistics Coorginator | Amazon Logistics | Stockbridge, GA | Oct 2017 | Feb 2018 | N | Unknnown (VPN)
 3 | Maintenance & Landscape  | Pine Hills | Stockbridge, GA | Aug 2016 | Aug 2017 | Y  | (770) 474-1870 
