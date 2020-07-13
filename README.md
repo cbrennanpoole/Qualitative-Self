@@ -8,11 +8,7 @@ well - over - Qualified Self : DOB 10 May, 1983 | Sign : Taurus | Albany, GA | H
 
 
 ## C Brennan Poole
-
-
----
-
-> as a growth - hack, this snippet is the best wisdom you will attain from entire site (drumroll..3...2...1) : dropped the '-asey'. i.e. no more 'chasing'; do you want to go 'NASCAR racing'? It is a bit of riddle but it is 'verily verily' simple. The '_' should be the clear giveaway(s) x 4.   
+`as a growth - hack, this snippet is the best wisdom you will attain from entire site` `(drumroll..3...2...1)` : dropped the '-asey'. i.e. no more 'chasing'; do you want to go 'NASCAR racing'? It is a bit of riddle but it is 'verily verily' simple. The '_' should be the clear giveaway(s) x 4.   
 
 ---
 
@@ -22,18 +18,13 @@ well - over - Qualified Self : DOB 10 May, 1983 | Sign : Taurus | Albany, GA | H
 
 #### Quantified Self : 
 
-`
-Quantified over Qualified or is it Quantitative : Qualitatitve always been more a QA man myself and you? 
-`<br>
-
+`Quantified over Qualified or is it Quantitative : Qualitatitve always been more a QA man myself and you?`<br>
 [Interactive CV on Google Sheets](https://bit.ly/The-Quantified-Self-twenty-20 "I thought I was onto something with this creation, as it turns out - the world wide web is truly a black abyss - unless you have ad-spend or take to plagiarizing to please the ATS, which I refuse anymore; utterly refuse.")<br>
 
 ---
 
 ### Resume : More Traditional :
-`
-Curriculum Vitae
-`<br>
+`Curriculum Vitae`<br>
 
 ---
 
@@ -58,10 +49,7 @@ yes; i accept.
 
 ## Professional Table     
 
-`
-dad can do datasets
-`
-<br>
+`dad can do datasets`<br>
 ---  
 
 No # | Position | Employer | Physical Address | Start Date | End Date | (Promotion Y/N) | Contact
@@ -159,20 +147,23 @@ expensive curriculum ... have a coke on me
 MGS 4740 Operations Strategy | MGS 4760 Total Quality Management | MGS 4700 Operations Management  
 :---|:---|---:
 MGS 4730 Project Management | MGS 4000 Managerial Decision Making | MGS 4770 Service Operations Management
-MGS 4110 Analysis of Business Data | MGS 4120 Optimal Resource Allocation | MGS 4300 Managing Human Resources
-BCOM 3950 Business Communication and Professional Development | ACCT 2101 Principles of Accounting I | ACCT 2102 Principles of Accounting II 
+MGS 4110 Analysis of Business Data | MGS 4120 Optimal Resource Allocation | MGS 4000 Managerial Decision Making
+BCOM 3950 Business Communication and Professional Development | MGS 4710 Analysis of Business Data  ACCT 2101 Principles of Accounting I 
 ACCT 4210 Cost/Managerial Accounting | ECON 2106 Principles of Microeconomics | ECON 2106 Principles Of Macroeconomics 
 FI 3300 Corporation Finance | MGS 3100 Business Analysis | MGS 3400 Managing People in Organization
-BUSA 3000 Globalization and Business Practices | MK 3010 Basic Marketing | BUSA 2106 Legal Environment of Business 
+BUSA 3000 Globalization and Business Practices | MK 3010 Basic Marketing | BUSA 2106 Legal Environment of Business
+ECON 2100 The Global Economy | HIST 2110 Survey of US History  | AH 1070 Survey of Art II 
+CRJU 2200 Social Sciences & America's Criminology Problem | RE 3010 Real Estate Principles | MATH 2101 Mathematical Medleing 
+CRJU 3100 Intro to Criminal Justice | POLS 1101 American Government | BCOM 3950 Business Communication and Professional Development
+Critical Thinking PHIL 2410  | MK 4400 Distribution Management Consumer | MATH 1070 Elementary Statistics Coursses
+ENGL 2102 English Composition II | MGS 4500 Entrepreneurship / New VVenture Management | BIOL 1110K Human Anatomy & Phsiology
+SPCH 1000 Human Communication | Intro to Astronomy(ASTR 1100) | CIS 2010 Computer Information Systems
 
 ---
 
 ### MOOC Work 
 
-`
- 7 - 3. 3 - 11. 11 - 7. 
- ` 
- <br>
+` 7 - 3` `3 - 11`. `11 - 7`<br>
 
 ---
 
@@ -190,11 +181,7 @@ Writing a Compelling Blog Post | Why are Opioids So Addictive (University South 
 ---  
 
 #### Summary
-
-`
-am i doing okay?
-`
-<br>
+`am i doing okay?br>
 ---
 
 > Operations strategist determined to provide total Customer Satisfaction by fostering and mentoring the people process, developing cross-functional collaborative environments; while using creative problem solving techniques and establishing easy to understand but increasingly difficult to achieve key performance indicators.
@@ -203,17 +190,13 @@ am i doing okay?
 
 ### Real - Time Real - Life Work Experiences
 
-`
-not too thick? the coke float!
-`<br>
+`not too thick? the coke float!`<br>
 
 ---
 
 #### with Wind LLC <br>
 
-`
-CREATIVE STRATEGIST & PRINCIPAL OPS CHIEF
-`<br>
+`CREATIVE STRATEGIST & PRINCIPAL OPS CHIEF`<br>
 Covington, GA | Nov 2018 - Present <br>
 1. Deliver 4,000% growth YOY (1 / 19 - 1 / 20); increase followers + 750% (July '20).
 2. Sustainable Impact Award Recognition by Climate Collaborative 
@@ -280,9 +263,7 @@ Need :
 
 #### Amazon Inc <br>
 
-`
-LOGISTICS COORDINATOR 
-`<br>
+`LOGISTICS COORDINATOR`<br>
 Virtual | Oct 2017 – Jan 2018 <br>
 1. Relentlessly advocate for customers; always protecting confidentially and data; anticipate needs and underlying issues and treating their time and attention as sacred; overall effective communication skills and composure under pressure.
 2. Field inbound calls from Amazon Flex Delivery Partners; mapping their progress, navigating and troubleshooting the variables; guiding, and encouraging 100% successful delivery of Amazon goods and services.
@@ -293,8 +274,7 @@ Virtual | Oct 2017 – Jan 2018 <br>
 
 #### Pine Hills <br> 
 
-`LANDSCAPE & GENERAL MAINTENANCE
-`<br>
+`LANDSCAPE & GENERAL MAINTENANCE`<br>
 Stockbridge, GA  | Aug 2016 – Aug 2017 <br>
 1. Take ownership of the residential development by demonstrating unquestionable work ethic while nurturing and nursing the land and serving as caregiver to the community. 
 2. Develop a partnership with residents by always offering to assist and delivering on early on requisition duties. 
@@ -303,17 +283,13 @@ Stockbridge, GA  | Aug 2016 – Aug 2017 <br>
     
 ### Professional & Leadership Roles ( Corporate US )      
 
-`
-Ain't nothing but the Real Thing Baby!
-`<br>
+`Ain't nothing but the Real Thing Baby!`<br>
     
 --- 
 
 #### Annex Freight Systems Inc <br>
 
-`
-DISPATCH SUPERVISOR
-`<br>
+`DISPATCH SUPERVISOR`<br>
 Newnan, GA  | Mar 2013 - Oct 2013 <br>
 1. Stream-line processes within the supply chain and within the internal, inter-departmental operations and customer service team
 2. Provide Total Customer Satisfaction by providing a more enjoyable service experience with team members, drivers, delivery partners, warehouse associates, third-party vendors, & most importantly, the customer
@@ -367,9 +343,7 @@ Ellenwood, GA | Jul 2011 - Feb 2013 <br>
 
 #### Saia LTL Freight Inc <br>
 
-`
-DISPATCH SUPERVISOR
-`<br>
+`DISPATCH SUPERVISOR`<br>
  Johns Creek, GA | Jul 2009 - Jul 2011 <br>
 1. Regional travel providing DockOps team  
     - training,  
@@ -403,8 +377,8 @@ DISPATCH SUPERVISOR
 5. Build rapport by following through without fail. 
 6. Plan-to-cover and pre-plan efficiently for 
     - Driver time-off requests; 
-        7. If Drivers could begin to follow the standard work  process
-        8. Accepting the long - standing rules in place while also not waivering or making regular exceptions
+        1. If Drivers could begin to follow the standard work  process
+        2. Accepting the long - standing rules in place while also not waivering or making regular exceptions
     - Requests were honored; further improving the KPI most in-need of immediate improvement.
 7. Articulate expectations in a 
     - clear and 
@@ -419,9 +393,9 @@ DISPATCH SUPERVISOR
             - establishing and further improving on a 99.4% SOP after departure from position.  
             - Creating catalyst to almost instant recognition,  
                 1. Recepient (as team unit) of multiple internal service awards, including   
-                    - best-in-class break ( medium terminals MPS, TN with Joe Boykin 2010) , and   
-                    - best-in-class relay ( OKC + TUL terminal 2010 ) 
-                    - most improved regional service standards (MPS & OKC regions).   
+                    - Best-in-class break ( medium terminals MPS, TN with Joe Boykin 2010) , and   
+                    - Best-in-class relay ( OKC + TUL terminal 2010 ) 
+                    - Most improved regional service standards (MPS & OKC regions).   
         2. Serve as liaison / conduit to growth for   
             - Terminal DockOps,  
             - Sales Unit,  
@@ -452,8 +426,8 @@ Ellenwood, GA | Mar 2008 - Jul 2009 <br>
     - Peers in cross-functional collaboration with 
         1. Atlanta & Central Dispatch out-of the Corporate Office with Atlanta Dock Operations. 
     - Provide Guarantee of on-time customer service standard of 98.6% by working tirelessly to improve the controllables i.e.
-        2. on-time close schedule, meeting or exceeding the 93.5% rate of on-time closes ( direct controllable ), and   
-        3. on time departure 96.5% (indirect controllable). 
+        1. on-time close schedule, meeting or exceeding the 93.5% rate of on-time closes ( direct controllable ), and   
+        2. on time departure 96.5% (indirect controllable). 
 3. Improve quality implementing an already well-established but not utilized dock mentor program and daily education during safety meetings,
     - emphasizing a cross-functionall training of production associates and peers that encouraged (rather than the previous practice of discouraging) the changing of day and night shifts on the Friday and Saturday shift; 
         1. Immediate boost in employee morale as it was an ask they had all-but demanded for years, and 
@@ -481,11 +455,10 @@ Ellenwood, GA | Mar 2008 - Jul 2009 <br>
             - Over-the-road (OTR); 
         3. Ensure AS400 (dos-based) became a daily task with a continuous reconciliation strategy, 
             - With plan for departure and direct verification with the linehaul unit; which 
-               1. further tear - down barriers in place 
-                   - cross-(dys)functionally among the various units that had 
-                       1. Begun to stagnate due to groupthink rather than 
-                           - thrive through collaboration as was the 
-                           - very prescription (placebo i.e. spoonful of sugar) AtlDockOps didn't know they were in need of. 
+               1. further tear - down barriers in place cross-(dys)functionally among the various units that had 
+               2. Begun to stagnate due to groupthink rather than 
+                       - thrive through collaboration as was the 
+                       - very prescription (placebo i.e. spoonful of sugar) AtlDockOps didn't know they were in need of. 
 6. Establish DailyOps game - plan (as the excel sheet was labelled - no hyper-link unfortunately).
 7. Ensure zone has sufficient equipment to load on
     - Reconciling equipment on dock with 
@@ -515,9 +488,7 @@ Ellenwood, GA | Mar 2008 - Jul 2009 <br>
 
 #### Ted's Montana Grill <br>
 
-`
-Trainer - Server
-`<br>
+`Trainer - Server`<br>
 Atlanta, GA  | Dec 2005 - May 2006 <br>
 1. Implement suggestive sales technique by identifying customers preference.
 2. Offer tailored-to-individual insight on menu items, daily blue-plate specials, seasonal dessert offering, and signature bar drinks.
@@ -526,9 +497,7 @@ Atlanta, GA  | Dec 2005 - May 2006 <br>
 
 #### The Italian Oven <br>
 
-`
-Trainer-Manager
-`<br>
+`Trainer-Manager`<br>
 Stockbridge, GA  | Dec 2003 - Jan 2005 <br>
 1. Menu presentation in a non-solicited style that's simplistic, yet, sophisticated in its approach; identifying and articulating insightful Italian pairings with a thoughtful and tasteful introduction as the appetizer.
 2. Enter taste buds with exotic entree offerings while delivering on desires and creating a courtship to the evening.
@@ -543,10 +512,9 @@ Stockbridge, GA  | Dec 2003 - Jan 2005 <br>
 
 ---
 
-#### 2013 FINAL YEAR AS TERMINAL OPS MANAGER IN-INDUSTRY 
+#### 2013 
 
-`
-DOCK - TO DRIVER PROGRAM INSTITUTION IN END 2012 : Entire transportation industry and most of the North American economy had taken to politicking in these uncertain times by playing with hours, forcing full-time workers off the clock just as their overtime would kick-in while not allowing the part - time associates to receive over or on average 25 / hours per work week (Obamacare uncertainty brings out absolute worst in US management and executive leadership / corporatocracy and use-case study #1 of xxx,xxx for epitome of pandemic plus riots in streets of US; the freight and transportation industry had officially become dependent on that very part-time laborforce; in exchange for their tireless commitment, many thousands would either be laid - off completely, or have their hours cut to wages they would not be able to sustain if it continued; the answer and what was step in the right direction was the dock - to - driver inaugural program and I had the honor of facilitating the framework while recommending and pitching the prospect to many of part - time players on the AtlDockOps Team.`<br> 
+`Final Year as Serice Ops Manger` `Unrelated non-fault auto accident` `premature return to work` `ended professional career`<br> 
 
 ---
     
@@ -560,9 +528,8 @@ DOCK - TO DRIVER PROGRAM INSTITUTION IN END 2012 : Entire transportation industr
 ---
 
 #### 2012 TEAM AWARDS 
-`
-FREIGHT DIMENSIONER TECHNOLOGY INSTITUTION & TOTAL (DISRUPTIVE as MOST EFFECTIVE & IMMEDIATELY IMPACTFUL OF THE 3 PROGRAMS )  PROCESS OVERHAUL TO STANDARD WORK PROCESSES, EFFICIENCIES, AND BOTTOM-LINE IMPACT TO THE BLACK ALMOST WITH THE FLIP OF THE SWITCH.
-`<br>
+
+`FREIGHT DIMENSIONER TECHNOLOGY INSTITUTION & TOTAL (DISRUPTIVE as MOST EFFECTIVE & IMMEDIATELY IMPACTFUL OF THE 3 PROGRAMS )  PROCESS OVERHAUL TO STANDARD WORK PROCESSES, EFFICIENCIES, AND BOTTOM-LINE IMPACT TO THE BLACK ALMOST WITH THE FLIP OF THE SWITCH.`<br>
 
 ---
 
@@ -589,9 +556,7 @@ FREIGHT DIMENSIONER TECHNOLOGY INSTITUTION & TOTAL (DISRUPTIVE as MOST EFFECTIVE
 
 #### 2010 SAIA TEAM AWARDS
 
-`
-Unsolicited Promotion awarded to C Brennan (formalities right?) by fmr VP of Linehaul Current VP at Schneider Mr Sir Rob Bulick - an amazing man & mentor.
-`<br>
+`Unsolicited Promotion awarded to C Brennan (formalities right?) by fmr VP of Linehaul Current VP at Schneider Mr Sir Rob Bulick - an amazing man & mentor.`<br>
 
 ---
 
@@ -606,9 +571,7 @@ Unsolicited Promotion awarded to C Brennan (formalities right?) by fmr VP of Lin
 
 ##### C PROFESSIONAL CAREER  
 
-`
-NATURAL SOJOURNER : C Brennan earns stripes servicing the overnight due - service - and what is emphatically the heaviest region in the nation overnight due out the Atlanta break for 1 - year to the date & took to a lateral play - call to the ACO for a lesson in dispatchin' with Mr Sir Jong Choi - Champion at all things - hidden hero - GENIUS - WOKE
-`<br>
+`NATURAL SOJOURNER : C Brennan earns stripes servicing the overnight due - service - and what is emphatically the heaviest region in the nation overnight due out the Atlanta break for 1 - year to the date & took to a lateral play - call to the ACO for a lesson in dispatchin' with Mr Sir Jong Choi - Champion at all things - hidden hero - GENIUS - WOKE`<br>
 
 ---
 
@@ -640,61 +603,42 @@ Supply Chain | Telephone Skills | Total Quality Management | Vision | Writing | 
 
 ###  Skills Assessment : Application Tracking Systems
 
-` Done Right at ... Coca - Cola; Hey! - enjoy ... on the highway to anywhere :` Coca - Cola on  a few of the woude.  
-Best, Siiiii
-<br>
+` Done Right at ... Coca - Cola; Hey! - enjoy ... on the highway to anywhere :`<br>
 
 --- 
 
 1. Business Administration
-`cross-Functional Collaboration
-` <br>
+`cross-Functional Collaboration` <br>
     - Experience in facilitation of multi-disciplinary teams
     - Logistics
 2. Leadership : 
-`strong organizational and planning ability
-`<br>
+`strong organizational and planning ability`<br>
     - Teamwork and interpersonal skills with the 
     - Ability to communicate and execute strategies.
 3. Project Management : 
      - background that will drive collaborative working relationships to achieve incremental sales and supplier performance metrics.
 4. Six Sigma : 
-`solid business acumen 
-`<br>
+`solid business acumen`<br>
     - Strong Team Leadership
     - Strategic Thinking
     - Planning and Consulting Skills
-5. Strong negotiation
-`& influencing skills
-`<br>
-6. Writing /Presentation : 
-`Skills in English
-`<br>
-7. Analytical rigour : 
-`can balance the quantitative and qualitative
-`<br>
-8. Building Relationships
-`strong collaboration skills among peers in all organizational levels.
-`<br.
+5. Strong negotiation`influencing skills`<br>
+6. Writing /Presentation`Skills in English`<br>
+7. Analytical rigour : `can balance the quantitative and qualitative`<br>
+8. Building Relationships`strong collaboration skills among peers in all organizational levels.`<br.
 9. Developing Talent
 10. Supply Chain Management
 11. Teamwork
-12. Accomplishes results through the coordination of a team of professionals.
-`working cross-functionally
-`<br>
+12. Accomplishes results through the coordination of a team of professionals.`working cross-functionally`<br>
 13. Acts as an advisor to others.
-`communicates deadlines clearly and consistently
-`<br>
+`communicates deadlines clearly and consistently`<br>
 14. The ability to apply forecasting techniques and skills to support region planning. 
-`applies system knowledge to improve reporting process / model. 
-`<br>
+`applies system knowledge to improve reporting process / model.`<br>
 15. Budgeting, 
     - Planning and 
     - Forecasting Skills with 
     - Attention - to - Detail.
-16. Problem Analysis 
-    `Problem Solving
-    `<br>
+16. Problem Analysis`Problem Solving`<br>
 17. Accounting Experience.
     `Proficient in Excel`<br>
     - able to apply the skill in managing database and 
@@ -706,30 +650,19 @@ Best, Siiiii
         1. Takes Ownership and 
         2. Acts with Integrity.
 - Ability to build endearing customer relationships.
-19. Proven leader 
-`leads peers with professionalism`<br>
-    `Cross channel knowledge including QSR Foodservice and CR preferred` 
+19. Proven leader`leads peers with professionalism`, `Cross channel knowledge including QSR Foodservice and CR preferred`<br>
     - Expertise in cross collaboration and project management due to nature of innovation mindset of the customer 
-20. Strong strategic thinking, 
-`Relationship - building
-`<br>
+20. Strong strategic thinking,`Relationship - building`<br>
     - Has professional Selling and 
     - Negotiation best-practices Skills. 
     - Working knowledge of C4V selling platform.
-21. Experience in developing successful Collaborative environments
-`Business Plans and strong strategic thinking skills
-`<br>   
+21. Experience in developing successful Collaborative environments`Business Plans and strong strategic thinking skills`<br>   
     - Price / package plans to 
         1. Drive growth for retail customers and 
         2. History of delivering plan objectives.
-22. Ability to Lead 
-`cross-functional teams
-`<br>
-23. Ability to thrive in a growth-oriented team environment    
-`Strategic thinking
-`<br>
-24. Active listening
-`authentic engagement`<br>
+22. Ability to Lead`cross-functional teams`<br>
+23. Ability to thrive in a growth-oriented team environment `Strategic thinking`<br>
+24. Active listening `authentic engagement`
     - with associates and 
     - team leads with 
         1. observations, 
@@ -744,16 +677,10 @@ Best, Siiiii
 
 Excel | Word | PowerPoint | - ~Lotus Notes~ | Other PAAS. 
 
-
-28. Effectively utilize basic 
-`
-Technical math skills
-`<br>
+28. Effectively utilize basic `Technical math skills`<br>
     - Basic grammar, and 
     - Technical writing skills. 
-29. Assist in development and presentation of SES-related training topics. 
-`technical writer
-`<br>
+29. Assist in development and presentation of SES-related training topics.`technical writer`<br>
 30. Assist implementation of safety programs and/or procedures for new line installations.
     - i.e. in electrix
 31. Work with Maintenance Department to track completion of safety work orders.  
@@ -763,29 +690,22 @@ Technical math skills
     - Demonstrate good attendance in accordance with plant attendance guidelines. • Self starter, ability to work with limited direction. 
 33. Ability to present topics to small and large groups of people. 
 34. Attend SES Committee Meetings. 
-35. Demonstrated ability. 
-`More than qualified to facilitate team-based problem-solving`<br>
+35. Demonstrated ability.`More than qualified to facilitate team-based problem-solving`<br>
     - Advanced Risk Assessment, 
     - Incident Investigation and 
     - Five Why methodology. 
-36. Lead Gemba events. 
-`work on root cause analysis.`<br>
+36. Lead Gemba events.`work on root cause analysis.`<br>
 37. First-Aid and 
 `CPR trained`<br>
 38. Best practices: 
-`knowledge of procurement`<br>
+`knowledge of procurement`<br>    
     - Industry and business best practices to guide thought leadership and ensure effective procurement strategies. 
     - Includes the ability to recognise value creation opportunities within the supply chain.
-39. Create and manage databases.
-`
-insightful analysis of database management as a proficient business analysis & data scientist
-`<br>
+39. Create and manage databases.`insightful analysis`<br>
+    - of database management as a proficient business analysis & data scientist
     - Maintain, update category spend, and 
     - Volumes.
-40. Executes Business Results in a
-`
-supply - chain environment
-`<br>
+40. Executes Business Results in a `supply - chain environment`<br>
 41. Enable procurement effectiveness by 
     - Developing and 
     - Applying tools and 
@@ -798,33 +718,23 @@ supply - chain environment
     - Inventory, 
     - Financial reports.
 44. Cross Functional Relationships : 
-`
-Knowledge of the Truth
-`<br>
+`Knowledge of the Truth`<br>
     - of and ability to articulate to senior management  the 
     - benefits of supporting cross-functional objectives to 
          1. achieve the business plan.
-45. Deep Ecommerce knowledge; understands the
-`Digital Customers Landscape`<br>    
-   - or Journey. 
-46. Understands industry research and trends and 
-`anticipates variables
-`<br>
+45. Deep Ecommerce knowledge; understands the `Digital Customers Landscape`<br>    
+    - or Journey. 
+46. Understands industry research and trends and `anticipates variables`<br>
     - future customer &
-         1. Market needs.
+        1. Market needs.
 47. Drives Innovation.
-48. Strategic Thinker.
-`positive influencer
-`<br>
+48. Strategic Thinker.`positive influencer`<br>
     - and negotiator.
     - Shopper knowledge.
 49. Adaptability.
-50. Project management : 
-`task - driven affect leader
-`<br>
+50. Project management : `task - driven affect leader`<br>
 51. Effective communication & Interpersonal Savvy : 
-`Team-building 
-`<br>
+`Team-building`<br>
     - Ability
         1. Brings key stakeholders together.
 52. Value chain experience
@@ -833,9 +743,7 @@ Knowledge of the Truth
     - Excellent Project / Program Management Skills.
     - Effective Communications Skills
     - Verbal and Written.
-53. Ability to Lead Cross-functional teams to Deliver Results.
-`technically proficient
-`<br>
+53. Ability to Lead Cross-functional teams to Deliver Results.`technically proficient`<br>
     - Expertise in Innovation,
     - Logistics, and the 
     - the North American infrastructure 
@@ -846,15 +754,13 @@ Knowledge of the Truth
 
 ### Links 
 
-`
-the pause that refreshes...
-`<br>
+`the pause that refreshes...`<br>
 
 ---
 
-[Let's Connect on LinkedIn](https://linkedin.com/in/oudcollective) | [Follow Me on LinkedIn (company](https://linkedin.com/company/the-wind) 
+[Let's Connect on LinkedIn](https://linkedin.com/in/oudcollective) | [LinkedIn Control Page](https://linkedin.com/in/c-brennan-poole)
 :---|---:
-[Follow on Twitter](https://twitter.com/oudcollective) | [LinkedIn Control Page](https://linkedin.com/in/c-brennan-poole)
+[Follow on Twitter](https://twitter.com/oudcollective) | [Follow Me on LinkedIn (company](https://linkedin.com/company/the-wind) 
 [Popular on Pinterest](https://www.pinterest.com/withwindllc) | [Quora](https://quora.com/c-brennnan-poole)
 [instagram](https://instagram.com/twenty20times) | [Some Links](https://my.bio/thewindllc)    
 [Medium](https://medium.com/@C.Brennan.Poole) | [Rockin' Chair Panel](https://medium.com/rockinchairpanel)
@@ -864,27 +770,25 @@ the pause that refreshes...
 
 #### Legalese
 
-`
-the great national temperance drink
-`<br>
+`the great national temperance drink`<br>
 
 ---
+
 ##### Creative Commons 
-`
-( CC BY-SA )
-`<br>
+
+`( CC BY-SA )`<br>
 
 copyright© 2020 chasing the wind, some rights reserved. works are licensed under a creative commons (cc by-sa) international free cultural works 4.0 license. link to license: 
 < https://creativecommons.org/licenses/by-sa/4.0/ >
-in other words, feel free to remix, reuse, redistribute but make sure attribute with a 
-    - Link back to title of the work,    
-    - The original author slash artist, the source of the work, and compatible license.
+    - in other words, feel free to remix, reuse, redistribute but make sure attribute with a 
+        - Link back to title of the work,    
+        - The original author slash artist, the source of the work, and compatible license.
 
 ---
 
 ##### Software Licensing 
-`
-ahh... that's the good stuff!`<bar>
+
+`ahh... that's the good stuff!`<bar>
 
 ---
 
