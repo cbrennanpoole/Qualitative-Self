@@ -19,38 +19,31 @@ well - over - Qualified Self : DOB 10 May, 1983 | Sign : Taurus | Albany, GA | H
 #### Quantified Self : 
 
 `Quantified over Qualified or is it Quantitative : Qualitatitve always been more a QA man myself and you?`<br>
-[Interactive CV on Google Sheets](https://bit.ly/The-Quantified-Self-twenty-20 "I thought I was onto something with this creation, as it turns out - the world wide web is truly a black abyss - unless you have ad-spend or take to plagiarizing to please the ATS, which I refuse anymore; utterly refuse.")<br>
 
----
+[Interactive CV on Google Sheets](https://bit.ly/The-Quantified-Self-twenty-20 "I thought I was onto something with this creation, as it turns out - the world wide web is truly a black abyss - unless you have ad-spend or take to plagiarizing to please the ATS, which I refuse anymore; utterly refuse.")<br>
 
 ### Resume : More Traditional :
 `Curriculum Vitae`<br>
-
----
 
 Dark Theme Doc | ATS Friendly Resume 
 :---|---:
 [Material Design Inspired Dark Theme CV](https://bit.ly/Real-time-PDF-dark-theme "Google Docs Viewer") | [ATS - Friend Google Docs Viewer](https://bit.ly/ATS-Real-time-PDF "a less disruptive version")
 [Download pdf File](https://bit.ly/dark-theme-resume) | [Download pdf file](https://bit.ly/twenty-20-CV)
 
----
-
 ## My Mission
 
-`
+`---<br>
 yes; i accept.
 `<br>
 
----
 <br>
 > to create a truly meritocratic digital community that knows no bounds; understands the categorical labels and need for them in organizational behavior but doesn't apply them to himself or community, and to help create a sustainable, profitable business that future generations will look to.
 <br>
----  
+ 
 
 ## Professional Table     
 
 `dad can do datasets`<br>
----  
 
 No # | Position | Employer | Physical Address | Start Date | End Date | (Promotion Y/N) | Contact
 :---|:---:|:---:|:---:|:---:|:---:|:---:|---:
@@ -68,7 +61,8 @@ No # | Position | Employer | Physical Address | Start Date | End Date | (Promoti
 12 | Customer Service Associate | Lowe's Inc | Stockbridge, GA | March 2003 | Nov 2003 | Y | (770) 506-9665
 13 | Freight Handler | Roadway Express Inc | Atlanta, GA | Aug 2002 | Feb 2003 | Y | Out-of-Business  
 <br>
----
+
+
 <br>
 ## Institutional Framework
      
@@ -79,12 +73,8 @@ i.e. higher learning
 ---
 
 ### Georgia State University
-    <br>
-    33 Gilmer Street Atlanta, GA 30315 
-<br>
-`
-Faculty Scholar 2004 | Dean's List 2005 | Class of 2006
-`
+    <br>33 Gilmer Street Atlanta, GA 30315<br>    
+`Faculty Scholar 2004 | Dean's List 2005 | Class of 2006`
 <br>
 ---    
       
@@ -94,7 +84,7 @@ Faculty Scholar 2004 | Dean's List 2005 | Class of 2006
     - Bachelor of Business Administration.
 3. SPECIALIZATION :
     - Service Operations Management.
-        - Case - study : 
+        1. Case - study : 
             - The Toyota Way & 
             - [Toyota Production Systems Guiding Principles](https://global.toyota/en/company/vision-and-philosophy/production-system/).
                 1. sustainability.<br>
@@ -231,35 +221,7 @@ Covington, GA | Nov 2018 - Present <br>
 14. [Amazon (AWS) partner path](https://aws.amazon.com/partners/training/ "is there anybody out there? Just hit me at git.actionable@chasingthewindllc.com")
 15. [Microsoft partner](https://partner.microsoft.com/en-US/membership/competencies "it takes two; that's you! Yes You! +1 678-338-7339 Yes equity" ) Path.
 
---- 
-
 > Do you want to build a snowman?'
-
----
-
-##### ON 1 July, 2020. 
-
-`
-Wilderness Walking while wandering and wondering would wind - down in the 7 years joy from suffering journey helping to make c brennan be able to once more start helping others mantra : in the business of making sustainability sustainable business. You are mean! SEO Friendly? 
-`
-<br>
----
-Need : 
-1. Like - minded, 
-    - Change the game for generations to come;  
-    - Must get rich while enjoying said run; 
-       1. Seeks 
-            - Geeks for 
-            - Team 
-            - Chief in CTO seat.
-            - Notice (again)  
-               1. Bottoms Up, right? 
-               2. Great! 
-    - Let US build a true meritocracy to 
-        1. Fix US plus, 
-        2. eradicate the - IT -  gates .
-   
----
 
 #### Amazon Inc <br>
 
@@ -285,8 +247,6 @@ Stockbridge, GA  | Aug 2016 – Aug 2017 <br>
 
 `Ain't nothing but the Real Thing Baby!`<br>
     
---- 
-
 #### Annex Freight Systems Inc <br>
 
 `DISPATCH SUPERVISOR`<br>
