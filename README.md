@@ -1,8 +1,6 @@
-# The Qualitative 
+# Qualitative Self
 
-`
-well - over - Qualified Self : DOB 10 May, 1983 | Sign : Taurus | Albany, GA | Hospital : Phoebe Putney Hospital | Last 4 : 3938 | DL # 052388052 | Children : Y
-`<br>
+`and yes over-qualified body of works (in comparison to the 7-year stigmatization and unfair hiring practices set goth by US politicking `<br>
 
 ----
 
