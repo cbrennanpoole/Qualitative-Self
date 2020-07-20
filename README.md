@@ -1,13 +1,12 @@
 # Qualitative Self
 
-`and yes over-qualified body of works (in comparison to the 7-year stigmatization and unfair hiring practices set goth by US politicking `<br>
 
 ----
 
 
 ## C Brennan Poole
 
-`as a growth - hack, this snippet is the best wisdom you will attain from entire site` `(drumroll..3...2...1)` : 
+`as a growth - hack, this snippet is the best piece of wisdom you will attain from entire page` `(drumroll..3...2...1)` : 
 dropped the '-asey'. i.e. no more 'chasing'; do you want to go 'NASCAR racing'? It is a bit of riddle but it is 'verily verily' simple. The '_' should be the clear giveaway(s) x 4.   
 
 ---
