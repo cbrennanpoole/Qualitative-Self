@@ -183,13 +183,16 @@ Covington, GA | Nov 2018 - Present <br>
 3. Invite to GovCity III cohort for SXSW 2020 and 2nd invite to startup festival after the 
     - unsolicited offer from SXSW 2020 Executive Producer extended an invite (to apply; also a COVID.CARES cancellation ). 
 4. Extend reach to effectively garner the attention of the *United Nations- Habitat* in partnership with Dubai Municipality for their **International Awards for Best Practices and Sustainable Models 2020** with twenty - three attempts of encouragement trying to get ‘*with Wind*’ all - in.
+    - Reason for not 'chasing' : 
+        1. Team-less.
+        2. Being recognized for a conceptual sustainable model while not being a sustainable entity felt like (and likely is) utter hypocrisy. 
 5. Short-list by the annual Publication 
     - Red Herring’s Top 100 N American Tech Startups, 
     - Inc 5000, 
     - Red Oak Labs. 
 6. Invite to be featured on AMC Networks by 
     - NewsWatch would send three inquiries 20 Jun - 23 2020 
-        - **note** : *with Wind* did not nor have we been taking to 'chasing'*; exceptions : **SXSW 2020 Pitch** and the **iterative** A/B always-on testing and talking to team  Google.
+        - **note** : *with Wind* did not nor have we been taking to 'chasing'*; exceptions : **SXSW 2020 Pitch** and the **iterative** A/B always-on testing and talking to team  Google (approach with the *Google* = **Fail Huge + Continuous Improvement** and we are championing this strategy; this is the qualitative purview and this is a use-case for that point-of-fact).
 7. Invitations & short-list offerings :  
     - Learn Launch, 
     - Hatch Pitch, 
@@ -558,7 +561,7 @@ Stockbridge, GA  | Dec 2003 - Jan 2005 <br>
 
 ---
 
-[This is my story](https://www.saia.com/about-us/awards "C Brennan Poole injured his back in the summer of 2012 forever changing the course of his life from a non - fault near - miss; spawning seven years of whole - truth wildernass walking with whole - gamut; got woke - they had jokes - i got angry - said some things, tried again, oh lord - I certainly did... We'll see"); professional - side any way - as we all have at least 3 - most 4 right?
+[This is my story](https://www.saia.com/about-us/awards "C Brennan Poole injured his back in the summer of 2012 forever changing the course of his life from a non - fault near - miss; spawning seven years of whole - truth wilderness walking with whole - gamut; got woke - they had jokes - i got angry - said some things, tried again, oh lord - I certainly did... We'll see"); professional - side any way - as we all have at least 3 - most 4 right?
 
 ---    
 
@@ -586,19 +589,20 @@ Supply Chain | Telephone Skills | Total Quality Management | Vision | Writing | 
 
 ###  Skills Assessment : Application Tracking Systems
 
-` Done Right at ... Coca - Cola; Hey! - enjoy ... on the highway to anywhere :`<br>
+`on the highway to anywhere`; this one is `Done Right` at ... `Coca - Cola` `ATS and verbatim assessment`; `Hey!` - `enjoy`:<br>
 
 --- 
 
 1. Business Administration
-`cross-Functional Collaboration` <br>
+`Cross-Functional Collaboration` <br>
     - Experience in facilitation of multi-disciplinary teams
     - Logistics
 2. Leadership : 
-`strong organizational and planning ability`<br>
+`Strong organizational and planning ability`<br>
     - Teamwork and interpersonal skills with the 
     - Ability to communicate and execute strategies.
 3. Project Management : 
+`drives collaboration`<br>
      - background that will drive collaborative working relationships to achieve incremental sales and supplier performance metrics.
 4. Six Sigma : 
 `solid business acumen`<br>
@@ -612,53 +616,61 @@ Supply Chain | Telephone Skills | Total Quality Management | Vision | Writing | 
 9. Developing Talent
 10. Supply Chain Management
 11. Teamwork
-12. Accomplishes results through the coordination of a team of professionals.`working cross-functionally`<br>
+12. Accomplishes results through the coordination of a team of professionals.
+`working cross-functionally`<br>
 13. Acts as an advisor to others.
 `communicates deadlines clearly and consistently`<br>
 14. The ability to apply forecasting techniques and skills to support region planning. 
 `applies system knowledge to improve reporting process / model.`<br>
 15. Budgeting, 
-    - Planning and 
-    - Forecasting Skills with 
-    - Attention - to - Detail.
-16. Problem Analysis`Problem Solving`<br>
+    `Planning` and `forecasting` with <br>
+    - Attention-to-detail.
+16. Problem Analysis
+`Problem Solving`<br>
 17. Accounting Experience.
     `Proficient in Excel`<br>
     - able to apply the skill in managing database and 
-    - ability to convert and 
-    - analyze the data.
+        1. ability to convert and 
+        2. analyze the data.
 18. SAP/Hyperion Experience is a strong plus
 `collaborative / team player.`<br>
     - Effective Communication Skills. 
         1. Takes Ownership and 
         2. Acts with Integrity.
 - Ability to build endearing customer relationships.
-19. Proven leader`leads peers with professionalism`, `Cross channel knowledge including QSR Foodservice and CR preferred`<br>
+19. Proven leader
+`leads peers with professionalism`, `Cross channel knowledge including QSR Foodservice and CR preferred`<br>
     - Expertise in cross collaboration and project management due to nature of innovation mindset of the customer 
-20. Strong strategic thinking,`Relationship - building`<br>
+20. Strong strategic thinking,
+`Relationship - building`<br>
     - Has professional Selling and 
     - Negotiation best-practices Skills. 
     - Working knowledge of C4V selling platform.
-21. Experience in developing successful Collaborative environments`Business Plans and strong strategic thinking skills`<br>   
+21. Experience in developing successful Collaborative environments
+`Business Plans and strong strategic thinking skills`<br>   
     - Price / package plans to 
         1. Drive growth for retail customers and 
         2. History of delivering plan objectives.
-22. Ability to Lead`cross-functional teams`<br>
-23. Ability to thrive in a growth-oriented team environment `Strategic thinking`<br>
-24. Active listening `authentic engagement`
+22. Ability to Lead
+`cross-functional teams`<br>
+23. Ability to thrive in a growth-oriented team environment 
+`Strategic thinking`<br>
+24. Active listening 
+`authentic engagement`
     - with associates and 
     - team leads with 
         1. observations, 
         2. inspections, 
         3. GEMBA walks, 
             - corrective actions. 
-25. Filing of documentation required by we chemtrekheaded to various regulatory agencies `OSHA,` `EPA`.<br>
+25. Filing of documentation required by we chemtrekheaded to various regulatory agencies 
+`OSHA,` `EPA`.<br>
     - Assist the development and filing of documentation for the Integrated Management System.  
     - Assist with SES inspections, audits, and documentation as needed. 
 26. Generate daily/weekly/monthly reports and audit results, as assigned. 
 27. Effectively utilize software: 
 
-Excel | Word | PowerPoint | - ~Lotus Notes~ | Other PAAS. 
+Excel | Word | PowerPoint | ~Lotus Notes~ | Other PAAS. 
 
 28. Effectively utilize basic `Technical math skills`<br>
     - Basic grammar, and 
@@ -673,11 +685,13 @@ Excel | Word | PowerPoint | - ~Lotus Notes~ | Other PAAS.
     - Demonstrate good attendance in accordance with plant attendance guidelines. • Self starter, ability to work with limited direction. 
 33. Ability to present topics to small and large groups of people. 
 34. Attend SES Committee Meetings. 
-35. Demonstrated ability.`More than qualified to facilitate team-based problem-solving`<br>
+35. Demonstrated ability.
+`more than qualified to facilitate team-based problem-solving`<br>
     - Advanced Risk Assessment, 
     - Incident Investigation and 
     - Five Why methodology. 
-36. Lead Gemba events.`work on root cause analysis.`<br>
+36. Lead Gemba events.
+`work on root cause analysis.`<br>
 37. First-Aid and 
 `CPR trained`<br>
 38. Best practices: 
@@ -694,14 +708,14 @@ Excel | Word | PowerPoint | - ~Lotus Notes~ | Other PAAS.
     - Applying tools and 
         1. KPIs.
 42. Synthesize data and 
-`identifies problems`<br>
+`Identifies problems`<br>
     - Through financial analysis; 
     - Proficiency in recommending solutions.
 43. Supplier Performance, 
     - Inventory, 
     - Financial reports.
 44. Cross Functional Relationships : 
-`Knowledge of the Truth`<br>
+`Knowledge of the Truth; ok - this one is an attribution with Wind; just checking your state of 'woke'`<br>
     - of and ability to articulate to senior management  the 
     - benefits of supporting cross-functional objectives to 
          1. achieve the business plan.
@@ -748,6 +762,8 @@ Excel | Word | PowerPoint | - ~Lotus Notes~ | Other PAAS.
 [instagram](https://instagram.com/twenty20times) | [Some Links](https://my.bio/thewindllc)    
 [Medium](https://medium.com/@C.Brennan.Poole) | [Rockin' Chair Panel](https://medium.com/rockinchairpanel)
 [DEV](https://dev.to/cbrennanpoole) | [Hackernoon](https:/hackernoon.com/@chasing-the-wind)
+[Crunchbase Founder Top 5k Bio](https://www.crunchbase.com/person/c-brennan-poole) | [Crunchbase with Wind Top 50k Organization](https://www.crunchbase.com/organization/chasing-the-wind-llc)
+[Snippet : Closed Network Grotwh Loop](https://www.my.bio/thewindllc) | [Objective Assessment of the N American Opioid Crisis; for whole-truth >> follow the finances, silent partnerships, collaborative arrangements with peers and specialized interst MD >> understand, it's an all-cash establishment that further fuels off the fallacies in US dot GOV](https://docs.google.com/spreadsheets/d/e/2PACX-1vQtNSLY1eaa8StJxhsTOh6DkVDyj8nTnqf9nQYz1QvJ0lWnrc7gQpiGyhlTuIkDPllAi0bwrDMDiQv3/pubchart?oid=181466766&format=interactive)
 
 ---
 
