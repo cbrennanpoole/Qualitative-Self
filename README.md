@@ -66,19 +66,20 @@ No # | Position | Employer | Physical Address | Start Date | End Date | (Promoti
 
 
 <br>
+
 ## Institutional Framework
 
-`i.e. higher learning <br>`<br>
+`higher learning`<br>
 
 ### Georgia State University
 `33 Gilmer Street Atlanta, GA 30315`<br>    
 `Faculty Scholar 2004 | Dean's List 2005 | Class of 2006`<br>
 
-1. COLLEGE :
+1. **COLLEGE** :
     - The J Mack Robinson College of Business. 
-2. DEGREE :
+2. **DEGREE** :
     - Bachelor of Business Administration.
-3. SPECIALIZATION :
+3. **SPECIALIZATION** :
     - Service Operations Management.
         1. Case - study : 
             - The Toyota Way & 
@@ -91,14 +92,11 @@ No # | Position | Employer | Physical Address | Start Date | End Date | (Promoti
                 2. Kanban 
                    - Project Management. 
 <br>
+
 ---
 
 ### Secondary and Postsecondary
-
-`
-lean on me :9 - 16 
-`
-<br>
+`lean on me :9 - 16`<br>
     
 ---
 
@@ -114,19 +112,14 @@ No | school | city | state | start | end | details | add'l
 
 ---
 
-`
-No 1 : the real thing
-`
-<br>
+`No 1 : the real thing`<br>
 
 ---
 
-### Postsecondary i.e.
+### Postsecondary
 
-`
-expensive curriculum ... have a coke on me
-`
-<br>
+
+ i.e. `expensive curriculum ... have a coke on me`<br>
 
 ---
 
@@ -167,15 +160,15 @@ Writing a Compelling Blog Post | Why are Opioids So Addictive (University South 
 ---  
 
 #### Summary
-`am i doing okay?br>
+`how are we holding up?`<br>
+
 ---
 
 > Operations strategist determined to provide total Customer Satisfaction by fostering and mentoring the people process, developing cross-functional collaborative environments; while using creative problem solving techniques and establishing easy to understand but increasingly difficult to achieve key performance indicators.
 
 ---
 
-### Real - Time Real - Life Work Experiences
-
+### Realtime Real-Life Hands-on Work History
 `not too thick? the coke float!`<br>
 
 ---
@@ -195,8 +188,9 @@ Covington, GA | Nov 2018 - Present <br>
     - Inc 5000, 
     - Red Oak Labs. 
 6. Invite to be featured on AMC Networks by 
-    - NewsWatch would send three inquiries 20 Jun - 23 2020 (note : with Wind *did not nor do we take to 'chasing'*).
-7. Invitation & short-list offers 
+    - NewsWatch would send three inquiries 20 Jun - 23 2020 
+        - **note** : *with Wind* did not nor have we been taking to 'chasing'*; exceptions : **SXSW 2020 Pitch** and the **iterative** A/B always-on testing and talking to team  Google.
+7. Invitations & short-list offerings :  
     - Learn Launch, 
     - Hatch Pitch, 
     - Gener8tor. 
@@ -217,7 +211,7 @@ Covington, GA | Nov 2018 - Present <br>
 14. [Amazon (AWS) partner path](https://aws.amazon.com/partners/training/ "is there anybody out there? Just hit me at git.actionable@chasingthewindllc.com")
 15. [Microsoft partner](https://partner.microsoft.com/en-US/membership/competencies "it takes two; that's you! Yes You! +1 678-338-7339 Yes equity" ) Path.
 
-> Do you want to build a snowman?'
+> Do you want to build a snowman?
 
 #### Amazon Inc <br>
 
@@ -254,7 +248,7 @@ Newnan, GA  | Mar 2013 - Oct 2013 <br>
 5. Maintain direct contact with various departments within the organization to coordinate and increase the efficiency driver, truck and trailer assignments
 6. Supervise local drivers and plan current as well as future run schedules while aligning drivers and coverage for runs
 7. Spot quote customer business in a way that maximizes company revenue and resource utilization.Communicated any delays due to weather or other emergencies to the appropriate
-party to maintain client satisfaction rating of above 98.5%
+party to maintain client satisfaction rating of above 98.5%.
 
 ---
 
@@ -302,14 +296,14 @@ Ellenwood, GA | Jul 2011 - Feb 2013 <br>
 `DISPATCH SUPERVISOR`<br>
  Johns Creek, GA | Jul 2009 - Jul 2011 <br>
 1. Regional travel providing DockOps team  
-    - training,  
-    - tutoring, tips, and  
-    - organizational education, at the discretion of the Vice President of Line Haul.  
+    - Training,  
+    - Tutoring, tips, and  
+    - Organizational education, at the discretion of the Vice President of Line Haul.  
 2. Establish cross-functional constructive collaboration,  
-    - forging the foundation for a profitable partnership;   
-    - enabling regional lane load average improvement up-ticks and  
-    - fostering, best-in-class, awards and  
-    - peer recognition for Memphis and Oklahoma City regional operations teams.  
+    - Forging the foundation for a profitable partnership;   
+    - Enabling regional lane load average improvement up-ticks and  
+    - Fostering, best-in-class, awards and  
+    - Peer recognition for Memphis and Oklahoma City regional operations teams.  
 3. Call center setting 600-minute shifts and 480-minute phone time expectation,  
     - Averaged over 530 minutes at all times.  
     - Ownership of 250-325 average nightly calls of concern from all angles.  
@@ -337,8 +331,8 @@ Ellenwood, GA | Jul 2011 - Feb 2013 <br>
         2. Accepting the long - standing rules in place while also not waivering or making regular exceptions
     - Requests were honored; further improving the KPI most in-need of immediate improvement.
 7. Articulate expectations in a 
-    - clear and 
-    - concise manner.    
+    - Clear and 
+    - Concise manner.    
 8. Develop efficient, near autonomous set of workflow processes to 
     - Establishing more adaptive and accountable workforce with 
         1. All-new customer service standards; the formula 
@@ -362,7 +356,7 @@ Ellenwood, GA | Jul 2011 - Feb 2013 <br>
                 1. Regional Managers, 
                 2. C-Suite ( bottoms : up as mentioned ) 
         3. Pro-active planning using a predictive forecasting algorithm and logarithmic model as co-authored with Jong Choi in Linehaul Planning. 
-        4. Produce an environment conducive to excellence creating consistence in KPIs and confidence in the budding team that was about to rocket launch their carrers throughout the network making a definitive and sustainable impact on the carrier and industry for years to come. <br>
+        4. Produce an environment conducive to excellence creating consistence in KPIs and confidence in the budding team that was about to rocket launch their carrers throughout the network making a definitive and sustainable impact on the carrier and industry for years to come.<br>
 
 ---
 
@@ -382,8 +376,8 @@ Ellenwood, GA | Mar 2008 - Jul 2009 <br>
     - Peers in cross-functional collaboration with 
         1. Atlanta & Central Dispatch out-of the Corporate Office with Atlanta Dock Operations. 
     - Provide Guarantee of on-time customer service standard of 98.6% by working tirelessly to improve the controllables i.e.
-        1. on-time close schedule, meeting or exceeding the 93.5% rate of on-time closes ( direct controllable ), and   
-        2. on time departure 96.5% (indirect controllable). 
+        1. On-time close schedule, meeting or exceeding the 93.5% rate of on-time closes ( direct controllable ), and   
+        2. On time departure 96.5% (indirect controllable). 
 3. Improve quality implementing an already well-established but not utilized dock mentor program and daily education during safety meetings,
     - emphasizing a cross-functionall training of production associates and peers that encouraged (rather than the previous practice of discouraging) the changing of day and night shifts on the Friday and Saturday shift; 
         1. Immediate boost in employee morale as it was an ask they had all-but demanded for years, and 
@@ -399,13 +393,13 @@ Ellenwood, GA | Mar 2008 - Jul 2009 <br>
         2. Shift dock stand to areas more conducive to the employee than the supervisor-of-responsibility (bottoms up again).
     - Support upper - management goals and regional management expectations by offering the terminal perspective at quarterly meetings, and   
         1. Develop staff to fall-in-line helping to further achieve the goal of 
-            - always on A / B testing,
-            - real - time human resources establishing a body of 
+            - Always on A / B testing,
+            - Real - time human resources establishing a body of 
         2. Continuous 'integration / improvement'.
-5. Verify nightly thru report reconciliation due - service freight;   
+5. Verify nightly thru *report reconciliation* all due-service freight is :   
     - Picked up and status properly,  
     - Accounted for; i.e.      
-        1. Proper loading technique in place,  
+        1. Proper loading status & technique in place `best practices`,  
         2. Shipments status as loaded out (LOA), 
             - Closed (CLO) Load - to - Ride (LTR) or 
             - Over-the-road (OTR); 
@@ -413,27 +407,34 @@ Ellenwood, GA | Mar 2008 - Jul 2009 <br>
             - With plan for departure and direct verification with the linehaul unit; which 
                1. further tear - down barriers in place cross-(dys)functionally among the various units that had 
                2. Begun to stagnate due to groupthink rather than 
-                       - thrive through collaboration as was the 
-                       - very prescription (placebo i.e. spoonful of sugar) AtlDockOps didn't know they were in need of. 
-6. Establish DailyOps game - plan (as the excel sheet was labelled - no hyper-link unfortunately).
+                       - Thrive through collaboration as was the 
+                       - Very prescription (placebo i.e. spoonful of sugar) Atl-Dock-Ops didn't know they were in need of. 
+6. Establish Daily-Ops game - plan (as the excel sheet was labelled - no hyper-link unfortunately).
 7. Ensure zone has sufficient equipment to load on
     - Reconciling equipment on dock with 
         1. Graphical User Interface (GUI);
-    - place newe manifest for at end of loading door to ensure standard work process was optimized and 
+    - prepare loading manifest for regions of responsibility in order to ensure standard work process optimization :
         1. Checks &
+            - AS400 reconciliation. 
         2. Balances 
-            - Process was still being practiced and 
-            - In place ready for the inbound crew.
+            - Manual documentations / verification.
 8. Create fluid transition, 
-    - Encourage cross-function collaboration with inbound operation team by 
-    - Monitoring incoming freight levels and late - morning dues service to 2-day points (Toledo, Cincinnati, Indianapolis, Detroit, etc.) and  
-    - Audit national account incessantly while gaining an intimate understanding of companies single largest shippers i.e. Lowe's Inc., Sherwin Williams, Behr, Home Depot, etc. 
+    - Encourage cross-functional collaborative workplace to create one unit rather than the industry accepted `inbound / outbound` service infrastructure. 
+    - Monitor incoming freight levels and all late arriving due service `2-day points : Toledo, Cincinnati, Indianapolis, Detroit, etc.` and  
+    - Audit national accounts incessantly to create a 100% service standard while gaining acute awareneness of companies single largest customers `shipper` i.e. :
+        - Lowe's Inc., 
+        - Starbucks
+            - `origin Lebanon, TN`
+        - Behr,
+        - Sherwin Williams, 
+        - Benjamin Moore.
     - Verify and 
         1. Sign-off shipments in loading status (LOA) 
-            - Establish daily crossover and 'walk-the-doors' standard work process with incoming supervisor / peer, double check shipments in LOA status and guarantee 
-        2. Freight is Block with proper protocol technique,  
-        3. Braced using best practices for guidance, 
-        4. Pin-wheeled to ensure the foundation of the load was in tact and capable of full utilization of space (the service provided in LTL is space ), and   
+            - Establish daily crossover and 'walk-the-doors' *standard work process* with relief team  `supervisor / peer`, 
+            - double check shipments in LOA status to guarantee 
+                1. Freight is Block with proper protocol technique,  
+                2. Braced using best practices for guidance, 
+                3. Pin-wheeled to ensure the foundation of the load was in tact and capable of full utilization of space (the service provided in LTL is space ), and   
 9. Verify zone is ready for cross-over by 
     - Filling of internal work stations needs : 
         1. Tools : in - place and braced, 
@@ -474,12 +475,18 @@ Stockbridge, GA  | Dec 2003 - Jan 2005 <br>
 
 ---
     
-- Responsible Care® Partner of the Year —American Chemistry Council
-- First Place for Safety in the "General Commodities LTL/Local Division" —American Trucking Associations Safety Management Council
-- Third Place for Safety in the "General Commodities LTL/Linehaul Division" —American Trucking Associations Safety Management Council
-- Top 100 Motor Carrier, "G75" Green Supply Chain Partner —Inbound Logistics Magazine
-- Gold Team Award —Lowe's Companies Inc.
-- LTL National Carrier of the Year —Walmart
+- Responsible Care® Partner of the Year 
+`—American Chemistry Council`
+- First Place for Safety in the "General Commodities LTL/Local Division" 
+`—American Trucking Associations Safety Management Council`
+- Third Place for Safety in the "General Commodities LTL/Linehaul Division" 
+`—American Trucking Associations Safety Management Council`
+- Top 100 Motor Carrier, "G75" Green Supply Chain Partner 
+`—Inbound Logistics Magazine`
+- Gold Team Award 
+`—Lowe's Companies Inc.`
+- LTL National Carrier of the Year 
+`—Walmart`
 
 ---
 
@@ -489,11 +496,16 @@ Stockbridge, GA  | Dec 2003 - Jan 2005 <br>
 
 ---
 
-- Carrier of the Year —Ames True Temper
-- First Place for Safety in the "General Commodities LTL/Local Division" —American Trucking Associations Safety Management Council
-- Third Place for Safety in the "General Commodities LTL/Linehaul Division" —American Trucking Associations Safety Management Council
-- Top 100 Motor Carrier —Inbound Logistics Magazine
-- Gold Team Award —Lowe's Companies Inc.
+- Carrier of the Year 
+`—Ames True Temper`
+- First Place for Safety in the "General Commodities LTL/Local Division" 
+`—American Trucking Associations Safety Management Council`
+- Third Place for Safety in the "General Commodities LTL/Linehaul Division" 
+`—American Trucking Associations Safety Management Council`
+- Top 100 Motor Carrier 
+`—Inbound Logistics Magazine`
+- Gold Team Award 
+`—Lowe's Companies Inc.`
 
 #### 2011 QUALITY MATTERS CAMPAIGN SAIA LTL TRADEMARKS CAMPAIGN
 
@@ -501,14 +513,22 @@ Stockbridge, GA  | Dec 2003 - Jan 2005 <br>
 
 ---
 
-- Super Regional LTL Carrier of the Year —Access America Transport
-- First Place for Safety in the "General Commodities LTL/Local Division" —American Trucking Associations Safety Management Council
-- Third Place for Safety in the "General Commodities LTL/Linehaul Division" —American Trucking Associations Safety Management Council
-- Best-in-Class Carrier —GlobalTranz
-- Top 100 Motor Carrier —Inbound Logistics Magazine
-- InformationWeek 500 Honoree —InformationWeek
-- Interregional Quality Carrier of the Year —Ryder System, Inc.
-- Strategic Partner Carrier of the Year —Unishippers Global Logistics, LLC
+- Super Regional LTL Carrier of the Year 
+`—Access America Transport`
+- First Place for Safety in the "General Commodities LTL/Local Division" 
+`—American Trucking Associations Safety Management Council`
+- Third Place for Safety in the "General Commodities LTL/Linehaul Division" 
+`—American Trucking Associations Safety Management Council`
+- Best-in-Class Carrier 
+`—GlobalTranz`
+- Top 100 Motor Carrier 
+`—Inbound Logistics Magazine`
+- InformationWeek 500 Honoree 
+`—InformationWeek`
+- Interregional Quality Carrier of the Year 
+`—Ryder System, Inc.`
+- Strategic Partner Carrier of the Year 
+`—Unishippers Global Logistics, LLC`
 
 #### 2010 SAIA TEAM AWARDS
 
@@ -516,18 +536,25 @@ Stockbridge, GA  | Dec 2003 - Jan 2005 <br>
 
 ---
 
-- Super Regional LTL Carrier of the Year —Access America Transport
-- First Place for Safety in the "General Commodities LTL/Local Division" —American Trucking Associations Safety Management Council
-- Interregional Carrier of the Year —CoLinx, LLC
-- Best-in-Class Carrier —GlobalTranz
-- InformationWeek 500 Honoree —InformationWeek
-- Top 100 Motor Carrier —Inbound Logistics Magazine
-- Silver Team Award —Lowe's Companies Inc.
+- Super Regional LTL Carrier of the Year 
+`—Access America Transport`
+- First Place for Safety in the "General Commodities LTL/Local Division" 
+`—American Trucking Associations Safety Management Council`
+- Interregional Carrier of the Year 
+`—CoLinx, LLC`
+- Best-in-Class Carrier 
+`—GlobalTranz`
+- InformationWeek 500 Honoree 
+`—InformationWeek`
+- Top 100 Motor Carrier 
+`—Inbound Logistics Magazine`
+- Silver Team Award 
+`—Lowe's Companies Inc.`
 
 
 ##### C PROFESSIONAL CAREER  
 
-`NATURAL SOJOURNER : C Brennan earns stripes servicing the overnight due - service - and what is emphatically the heaviest region in the nation overnight due out the Atlanta break for 1 - year to the date & took to a lateral play - call to the ACO for a lesson in dispatchin' with Mr Sir Jong Choi - Champion at all things - hidden hero - GENIUS - WOKE`<br>
+`NATURAL SOJOURNER : C Brennan earns stripes servicing the overnight due - service - and what is emphatically the heaviest region in the nation overnight due out the Atlanta break for 1 - year to the date & makes a 'lateral' playcall; transfer to the Atlanta Corporate Office (ACO) for lessons in dispatch, executive leadership and development, plus an intense course of geography, real-time tracking, and logistics management; with Mr Sir Jong Choi - Champion at all things - hidden hero - Genius, mentor, and friend.`<br>
 
 ---
 
