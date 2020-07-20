@@ -50,7 +50,7 @@ No # | Position | Employer | Physical Address | Start Date | End Date | (Promoti
 1 | Chief Principal | Chasing the Wind, LLC | Covington, GA | Nov 2018 | Present | N | (470) 327-2626
 2 | Logistics Coorginator | Amazon Logistics | Stockbridge, GA | Oct 2017 | Feb 2018 | N | Unknnown (VPN)
 3 | Maintenance & Landscape  | Pine Hills | Stockbridge, GA | Aug 2016 | Aug 2017 | Y  | (770) 474-1870 
-4 | Selffffff-employed (Freelance) | Sub-Contract Work | Stockbridge, GA | Feb 2014 | Jan 2017 | N | (678) 856-5729
+4 | Self-employed (Freelance) | Sub-Contract Work | Stockbridge, GA | Feb 2014 | Jan 2017 | N | (678) 856-5729
 5 | Dispatch Supervisor | Annex Freight Systems | Newnan, GA | March 2013 | Nov 2013 | N | x
 6 | Operations Manager | Saia LTL Freight Inc | Ellenwood, GA | July 2011 | Feb 2013 | N | (800) 950-7242
 7 | Dispatch Supervisor | Saia LTL Freight Inc | Johns Creek, GA | July 2009 | July 2011 | Y | (800) 315-7242
