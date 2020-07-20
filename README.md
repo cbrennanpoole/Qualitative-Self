@@ -17,9 +17,9 @@ dropped the '-asey'. i.e. no more 'chasing'; do you want to go 'NASCAR racing'? 
 
 #### Quantified Self : 
 
-`Quantified over Qualified or is it Quantitative : Qualitatitve always been more a QA man myself and you?`<br>
+`Quantified over Qualified` or `Quantitative : Qualitatitve` rather `Total Quality Management (TQM)` with `quantifiable metrics`<br>
 
-[Interactive CV on Google Sheets](https://bit.ly/The-Quantified-Self-twenty-20 "I thought I was onto something with this creation, as it turns out - the world wide web is truly a black abyss - unless you have ad-spend or take to plagiarizing to please the ATS, which I refuse anymore; utterly refuse.")<br>
+[Interactive CV on Google Sheets](https://bit.ly/The-Quantified-Self-twenty-20 "I thought I was onto something with this creation, as it turns out - the world wide web is truly a world wide abyss - unless you have ad-spend or take to plagiarizing to please the ATS, which I refuse to do anymore; this is my answer to the copycat tactics, however successful it is, it is TBD and a realtime journey; enjoy.")<br>
 
 ### Resume : More Traditional :
 
