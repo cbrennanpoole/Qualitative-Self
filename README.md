@@ -6,8 +6,7 @@
 
 ## C Brennan Poole
 
-`as a growth - hack, this snippet is the best piece of wisdom you will attain from entire page` `(drumroll..3...2...1)` : 
-dropped the '-asey'. i.e. no more 'chasing'; do you want to go 'NASCAR racing'? It is a bit of riddle but it is 'verily verily' simple. The '_' should be the clear giveaway(s) x 4.   
+The `growth - hack attack v.2.2` : aiming at the backend as it's where I belong. First, an algorithmic riddle : dropped the '-asey'. i.e. no more 'chasing'; do you want to go 'NASCAR racing'? It's 'verily verily' simple. The '_' should be the clear giveaway(s) x 4. `-asey` `chasing` `NASCAR Racing` `verily verily`; **Think** `Jot and Tittle`...   
 
 ---
 
@@ -15,20 +14,19 @@ dropped the '-asey'. i.e. no more 'chasing'; do you want to go 'NASCAR racing'? 
 
 ---
 
-#### Quantified Self : 
+### The Quantified Self : 
 
-`Quantified over Qualified` or `Quantitative : Qualitatitve` rather `Total Quality Management (TQM)` with `quantifiable metrics`<br>
+to provide `Total Customer Satisfaction` thru `Total Quality Management` `Positive Reinforcement` `People Empowerment` & `Continuous Improvement`.
 
 [Interactive CV on Google Sheets](https://bit.ly/The-Quantified-Self-twenty-20 "I thought I was onto something with this creation, as it turns out - the world wide web is truly a world wide abyss - unless you have ad-spend or take to plagiarizing to please the ATS, which I refuse to do anymore; this is my answer to the copycat tactics, however successful it is, it is TBD and a realtime journey; enjoy.")<br>
 
-### Resume : More Traditional :
+### Résumé 
+`Traditiional` `Condensed Versions`
 
-`Curriculum Vitae`<br>
-
-Dark Theme Doc | ATS Friendly Resume 
+Dark Theme Doc | ATS - Résumé
 :---|---:
-[Material Design Inspired Dark Theme CV](https://bit.ly/Real-time-PDF-dark-theme "Google Docs Viewer") | [ATS - Friend Google Docs Viewer](https://bit.ly/ATS-Real-time-PDF "a less disruptive version")
-[Download pdf File](https://bit.ly/dark-theme-resume) | [Download pdf file](https://bit.ly/twenty-20-CV)
+[Dark Theme Résumé](https://bit.ly/Real-time-PDF-dark-theme "Google Docs Viewer : Material Design by the Google LLC inspired document") | [ATS - Résumé](https://bit.ly/ATS-Real-time-PDF "a less disruptive version; also Google Docs Viewer for downloadable copies please see below")
+[Download the Dark Theme Résumé PDF](https://bit.ly/dark-theme-resume) | [Download ATS - Résumé PDF](https://bit.ly/twenty-20-CV "C Brennan Poole : Taurus : Lefty : Bottoms-Up Creative Strategist : Jot and Tittle Service Operations Manager")
 
 ## My Mission
 
@@ -41,39 +39,36 @@ Dark Theme Doc | ATS Friendly Resume
 
 ## Professional Table     
     
-`dad can do datasets` 
-
-<br>
+`dad can do datasets` `comprehensive body of works`<br>
     
 No # | Position | Employer | Physical Address | Start Date | End Date | (Promotion Y/N) | Contact
 :---|:---|:---|:---:|:---:|---:|---:|---:
-1 | Chief Principal | Chasing the Wind, LLC | Covington, GA | Nov 2018 | Present | N | (470) 327-2626
-2 | Logistics Coorginator | Amazon Logistics | Stockbridge, GA | Oct 2017 | Feb 2018 | N | Unknnown (VPN)
-3 | Maintenance & Landscape  | Pine Hills | Stockbridge, GA | Aug 2016 | Aug 2017 | Y  | (770) 474-1870 
-4 | Self-employed (Freelance) | Sub-Contract Work | Stockbridge, GA | Feb 2014 | Jan 2017 | N | (678) 856-5729
-5 | Dispatch Supervisor | Annex Freight Systems | Newnan, GA | March 2013 | Nov 2013 | N | x
-6 | Operations Manager | Saia LTL Freight Inc | Ellenwood, GA | July 2011 | Feb 2013 | N | (800) 950-7242
-7 | Dispatch Supervisor | Saia LTL Freight Inc | Johns Creek, GA | July 2009 | July 2011 | Y | (800) 315-7242
-8 | Operations Supervisor | Saia LTL Freight Inc | Ellenwood, GA | March 2008 | July 2009 | Y | (800) 950-7242
-9 | Office Manager | South County Masonry Inc | Venice, FL | May 2006 | Aug 2007 | N | (941) 484-6223
-10 | Team Lead | Ted's Montana Grill | Midtown Atlanta, GA | Nov 2005 | May 2006 | Y | (404) 355-3897 
-11| Trainer & Manager | Italian Oven | Stockbridge, GA | Dec 2003 | Jan 2005 | Y | (770) 507-4827
-12 | Customer Service Associate | Lowe's Inc | Stockbridge, GA | March 2003 | Nov 2003 | Y | (770) 506-9665
-13 | Freight Handler | Roadway Express Inc | Atlanta, GA | Aug 2002 | Feb 2003 | Y | Out-of-Business  
-
+1 | Creative Strategist & Principal Chief of Operations | the Wind, LLC | Covington, GA | Nov 2018 | Present | N | 470-444-1215
+2 | Logistics Coorginator | Amazon Logistics | Stockbridge, GA | Oct 2017 | Feb 2018 | N | Internal VPN 
+3 | Maintenance & Landscape  | Pine Hills | Stockbridge, GA | Aug 2016 | Aug 2017 | Y  | 770-474-1870 
+4 | Self-employed (Freelance) | Sub-Contract Work | Stockbridge, GA | Feb 2014 | Jan 2017 | N | 678-856-5729
+5 | Dispatch Supervisor | Annex Freight Systems | Newnan, GA | March 2013 | Nov 2013 | N | 678-854-8782
+6 | Operations Manager | Saia LTL Freight Inc | Ellenwood, GA | July 2011 | Feb 2013 | N | 800-950-7242
+7 | Dispatch Supervisor | Saia LTL Freight Inc | Johns Creek, GA | July 2009 | July 2011 | Y | 800-315-7242
+8 | Operations Supervisor | Saia LTL Freight Inc | Ellenwood, GA | March 2008 | July 2009 | Y | 800-950-7242
+9 | Ops & Office Manager | South County Masonry Inc | Venice, FL | May 2006 | Aug 2007 | NA | 941-484-6223
+10 | Team Lead | Ted's Montana Grill | Midtown Atlanta, GA | Nov 2005 | May 2006 | Y | 404-355-3897 
+11| Trainer / FOH Manager | Italian Oven | Stockbridge, GA | Dec 2003 | Jan 2005 | Y | 770-507-4827
+12 | Customer Service Associate II | Lowe's Inc | Stockbridge, GA | March 2003 | Nov 2003 | Y | 770-506-9665
+13 | Freight Handler | Roadway Express Inc | Atlanta, GA | Aug 2002 | Feb 2003 | Y | Merger with YRC, Inc.
+14 | Umpire | RYBA (Youth Baseball Assoc. Rockdale County) | Conyers, GA | May 2000 | May 2001 | NA | Unknown
+15 | Secratarial Assistant | Richard H. Ramsey IV, Esquire | Dothan, AL | Nov 2000 | May 2000 | Work - Study | 334-792-2553
+16 | Back of House | City Slickers, LLC | Conyers, GA | January 1999 | May 2001 | NA | Business Dissolved 
+17 | Innocence of Youth | American Dreamer | Historic Heartland of Georgia, US & Greater Metro Atlanta area | May 1983 | TBD | TBD 
 
 <br>
 
-
-<br>
-
-## Institutional Framework
-
-`higher learning`<br>
+## Higher Learning <br>
+`Institutional Frame-of-work`<br>
 
 ### Georgia State University
-`33 Gilmer Street Atlanta, GA 30315`<br>    
-`Faculty Scholar 2004 | Dean's List 2005 | Class of 2006`<br>
+Atlanta, GA<br>    
+`Faculty Scholar 2004` | `Dean's List 2005` | `Class of 2006`<br>
 
 1. **COLLEGE** :
     - The J Mack Robinson College of Business. 
@@ -88,15 +83,14 @@ No # | Position | Employer | Physical Address | Start Date | End Date | (Promoti
                 2. best business practices.<br>
             - Kaizen Leadership.<br>
                 1. Continuous Improvement 
-                   - Still learning the integration continuum.   
+                   - the integration continuum is a `continuous improvement`.   
                 2. Kanban 
-                   - Project Management. 
-<br>
+                   - Project Management style as taught by above champions of industry; The `Toyodas'`. <br>
 
 ---
 
 ### Secondary and Postsecondary
-`lean on me :9 - 16`<br>
+`lean on me` : `9 - 16` `reverse chronological order`<br>
     
 ---
 
@@ -110,16 +104,15 @@ No | school | city | state | start | end | details | add'l
 3 | University of West Georgia | Carrollton | GA | Aug 2001 | May 2002 | Undergraduate Studies | Undecided 
 2 | Georgia State University / J Mack Robinson College of Business | Atlanta | GA | Aug 2002 | May 2006 | BBA | Operations Management   
 
+> NOTE
+
+`No 1` : `it's the real thing`<br>
+
 ---
 
-`No 1 : the real thing`<br>
+### Postsecondary Purview
 
----
-
-### Postsecondary
-
-
- i.e. `expensive curriculum ... have a coke on me`<br>
+ the more `expensive curriculum` `have a coke on me` ...<br>
 
 ---
 
@@ -127,7 +120,7 @@ MGS 4740 Operations Strategy | MGS 4760 Total Quality Management | MGS 4700 Oper
 :---|:---|---:
 MGS 4730 Project Management | MGS 4000 Managerial Decision Making | MGS 4770 Service Operations Management
 MGS 4110 Analysis of Business Data | MGS 4120 Optimal Resource Allocation | MGS 4000 Managerial Decision Making
-BCOM 3950 Business Communication and Professional Development | MGS 4710 Analysis of Business Data  ACCT 2101 Principles of Accounting I 
+BCOM 3950 Business Communication and Professional Development | MGS 4710 Analysis of Business Data  | ACCT 2101 Principles of Accounting I 
 ACCT 4210 Cost/Managerial Accounting | ECON 2106 Principles of Microeconomics | ECON 2106 Principles Of Macroeconomics 
 FI 3300 Corporation Finance | MGS 3100 Business Analysis | MGS 3400 Managing People in Organization
 BUSA 3000 Globalization and Business Practices | MK 3010 Basic Marketing | BUSA 2106 Legal Environment of Business
@@ -142,7 +135,7 @@ SPCH 1000 Human Communication | Intro to Astronomy(ASTR 1100) | CIS 2010 Compute
 
 ### MOOC Work 
 
-` 7 - 3` `3 - 11`. `11 - 7`<br>
+`7 - 3` `3 - 11`. `11 - 7`<br>
 
 ---
 
@@ -160,51 +153,51 @@ Writing a Compelling Blog Post | Why are Opioids So Addictive (University South 
 ---  
 
 #### Summary
-`how are we holding up?`<br>
+`it's 5 o'clock somewhere`<br>
 
 ---
 
-> Operations strategist determined to provide total Customer Satisfaction by fostering and mentoring the people process, developing cross-functional collaborative environments; while using creative problem solving techniques and establishing easy to understand but increasingly difficult to achieve key performance indicators.
+> Operations strategist determined to provide total Customer Satisfaction by fostering and mentoring the people process, developing cross-functional, collaborative workplace environments using creative problem solving techniques and easy to understand but increasingly difficult to achieve key performance indicators i.e. measurable benchmark measures guiding expectations.
 
 ---
 
 ### Realtime Real-Life Hands-on Work History
-`not too thick? the coke float!`<br>
+`not too thick`? the `coke float`!<br>
 
 ---
 
-#### with Wind LLC <br>
+#### the Wind LLC <br>
 
-`CREATIVE STRATEGIST & PRINCIPAL OPS CHIEF`<br>
+`CREATIVE STRATEGIST & PRINCIPAL CHIEF of OPS`<br>
 Covington, GA | Nov 2018 - Present <br>
 1. Deliver 4,000% growth YOY (1 / 19 - 1 / 20); increase followers + 750% (July '20).
 2. Sustainable Impact Award Recognition by Climate Collaborative 
     - set to be recognized on Climate day; novel coronavirus cancellation causation. 
-3. Invite to GovCity III cohort for SXSW 2020 and 2nd invite to startup festival after the 
-    - unsolicited offer from SXSW 2020 Executive Producer extended an invite (to apply; also a COVID.CARES cancellation ). 
-4. Extend reach to effectively garner the attention of the *United Nations- Habitat* in partnership with Dubai Municipality for their **International Awards for Best Practices and Sustainable Models 2020** with twenty - three attempts of encouragement trying to get ‘*with Wind*’ all - in.
-    - Reason for not 'chasing' : 
-        1. Team-less.
-        2. Being recognized for a conceptual sustainable model while not being a sustainable entity felt like (and likely is) utter hypocrisy. 
-5. Short-list by the annual Publication 
-    - Red Herring’s Top 100 N American Tech Startups, 
-    - Inc 5000, 
-    - Red Oak Labs. 
-6. Invite to be featured on AMC Networks by 
-    - NewsWatch would send three inquiries 20 Jun - 23 2020 
-        - **note** : *with Wind* did not nor have we been taking to 'chasing'*; exceptions : **SXSW 2020 Pitch** and the **iterative** A/B always-on testing and talking to team  Google (approach with the *Google* = **Fail Huge + Continuous Improvement** and we are championing this strategy; this is the qualitative purview and this is a use-case for that point-of-fact).
-7. Invitations & short-list offerings :  
-    - Learn Launch, 
-    - Hatch Pitch, 
-    - Gener8tor. 
-8. Chief Executive of dribbble; Zack Onisko, drafts to platform; as non-designer and like-minded growth - hack.
-9. Achieve Popular on Pinterest status with  
+3. Invite to [GovCity III](https://govcity.com) cohort for [SXSW 2020](https://sxsw.com "South by Southwest is an annual conglomeration of parallel film, interactive media, and music festivals and conferences organized jointly that take place in mid-March in Austin, Texas, United States.") and 2nd invite to startup festival after the 
+    - unsolicited offer from [SXSW 2020 Executive Producer extended an invite](https://docs.google.com/spreadsheets/d/1i23nUbKEccvqhnrTq8qfO9Y0vqb85VezkMIzTIjjP-k/edit?usp=sharing "with a 48 - hour deadline : Think.FailHuge Think.ContinuousImprovement inception") (to apply; also a `COVID.CARES` cancellation ). 
+4. Extend reach to effectively garner the attention of the [United Nations- Habitat in partnership with Dubai Municipality : International Awards for Best Practices in Sustainable Development](https://drive.google.com/file/d/1v3chrKnW2E2dnxMvnXHgXMsHmLyA_Jl5/view?usp=sharing "had to vet; but it's more than legit" : again however - no 'chasing' with twenty - three attempts of encouragement trying to get with Wind all - in.")
+    - Reason for not 'chasing' (`Legal entity : Chasing the Wind LLC`) : 
+        1. `Team` —less.
+        2. Being recognized for a conceptual sustainable model while not being a sustainable entity felt like (and likely is) utter `hypocrisy`. 
+5. Short-lists : 
+    - `Red Herring’s Top 100` : North American Tech Startups; `annual publication`,
+    - `Inc 5000`; `annual publication`,
+    - `Red Oak Labs`. `Silicon Valley` `accelerator`
+6. Invite to be featured on `AMC Networks` by 
+    - `NewsWatch` *sent 3 inquiries* (20 Jun - 23, 2020)
+        - **NOTE** : *with Wind* did not nor have we been taking to 'chasing'; exceptions : **SXSW 2020 Pitch** and the **iterative** `A/B` `always-on` `testing` and talking to team : `the Google` ( approach with `the Google` = `Fail Huge` + `Continuous Improvement` and we are championing this `strategy` ; remember; this is the `qualitative purview` and this is a `use-case` for that `point-of-fact` ).
+7. `Invitations` & more `short-list` offerings :  
+    - [Learn Launch](https://learnlaunch.org/ "out of the whole gamut; this is the one the Wind may take to 'chasing'"), 
+    - [Hatch Pitch](https://www.hatchpitch.com/ "maybe guilty of riding the SXSW 2020 Pitch invite and 'chasing this one; did take part in the actual event as an invite & voting participant"), 
+    - [Gener8tor](https://www.gener8tor.com/ "There's reason why `the Wind` did not attempt to go after these; it's hard to articulate, have to hold out `Faith` it seems")
+8. Chief Executive of [dribbble](https://dribbble.com/C-Brennan-Poole/about "one look at the Wind posts will show we're clearly not really all that design - friendly ; at least we weren't as yet until"); Zack Onisko, drafts to platform; as non-designer and like-minded growth - hack.
+9. Achieve [Popular on Pinterest](https://www.pinterest.com/withWindllc "categorical associative algorithmic theory : proven success") status with  
     - 500,000 + views / month ( average 02/2020 - 06/2020 ); 
         1. ‘in the midst’ of novel quarantine states of global confusion; 
     - Drive engagement analytics over 50% growth month-over-month (Feb and Mar 2020) attaining 
         2. > 2.5 million / impressions past 90 days (Apr - Jul '20).
         3. + 300% increase of actionable engaged audience (same timeline).
-10. Establish +9.5% engagement rate on LinkedIn’s with Wind Company Page. 
+10. Establish +9.5% engagement rate on [LinkedIn with Wind Company Page](https://linkedin.com/the-wind). 
     - Sustainable impact YOY holding the average.
 11. Google Cloud for Startups 
     - [Google Cloud Next Participant starting 14 July, 2020](https://g.co/cloudnext "free to register and participate; i have thousands to spend, let's talk!").
@@ -236,7 +229,7 @@ Stockbridge, GA  | Aug 2016 – Aug 2017 <br>
 
 ---
     
-### Professional & Leadership Roles ( Corporate US )      
+## Professional & Leadership Roles ( Corporate US )      
 
 `Ain't nothing but the Real Thing Baby!`<br>
     
@@ -269,20 +262,20 @@ Ellenwood, GA | Jul 2011 - Feb 2013 <br>
         4. Nearly 400 Atlanta domicile associates.
 2. Craft operations strategy aligning organizations vision with operations team and associates.
     - 1st day introduction issued a challenge to perform as one unit and single team. 
-        1. With a command to excellence. 
-        2. And mission to take pride in the job. 
-        3. Promise to return to open door management policy. 
-            - addressing all inquires 
-            - committing  to resolve the unaddressed concerns. 
+        1. With a command to excellence, and
+        2. Mission to take pride in the job. 
+        3. Promising to return to an open door management policy. 
+            - Address all inquires 
+            - Committment to resolve pre-existing & future (if warranted) concerns. 
 3. Explore the underlying issues affecting the workforce; 
-    - actively listen in individual and group information gathering sessions; 
-    - analyze and identify anomalies and outliers, 
-    - continued observation and perspective taking until identification of root cause(s) could be established; 
-    - addressed all associate 
+    - Active listening in individual and group information gathering sessions; 
+    - Analyze and identify anomalies and outliers, 
+    - Continuous observation and perspective taking until identification of root cause(s) could be established; 
+    - Addressing all associate : 
         1. Feedback  
-        2. Questions of doubt and  
+        2. Questions of doubt &  
         3. Resistance to change.  
-        4. Acted as the voice of the dock to senior management in advocating for legitimate equipment needs.  
+        4. Serve as liaison / conduet as the voice of the dock to : `senior management`; `advocating for legitimate equipment needs and fundamental employee benefits (F/T & P/T issues).  
 4. Author and co-collaborator to:   
     - 20% Dock operations productivity enhancement (KPI).  
         1. No less than 40% gain in delivery before exception metric.  
