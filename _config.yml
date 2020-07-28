@@ -1,12 +1,22 @@
-title:  Creative Ops Strategist
+title:  Creative Strategist & Principal Chief of Operations
 author: C-Brennan-Poole
 email:  chief@chasingthewindllc.com
 description: > # this means to ignore newlines until "baseurl:"
-                Hey! I'm C Brennan and this is my body of work. Hiring? Let's connect +1 678-338-7339
+                the `course of life's works` aka `curriculum vitae` & `Qualitative-Self`
 # social links
 twitter_username: OUDcollective
-github_username:  OUDcollective
-
+github_username: OUDcollective
+linkedin_username: oudcollective
+linkedin_username: c-brennan-poole
+pinterest_username: withWindllc
+medium_username: C.Brennan.Poole
+dribbble_username: C-Brennan-Poole
+crunchbase_username: c-brennan-poole
+facebook_username: inthebusinessbusiness
+instagram_username: twenty20times
+snapchat_username: cbrennanp
+quora_username: c-brennan-poole
+startupschool_username: withWind
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: jekyll-theme-hacker
