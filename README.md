@@ -36,6 +36,7 @@ Dark Theme Doc | ATS - Résumé
 
 > to create a truly meritocratic digital community that knows no bounds; understands the categorical labels and need for them in organizational behavior but doesn't apply them to himself or community, and to help create a sustainable, profitable business that future generations will look to.
 
+---
 
 ## Professional Table     
     
@@ -61,7 +62,7 @@ No # | Position | Employer | Physical Address | Start Date | End Date | (Promoti
 16 | Back of House | City Slickers, LLC | Conyers, GA | January 1999 | May 2001 | NA | Business Dissolved 
 17 | Innocence of Youth | American Dreamer | Historic Heartland of Georgia, US & Greater Metro Atlanta area | May 1983 | TBD | TBD 
 
-<br>
+---
 
 ## Higher Learning <br>
 `Institutional Frame-of-work`<br>
@@ -92,8 +93,6 @@ Atlanta, GA<br>
 ### Secondary and Postsecondary
 `lean on me` : `9 - 16` `reverse chronological order`<br>
     
----
-
 No | school | city | state | start | end | details | add'l    
 :---|:---|---|---|---|---|---:|---:   
 8 | Berkmar High School | Lawrenceville | GA | Aug 1997 | May 1998 | Freshman Year | 4.0 GPA
@@ -104,8 +103,6 @@ No | school | city | state | start | end | details | add'l
 3 | University of West Georgia | Carrollton | GA | Aug 2001 | May 2002 | Undergraduate Studies | Undecided 
 2 | Georgia State University / J Mack Robinson College of Business | Atlanta | GA | Aug 2002 | May 2006 | BBA | Operations Management   
 
-> NOTE
-
 `No 1` : `it's the real thing`<br>
 
 ---
@@ -113,8 +110,6 @@ No | school | city | state | start | end | details | add'l
 ### Postsecondary Purview
 
  the more `expensive curriculum` `have a coke on me` ...<br>
-
----
 
 MGS 4740 Operations Strategy | MGS 4760 Total Quality Management | MGS 4700 Operations Management  
 :---|:---|---:
@@ -137,8 +132,6 @@ SPCH 1000 Human Communication | Intro to Astronomy(ASTR 1100) | CIS 2010 Compute
 
 `7 - 3` `3 - 11`. `11 - 7`<br>
 
----
-
 Raising Capital | Creating the Conditions for Others to Thrive | Developing a Learning Mindset | Learning Data Science
 :---|:---|---:|---:
 Enhancing Your Productivity | Google My Business Basics | Growing Your Small Business with Linkedin | Pitching Yourself
@@ -155,16 +148,12 @@ Writing a Compelling Blog Post | Why are Opioids So Addictive (University South 
 #### Summary
 `it's 5 o'clock somewhere`<br>
 
----
-
 > Operations strategist determined to provide total Customer Satisfaction by fostering and mentoring the people process, developing cross-functional, collaborative workplace environments using creative problem solving techniques and easy to understand but increasingly difficult to achieve key performance indicators i.e. measurable benchmark measures guiding expectations.
 
 ---
 
 ### Realtime Real-Life Hands-on Work History
 `not too thick`? the `coke float`!<br>
-
----
 
 #### the Wind LLC <br>
 
@@ -207,7 +196,11 @@ Covington, GA | Nov 2018 - Present <br>
 14. [Amazon (AWS) partner path](https://aws.amazon.com/partners/training/ "is there anybody out there? Just hit me at git.actionable@chasingthewindllc.com")
 15. [Microsoft partner](https://partner.microsoft.com/en-US/membership/competencies "it takes two; that's you! Yes You! +1 678-338-7339 Yes equity" ) Path.
 
+---
+
 > Do you want to build a snowman?
+
+---
 
 #### Amazon Inc <br>
 
@@ -463,14 +456,10 @@ Stockbridge, GA  | Dec 2003 - Jan 2005 <br>
     
 `Service is only successful on an enterprise level as a Singular Unit no matter the scope`<br>
 
----
-
-#### 2013 
+#### [2013 ](https://www.saia.com/about-us/awards)
 
 `Final Year as Serice Ops Manger` `Unrelated non-fault auto accident` `premature return to work` `ended professional career`<br> 
 
----
-    
 - Responsible Care® Partner of the Year 
 `—American Chemistry Council`
 - First Place for Safety in the "General Commodities LTL/Local Division" 
@@ -490,8 +479,6 @@ Stockbridge, GA  | Dec 2003 - Jan 2005 <br>
 
 `FREIGHT DIMENSIONER TECHNOLOGY INSTITUTION & TOTAL (DISRUPTIVE as MOST EFFECTIVE & IMMEDIATELY IMPACTFUL OF THE 3 PROGRAMS )  PROCESS OVERHAUL TO STANDARD WORK PROCESSES, EFFICIENCIES, AND BOTTOM-LINE IMPACT TO THE BLACK ALMOST WITH THE FLIP OF THE SWITCH.`<br>
 
----
-
 - Carrier of the Year 
 `—Ames True Temper`
 - First Place for Safety in the "General Commodities LTL/Local Division" 
@@ -506,8 +493,6 @@ Stockbridge, GA  | Dec 2003 - Jan 2005 <br>
 #### 2011 QUALITY MATTERS CAMPAIGN SAIA LTL TRADEMARKS CAMPAIGN
 
 `First Full Year as Terminal Operations Manager with Saia AtlDockOps Team`<br>
-
----
 
 - Super Regional LTL Carrier of the Year 
 `—Access America Transport`
@@ -526,11 +511,11 @@ Stockbridge, GA  | Dec 2003 - Jan 2005 <br>
 - Strategic Partner Carrier of the Year 
 `—Unishippers Global Logistics, LLC`
 
+---
+
 #### 2010 SAIA TEAM AWARDS
 
 `Unsolicited Promotion awarded to C Brennan (formalities right?) by fmr VP of Linehaul Current VP at Schneider Mr Sir Rob Bulick - an amazing man & mentor.`<br>
-
----
 
 - Super Regional LTL Carrier of the Year 
 `—Access America Transport`
@@ -547,22 +532,11 @@ Stockbridge, GA  | Dec 2003 - Jan 2005 <br>
 - Silver Team Award 
 `—Lowe's Companies Inc.`
 
-
-##### C PROFESSIONAL CAREER  
-
-`NATURAL SOJOURNER : C Brennan earns stripes servicing the overnight due - service - and what is emphatically the heaviest region in the nation overnight due out the Atlanta break for 1 - year to the date & makes a 'lateral' playcall; transfer to the Atlanta Corporate Office (ACO) for lessons in dispatch, executive leadership and development, plus an intense course of geography, real-time tracking, and logistics management; with Mr Sir Jong Choi - Champion at all things - hidden hero - Genius, mentor, and friend.`<br>
-
 ---
-
-[This is my story](https://www.saia.com/about-us/awards "C Brennan Poole injured his back in the summer of 2012 forever changing the course of his life from a non - fault near - miss; spawning seven years of whole - truth wilderness walking with whole - gamut; got woke - they had jokes - i got angry - said some things, tried again, oh lord - I certainly did... We'll see"); professional - side any way - as we all have at least 3 - most 4 right?
-
----    
 
 ## Skills
 
 `at the intersection of everywhere`<br>
-
----  
 
 Business Insight | Customer Focus | Decision Quality | Active Listener | Global Perspective | Organizational Dynamics
 :---|:---|---|---|---:|---:
@@ -746,8 +720,6 @@ Excel | Word | PowerPoint | ~Lotus Notes~ | Other PAAS.
 
 `the pause that refreshes...`<br>
 
----
-
 [Let's Connect on LinkedIn](https://linkedin.com/in/oudcollective) | [LinkedIn Control Page](https://linkedin.com/in/c-brennan-poole)
 :---|---:
 [Follow on Twitter](https://twitter.com/oudcollective) | [Follow Me on LinkedIn (company](https://linkedin.com/company/the-wind) 
@@ -781,7 +753,5 @@ copyright© 2020 chasing the wind, some rights reserved. works are licensed unde
 ##### Software Licensing 
 
 `ahh... that's the good stuff!`<bar>
-
----
 
 This repository is licensed under* [MIT](../LICENSE) *if ever I get to delivering in-demand code - that is.* (c) #twenty20times [GitHub](https://github.com/OUDcollective/Quantified-Self "In Jesus Name. Amen! Hallel Allah. Praise Jehova. Hare Krsna. Hare Rama. Rama Rama. Want to flip Scripts; Move Consciousness with me?"), Inc. All rights to their namesake and logo are reserved. Thanks for hosting us! IAM [C brennan Poole ](https://www.bing.com/search?q=c+brennan+poole+chasing+the+wind "Bing powered by Microsoft : hacking traffic to the SERP to keep the sticky effect alive and well while attempting to roket launch inefficiencies into a total process overhaul i.e. digital transformation with Wind and C Brennan Poole pandemic forced states since dropped 'chasing' now simply DBA with Wind")         
