@@ -1,26 +1,14 @@
 # Qualitative Self
-
-
-----
-
-
-## C Brennan Poole
+`C Brennan Poole`
 
 The `growth - hack attack v.2.2` : aiming at the backend as it's where I belong. First, an algorithmic riddle : dropped the '-asey'. i.e. no more 'chasing'; do you want to go 'NASCAR racing'? It's 'verily verily' simple. The '_' should be the clear giveaway(s) x 4. `-asey` `chasing` `NASCAR Racing` `verily verily`; **Think** `Jot and Tittle`...   
-
----
 
 ![C BRENNAN POOLE](https://camo.githubusercontent.com/29977588d9fbd41675e40fd5656c0de818389388/68747470733a2f2f646f63732e676f6f676c652e636f6d2f64726177696e67732f642f652f32504143582d3176534d70495f4d6152776a4f57354a6b6878675f302d4336465f4f75354d4a6174665650524379524c756b77686c7a69754f416c6a676735675266315858694e6c4e307035495f515f30722d43496d2f7075623f773d3132303026683d363237)
 
 ---
 
-### The Quantified Self : 
-
-to provide `Total Customer Satisfaction` thru `Total Quality Management` `Positive Reinforcement` `People Empowerment` & `Continuous Improvement`.
-
-[Interactive CV on Google Sheets](https://bit.ly/The-Quantified-Self-twenty-20 "I thought I was onto something with this creation, as it turns out - the world wide web is truly a world wide abyss - unless you have ad-spend or take to plagiarizing to please the ATS, which I refuse to do anymore; this is my answer to the copycat tactics, however successful it is, it is TBD and a realtime journey; enjoy.")<br>
-
 ### Résumé 
+
 `Traditiional` `Condensed Versions`
 
 Dark Theme Doc | ATS - Résumé
@@ -28,18 +16,26 @@ Dark Theme Doc | ATS - Résumé
 [Dark Theme Résumé](https://bit.ly/Real-time-PDF-dark-theme "Google Docs Viewer : Material Design by the Google LLC inspired document") | [ATS - Résumé](https://bit.ly/ATS-Real-time-PDF "a less disruptive version; also Google Docs Viewer for downloadable copies please see below")
 [Download the Dark Theme Résumé PDF](https://bit.ly/dark-theme-resume) | [Download ATS - Résumé PDF](https://bit.ly/twenty-20-CV "C Brennan Poole : Taurus : Lefty : Bottoms-Up Creative Strategist : Jot and Tittle Service Operations Manager")
 
+---
+
+### [The Quantified Self](https://bit.ly/The-Quantified-Self-twenty-20 "I thought I was onto something with this creation, as it turns out - the world wide web is truly a world wide abyss - unless you have ad-spend or take to plagiarizing to please the ATS, which I refuse to do anymore; this is my answer to the copycat tactics, however successful it is, it is TBD and a realtime journey; enjoy.") : 
+
+to provide `Total Customer Satisfaction` thru `Total Quality Management` `Positive Reinforcement` `People Empowerment` & `Continuous Improvement`.
+
+[Interactive CV on Google Sheets](https://bit.ly/The-Quantified-Self-twenty-20 "I thought I was onto something with this creation, as it turns out - the world wide web is truly a world wide abyss - unless you have ad-spend or take to plagiarizing to please the ATS, which I refuse to do anymore; this is my answer to the copycat tactics, however successful it is, it is TBD and a realtime journey; enjoy.")<br>
+
+---
+
 ## My Mission
 
-`yes; i accept.` 
-
-<br>
+`yes; i accept.` <br>
 
 > to create a truly meritocratic digital community that knows no bounds; understands the categorical labels and need for them in organizational behavior but doesn't apply them to himself or community, and to help create a sustainable, profitable business that future generations will look to.
 
 ---
 
 ## Professional Table     
-    
+
 `dad can do datasets` `comprehensive body of works`<br>
     
 No # | Position | Employer | Physical Address | Start Date | End Date | (Promotion Y/N) | Contact
@@ -67,8 +63,8 @@ No # | Position | Employer | Physical Address | Start Date | End Date | (Promoti
 ## Higher Learning <br>
 `Institutional Frame-of-work`<br>
 
-### Georgia State University
-Atlanta, GA<br>    
+### Georgia State University<br>    
+
 `Faculty Scholar 2004` | `Dean's List 2005` | `Class of 2006`<br>
 
 1. **COLLEGE** :
@@ -77,20 +73,21 @@ Atlanta, GA<br>
     - Bachelor of Business Administration.
 3. **SPECIALIZATION** :
     - Service Operations Management.
-        1. Case - study : 
-            - The Toyota Way & 
-            - [Toyota Production Systems Guiding Principles](https://global.toyota/en/company/vision-and-philosophy/production-system/).
-                1. sustainability.<br>
-                2. best business practices.<br>
-            - Kaizen Leadership.<br>
-                1. Continuous Improvement 
-                   - the integration continuum is a `continuous improvement`.   
-                2. Kanban 
-                   - Project Management style as taught by above champions of industry; The `Toyodas'`. <br>
+4. **Case - study** : 
+    - The Toyota Way & 
+        1. [Toyota Production Systems Guiding Principles](https://global.toyota/en/company/vision-and-philosophy/production-system/).
+            - Sustainability.<br>
+            - Best business practices.<br>
+        2. Kaizen Leadership.<br>
+            - Continuous Improvement 
+            - The integration continuum is a `continuous improvement`.   
+        3. Kanban 
+            - Project Management style as taught by above **champions of industry** & *sustainability*; The `Toyodas`'. <br>
 
 ---
 
 ### Secondary and Postsecondary
+
 `lean on me` : `9 - 16` `reverse chronological order`<br>
     
 No | school | city | state | start | end | details | add'l    
@@ -103,7 +100,7 @@ No | school | city | state | start | end | details | add'l
 3 | University of West Georgia | Carrollton | GA | Aug 2001 | May 2002 | Undergraduate Studies | Undecided 
 2 | Georgia State University / J Mack Robinson College of Business | Atlanta | GA | Aug 2002 | May 2006 | BBA | Operations Management   
 
-`No 1` : `it's the real thing`<br>
+No 1 : `it's the real thing`<br>
 
 ---
 
@@ -130,7 +127,7 @@ SPCH 1000 Human Communication | Intro to Astronomy(ASTR 1100) | CIS 2010 Compute
 
 ### MOOC Work 
 
-`7 - 3` `3 - 11`. `11 - 7`<br>
+`7 - 3` . `3 - 11`. `11 - 7`<br>
 
 Raising Capital | Creating the Conditions for Others to Thrive | Developing a Learning Mindset | Learning Data Science
 :---|:---|---:|---:
@@ -250,17 +247,31 @@ Ellenwood, GA | Jul 2011 - Feb 2013 <br>
     - Approximately 4 to 6 million pounds in-bound break tonnage due-in nightl
     - Associate shift composition of 
     100-125 hourly dock associates,   
-        2. No less than 120 line-haul drivers,  
-        3. Over 100 local drivers and totaling  
-        4. Nearly 400 Atlanta domicile associates.
-2. Craft operations strategy aligning organizations vision with operations team and associates.
+        1. No less than 120 line-haul drivers,  
+        2. Over 100 local drivers and totaling  
+        3. Nearly 400 Atlanta domicile associates.
+2. Trend analysis, demand-planning, and overall statistical analysis of seasonal trends in tonnage and seasonal workforce issues helping to 
+    - identify patterns to develop a proposal for new due service schedule for linehaul runs or 
+    - eliminate existing schedule by building loads with multi-point destinations, and 
+    - increase hiring efforts earlier than strategy had set - forth (hiring in Jan and Feb to have a cross-functionally proficient unit of part - time associates to cover the seasonal up-tick in vacation requests that aligned with school season and seasonality of vacationing for the nation Saia was expected to service (This is US, not the current US; correction : This was US, no mas - unfortunately for US). 
+3. Implement   
+    - six-sigma management principles,
+    - Pull just-in-time (J.I.T.) workflow models 
+        1. Yard hostler changes in standard work process. 
+        2. Shift dock stand to areas more conducive to the employee than the supervisor-of-responsibility (bottoms up again).
+    - Support upper - management goals and regional management expectations by offering the terminal perspective at quarterly meetings, and   
+        1. Develop staff to fall-in-line helping to further achieve the goal of 
+            - Always on A / B testing,
+            - Real - time human resources establishing a body of 
+        2. Continuous 'integration / improvement'.
+4. Craft operations strategy aligning organizations vision with operations team and associates.
     - 1st day introduction issued a challenge to perform as one unit and single team. 
         1. With a command to excellence, and
         2. Mission to take pride in the job. 
         3. Promising to return to an open door management policy. 
             - Address all inquires 
             - Committment to resolve pre-existing & future (if warranted) concerns. 
-3. Explore the underlying issues affecting the workforce; 
+5. Explore the underlying issues affecting the workforce; 
     - Active listening in individual and group information gathering sessions; 
     - Analyze and identify anomalies and outliers, 
     - Continuous observation and perspective taking until identification of root cause(s) could be established; 
@@ -269,7 +280,7 @@ Ellenwood, GA | Jul 2011 - Feb 2013 <br>
         2. Questions of doubt &  
         3. Resistance to change.  
         4. Serve as liaison / conduet as the voice of the dock to : `senior management`; `advocating for legitimate equipment needs and fundamental employee benefits (F/T & P/T issues).  
-4. Author and co-collaborator to:   
+6. Author and co-collaborator to:   
     - 20% Dock operations productivity enhancement (KPI).  
         1. No less than 40% gain in delivery before exception metric.  
     - Slash over - the - road expenditures with permanent cancellation of 4 due-service regional runs by implementing multi-stop, strategic load plan.  
@@ -335,17 +346,17 @@ Ellenwood, GA | Jul 2011 - Feb 2013 <br>
                     - Best-in-class break ( medium terminals MPS, TN with Joe Boykin 2010) , and   
                     - Best-in-class relay ( OKC + TUL terminal 2010 ) 
                     - Most improved regional service standards (MPS & OKC regions).   
-        2. Serve as liaison / conduit to growth for   
-            - Terminal DockOps,  
-            - Sales Unit,  
-            - Specialized & Accelerated Shipping,  
-            - Drivers,  
-            - Interline carriers (3rd party), and  
-            - Customer Success Team, and finally;
-                1. Regional Managers, 
-                2. C-Suite ( bottoms : up as mentioned ) 
-        3. Pro-active planning using a predictive forecasting algorithm and logarithmic model as co-authored with Jong Choi in Linehaul Planning. 
-        4. Produce an environment conducive to excellence creating consistence in KPIs and confidence in the budding team that was about to rocket launch their carrers throughout the network making a definitive and sustainable impact on the carrier and industry for years to come.<br>
+10. Serve as liaison / conduit to growth for   
+    - Terminal DockOps,  
+    - Sales Unit,  
+        1. Specialized & Accelerated Shipping,  
+        2. Drivers,  
+        3. Interline carriers (3rd party), and  
+        4. Customer Success Team, and finally;
+            - Regional Managers, 
+            - C-Suite ( bottoms : up as mentioned ) 
+            - Pro-active planning using a predictive forecasting algorithm and logarithmic model as co-authored with Jong Choi in Linehaul Planning. 
+            - Produce an environment conducive to excellence creating consistence in KPIs and confidence in the budding team that was about to rocket launch their carrers throughout the network making a definitive and sustainable impact on the carrier and industry for years to come.<br>
 
 ---
 
@@ -371,21 +382,7 @@ Ellenwood, GA | Mar 2008 - Jul 2009 <br>
     - emphasizing a cross-functionall training of production associates and peers that encouraged (rather than the previous practice of discouraging) the changing of day and night shifts on the Friday and Saturday shift; 
         1. Immediate boost in employee morale as it was an ask they had all-but demanded for years, and 
         2. Further fuel the increasingly difficult to achieve KPIs the team had begun looking forward to beating. 
-4. Trend analysis, demand-planning, and overall statistical analysis of seasonal trends in tonnage and seasonal workforce issues helping to 
-    - identify patterns to develop a proposal for new due service schedule for linehaul runs or 
-    - eliminate existing schedule by building loads with multi-point destinations, and 
-    - increase hiring efforts earlier than strategy had set - forth (hiring in Jan and Feb to have a cross-functionally proficient unit of part - time associates to cover the seasonal up-tick in vacation requests that aligned with school season and seasonality of vacationing for the nation Saia was expected to service (This is US, not the current US; correction : This was US, no mas - unfortunately for US). 
-5. Implement   
-    - six-sigma management principles,
-    - Pull just-in-time (J.I.T.) workflow models 
-        1. Yard hostler changes in standard work process. 
-        2. Shift dock stand to areas more conducive to the employee than the supervisor-of-responsibility (bottoms up again).
-    - Support upper - management goals and regional management expectations by offering the terminal perspective at quarterly meetings, and   
-        1. Develop staff to fall-in-line helping to further achieve the goal of 
-            - Always on A / B testing,
-            - Real - time human resources establishing a body of 
-        2. Continuous 'integration / improvement'.
-5. Verify nightly thru *report reconciliation* all due-service freight is :   
+4. Verify nightly thru *report reconciliation* all due-service freight is :   
     - Picked up and status properly,  
     - Accounted for; i.e.      
         1. Proper loading status & technique in place `best practices`,  
@@ -398,8 +395,8 @@ Ellenwood, GA | Mar 2008 - Jul 2009 <br>
                2. Begun to stagnate due to groupthink rather than 
                        - Thrive through collaboration as was the 
                        - Very prescription (placebo i.e. spoonful of sugar) Atl-Dock-Ops didn't know they were in need of. 
-6. Establish Daily-Ops game - plan (as the excel sheet was labelled - no hyper-link unfortunately).
-7. Ensure zone has sufficient equipment to load on
+5. Establish Daily-Ops game - plan (as the excel sheet was labelled - no hyper-link unfortunately).
+5. Ensure zone has sufficient equipment to load on
     - Reconciling equipment on dock with 
         1. Graphical User Interface (GUI);
     - prepare loading manifest for regions of responsibility in order to ensure standard work process optimization :
@@ -407,7 +404,7 @@ Ellenwood, GA | Mar 2008 - Jul 2009 <br>
             - AS400 reconciliation. 
         2. Balances 
             - Manual documentations / verification.
-8. Create fluid transition, 
+7. Create fluid transition, 
     - Encourage cross-functional collaborative workplace to create one unit rather than the industry accepted `inbound / outbound` service infrastructure. 
     - Monitor incoming freight levels and all late arriving due service `2-day points : Toledo, Cincinnati, Indianapolis, Detroit, etc.` and  
     - Audit national accounts incessantly to create a 100% service standard while gaining acute awareneness of companies single largest customers `shipper` i.e. :
@@ -424,7 +421,7 @@ Ellenwood, GA | Mar 2008 - Jul 2009 <br>
                 1. Freight is Block with proper protocol technique,  
                 2. Braced using best practices for guidance, 
                 3. Pin-wheeled to ensure the foundation of the load was in tact and capable of full utilization of space (the service provided in LTL is space ), and   
-9. Verify zone is ready for cross-over by 
+8. Verify zone is ready for cross-over by 
     - Filling of internal work stations needs : 
         1. Tools : in - place and braced, 
         2. doors chocked & blocked.
