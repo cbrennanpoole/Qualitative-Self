@@ -1,5 +1,6 @@
-# UNSOLICITED INVITATION TO SXSW 2020 PITCH
+# UNSOLICITED INVITATION
 
+## SXSW 2020 COMPETITION
 > From the executive producer of SXSW 2020 Pitch and with a whopping 48 hour notice to get wholly actionable. 
 
 *First Fail Huge and beginning of realization that failure could very easily become with Wind core competency*.
