@@ -9,9 +9,9 @@ The `growth - hack attack v.2.2` : aiming at the backend as it's where I belong.
 
 ### Résumé 
 
-`Traditiional` `Condensed Versions`
+`Traditional` `Condensed Versions`
 
-Dark Theme Doc | ATS - Résumé
+Dark Theme Résumé | ATS Résumé
 :---|---:
 [Dark Theme Résumé](https://bit.ly/Real-time-PDF-dark-theme "Google Docs Viewer : Material Design by the Google LLC inspired document") | [ATS - Résumé](https://bit.ly/ATS-Real-time-PDF "a less disruptive version; also Google Docs Viewer for downloadable copies please see below")
 [Download the Dark Theme Résumé PDF](https://bit.ly/dark-theme-resume) | [Download ATS - Résumé PDF](https://bit.ly/twenty-20-CV "C Brennan Poole : Taurus : Lefty : Bottoms-Up Creative Strategist : Jot and Tittle Service Operations Manager")
@@ -150,6 +150,7 @@ Writing a Compelling Blog Post | Why are Opioids So Addictive (University South 
 ---
 
 ### Realtime Real-Life Hands-on Work History
+
 `not too thick`? the `coke float`!<br>
 
 #### the Wind LLC <br>
@@ -222,7 +223,9 @@ Stockbridge, GA  | Aug 2016 – Aug 2017 <br>
 ## Professional & Leadership Roles ( Corporate US )      
 
 `Ain't nothing but the Real Thing Baby!`<br>
-    
+
+---
+
 #### Annex Freight Systems Inc <br>
 
 `DISPATCH SUPERVISOR`<br>
@@ -410,21 +413,21 @@ Ellenwood, GA | Mar 2008 - Jul 2009 <br>
     - Audit national accounts incessantly to create a 100% service standard while gaining acute awareneness of companies single largest customers `shipper` i.e. :
         - Lowe's Inc., 
         - Starbucks
-            - `origin Lebanon, TN`
+            - `Origin Lebanon, TN`
         - Behr,
         - Sherwin Williams, 
         - Benjamin Moore.
     - Verify and 
         1. Sign-off shipments in loading status (LOA) 
             - Establish daily crossover and 'walk-the-doors' *standard work process* with relief team  `supervisor / peer`, 
-            - double check shipments in LOA status to guarantee 
+            - Double check shipments in LOA status to guarantee 
                 1. Freight is Block with proper protocol technique,  
                 2. Braced using best practices for guidance, 
                 3. Pin-wheeled to ensure the foundation of the load was in tact and capable of full utilization of space (the service provided in LTL is space ), and   
 8. Verify zone is ready for cross-over by 
     - Filling of internal work stations needs : 
         1. Tools : in - place and braced, 
-        2. doors chocked & blocked.
+        2. Doors chocked & blocked.
         3. equipment / load bars stowed. 
 
 ---
@@ -444,7 +447,7 @@ Atlanta, GA  | Dec 2005 - May 2006 <br>
 Stockbridge, GA  | Dec 2003 - Jan 2005 <br>
 1. Menu presentation in a non-solicited style that's simplistic, yet, sophisticated in its approach; identifying and articulating insightful Italian pairings with a thoughtful and tasteful introduction as the appetizer.
 2. Enter taste buds with exotic entree offerings while delivering on desires and creating a courtship to the evening.
-3.  Ultimately managing to marry those taste buds together timely with wine and spirits.
+3. Ultimately managing to marry those taste buds together timely with wine and spirits.
 4. Not-to-soon, but shortly thereafter, serving a seductively succulent dessert, as the passionate and promising honeymoon; an eloquent end to an exciting evening.
 
 ---
@@ -472,7 +475,8 @@ Stockbridge, GA  | Dec 2003 - Jan 2005 <br>
 
 ---
 
-#### 2012 TEAM AWARDS 
+#### [2012 TEAM AWARDS](https://www.saia.com/about-us/awards)
+
 
 `FREIGHT DIMENSIONER TECHNOLOGY INSTITUTION & TOTAL (DISRUPTIVE as MOST EFFECTIVE & IMMEDIATELY IMPACTFUL OF THE 3 PROGRAMS )  PROCESS OVERHAUL TO STANDARD WORK PROCESSES, EFFICIENCIES, AND BOTTOM-LINE IMPACT TO THE BLACK ALMOST WITH THE FLIP OF THE SWITCH.`<br>
 
@@ -487,7 +491,7 @@ Stockbridge, GA  | Dec 2003 - Jan 2005 <br>
 - Gold Team Award 
 `—Lowe's Companies Inc.`
 
-#### 2011 QUALITY MATTERS CAMPAIGN SAIA LTL TRADEMARKS CAMPAIGN
+#### [2011](https://www.saia.com/about-us/awards) QUALITY MATTERS CAMPAIGN SAIA LTL TRADEMARKS CAMPAIGN
 
 `First Full Year as Terminal Operations Manager with Saia AtlDockOps Team`<br>
 
@@ -510,7 +514,7 @@ Stockbridge, GA  | Dec 2003 - Jan 2005 <br>
 
 ---
 
-#### 2010 SAIA TEAM AWARDS
+#### [2010](https://www.saia.com/about-us/awards) SAIA TEAM AWARDS
 
 `Unsolicited Promotion awarded to C Brennan (formalities right?) by fmr VP of Linehaul Current VP at Schneider Mr Sir Rob Bulick - an amazing man & mentor.`<br>
 
@@ -623,10 +627,10 @@ Supply Chain | Telephone Skills | Total Quality Management | Vision | Writing | 
 `authentic engagement`
     - with associates and 
     - team leads with 
-        1. observations, 
-        2. inspections, 
+        1. Observations, 
+        2. Inspections, 
         3. GEMBA walks, 
-            - corrective actions. 
+            - Corrective actions. 
 25. Filing of documentation required by we chemtrekheaded to various regulatory agencies 
 `OSHA,` `EPA`.<br>
     - Assist the development and filing of documentation for the Integrated Management System.  
@@ -634,7 +638,7 @@ Supply Chain | Telephone Skills | Total Quality Management | Vision | Writing | 
 26. Generate daily/weekly/monthly reports and audit results, as assigned. 
 27. Effectively utilize software: 
 
-Excel | Word | PowerPoint | ~Lotus Notes~ | Other PAAS. 
+Excel | Word | PowerPoint | ~Lotus Notes~ | Other PAAS
 
 28. Effectively utilize basic `Technical math skills`<br>
     - Basic grammar, and 
@@ -655,11 +659,11 @@ Excel | Word | PowerPoint | ~Lotus Notes~ | Other PAAS.
     - Incident Investigation and 
     - Five Why methodology. 
 36. Lead Gemba events.
-`work on root cause analysis.`<br>
+`Work on Root Cause Analysis.`<br>
 37. First-Aid and 
 `CPR trained`<br>
 38. Best practices: 
-`knowledge of procurement`<br>    
+`Knowledge of Procurement`<br>    
     - Industry and business best practices to guide thought leadership and ensure effective procurement strategies. 
     - Includes the ability to recognise value creation opportunities within the supply chain.
 39. Create and manage databases.`insightful analysis`<br>
@@ -670,7 +674,7 @@ Excel | Word | PowerPoint | ~Lotus Notes~ | Other PAAS.
 41. Enable procurement effectiveness by 
     - Developing and 
     - Applying tools and 
-        1. KPIs.
+    - KPIs.
 42. Synthesize data and 
 `Identifies problems`<br>
     - Through financial analysis; 
@@ -680,17 +684,17 @@ Excel | Word | PowerPoint | ~Lotus Notes~ | Other PAAS.
     - Financial reports.
 44. Cross Functional Relationships : 
 `Knowledge of the Truth; ok - this one is an attribution with Wind; just checking your state of 'woke'`<br>
-    - of and ability to articulate to senior management  the 
-    - benefits of supporting cross-functional objectives to 
-         1. achieve the business plan.
+    - Of and ability to articulate to senior management  the 
+    - Benefits of supporting cross-functional objectives to 
+         1. Achieve the business plan.
 45. Deep Ecommerce knowledge; understands the `Digital Customers Landscape`<br>    
-    - or Journey. 
+    - Or Journey. 
 46. Understands industry research and trends and `anticipates variables`<br>
-    - future customer &
+    - Future customer &
         1. Market needs.
 47. Drives Innovation.
-48. Strategic Thinker.`positive influencer`<br>
-    - and negotiator.
+48. Strategic Thinker.`positive influencer`and<br>
+    - Negotiator.
     - Shopper knowledge.
 49. Adaptability.
 50. Project management : `task - driven affect leader`<br>
@@ -707,9 +711,9 @@ Excel | Word | PowerPoint | ~Lotus Notes~ | Other PAAS.
 53. Ability to Lead Cross-functional teams to Deliver Results.`technically proficient`<br>
     - Expertise in Innovation,
     - Logistics, and the 
-    - the North American infrastructure 
-        1. i.e. interstate and highway systems i.e. 
-        2. the global leader and most innovative supply chain on the planet. 
+    - The North American infrastructure 
+        1. i.e. Interstate and highway systems i.e. 
+        2. The global leader and most innovative supply chain on the planet. 
 
 ---
 
@@ -719,19 +723,35 @@ Excel | Word | PowerPoint | ~Lotus Notes~ | Other PAAS.
 
 [Let's Connect on LinkedIn](https://linkedin.com/in/oudcollective) | [LinkedIn Control Page](https://linkedin.com/in/c-brennan-poole)
 :---|---:
-[Follow on Twitter](https://twitter.com/oudcollective) | [Follow Me on LinkedIn (company](https://linkedin.com/company/the-wind) 
+[Twitter](https://twitter.com/oudcollective) | [LinkedIn with Wind](https://linkedin.com/company/the-wind) 
 [Popular on Pinterest](https://www.pinterest.com/withwindllc) | [Quora](https://quora.com/c-brennnan-poole)
 [instagram](https://instagram.com/twenty20times) | [Some Links](https://my.bio/thewindllc)    
 [Medium](https://medium.com/@C.Brennan.Poole) | [Rockin' Chair Panel](https://medium.com/rockinchairpanel)
 [DEV](https://dev.to/cbrennanpoole) | [Hackernoon](https:/hackernoon.com/@chasing-the-wind)
 [Crunchbase Founder Top 5k Bio](https://www.crunchbase.com/person/c-brennan-poole) | [Crunchbase with Wind Top 50k Organization](https://www.crunchbase.com/organization/chasing-the-wind-llc)
-[Snippet : Closed Network Grotwh Loop](https://www.my.bio/thewindllc) | [Objective Assessment of the N American Opioid Crisis; for whole-truth >> follow the finances, silent partnerships, collaborative arrangements with peers and specialized interst MD >> understand, it's an all-cash establishment that further fuels off the fallacies in US dot GOV](https://docs.google.com/spreadsheets/d/e/2PACX-1vQtNSLY1eaa8StJxhsTOh6DkVDyj8nTnqf9nQYz1QvJ0lWnrc7gQpiGyhlTuIkDPllAi0bwrDMDiQv3/pubchart?oid=181466766&format=interactive)
+[GOOGLE SERP](https://www.google.com/search?q=c+brennan+poole+wind) | [BING SERP](https://www.bing.com/search?q=c+brennan+poole+chasing+the+wind)
+[ORCID](https://orcid.org/0000-0001-6537-7683) | [dribbbler](https://dribbble.com/C-Brennan-Poole/about)
+[Objective Assessment of the N American Opioid Crisis; for whole-truth >> follow the finances, silent partnerships, collaborative arrangements with peers and specialized interst MD >> understand, it's an all-cash establishment that further fuels off the fallacies in US dot GOV](https://docs.google.com/spreadsheets/d/e/2PACX-1vQtNSLY1eaa8StJxhsTOh6DkVDyj8nTnqf9nQYz1QvJ0lWnrc7gQpiGyhlTuIkDPllAi0bwrDMDiQv3/pubchart?oid=181466766&format=interactive) | [Giphy](https://giphy.com/channel/chasing-the-wind)
+[YouTube](https://www.youtube.com/channel/UCYVa4H5JraM-R6YoORABg3Q/about?disable_polymer=1) | [Wiki Profile](https://en.wikipedia.org/wiki/User:C-Brennan-Poole) 
+[Stack Overflow Story](https://stackoverflow.com/story/c-brennan-poole) | [Stack Overflow CV](https://stackoverflow.com/cv/c-brennan-poole)
+[Dark Docs Template](docs.google.com/document/d/1-JMQZuREnJHeSVKiyT7TKi_pyj1DCC1cfUR8Mhsilpo/template/preview) | [Dark Sheets Template](docs.google.com/spreadsheets/d/1m3ORMVcPysEeyoBzcJ4JPzHXRBgKYMnorIPJrMH1IOw/template/preview) 
+[GitHub Post Template](https://bit.ly/Git-Template) | [Hangouts to iOS Hack](https://hangouts.google.com/?hs=139&action=chat&pn=4705801515)
+[Messenger](https://m.me/IntheBusinessBusiness) | [Telegram](https://t.me/oudcollective) 
+[GitHub Projects](https://github.com/OUDcollective/Qualitative-Self/projects) | [Apple Inc Diversity / EEOC Issues on Google Sheets](https://docs.google.com/spreadsheets/d/1wQbP_f9faXGKKyWBTsKOd9yt4xqnLktvq_8AofdupSI/edit#gid=785042388) 
+[Seed Startup Hub](https://www.seedstartuphub.com/Home/StartupProfile/~10505) | [Epidemic Statistic Playlist on Apple Music](https://music.apple.com/us/playlist/epidemic-statistics/pl.u-38oWZy3sYK72y0R) 
+[Vimeo](https://vimeo.com/accessibilityassistants) | [Google My Business; & the Truth Shall set you Free](https://oudcollective.com "Stay - tuned as this one is the epitome of machines learning gone terribly learnng; while at the same time it will deliver a justified exoneration 'in the midst'; must just trust me on this Scorsese - like true story")
+[Dark Theme Podcast Post-production Transcripts](https://bit.ly/Podcast-Transcripts-Dark-Theme) | [Unsplash](https://unsplash.com/@oudcollective/stats?stats=last-30)
+[Growth-hack Attack v.2.1](https://drive.google.com/drive/u/1/folders/1tBIWum7wR3weNNFrSUz6GpexeYgGMo9O) | [YC SUS 2020](https://www.startupschool.org/companies/withWind)
+
+> BY ALL MEANS : Let us connect. [Care to CC0-11-aborate?](https://twitter.com/oudcollective) and start the work that will absolutely change the game, tilt the scales, and finally level the playing field for our Grandchildrens' Grandchildren! #GoodLordWillingAndTheCreekDontRise
 
 ---
 
 #### Legalese
 
 `the great national temperance drink`<br>
+
+- Careful now; the Devil dwells on the details & abodes in the fine print. Stay Woke, Git Gud, Git God! 
 
 ---
 
@@ -752,3 +772,5 @@ copyright© 2020 chasing the wind, some rights reserved. works are licensed unde
 `ahh... that's the good stuff!`<bar>
 
 This repository is licensed under* [MIT](../LICENSE) *if ever I get to delivering in-demand code - that is.* (c) #twenty20times [GitHub](https://github.com/OUDcollective/Quantified-Self "In Jesus Name. Amen! Hallel Allah. Praise Jehova. Hare Krsna. Hare Rama. Rama Rama. Want to flip Scripts; Move Consciousness with me?"), Inc. All rights to their namesake and logo are reserved. Thanks for hosting us! IAM [C brennan Poole ](https://www.bing.com/search?q=c+brennan+poole+chasing+the+wind "Bing powered by Microsoft : hacking traffic to the SERP to keep the sticky effect alive and well while attempting to roket launch inefficiencies into a total process overhaul i.e. digital transformation with Wind and C Brennan Poole pandemic forced states since dropped 'chasing' now simply DBA with Wind")         
+
+`GodSpeed` `Wrapped up in YHWW` `Headed the unwoke way` `In Jesus Name` `Hare Krishna` `Praise Jah` `finding sustainable` `do the next right thing` `Pay it Forward`
