@@ -74,13 +74,13 @@ No # | Position | Employer | Physical Address | Start Date | End Date | (Promoti
 3. **SPECIALIZATION** :
     - Service Operations Management.
 4. **Case - study** : 
-    - The Toyota Way & 
+    - [The Toyota Way](https://www.toyota-europe.com/world-of-toyota/this-is-toyota/the-toyota-way) & 
         1. [Toyota Production Systems Guiding Principles](https://global.toyota/en/company/vision-and-philosophy/production-system/).
             - Sustainability.<br>
             - Best business practices.<br>
-        2. Kaizen Leadership.<br>
-            - Continuous Improvement 
-            - The integration continuum is a `continuous improvement`.   
+        2. Kaizen Leadership.`Improvement` or `Change for the Better`.
+            - decreasing waste by eliminating overproduction, improving quality, being more efficient, having less idle time, and reducing unnecessary activities. 
+                - [Mind Tools](https://www.mindtools.com/pages/article/newSTR_97.htm)
         3. Kanban 
             - Project Management style as taught by above **champions of industry** & *sustainability*; The `Toyodas`'. <br>
 
@@ -167,12 +167,11 @@ Covington, GA | Nov 2018 - Present <br>
         1. `Team` —less.
         2. Being recognized for a conceptual sustainable model while not being a sustainable entity felt like (and likely is) utter `hypocrisy`. 
 5. Short-lists : 
-    - `Red Herring’s Top 100` : North American Tech Startups; `annual publication`,
+    - [Red Herring’s Top 100` : North American Tech Startups](; `annual publication`,
     - `Inc 5000`; `annual publication`,
     - `Red Oak Labs`. `Silicon Valley` `accelerator`
 6. Invite to be featured on `AMC Networks` by 
     - `NewsWatch` *sent 3 inquiries* (20 Jun - 23, 2020)
-        - **NOTE** : *with Wind* did not nor have we been taking to 'chasing'; exceptions : **SXSW 2020 Pitch** and the **iterative** `A/B` `always-on` `testing` and talking to team : `the Google` ( approach with `the Google` = `Fail Huge` + `Continuous Improvement` and we are championing this `strategy` ; remember; this is the `qualitative purview` and this is a `use-case` for that `point-of-fact` ).
 7. `Invitations` & more `short-list` offerings :  
     - [Learn Launch](https://learnlaunch.org/ "out of the whole gamut; this is the one the Wind may take to 'chasing'"), 
     - [Hatch Pitch](https://www.hatchpitch.com/ "maybe guilty of riding the SXSW 2020 Pitch invite and 'chasing this one; did take part in the actual event as an invite & voting participant"), 
