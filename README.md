@@ -153,6 +153,8 @@ Writing a Compelling Blog Post | Why are Opioids So Addictive (University South 
 
 `not too thick`? the `coke float`!<br>
 
+### New Venture Management
+
 #### the Wind LLC <br>
 
 `CREATIVE STRATEGIST & PRINCIPAL CHIEF of OPS`<br>
@@ -161,13 +163,13 @@ Covington, GA | Nov 2018 - Present <br>
 2. Sustainable Impact Award Recognition by Climate Collaborative 
     - set to be recognized on Climate day; novel coronavirus cancellation causation. 
 3. Invite to [GovCity III](https://govcity.com) cohort for [SXSW 2020](https://sxsw.com "South by Southwest is an annual conglomeration of parallel film, interactive media, and music festivals and conferences organized jointly that take place in mid-March in Austin, Texas, United States.") and 2nd invite to startup festival after the 
-    - unsolicited offer from [SXSW 2020 Executive Producer extended an invite](https://docs.google.com/spreadsheets/d/1i23nUbKEccvqhnrTq8qfO9Y0vqb85VezkMIzTIjjP-k/edit?usp=sharing "with a 48 - hour deadline : Think.FailHuge Think.ContinuousImprovement inception") (to apply; also a `COVID.CARES` cancellation ). 
+    - unsolicited offer from [SXSW 2020 Executive Producer extended an invite](https://docs.google.com/spreadsheets/d/1i23nUbKEccvqhnrTq8qfO9Y0vqb85VezkMIzTIjjP-k/edit?usp=sharing "with a 48 - hour deadline : Think.FailHuge Think.ContinuousImprovement inception")
 4. Extend reach to effectively garner the attention of the [United Nations- Habitat in partnership with Dubai Municipality : International Awards for Best Practices in Sustainable Development](https://drive.google.com/file/d/1v3chrKnW2E2dnxMvnXHgXMsHmLyA_Jl5/view?usp=sharing "had to vet; but it's more than legit" : again however - no 'chasing' with twenty - three attempts of encouragement trying to get with Wind all - in.")
     - Reason for not 'chasing' (`Legal entity : Chasing the Wind LLC`) : 
         1. `Team` —less.
         2. Being recognized for a conceptual sustainable model while not being a sustainable entity felt like (and likely is) utter `hypocrisy`. 
 5. Short-lists : 
-    - [Red Herring’s Top 100` : North American Tech Startups](; `annual publication`,
+    - Red Herring’s Top 100` : North American Tech Startups `annual publication`,
     - `Inc 5000`; `annual publication`,
     - `Red Oak Labs`. `Silicon Valley` `accelerator`
 6. Invite to be featured on `AMC Networks` by 
@@ -193,35 +195,9 @@ Covington, GA | Nov 2018 - Present <br>
 14. [Amazon (AWS) partner path](https://aws.amazon.com/partners/training/ "is there anybody out there? Just hit me at git.actionable@chasingthewindllc.com")
 15. [Microsoft partner](https://partner.microsoft.com/en-US/membership/competencies "it takes two; that's you! Yes You! +1 678-338-7339 Yes equity" ) Path.
 
----
+### Professional & Leadership Roles (Corporate US)      
 
-> Do you want to build a snowman?
-
----
-
-#### Amazon Inc <br>
-
-`LOGISTICS COORDINATOR`<br>
-Virtual | Oct 2017 – Jan 2018 <br>
-1. Relentlessly advocate for customers; always protecting confidentially and data; anticipate needs and underlying issues and treating their time and attention as sacred; overall effective communication skills and composure under pressure.
-2. Field inbound calls from Amazon Flex Delivery Partners; mapping their progress, navigating and troubleshooting the variables; guiding, and encouraging 100% successful delivery of Amazon goods and services.
-3. Forge concrete customer and team partnerships and own the Customer-Centric process by taking accountability when necessary and delivering personalized, peculiar experiences that customers love. 
-4. Virtual work environment encouraging active participation using various mediums to foster the team dynamic and engaging cross-functional teams in facilitating the construction of innovative problem resolution strategies.
-
----
-
-#### Pine Hills <br> 
-
-`LANDSCAPE & GENERAL MAINTENANCE`<br>
-Stockbridge, GA  | Aug 2016 – Aug 2017 <br>
-1. Take ownership of the residential development by demonstrating unquestionable work ethic while nurturing and nursing the land and serving as caregiver to the community. 
-2. Develop a partnership with residents by always offering to assist and delivering on early on requisition duties. 
-
----
-    
-## Professional & Leadership Roles ( Corporate US )      
-
-`Ain't nothing but the Real Thing Baby!`<br>
+`Ain't nothing but the Real Thing Baby!`
 
 ---
 
@@ -429,6 +405,7 @@ Ellenwood, GA | Mar 2008 - Jul 2009 <br>
         2. Doors chocked & blocked.
         3. equipment / load bars stowed. 
 
+### Other Experience 
 ---
 
 #### Ted's Montana Grill <br>
@@ -450,6 +427,27 @@ Stockbridge, GA  | Dec 2003 - Jan 2005 <br>
 4. Not-to-soon, but shortly thereafter, serving a seductively succulent dessert, as the passionate and promising honeymoon; an eloquent end to an exciting evening.
 
 ---
+
+#### Amazon Inc <br>
+
+`LOGISTICS COORDINATOR`<br>
+Virtual | Oct 2017 – Jan 2018 <br>
+1. Relentlessly advocate for customers; always protecting confidentially and data; anticipate needs and underlying issues and treating their time and attention as sacred; overall effective communication skills and composure under pressure.
+2. Field inbound calls from Amazon Flex Delivery Partners; mapping their progress, navigating and troubleshooting the variables; guiding, and encouraging 100% successful delivery of Amazon goods and services.
+3. Forge concrete customer and team partnerships and own the Customer-Centric process by taking accountability when necessary and delivering personalized, peculiar experiences that customers love. 
+4. Virtual work environment encouraging active participation using various mediums to foster the team dynamic and engaging cross-functional teams in facilitating the construction of innovative problem resolution strategies.
+
+---
+
+#### Pine Hills <br> 
+
+`LANDSCAPE & GENERAL MAINTENANCE`<br>
+Stockbridge, GA  | Aug 2016 – Aug 2017 <br>
+1. Take ownership of the residential development by demonstrating unquestionable work ethic while nurturing and nursing the land and serving as caregiver to the community. 
+2. Develop a partnership with residents by always offering to assist and delivering on early on requisition duties. 
+
+---
+    
 
 ### Shared Awards : 
     
@@ -490,9 +488,9 @@ Stockbridge, GA  | Dec 2003 - Jan 2005 <br>
 - Gold Team Award 
 `—Lowe's Companies Inc.`
 
-#### [2011](https://www.saia.com/about-us/awards) QUALITY MATTERS CAMPAIGN SAIA LTL TRADEMARKS CAMPAIGN
+#### [2011](https://www.saia.com/about-us/awards) 
 
-`First Full Year as Terminal Operations Manager with Saia AtlDockOps Team`<br>
+`Quality Matters campaign roll-out` `First Full Year as Terminal Operations Manager with Saia AtlDockOps Team`<br>
 
 - Super Regional LTL Carrier of the Year 
 `—Access America Transport`
