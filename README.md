@@ -1,9 +1,10 @@
 # Qualitative Self
-`C Brennan Poole`
 
-The `growth - hack attack v.2.2` : aiming at the backend as it's where I belong. First, an algorithmic riddle : dropped the '-asey'. i.e. no more 'chasing'; do you want to go 'NASCAR racing'? It's 'verily verily' simple. The '_' should be the clear giveaway(s) x 4. `-asey` `chasing` `NASCAR Racing` `verily verily`; **Think** `Jot and Tittle`...   
+---
 
-![C BRENNAN POOLE](https://camo.githubusercontent.com/29977588d9fbd41675e40fd5656c0de818389388/68747470733a2f2f646f63732e676f6f676c652e636f6d2f64726177696e67732f642f652f32504143582d3176534d70495f4d6152776a4f57354a6b6878675f302d4336465f4f75354d4a6174665650524379524c756b77686c7a69754f416c6a676735675266315858694e6c4e307035495f515f30722d43496d2f7075623f773d3132303026683d363237)
+## On [C Brennan Poole](https://crunchbase.com/person/c-brennan-poole "The growth - hack attack v.2.2 : aiming at the backend as it's where I belong. First, an algorithmic riddle : dropped the '-asey'. i.e. no more 'chasing'; do you want to go 'NASCAR racing'? It's 'verily verily' simple : Think Jot and Tittle")  
+
+![C BRENNAN POOLE and the Qualitative-Self](https://camo.githubusercontent.com/29977588d9fbd41675e40fd5656c0de818389388/68747470733a2f2f646f63732e676f6f676c652e636f6d2f64726177696e67732f642f652f32504143582d3176534d70495f4d6152776a4f57354a6b6878675f302d4336465f4f75354d4a6174665650524379524c756b77686c7a69754f416c6a676735675266315858694e6c4e307035495f515f30722d43496d2f7075623f773d3132303026683d363237)
 
 ---
 
@@ -18,7 +19,7 @@ Dark Theme Résumé | ATS Résumé
 
 ---
 
-### [The Quantified Self](https://bit.ly/The-Quantified-Self-twenty-20 "I thought I was onto something with this creation, as it turns out - the world wide web is truly a world wide abyss - unless you have ad-spend or take to plagiarizing to please the ATS, which I refuse to do anymore; this is my answer to the copycat tactics, however successful it is, it is TBD and a realtime journey; enjoy.") : 
+### The [Quantified-Self](https://bit.ly/The-Quantified-Self-twenty-20 "I thought I was onto something with this creation, as it turns out - the world wide web is truly a world wide abyss - unless you have ad-spend or take to plagiarizing to please the ATS, which I refuse to do anymore; this is my answer to the copycat tactics, however successful it is, it is TBD and a realtime journey; enjoy.") : 
 
 to provide `Total Customer Satisfaction` thru `Total Quality Management` `Positive Reinforcement` `People Empowerment` & `Continuous Improvement`.
 
@@ -70,14 +71,9 @@ No 1 : `it's the real thing`<br>
 
 ---
 
-## Higher Learning
-
-`Institutional Frame-of-work`
-
-### Georgia State University
+## Georgia State University
 
 `Faculty Scholar 2004` | `Dean's List 2005` | `Class of 2006`
-
 1. **COLLEGE** :
     - The J Mack Robinson College of Business. 
 2. **DEGREE** :
@@ -93,11 +89,10 @@ No 1 : `it's the real thing`<br>
             - decreasing waste by eliminating overproduction, improving quality, being more efficient, having less idle time, and reducing unnecessary activities. 
                 - [Mind Tools](https://www.mindtools.com/pages/article/newSTR_97.htm)
         3. Kanban 
-            - Project Management style as taught by above **champions of industry** & *sustainability*; The `Toyoda` Family.
-
----
-
-### Postsecondary Purview
+            - To-do,
+            - In Progress,
+            - Complete.
+5. University Coursework : 
 
 `expensive curriculum` `have a coke on me`
 
@@ -118,10 +113,9 @@ POLS 1101 American Government | ASTR 1001 Intro to Astronomy | SPCH 1000 Human C
 
 ---
 
-### MOOC Work 
+### MOOC - Work 
 
 `7 - 3` . `3 - 11`. `11 - 7`<br>
-
 Raising Capital | Creating the Conditions for Others to Thrive | Developing a Learning Mindset | Learning Data Science
 :---|:---|---:|---:
 Enhancing Your Productivity | Google My Business Basics | Growing Your Small Business with Linkedin | Pitching Yourself
@@ -131,27 +125,29 @@ Information Literacy | Learning From Failure | Learning to Teach Online | Logist
 Using March Madness to Learn Data Science | Learning Infographic Design | Learning Rest API's | Marketing to Millennials 
 The Four Levels of Writing Mastery | Personal Branding on Social Media | Switching Your Career | UX Foundations: Content Strategy
 Web Development Foundations: Web Technologies | Gaining Skills with Linkedin Learning | Learning Brainstorming | Strategic Thinking
-Writing a Compelling Blog Post | Why are Opioids So Addictive (University South Florida) | Introduction to HTML, CSS, & Java | Web Development Foundations: Full-Stack vs Front-End 
+Writing a Compelling Blog Post | Why are Opioids So Addictive (University South Florida) | Introduction to HTML, CSS, & Java | Web Development Foundations
 
 ---  
 
 #### Summary
-`it's 5 o'clock somewhere`<br>
 
-> Operations strategist determined to provide total Customer Satisfaction by fostering and mentoring the people process, developing cross-functional, collaborative workplace environments using creative problem solving techniques and easy to understand but increasingly difficult to achieve key performance indicators i.e. measurable benchmark measures guiding expectations.
+`it's 5 o'clock somewhere`
+> Operations strategist providing total Customer Satisfaction by fostering the people process, developing cross-functional, collaborative workplace environments, and using creative problem solving techniques; with easy to understand - yet -  increasingly difficult-to-achieve Key Performance Indicators.
 
 ---
 
 ### Realtime Real-Life Hands-on Work History
 
-`not too thick`? the `coke float`!<br>
+`coke float`!<br>
+---
 
 ### New Venture Management
 
-#### the Wind LLC <br>
+---
 
-`CREATIVE STRATEGIST & PRINCIPAL CHIEF of OPS`<br>
-Covington, GA | Nov 2018 - Present <br>
+#### with Wind LLC    
+`CREATIVE STRATEGIST and PRINCIPAL CHIEF of OPERATIONS`    
+Covington, GA | Nov 2018 - Present    
 1. Deliver 4,000% growth YOY (1 / 19 - 1 / 20); increase followers + 750% (July '20).
 2. Sustainable Impact Award Recognition by Climate Collaborative 
     - set to be recognized on Climate day; novel coronavirus cancellation causation. 
@@ -189,17 +185,15 @@ Covington, GA | Nov 2018 - Present <br>
 15. [Microsoft partner](https://partner.microsoft.com/en-US/membership/competencies "it takes two; that's you! Yes You! +1 678-338-7339 Yes equity" ) Path.
 
 ### Professional & Leadership Roles (Corporate US)      
-
 `Ain't nothing but the Real Thing Baby!`
 
 ---
 
-#### Annex Freight Systems Inc <br>
-
-`DISPATCH SUPERVISOR`<br>
-Newnan, GA  | Mar 2013 - Oct 2013 <br>
+#### Annex Freight Systems Inc 
+`DISPATCH SUPERVISOR`    
+Newnan, GA  | Mar 2013 - Oct 2013    
 1. Stream-line processes within the supply chain and within the internal, inter-departmental operations and customer service team
-2. Provide Total Customer Satisfaction by providing a more enjoyable service experience with team members, drivers, delivery partners, warehouse associates, third-party vendors, & most importantly, the customer
+2. Provide Total Customer Satisfaction by providing a more enjoyable service experience with team members, drivers, delivery partners, warehouse associates, third-party vendors, & most importantly, the customer.
 3. Provide pipeline management and logistics analysis for rail, truckload, and less than load (LTL) customers eliminating no less than $60,000 in shipping expense for customers
 4. Ensure company resources are most profitably utilized and assigned to customer orders in a way that keep company commitments to customers and drivers
 5. Maintain direct contact with various departments within the organization to coordinate and increase the efficiency driver, truck and trailer assignments
@@ -209,10 +203,9 @@ party to maintain client satisfaction rating of above 98.5%.
 
 ---
 
-#### Saia LTL Freight Inc <br> 
-
-`TERMINAL OPERATIONS MANAGER`<br>
-Ellenwood, GA | Jul 2011 - Feb 2013 <br>    
+#### Saia LTL Freight Inc   
+`TERMINAL OPERATIONS MANAGER`     
+Ellenwood, GA | Jul 2011 - Feb 2013    
 1. Design, Develop, and implement daily ops plan to ensure 98.6% on-time service standard. 
     - Consisting of approximately 650,000 to 1.5 million pounds of overnight due-service origin freight, and 
     - Approximately 4 to 6 million pounds in-bound break tonnage due-in nightl
@@ -223,17 +216,17 @@ Ellenwood, GA | Jul 2011 - Feb 2013 <br>
         4. 12 Operations Supervisors, 
         5. 6 Dispatch Supervisors,
         6. 10 Clerical Teammembers,
-2. Trend analysis, demand-planning, and overall statistical analysis of seasonal trends in tonnage and seasonal workforce issues helping to 
+2. Trend analysis of seasonal trends in tonnage and seasonal workforce issues helping to 
     - Identify patterns to develop new due service schedules for linehaul,
     - Eliminate existing schedules by building loads dynamic builds to Atlanta / Carolina region satellite (end) service centers.
     - Increase hiring efforts earlier in calendar year (Jan and Feb) to have a cross-functional team in place to cover the seasonal up-tick in tonnage and vacation requests.    
 3. Implement : 
     - Lean, six-sigma management principles,
 4. Institute :
-    - Pull just-in-time (J.I.T.) workflow models 
+    - Just-in-time (J.I.T.) workflow models 
     - Yard hostler changes in standard work process. 
-5. Design :
-    - DockOps stand to areas more conducive to the employee than the supervisor-of-responsibility (bottom-up ops strategy).
+5. Design-thinking :
+    - Dock Ops stand to areas more conducive to employee than supervisor bottom-up ops strategy).
     - Support :
         1. Upper - management goals,
         2. Regional management expectations :
@@ -260,7 +253,7 @@ Ellenwood, GA | Jul 2011 - Feb 2013 <br>
                 2. Questions of doubt &  
                 3. Resistance to change.  
                 4. Serve as liaison / conduet as the voice of the dock to : `senior management`; `advocating for legitimate equipment needs and fundamental employee benefits (F/T & P/T issues);
-9. Author and co-collaborator to :   
+9. Author and co-collaborator of :   
     - 20% Dock operations productivity enhancement (KPI),
         1. No less than 40% gain in delivery before exception metric;
 10. Slash : 
@@ -275,10 +268,9 @@ Ellenwood, GA | Jul 2011 - Feb 2013 <br>
          
 ---    
 
-#### Saia LTL Freight Inc <br>
-
-`DISPATCH SUPERVISOR`<br>
- Johns Creek, GA | Jul 2009 - Jul 2011 <br>
+#### Saia LTL Freight Inc    
+`DISPATCH SUPERVISOR`    
+ Johns Creek, GA | Jul 2009 - Jul 2011    
 1. Regional travel providing Atlanta region Dock Ops Teams :   
     - Training,  
     - Mentoring,  
@@ -316,16 +308,15 @@ Ellenwood, GA | Jul 2011 - Feb 2013 <br>
     - Clear and 
     - Concise manner.    
 9. Develop efficient, near autonomous set of workflow processes to 
-    - Establishing more adaptive and accountable workforce with 
-       
+    - Creating a more accountable workforce
 10. Improve the regional Ops perspective : 
     - Define clear expections : setting the benchmark (standard expectation directly inline with the company expectation of 98.6%; while 
         1. created an environment conducive to continuous improvement that would halt and catch fire the 2nd year; ultimately 
-            - Establishing and further improving on a 99.4% service standard.  
-            - Creating catalyst to almost instant recognition,  
-                1. Recepient (as team unit) of multiple internal service awards, including   
-                    - Best-in-class break ( medium terminals MPS, TN 2010) , and   
-                    - Best-in-class relay ( OKC + TUL terminals 2010 ) 
+            - Establish and improving on a 99.4% service standard.  
+            - The catalyst to almost instant recognition,  
+                1. Recepient of multiple internal service awards, including   
+                    - Best-in-class break ( medium terminals MPS, TN 2010), 
+                    - Best-in-class relay ( OKC + TUL terminals 2010), 
                     - Most improved regional service standards (MPS & OKC regions 2010).   
 10. Serve as onduit to growth for :    
     - Terminal DockOps,  
@@ -333,20 +324,19 @@ Ellenwood, GA | Jul 2011 - Feb 2013 <br>
         1. Specialized & Accelerated Shipping,  
         2. Drivers,  
         3. Interline carriers (3rd party), and  
-        4. Customer Success Team, and finally;nt
-            - Regional Managers, 
-            - C-Suite ( bottoms : up as mentioned ) 
-11. Pro-active planning using a predictive forecasting algorithm and logarithmic model as co-authored Linehaul Planning Department. 
+        4. Customer Success Team, and
+            - Regional Manageement, 
+            - C-Suite
+11. Implement a redictive forecasting algorithm and logarithmic model as co-authored with Linehaul Planning Department. 
 12. Produce an environment conducive to excellence creating consistence in KPIs and confidence in the budding team that was about to rocket launch their carrers throughout the network; making a sustainable impact on the carrier and industry.
 
 ---
 
-#### Saia LTL Freight Inc <br>
-
-`OPERATIONS SUPERVISOR`<br>
-Ellenwood, GA | Mar 2008 - Jul 2009 <br>
+#### Saia LTL Freight Inc
+`OPERATIONS SUPERVISOR`
+Ellenwood, GA | Mar 2008 - Jul 2009     
 1. Monitor, oversee, guide, and support proper work direction :
-    - Professional freight handlers,
+    - Professional Freighthandlers,
     - Line Drivers,
     - City (PUD) Drivers,
     - Interline (3rd Party) Drivers, 
@@ -397,15 +387,12 @@ Ellenwood, GA | Mar 2008 - Jul 2009 <br>
         - Benjamin Moore,
         - Valspar Paints, 
         - Masterchem (Kilz) Paints.
-8. Verify plus :  
-    - Sign-off shipments in loading status (LOA) 
-9. Establish daily crossover : 
+8. Establish daily crossover : 
     - Walk-the-doors *standard work process* created among `supervisors / peers`, 
-10. Verify shipments in loading (LOA) status to guarantee :
-   - Freight is Block with proper protocol technique,  
-   - Braced using best practices for guidance, 
-     3. Pin-wheeled to ensure the foundation of the load was in tact and capable of full utilization of space (the service provided in LTL is space ), and   
-8. Verify zone is ready for cross-over by 
+9. Verify shipments in loading (LOA) status to guarantee freight is handled using best-in-class business practices : 
+    - Brace using best practices for guidance, 
+    - Pin-wheeled to ensure the foundation of the load was in tact and capable of full utilization of space (the service provided in LTL is space ), and   
+10. Verify zone is ready for cross-over by 
     - Fill internal work stations  : 
         1. Tools : in - place, 
         2. Doors chocked & blocked.
@@ -415,19 +402,17 @@ Ellenwood, GA | Mar 2008 - Jul 2009 <br>
 
 ---
 
-#### Ted's Montana Grill <br>
-
-`Trainer - Server`<br>
-Atlanta, GA  | Dec 2005 - May 2006 <br>
+#### Ted's Montana Grill     
+`Trainer - Server`    
+Atlanta, GA  | Dec 2005 - May 2006
 1. Implement suggestive sales technique by identifying customers preference.
 2. Offer tailored-to-individual insight on menu items, daily blue-plate specials, seasonal dessert offering, and signature bar drinks.
 
 ---
 
-#### The Italian Oven <br>
-
-`Trainer-Manager`<br>
-Stockbridge, GA  | Dec 2003 - Jan 2005 <br>
+#### The Italian Oven     
+`Trainer-Manager`
+Stockbridge, GA  | Dec 2003 - Jan 2005
 1. Present menu in a simplistic, yet fastionable manner; 
 2. Identifyinsightful Italian pairings with a tasteful introduction for appetizer.
 2. Pair with spirits (if applicable) 
@@ -437,10 +422,9 @@ Stockbridge, GA  | Dec 2003 - Jan 2005 <br>
 
 ---
 
-#### Amazon Inc <br>
-
-`LOGISTICS COORDINATOR`<br>
-Virtual | Oct 2017 – Jan 2018 <br>
+#### Amazon Inc
+`LOGISTICS COORDINATOR`
+Virtual | Oct 2017 – Jan 2018
 1. Virtual work environment encouraging active participation using various mediums to foster the team dynamic and engaging cross-functional teams in facilitating the construction of innovative problem resolution strategies.
 2. Serve as advocate for customer;
 3. Field inbound calls from Amazon Flex Delivery Partners; 
@@ -451,10 +435,9 @@ Virtual | Oct 2017 – Jan 2018 <br>
 
 ---
 
-#### Pine Hills <br> 
-
-`LANDSCAPE & GENERAL MAINTENANCE`<br>
-Stockbridge, GA  | Aug 2016 – Aug 2017 <br>
+#### Pine Hills     
+`LANDSCAPE & GENERAL MAINTENANCE`
+Stockbridge, GA  | Aug 2016 – Aug 2017     
 1. Take ownership of the residential development by demonstrating unquestionable work ethic while nurturing and nursing the land and serving as caregiver to the community. 
 2. Develop a partnership with residents by always offering to assist and delivering on early on requisition duties. 
 
@@ -544,8 +527,9 @@ Stockbridge, GA  | Aug 2016 – Aug 2017 <br>
 ---
 
 ## Skills
+`at the intersection of everywhere`    
 
-`at the intersection of everywhere`<br>
+---
 
 Creativity | Sustainability | Customer Focus | Decision Quality | Active Listener | Leadership & Development
 :---|:---|---|---|---:|---:
@@ -563,18 +547,18 @@ Supply Chain | Telephone Skills | Total Quality Management | Bottom-up Strategy 
 
 ---
 
-###  Skills Assessment : Application Tracking Systems
+###  Skills Assessment (Application Tracking Systems (ATS))
 
-`on the highway to anywhere`; this one is `Done Right` at ... `Coca - Cola` `ATS and verbatim assessment`; `Hey!` - `enjoy`:<br>
+`on the highway to anywhere`; this one is `Done Right` at ... `Coca - Cola` `ATS and verbatim assessment`; `Hey!` - `enjoy` :     
 
 --- 
 
 1. Business Administration
-`Cross-Functional Collaboration` <br>
+`cross-Functional Collaboration` <br>
     - Experience in facilitation of multi-disciplinary teams
     - Logistics
 2. Leadership : 
-`Strong organizational and planning ability`<br>
+`strong organizational and planning ability`<br>
     - Teamwork and interpersonal skills with the 
     - Ability to communicate and execute strategies.
 3. Project Management : 
@@ -585,17 +569,21 @@ Supply Chain | Telephone Skills | Total Quality Management | Bottom-up Strategy 
     - Strong Team Leadership
     - Strategic Thinking
     - Planning and Consulting Skills
-5. Strong negotiation`influencing skills`<br>
-6. Writing /Presentation`Skills in English`<br>
-7. Analytical rigour : `can balance the quantitative and qualitative`<br>
-8. Building Relationships`strong collaboration skills among peers in all organizational levels.`<br.
+5. Strong negotiation
+`influencing skills`<br>
+6. Writing /Presentation
+`skills in English`<br>
+7. Analytical rigour : 
+`can balance the quantitative and qualitative`.
+8. Building Relationships
+`strong collaboration skills among peers in all organizational levels.`.
 9. Developing Talent
 10. Supply Chain Management
 11. Teamwork
 12. Accomplishes results through the coordination of a team of professionals.
-`working cross-functionally`
+`working cross-functionally`    
 13. Acts as an advisor to others.
-`communicates deadlines clearly and consistently`
+`communicates deadlines clearly and consistently`     
 14. The ability to apply forecasting techniques and skills to support region planning. 
 `applies system knowledge to improve reporting process / model.`
 15. Budgeting, 
@@ -605,9 +593,9 @@ Supply Chain | Telephone Skills | Total Quality Management | Bottom-up Strategy 
 `Problem Solving`
 17. Accounting Experience.
     `Proficient in Excel`
-    - able to apply the skill in managing database and 
-        1. ability to convert and 
-        2. analyze the data.
+    - Able to apply the skill in managing database and 
+        1. Ability to convert and 
+        2. Analyze the data.
 18. SAP/Hyperion Experience is a strong plus
 `collaborative / team player.`
     - Effective Communication Skills. 
@@ -645,7 +633,8 @@ Supply Chain | Telephone Skills | Total Quality Management | Bottom-up Strategy 
     - Assist with SES inspections, audits, and documentation as needed. 
 26. Generate daily/weekly/monthly reports and audit results, as assigned. 
 27. Effectively utilize software: 
-28. Effectively utilize basic `Technical math skills`
+28. Effectively utilize basic 
+`Technical math skills`
     - Basic grammar, and 
     - Technical writing skills. 
 29. Assist in development and presentation of SES-related training topics.`technical writer`
@@ -671,11 +660,13 @@ Supply Chain | Telephone Skills | Total Quality Management | Bottom-up Strategy 
 `Knowledge of Procurement`
     - Industry and business best practices to guide thought leadership and ensure effective procurement strategies. 
     - Includes the ability to recognise value creation opportunities within the supply chain.
-39. Create and manage databases.`insightful analysis`
-    - of database management as a proficient business analysis & data scientist
-    - Maintain, update category spend, and 
-    - Volumes.
-40. Executes Business Results in a `supply - chain environment`
+39. Create and manage databases.
+`insightful analysis`
+    - Maintain, 
+    - Update category spend, and 
+    - Volume.
+40. Executes Business Results in a 
+`supply - chain environment`
 41. Enable procurement effectiveness by 
     - Developing and 
     - Applying tools and 
@@ -726,25 +717,19 @@ Supply Chain | Telephone Skills | Total Quality Management | Bottom-up Strategy 
 
 `the pause that refreshes...`
 
-[Let's Connect on LinkedIn](https://linkedin.com/in/oudcollective) | [LinkedIn Control Page](https://linkedin.com/in/c-brennan-poole)
-:---|---:
-[Twitter](https://twitter.com/oudcollective) | [LinkedIn with Wind](https://linkedin.com/company/the-wind) 
-[Popular on Pinterest](https://www.pinterest.com/withwindllc) | [Quora](https://quora.com/c-brennnan-poole)
-[instagram](https://instagram.com/twenty20times) | [Some Links](https://my.bio/thewindllc)    
-[Medium](https://medium.com/@C.Brennan.Poole) | [Rockin' Chair Panel](https://medium.com/rockinchairpanel)
-[DEV](https://dev.to/cbrennanpoole) | [Hackernoon](https:/hackernoon.com/@chasing-the-wind)
-[Crunchbase Founder Top 5k Bio](https://www.crunchbase.com/person/c-brennan-poole) | [Crunchbase with Wind Top 50k Organization](https://www.crunchbase.com/organization/chasing-the-wind-llc)
-[GOOGLE SERP](https://www.google.com/search?q=c+brennan+poole+wind) | [BING SERP](https://www.bing.com/search?q=c+brennan+poole+chasing+the+wind)
-[ORCID](https://orcid.org/0000-0001-6537-7683) | [dribbbler](https://dribbble.com/C-Brennan-Poole/about)
-[Objective Assessment of the N American Opioid Crisis; for whole-truth >> follow the finances, silent partnerships, collaborative arrangements with peers and specialized interst MD >> understand, it's an all-cash establishment that further fuels off the fallacies in US dot GOV](https://docs.google.com/spreadsheets/d/e/2PACX-1vQtNSLY1eaa8StJxhsTOh6DkVDyj8nTnqf9nQYz1QvJ0lWnrc7gQpiGyhlTuIkDPllAi0bwrDMDiQv3/pubchart?oid=181466766&format=interactive) | [Giphy](https://giphy.com/channel/chasing-the-wind)
-[YouTube](https://www.youtube.com/channel/UCYVa4H5JraM-R6YoORABg3Q/about?disable_polymer=1) | [Wiki Profile](https://en.wikipedia.org/wiki/User:C-Brennan-Poole) 
-[Stack Overflow Story](https://stackoverflow.com/story/c-brennan-poole) | [Stack Overflow CV](https://stackoverflow.com/cv/c-brennan-poole)
-[Dark Docs Template](docs.google.com/document/d/1-JMQZuREnJHeSVKiyT7TKi_pyj1DCC1cfUR8Mhsilpo/template/preview) | [Dark Sheets Template](docs.google.com/spreadsheets/d/1m3ORMVcPysEeyoBzcJ4JPzHXRBgKYMnorIPJrMH1IOw/template/preview) 
-[GitHub Post Template](https://bit.ly/Git-Template) | [Hangouts to iOS Hack](https://hangouts.google.com/?hs=139&action=chat&pn=4705801515)
-[Messenger](https://m.me/IntheBusinessBusiness) | [Telegram](https://t.me/oudcollective) 
-[GitHub Projects](https://github.com/OUDcollective/Qualitative-Self/projects) | [Apple Inc Diversity / EEOC Issues on Google Sheets](https://docs.google.com/spreadsheets/d/1wQbP_f9faXGKKyWBTsKOd9yt4xqnLktvq_8AofdupSI/edit#gid=785042388) 
-[Seed Startup Hub](https://www.seedstartuphub.com/Home/StartupProfile/~10505) | [Epidemic Statistic Playlist on Apple Music](https://music.apple.com/us/playlist/epidemic-statistics/pl.u-38oWZy3sYK72y0R) 
-[Vimeo](https://vimeo.com/accessibilityassistants) | [Google My Business; & the Truth Shall set you Free](https://oudcollective.com "Stay - tuned as this one is the epitome of machines learning gone terribly learnng; while at the same time it will deliver a justified exoneration 'in the midst'; must just trust me on this Scorsese - like true story")
+[Let's Connect on LinkedIn](https://linkedin.com/in/oudcollective) | [LinkedIn Control Page](https://linkedin.com/in/c-brennan-poole) | [Pinterest](https://www.pinterest.com/withWindllc
+:---|:---:|---:
+[Twitter](https://twitter.com/oudcollective) | [LinkedIn with Wind](https://linkedin.com/company/the-wind) |  [Quora](https://quora.com/c-brennnan-poole)
+[instagram](https://instagram.com/twenty20times) | [Some Links](https://my.bio/thewindllc) | [Medium](https://medium.com/@C.Brennan.Poole)
+[Rockin' Chair Panel](https://medium.com/rockinchairpanel) | [DEV](https://dev.to/cbrennanpoole) | [Hackernoon](https:/hackernoon.com/@chasing-the-wind)
+[Crunchbase Founder Top 5k Bio](https://www.crunchbase.com/person/c-brennan-poole) | [Crunchbase with Wind Top 50k Organization](https://www.crunchbase.com/organization/chasing-the-wind-llc) | [Coil Blog](https://coil.com/u/oudcollective)
+[GOOGLE SERP](https://www.google.com/search?q=c+brennan+poole+wind) | [BING SERP](https://www.bing.com/search?q=c+brennan+poole+chasing+the+wind) | [ORCID](https://orcid.org/0000-0001-6537-7683) 
+[dribbbler](https://dribbble.com/C-Brennan-Poole/about) | [Objective Assessment of the N American Opioid Crisis; for whole-truth >> follow the finances, silent partnerships, collaborative arrangements with peers and specialized interst MD >> understand, it's an all-cash establishment that further fuels off the fallacies in US dot GOV](https://docs.google.com/spreadsheets/d/e/2PACX-1vQtNSLY1eaa8StJxhsTOh6DkVDyj8nTnqf9nQYz1QvJ0lWnrc7gQpiGyhlTuIkDPllAi0bwrDMDiQv3/pubchart?oid=181466766&format=interactive) | [Giphy](https://giphy.com/channel/chasing-the-wind) | [YouTube](https://www.youtube.com/channel/UCYVa4H5JraM-R6YoORABg3Q/about?disable_polymer=1)
+[Wiki Profile](https://en.wikipedia.org/wiki/User:C-Brennan-Poole) | [Stack Overflow Story](https://stackoverflow.com/story/c-brennan-poole) | [Stack Overflow CV](https://stackoverflow.com/cv/c-brennan-poole)
+[Dark Docs Template](docs.google.com/document/d/1-JMQZuREnJHeSVKiyT7TKi_pyj1DCC1cfUR8Mhsilpo/template/preview) | [Dark Sheets Template](docs.google.com/spreadsheets/d/1m3ORMVcPysEeyoBzcJ4JPzHXRBgKYMnorIPJrMH1IOw/template/preview) | [GitHub Post Template](https://bit.ly/Git-Template)
+[Hangouts to iOS Hack](https://hangouts.google.com/?hs=139&action=chat&pn=4705801515) | [Messenger](https://m.me/IntheBusinessBusiness) | [Telegram](https://t.me/oudcollective) 
+[GitHub Projects](https://github.com/OUDcollective/Qualitative-Self/projects) | [Apple Inc Diversity / EEOC Issues on Google Sheets](https://docs.google.com/spreadsheets/d/1wQbP_f9faXGKKyWBTsKOd9yt4xqnLktvq_8AofdupSI/edit#gid=785042388) | [Seed Startup Hub](https://www.seedstartuphub.com/Home/StartupProfile/~10505)
+[Epidemic Statistic Playlist on Apple Music](https://music.apple.com/us/playlist/epidemic-statistics/pl.u-38oWZy3sYK72y0R) | [Vimeo](https://vimeo.com/accessibilityassistants) | [Google My Business; & the Truth Shall set you Free](https://oudcollective.com "Stay - tuned as this one is the epitome of machines learning gone terribly learnng; while at the same time it will deliver a justified exoneration 'in the midst'; must just trust me on this Scorsese - like true story")
 [Dark Theme Podcast Post-production Transcripts](https://bit.ly/Podcast-Transcripts-Dark-Theme) | [Unsplash](https://unsplash.com/@oudcollective/stats?stats=last-30)
 [Growth-hack Attack v.2.1](https://drive.google.com/drive/u/1/folders/1tBIWum7wR3weNNFrSUz6GpexeYgGMo9O) | [YC SUS 2020](https://www.startupschool.org/companies/withWind)
 
