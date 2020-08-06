@@ -26,63 +26,29 @@ to provide `Total Customer Satisfaction` thru `Total Quality Management` `Positi
 
 ---
 
-## My Mission
-
-`yes; i accept.` <br>
-
-> to create a truly meritocratic digital community that knows no bounds; understands the categorical labels and need for them in organizational behavior but doesn't apply them to himself or community, and to help create a sustainable, profitable business that future generations will look to.
-
----
-
 ## Professional Table     
 
 `dad can do datasets` `comprehensive body of works`<br>
     
-No # | Position | Employer | Physical Address | Start Date | End Date | (Promotion Y/N) | Contact
+No # | Position | Employer | Physical Address | Start - End Date | (Promotion Y/N)
 :---|:---|:---|:---:|:---:|---:|---:|---:
-1 | Creative Strategist & Principal Chief of Operations | the Wind, LLC | Covington, GA | Nov 2018 | Present | N | 470-444-1215
-2 | Logistics Coorginator | Amazon Logistics | Stockbridge, GA | Oct 2017 | Feb 2018 | N | Internal VPN 
-3 | Maintenance & Landscape  | Pine Hills | Stockbridge, GA | Aug 2016 | Aug 2017 | Y  | 770-474-1870 
-4 | Self-employed (Freelance) | Sub-Contract Work | Stockbridge, GA | Feb 2014 | Jan 2017 | N | 678-856-5729
-5 | Dispatch Supervisor | Annex Freight Systems | Newnan, GA | March 2013 | Nov 2013 | N | 678-854-8782
-6 | Operations Manager | Saia LTL Freight Inc | Ellenwood, GA | July 2011 | Feb 2013 | N | 800-950-7242
-7 | Dispatch Supervisor | Saia LTL Freight Inc | Johns Creek, GA | July 2009 | July 2011 | Y | 800-315-7242
-8 | Operations Supervisor | Saia LTL Freight Inc | Ellenwood, GA | March 2008 | July 2009 | Y | 800-950-7242
-9 | Ops & Office Manager | South County Masonry Inc | Venice, FL | May 2006 | Aug 2007 | NA | 941-484-6223
-10 | Team Lead | Ted's Montana Grill | Midtown Atlanta, GA | Nov 2005 | May 2006 | Y | 404-355-3897 
-11| Trainer / FOH Manager | Italian Oven | Stockbridge, GA | Dec 2003 | Jan 2005 | Y | 770-507-4827
-12 | Customer Service Associate II | Lowe's Inc | Stockbridge, GA | March 2003 | Nov 2003 | Y | 770-506-9665
-13 | Freight Handler | Roadway Express Inc | Atlanta, GA | Aug 2002 | Feb 2003 | Y | Merger with YRC, Inc.
-14 | Umpire | RYBA (Youth Baseball Assoc. Rockdale County) | Conyers, GA | May 2000 | May 2001 | NA | Unknown
-15 | Secratarial Assistant | Richard H. Ramsey IV, Esquire | Dothan, AL | Nov 2000 | May 2000 | Work - Study | 334-792-2553
-16 | Back of House | City Slickers, LLC | Conyers, GA | January 1999 | May 2001 | NA | Business Dissolved 
-17 | Innocence of Youth | American Dreamer | Historic Heartland of Georgia, US & Greater Metro Atlanta area | May 1983 | TBD | TBD 
-
----
-
-## Higher Learning <br>
-`Institutional Frame-of-work`<br>
-
-### Georgia State University<br>    
-
-`Faculty Scholar 2004` | `Dean's List 2005` | `Class of 2006`<br>
-
-1. **COLLEGE** :
-    - The J Mack Robinson College of Business. 
-2. **DEGREE** :
-    - Bachelor of Business Administration.
-3. **SPECIALIZATION** :
-    - Service Operations Management.
-4. **Case - study** : 
-    - [The Toyota Way](https://www.toyota-europe.com/world-of-toyota/this-is-toyota/the-toyota-way) & 
-        1. [Toyota Production Systems Guiding Principles](https://global.toyota/en/company/vision-and-philosophy/production-system/).
-            - Sustainability.<br>
-            - Best business practices.<br>
-        2. Kaizen Leadership.`Improvement` or `Change for the Better`.
-            - decreasing waste by eliminating overproduction, improving quality, being more efficient, having less idle time, and reducing unnecessary activities. 
-                - [Mind Tools](https://www.mindtools.com/pages/article/newSTR_97.htm)
-        3. Kanban 
-            - Project Management style as taught by above **champions of industry** & *sustainability*; The `Toyodas`'. <br>
+1 | Creative Strategist & Principal Chief of Operations | the Wind, LLC | Covington, GA | Nov 2018 - Present | N
+2 | Logistics Coorginator | Amazon Logistics | Stockbridge, GA | Oct 2017 - Feb 2018 | N
+3 | Maintenance & Landscape  | Pine Hills | Stockbridge, GA | Aug 2016 - Aug 2017 | Y  |
+4 | Self-employed (Freelance) | Sub-Contract Work | Stockbridge, GA | Feb 2014 | Jan 2017 | N
+5 | Dispatch Supervisor | Annex Freight Systems | Newnan, GA | March 2013 - Nov 2013 | N
+6 | Operations Manager | Saia LTL Freight Inc | Ellenwood, GA | July 2011 - Feb 2013 | N
+7 | Dispatch Supervisor | Saia LTL Freight Inc | Johns Creek, GA | July 2009 - July 2011 | Y
+8 | Operations Supervisor | Saia LTL Freight Inc | Ellenwood, GA | March 2008 - July 2009 | Y
+9 | Operations / Office Manager | South County Masonry Inc | Venice, FL | May 2006 - Aug 2007 | NA
+10 | Team Lead | Ted's Montana Grill | Midtown Atlanta, GA | Nov 2005 - May 2006 | Y
+11| Trainer / FOH Manager | Italian Oven | Stockbridge, GA | Dec 2003 - Jan 2005 | Y
+12 | Customer Service Associate II | Lowe's Inc | Stockbridge, GA - March 2003 | Nov 2003 | Y
+13 | Freight Handler | Roadway Express Inc | Atlanta, GA | Aug 2002-  Feb 2003 | Y
+14 | Umpire | RYBA (Youth Baseball Assoc. Rockdale County) | Conyers, GA | May 2000 - May 2001 | NA
+15 | Secratarial Assistant | Richard H. Ramsey IV, Esquire | Dothan, AL | Nov 2000 - May 2000 | NA
+16 | Back of House | City Slickers, LLC | Conyers, GA | January 1999 - May 2001 | NA
+17 | Innocence of Youth | American Dreamer | Historic Heartland of Georgia, US & Greater Metro Atlanta area | May 1983 - TBD | 😉
 
 ---
 
@@ -104,24 +70,51 @@ No 1 : `it's the real thing`<br>
 
 ---
 
+## Higher Learning
+
+`Institutional Frame-of-work`
+
+### Georgia State University
+
+`Faculty Scholar 2004` | `Dean's List 2005` | `Class of 2006`
+
+1. **COLLEGE** :
+    - The J Mack Robinson College of Business. 
+2. **DEGREE** :
+    - Bachelor of Business Administration.
+3. **SPECIALIZATION** :
+    - Service Operations Management.
+4. **CASE - STUDY** : 
+    - [The Toyota Way](https://www.toyota-europe.com/world-of-toyota/this-is-toyota/the-toyota-way) & 
+        1. [Toyota Production Systems Guiding Principles](https://global.toyota/en/company/vision-and-philosophy/production-system/).
+            - Sustainability.<br>
+            - Best business practices.<br>
+        2. Kaizen Leadership.`Improvement` or `Change for the Better`.
+            - decreasing waste by eliminating overproduction, improving quality, being more efficient, having less idle time, and reducing unnecessary activities. 
+                - [Mind Tools](https://www.mindtools.com/pages/article/newSTR_97.htm)
+        3. Kanban 
+            - Project Management style as taught by above **champions of industry** & *sustainability*; The `Toyoda` Family.
+
+---
+
 ### Postsecondary Purview
 
-`expensive curriculum` `have a coke on me` ...<br>
+`expensive curriculum` `have a coke on me`
 
 MGS 4770 Service Operations Management | MGS 4760 Total Quality Management | MGS 4740 Operations Strategy
 :---|:---|---:
 MGS 4730 Project Management | MGS 4700 Operations Management | MGS 4500 Entrepreneurship / New Venture Management
 MK 4400 Distribution Management Consumer | MGS 4110 Analysis of Business Data | MGS 4120 Optimal Resource Allocation
 MGS 4000 Managerial Decision Making | MGS 4710 Analysis of Business Data | ACCT 4210 Cost/Managerial Accounting
-BCOM 3950 Business Communication and Professional Development | FI 3300 Corporation Finance | MGS 3100 Business Analysis
-MGS 3400 Managing People in Organization | BUSA 3000 Globalization and Business Practices | MK 3010 Basic Marketing
-RE 3010 Real Estate Principles | CRJU 3100 Intro to Criminal Justice | ACCT 2102 Principles of Accounting II  
-ACCT 2101 Principles of Accounting I | PHIL 2410 Critical Thinking | BUSA 2106 Legal Environment of Business
-CRJU 2200 Social Sciences & America's Criminology Problem | HIST 2110 Survey of US History | ECON 2100 The Global Economy
-MATH 2101 Mathematical Modeling | AH 1070 Survey of Art II | POLS 1101 American Government
-MATH 1070 Elementary Statistics ENGL 2102 English Composition II | CIS 2010 Computer Information Systems
-ECON 2106 Principles of Microeconomics | ECON 2106 Principles Of Macroeconomics | BIOL 1110K Human Anatomy & Phsyiology
-SPCH 1000 Human Communication | BIOL 1101 Intro to Biology | BIOL 1102 (TK)
+BCOM 3950 Business Communication and Professional Development | MGS 3400 Managing People in Organization | FI 3300 Corporation Finance
+MGS 3100 Business Analysis | CRJU 3100 Intro to Criminal Justice | MK 3010 Basic Marketing
+RE 3010 Real Estate Principles | BUSA 3000 Globalization and Business Practices | PHIL 2410 Critical Thinking
+CRJU 2200 Social Sciences & America's Criminology Problem  | BUSA 2106 Legal Environment of Business | ACCT 2102 Principles of Accounting II
+ACCT 2101 Principles of Accounting I | HIST 2110 Survey of US History | MATH 2101 Mathematical Modeling
+ECON 2106 Principles of Microeconomics | ECON 2105 Principles Of Macroeconomics | CIS 2010 Computer Information Systems 
+ECON 2100 The Global Economy | BIOL 1110K Human Anatomy & Phsyiology | BIOL 1102 (TK) | BIOL 1101 Intro to Biology
+AH 1070 Survey of Art II | ENGL 2102 American Literature | MATH 1070 Elementary Statistics
+POLS 1101 American Government | ASTR 1001 Intro to Astronomy | SPCH 1000 Human Communication
 
 ---
 
@@ -164,7 +157,7 @@ Covington, GA | Nov 2018 - Present <br>
     - set to be recognized on Climate day; novel coronavirus cancellation causation. 
 3. Invite to [GovCity III](https://govcity.com) cohort for [SXSW 2020](https://sxsw.com "South by Southwest is an annual conglomeration of parallel film, interactive media, and music festivals and conferences organized jointly that take place in mid-March in Austin, Texas, United States.") and 2nd invite to startup festival after the 
     - unsolicited offer from [SXSW 2020 Executive Producer extended an invite](https://docs.google.com/spreadsheets/d/1i23nUbKEccvqhnrTq8qfO9Y0vqb85VezkMIzTIjjP-k/edit?usp=sharing "with a 48 - hour deadline : Think.FailHuge Think.ContinuousImprovement inception")
-4. Extend reach to effectively garner the attention of the [United Nations- Habitat in partnership with Dubai Municipality : International Awards for Best Practices in Sustainable Development](https://drive.google.com/file/d/1v3chrKnW2E2dnxMvnXHgXMsHmLyA_Jl5/view?usp=sharing "had to vet; but it's more than legit" : again however - no 'chasing' with twenty - three attempts of encouragement trying to get with Wind all - in.")
+4. Extend reach to effectively garner the attention of the [United Nations- Habitat in partnership with Dubai Municipality : International Awards for Best Practices in Sustainable Development](https://drive.google.com/file/d/1v3chrKnW2E2dnxMvnXHgXMsHmLyA_Jl5/view?usp=sharing"had to vet; but it's more than legit" : again however - no 'chasing' with twenty - three attempts of encouragement trying to get with Wind all - in.")
     - Reason for not 'chasing' (`Legal entity : Chasing the Wind LLC`) : 
         1. `Team` —less.
         2. Being recognized for a conceptual sustainable model while not being a sustainable entity felt like (and likely is) utter `hypocrisy`. 
@@ -224,76 +217,87 @@ Ellenwood, GA | Jul 2011 - Feb 2013 <br>
     - Consisting of approximately 650,000 to 1.5 million pounds of overnight due-service origin freight, and 
     - Approximately 4 to 6 million pounds in-bound break tonnage due-in nightl
     - Associate shift composition of 
-    100-125 hourly dock associates,   
-        1. No less than 120 line-haul drivers,  
-        2. Over 100 local drivers and totaling  
-        3. Nearly 400 Atlanta domicile associates.
+        1. 100-125 Professional Freight Handlers,
+        2. 85-110 Line Drivers,
+        3. 60-75 PUD Drivers,
+        4. 12 Operations Supervisors, 
+        5. 6 Dispatch Supervisors,
+        6. 10 Clerical Teammembers,
 2. Trend analysis, demand-planning, and overall statistical analysis of seasonal trends in tonnage and seasonal workforce issues helping to 
-    - identify patterns to develop a proposal for new due service schedule for linehaul runs or 
-    - eliminate existing schedule by building loads with multi-point destinations, and 
-    - increase hiring efforts earlier than strategy had set - forth (hiring in Jan and Feb to have a cross-functionally proficient unit of part - time associates to cover the seasonal up-tick in vacation requests that aligned with school season and seasonality of vacationing for the nation Saia was expected to service (This is US, not the current US; correction : This was US, no mas - unfortunately for US). 
-3. Implement   
-    - six-sigma management principles,
+    - Identify patterns to develop new due service schedules for linehaul,
+    - Eliminate existing schedules by building loads dynamic builds to Atlanta / Carolina region satellite (end) service centers.
+    - Increase hiring efforts earlier in calendar year (Jan and Feb) to have a cross-functional team in place to cover the seasonal up-tick in tonnage and vacation requests.    
+3. Implement : 
+    - Lean, six-sigma management principles,
+4. Institute :
     - Pull just-in-time (J.I.T.) workflow models 
-        1. Yard hostler changes in standard work process. 
-        2. Shift dock stand to areas more conducive to the employee than the supervisor-of-responsibility (bottoms up again).
-    - Support upper - management goals and regional management expectations by offering the terminal perspective at quarterly meetings, and   
-        1. Develop staff to fall-in-line helping to further achieve the goal of 
-            - Always on A / B testing,
-            - Real - time human resources establishing a body of 
-        2. Continuous 'integration / improvement'.
-4. Craft operations strategy aligning organizations vision with operations team and associates.
+    - Yard hostler changes in standard work process. 
+5. Design :
+    - DockOps stand to areas more conducive to the employee than the supervisor-of-responsibility (bottom-up ops strategy).
+    - Support :
+        1. Upper - management goals,
+        2. Regional management expectations :
+            - Offer the terminal perspective at quarterly meetings
+            - Develop staff to fall-in-line helping to further achieve the goal of 
+                1. Always on A / B testing,
+                2. Real - time human resources establishing a body of 
+                    - Continuous integration / improvement.
+6. Craft operations strategy aligning organizational vision with operations team and associates daily game plan.
     - 1st day introduction issued a challenge to perform as one unit and single team. 
-        1. With a command to excellence, and
+        1. Issue command to excellence, and
         2. Mission to take pride in the job. 
         3. Promising to return to an open door management policy. 
             - Address all inquires 
             - Committment to resolve pre-existing & future (if warranted) concerns. 
-5. Explore the underlying issues affecting the workforce; 
-    - Active listening in individual and group information gathering sessions; 
-    - Analyze and identify anomalies and outliers, 
-    - Continuous observation and perspective taking until identification of root cause(s) could be established; 
-    - Addressing all associate : 
-        1. Feedback  
-        2. Questions of doubt &  
-        3. Resistance to change.  
-        4. Serve as liaison / conduet as the voice of the dock to : `senior management`; `advocating for legitimate equipment needs and fundamental employee benefits (F/T & P/T issues).  
-6. Author and co-collaborator to:   
-    - 20% Dock operations productivity enhancement (KPI).  
-        1. No less than 40% gain in delivery before exception metric.  
-    - Slash over - the - road expenditures with permanent cancellation of 4 due-service regional runs by implementing multi-stop, strategic load plan.  
-        - Shaved no less than 6 city of Atlanta delivery & pickup (PUD) routes, and  
+7. Explore underlying issues affecting workforce thru : 
+    - Active listening  :
+        1. Individual,  
+        2. Group information gathering sessions; 
+8. Analyze and identify anomalies and outliers : 
+            - Continuous observation and perspective taking until identification of root cause(s) could be established; 
+            - Addressing all associate : 
+                1. Feedback  
+                2. Questions of doubt &  
+                3. Resistance to change.  
+                4. Serve as liaison / conduet as the voice of the dock to : `senior management`; `advocating for legitimate equipment needs and fundamental employee benefits (F/T & P/T issues);
+9. Author and co-collaborator to :   
+    - 20% Dock operations productivity enhancement (KPI),
+        1. No less than 40% gain in delivery before exception metric;
+10. Slash : 
+    - Over - the - road (OTR) expenditures, 
+    - Permanent cancellation of 4 due-service regional runs by implementing multi-stop, strategic load plan.  
+        1. Shave no less than 6 city of Atlanta delivery & pickup (PUD) routes, and  
+11. Establish : 
     - 2% Standard of Service improvement.
-        1. Total Customer Satisfaction delivering of 99.2% on-time and improving damages by 40% across the international network 
-            - As a team!
-
+        1. Total Customer Satisfaction delivering of 99.2% on-time and 
+12. Reduce damages : 
+    - 40% across-the-board.
+         
 ---    
 
 #### Saia LTL Freight Inc <br>
 
 `DISPATCH SUPERVISOR`<br>
  Johns Creek, GA | Jul 2009 - Jul 2011 <br>
-1. Regional travel providing DockOps team  
+1. Regional travel providing Atlanta region Dock Ops Teams :   
     - Training,  
-    - Tutoring, tips, and  
-    - Organizational education, at the discretion of the Vice President of Line Haul.  
+    - Mentoring,  
+    - Organizational dynamics at discretion of Vice President of Line Haul.  
 2. Establish cross-functional constructive collaboration,  
-    - Forging the foundation for a profitable partnership;   
-    - Enabling regional lane load average improvement up-ticks and  
-    - Fostering, best-in-class, awards and  
+    - Forge foundation for profitable partnership;   
+    - Enable regional lane load average improvement,
+    - Foster best-in-class awards by creating a continuous improvement environment.
     - Peer recognition for Memphis and Oklahoma City regional operations teams.  
 3. Call center setting 600-minute shifts and 480-minute phone time expectation,  
-    - Averaged over 530 minutes at all times.  
-    - Ownership of 250-325 average nightly calls of concern from all angles.  
-    - Assurance Supervisor : Empathetic ear as needed; attempting to always deliver 
-        1. Patient 
-        2. Confident standark work processes.
-    - Express appreciation for line and city drivers' as
-        1. in-house surveys and feedback continued-to-show : 
+    - Average > 530 minutes.  
+    - Take Ownership of 250-325 average nightly calls from all operations, sales, and safety angles.  
+    - Assurance Supervisor 
+4. Express appreciation for line and city drivers' as
+        1. In-house feedback and Human Resources identified a schism with : 
             - driver-to-dispatch and 
             - drivers-to-dockOps Team 
-                1. relations were in a continual decline in recent years.
-4. Forge authentic relationship with region & drivers-of-responsibility through 
+                1. relations were in a continual decline in earlier years.
+5. Forge authentic relationship with region & drivers-of-responsibility through 
     - Active listening,
     - People Empowerment, 
     - Continuous Improvement mind-set, 
@@ -302,39 +306,38 @@ Ellenwood, GA | Jul 2011 - Feb 2013 <br>
         1. Conflict resolution, 
         2. Call - off expectations, 
         3. Seniority SOP.
-5. Build rapport by following through without fail. 
-6. Plan-to-cover and pre-plan efficiently for 
+6. Build rapport by following through without fail. 
+7. Plan-to-cover and pre-plan efficiently for 
     - Driver time-off requests; 
         1. If Drivers could begin to follow the standard work  process
         2. Accepting the long - standing rules in place while also not waivering or making regular exceptions
     - Requests were honored; further improving the KPI most in-need of immediate improvement.
-7. Articulate expectations in a 
+8. Articulate expectations in a 
     - Clear and 
     - Concise manner.    
-8. Develop efficient, near autonomous set of workflow processes to 
+9. Develop efficient, near autonomous set of workflow processes to 
     - Establishing more adaptive and accountable workforce with 
-        1. All-new customer service standards; the formula 
-            - positive reinforcement + continuous improvement + people empowerment equals epitome of sustainable leadership.  
-9. Improve the regional Ops perspective (as the Memphis OKC regions were not the most sought after upon entry).   
+       
+10. Improve the regional Ops perspective : 
     - Define clear expections : setting the benchmark (standard expectation directly inline with the company expectation of 98.6%; while 
         1. created an environment conducive to continuous improvement that would halt and catch fire the 2nd year; ultimately 
-            - establishing and further improving on a 99.4% SOP after departure from position.  
+            - Establishing and further improving on a 99.4% service standard.  
             - Creating catalyst to almost instant recognition,  
                 1. Recepient (as team unit) of multiple internal service awards, including   
-                    - Best-in-class break ( medium terminals MPS, TN with Joe Boykin 2010) , and   
-                    - Best-in-class relay ( OKC + TUL terminal 2010 ) 
-                    - Most improved regional service standards (MPS & OKC regions).   
-10. Serve as liaison / conduit to growth for   
+                    - Best-in-class break ( medium terminals MPS, TN 2010) , and   
+                    - Best-in-class relay ( OKC + TUL terminals 2010 ) 
+                    - Most improved regional service standards (MPS & OKC regions 2010).   
+10. Serve as onduit to growth for :    
     - Terminal DockOps,  
-    - Sales Unit,  
+    - Sales Division,  
         1. Specialized & Accelerated Shipping,  
         2. Drivers,  
         3. Interline carriers (3rd party), and  
-        4. Customer Success Team, and finally;
+        4. Customer Success Team, and finally;nt
             - Regional Managers, 
             - C-Suite ( bottoms : up as mentioned ) 
-            - Pro-active planning using a predictive forecasting algorithm and logarithmic model as co-authored with Jong Choi in Linehaul Planning. 
-            - Produce an environment conducive to excellence creating consistence in KPIs and confidence in the budding team that was about to rocket launch their carrers throughout the network making a definitive and sustainable impact on the carrier and industry for years to come.<br>
+11. Pro-active planning using a predictive forecasting algorithm and logarithmic model as co-authored Linehaul Planning Department. 
+12. Produce an environment conducive to excellence creating consistence in KPIs and confidence in the budding team that was about to rocket launch their carrers throughout the network; making a sustainable impact on the carrier and industry.
 
 ---
 
@@ -342,13 +345,13 @@ Ellenwood, GA | Jul 2011 - Feb 2013 <br>
 
 `OPERATIONS SUPERVISOR`<br>
 Ellenwood, GA | Mar 2008 - Jul 2009 <br>
-1. Monitor, oversee, guide, and support proper work direction to 
-    - professional freight handlers 
-    - Line Drivers 
-    - City (PUD) Drivers
-    - Interline (3rd Party) extensions of organization (Drivers), 
-    - DispatchOps, 
-    - Clerical Associates.  
+1. Monitor, oversee, guide, and support proper work direction :
+    - Professional freight handlers,
+    - Line Drivers,
+    - City (PUD) Drivers,
+    - Interline (3rd Party) Drivers, 
+    - Dispatch - to - Dock Ops, 
+    - Administrative Assista.  
 2. Support meeting of production metrics to establish a continuous improvement environment and engaged workforce with development of simple process; a daily check-list for 
     - Professional Freighthandlers, 
     - Peers in cross-functional collaboration with 
@@ -387,25 +390,29 @@ Ellenwood, GA | Mar 2008 - Jul 2009 <br>
     - Monitor incoming freight levels and all late arriving due service `2-day points : Toledo, Cincinnati, Indianapolis, Detroit, etc.` and  
     - Audit national accounts incessantly to create a 100% service standard while gaining acute awareneness of companies single largest customers `shipper` i.e. :
         - Lowe's Inc., 
-        - Starbucks
-            - `Origin Lebanon, TN`
+        - Starbucks Coffee
         - Behr,
+        - Ingram Micro
         - Sherwin Williams, 
-        - Benjamin Moore.
-    - Verify and 
-        1. Sign-off shipments in loading status (LOA) 
-            - Establish daily crossover and 'walk-the-doors' *standard work process* with relief team  `supervisor / peer`, 
-            - Double check shipments in LOA status to guarantee 
-                1. Freight is Block with proper protocol technique,  
-                2. Braced using best practices for guidance, 
-                3. Pin-wheeled to ensure the foundation of the load was in tact and capable of full utilization of space (the service provided in LTL is space ), and   
+        - Benjamin Moore,
+        - Valspar Paints, 
+        - Masterchem (Kilz) Paints.
+8. Verify plus :  
+    - Sign-off shipments in loading status (LOA) 
+9. Establish daily crossover : 
+    - Walk-the-doors *standard work process* created among `supervisors / peers`, 
+10. Verify shipments in loading (LOA) status to guarantee :
+   - Freight is Block with proper protocol technique,  
+   - Braced using best practices for guidance, 
+     3. Pin-wheeled to ensure the foundation of the load was in tact and capable of full utilization of space (the service provided in LTL is space ), and   
 8. Verify zone is ready for cross-over by 
-    - Filling of internal work stations needs : 
-        1. Tools : in - place and braced, 
+    - Fill internal work stations  : 
+        1. Tools : in - place, 
         2. Doors chocked & blocked.
-        3. equipment / load bars stowed. 
+        3. Equipment count & status reconciation. 
 
-### Other Experience 
+### Other Work Experience 
+
 ---
 
 #### Ted's Montana Grill <br>
@@ -421,10 +428,12 @@ Atlanta, GA  | Dec 2005 - May 2006 <br>
 
 `Trainer-Manager`<br>
 Stockbridge, GA  | Dec 2003 - Jan 2005 <br>
-1. Menu presentation in a non-solicited style that's simplistic, yet, sophisticated in its approach; identifying and articulating insightful Italian pairings with a thoughtful and tasteful introduction as the appetizer.
-2. Enter taste buds with exotic entree offerings while delivering on desires and creating a courtship to the evening.
-3. Ultimately managing to marry those taste buds together timely with wine and spirits.
-4. Not-to-soon, but shortly thereafter, serving a seductively succulent dessert, as the passionate and promising honeymoon; an eloquent end to an exciting evening.
+1. Present menu in a simplistic, yet fastionable manner; 
+2. Identifyinsightful Italian pairings with a tasteful introduction for appetizer.
+2. Pair with spirits (if applicable) 
+4. Offer main course that complements wine / spirits, and preferences,
+5. Entice guests with succulent dessert, and,
+6. After dinner coffee or sparkling water.
 
 ---
 
@@ -432,10 +441,13 @@ Stockbridge, GA  | Dec 2003 - Jan 2005 <br>
 
 `LOGISTICS COORDINATOR`<br>
 Virtual | Oct 2017 – Jan 2018 <br>
-1. Relentlessly advocate for customers; always protecting confidentially and data; anticipate needs and underlying issues and treating their time and attention as sacred; overall effective communication skills and composure under pressure.
-2. Field inbound calls from Amazon Flex Delivery Partners; mapping their progress, navigating and troubleshooting the variables; guiding, and encouraging 100% successful delivery of Amazon goods and services.
-3. Forge concrete customer and team partnerships and own the Customer-Centric process by taking accountability when necessary and delivering personalized, peculiar experiences that customers love. 
-4. Virtual work environment encouraging active participation using various mediums to foster the team dynamic and engaging cross-functional teams in facilitating the construction of innovative problem resolution strategies.
+1. Virtual work environment encouraging active participation using various mediums to foster the team dynamic and engaging cross-functional teams in facilitating the construction of innovative problem resolution strategies.
+2. Serve as advocate for customer;
+3. Field inbound calls from Amazon Flex Delivery Partners; 
+4. Map progress, 
+5. Navigate and troubleshoot variables;
+6. Guide, and encourage 100% successful delivery of Amazon goods and services.
+7. Forge concrete customer and team partnerships and own the Customer-Centric process by taking accountability when necessary and delivering personalized, peculiar experiences that customers love. 
 
 ---
 
@@ -451,23 +463,22 @@ Stockbridge, GA  | Aug 2016 – Aug 2017 <br>
 
 ### Shared Awards : 
     
-`Service is only successful on an enterprise level as a Singular Unit no matter the scope`<br>
+`Teamwork` makes the `Dreamwork`    
 
 #### [2013 ](https://www.saia.com/about-us/awards) TEAM AWARDS
 
-`Final Year as Serice Ops Manger` `Unrelated non-fault auto accident` `premature return to work` `ended professional career`<br> 
-
-- Responsible Care® Partner of the Year 
+`Service Operations Manager`<br>
+1. Responsible Care® Partner of the Year 
 `—American Chemistry Council`
-- First Place for Safety in the "General Commodities LTL/Local Division" 
+2. First Place for Safety in the "General Commodities LTL/Local Division" 
 `—American Trucking Associations Safety Management Council`
-- Third Place for Safety in the "General Commodities LTL/Linehaul Division" 
+3. Third Place for Safety in the "General Commodities LTL/Linehaul Division" 
 `—American Trucking Associations Safety Management Council`
-- Top 100 Motor Carrier, "G75" Green Supply Chain Partner 
+4. Top 100 Motor Carrier, "G75" Green Supply Chain Partner 
 `—Inbound Logistics Magazine`
-- Gold Team Award 
+5. Gold Team Award 
 `—Lowe's Companies Inc.`
-- LTL National Carrier of the Year 
+6. LTL National Carrier of the Year 
 `—Walmart`
 
 ---
@@ -477,36 +488,36 @@ Stockbridge, GA  | Aug 2016 – Aug 2017 <br>
 
 `FREIGHT DIMENSIONER TECHNOLOGY INSTITUTION & TOTAL (DISRUPTIVE as MOST EFFECTIVE & IMMEDIATELY IMPACTFUL OF THE 3 PROGRAMS )  PROCESS OVERHAUL TO STANDARD WORK PROCESSES, EFFICIENCIES, AND BOTTOM-LINE IMPACT TO THE BLACK ALMOST WITH THE FLIP OF THE SWITCH.`<br>
 
-- Carrier of the Year 
+1. Carrier of the Year 
 `—Ames True Temper`
-- First Place for Safety in the "General Commodities LTL/Local Division" 
+2. First Place for Safety in the "General Commodities LTL/Local Division" 
 `—American Trucking Associations Safety Management Council`
-- Third Place for Safety in the "General Commodities LTL/Linehaul Division" 
+3. Third Place for Safety in the "General Commodities LTL/Linehaul Division" 
 `—American Trucking Associations Safety Management Council`
-- Top 100 Motor Carrier 
+4. Top 100 Motor Carrier 
 `—Inbound Logistics Magazine`
-- Gold Team Award 
+5. Gold Team Award 
 `—Lowe's Companies Inc.`
 
 #### [2011](https://www.saia.com/about-us/awards) TEAM AWARDS
 
 `Quality Matters campaign roll-out` `First Full Year as Terminal Operations Manager with Saia AtlDockOps Team`<br>
 
-- Super Regional LTL Carrier of the Year 
+1. Super Regional LTL Carrier of the Year 
 `—Access America Transport`
-- First Place for Safety in the "General Commodities LTL/Local Division" 
+2. First Place for Safety in the "General Commodities LTL/Local Division" 
 `—American Trucking Associations Safety Management Council`
-- Third Place for Safety in the "General Commodities LTL/Linehaul Division" 
+3. Third Place for Safety in the "General Commodities LTL/Linehaul Division" 
 `—American Trucking Associations Safety Management Council`
-- Best-in-Class Carrier 
+4. Best-in-Class Carrier 
 `—GlobalTranz`
-- Top 100 Motor Carrier 
+5. Top 100 Motor Carrier 
 `—Inbound Logistics Magazine`
-- InformationWeek 500 Honoree 
+6. InformationWeek 500 Honoree 
 `—InformationWeek`
-- Interregional Quality Carrier of the Year 
+7. Interregional Quality Carrier of the Year 
 `—Ryder System, Inc.`
-- Strategic Partner Carrier of the Year 
+8. Strategic Partner Carrier of the Year 
 `—Unishippers Global Logistics, LLC`
 
 ---
@@ -515,19 +526,19 @@ Stockbridge, GA  | Aug 2016 – Aug 2017 <br>
 
 `Unsolicited Promotion awarded to C Brennan (formalities right?) by fmr VP of Linehaul Current VP at Schneider Mr Sir Rob Bulick - an amazing man & mentor.`<br>
 
-- Super Regional LTL Carrier of the Year 
+1. Super Regional LTL Carrier of the Year 
 `—Access America Transport`
-- First Place for Safety in the "General Commodities LTL/Local Division" 
+2. First Place for Safety in the "General Commodities LTL/Local Division" 
 `—American Trucking Associations Safety Management Council`
-- Interregional Carrier of the Year 
+3. Interregional Carrier of the Year 
 `—CoLinx, LLC`
-- Best-in-Class Carrier 
+4. Best-in-Class Carrier 
 `—GlobalTranz`
-- InformationWeek 500 Honoree 
+5. InformationWeek 500 Honoree 
 `—InformationWeek`
-- Top 100 Motor Carrier 
+6. Top 100 Motor Carrier 
 `—Inbound Logistics Magazine`
-- Silver Team Award 
+7. Silver Team Award 
 `—Lowe's Companies Inc.`
 
 ---
@@ -538,17 +549,17 @@ Stockbridge, GA  | Aug 2016 – Aug 2017 <br>
 
 Creativity | Sustainability | Customer Focus | Decision Quality | Active Listener | Leadership & Development
 :---|:---|---|---|---:|---:
-Strategic Mindset | Action-oriented | Demonstrates Resourcefulness | Planning & Alignment | Accountability | Interpersonal Savvy
+Strategic Mindset | Action-oriented | Lean & Agile | Planning & Alignment | Accountability | Emotional Intelligence
 G-Suite | Total Customer Satisfaction | Customer Success Champion | Network Builder | Cultivates Innovation | Optimizes Work Processes
- Drives Results | Talent Developer | Strategic Vision | Effective | Efficient Communicator | Values Diversity
- Drives Vision | Forward to Think | Instills Trust | Nimble Learner | Organizational Dynamics | Situational Adaptability
- Authentic | Microsoft 365 | Word, Excel, Power Point, Dynamics, Access | Project Management | Power Bi | HTML5, CSS, Java
- Cloud Principles (Azure, GCP, AWS, Digital Ocean) |  Perspective Taking | Accountancy | Data Analytics | Customer Complaint Resolution | Customer Relationship Management (CRM)
-Data Analysis | Data Entry | Decision Making | Demand Planning | Executive Management | Markdown
-Fleet Operations | Lean Processes | Lean Six Sigma | People Empowerment | Continuous Improvement | Processes Implementation
-Marketing | Social Media Marketing | Ethics | Organizational Skills | Policy Analysis | Problem Solving
-Process Engineering | Product Team Integration | Project Management | Quality Assurance | Lean Management | Six Sigma
-Supply Chain | Telephone Skills | Total Quality Management | Bottoms-up | Writing | Agile
+Drives Results | Talent Developer | Strategic Vision | Effective | Efficient Communicator | Values Diversity
+Drives Vision | Forward to Think | Instills Trust | Nimble Learner | Organizational Dynamics | Situational Adaptability
+Authentic | Microsoft 365 | Word, Excel, Power Point, Dynamics, Access | Project Management | Power Bi | HTML5, CSS, Java
+Cloud Principles (Azure, GCP, AWS, Digital Ocean) |  Perspective Taking | Accountancy | Data Analytics | Customer Complaint Resolution | Customer Relationship Management (CRM)
+Data Analytics | Data Entry | Decision Making | Demand-planning | Executive Management | Markdown
+Processes Implementation | Process Improvement | Six Sigma | People Empowerment | Continuous Improvement | Continuous Integration    
+Marketing | Social Media Marketing | Ethics | Organizational Skills | Policy Analysis | Resilience
+Process Engineering | Product Team Integration | Project Management | Quality Assurance | Strategic Management | Globalization & Political Events    
+Supply Chain | Telephone Skills | Total Quality Management | Bottom-up Strategy | Technical Writing | Creative Writing
 
 ---
 
