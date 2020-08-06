@@ -453,7 +453,7 @@ Stockbridge, GA  | Aug 2016 – Aug 2017 <br>
     
 `Service is only successful on an enterprise level as a Singular Unit no matter the scope`<br>
 
-#### [2013 ](https://www.saia.com/about-us/awards)
+#### [2013 ](https://www.saia.com/about-us/awards) TEAM AWARDS
 
 `Final Year as Serice Ops Manger` `Unrelated non-fault auto accident` `premature return to work` `ended professional career`<br> 
 
@@ -472,7 +472,7 @@ Stockbridge, GA  | Aug 2016 – Aug 2017 <br>
 
 ---
 
-#### [2012 TEAM AWARDS](https://www.saia.com/about-us/awards)
+#### [2012](https://www.saia.com/about-us/awards) TEAM AWARDS
 
 
 `FREIGHT DIMENSIONER TECHNOLOGY INSTITUTION & TOTAL (DISRUPTIVE as MOST EFFECTIVE & IMMEDIATELY IMPACTFUL OF THE 3 PROGRAMS )  PROCESS OVERHAUL TO STANDARD WORK PROCESSES, EFFICIENCIES, AND BOTTOM-LINE IMPACT TO THE BLACK ALMOST WITH THE FLIP OF THE SWITCH.`<br>
@@ -488,7 +488,7 @@ Stockbridge, GA  | Aug 2016 – Aug 2017 <br>
 - Gold Team Award 
 `—Lowe's Companies Inc.`
 
-#### [2011](https://www.saia.com/about-us/awards) 
+#### [2011](https://www.saia.com/about-us/awards) TEAM AWARDS
 
 `Quality Matters campaign roll-out` `First Full Year as Terminal Operations Manager with Saia AtlDockOps Team`<br>
 
@@ -511,7 +511,7 @@ Stockbridge, GA  | Aug 2016 – Aug 2017 <br>
 
 ---
 
-#### [2010](https://www.saia.com/about-us/awards) SAIA TEAM AWARDS
+#### [2010](https://www.saia.com/about-us/awards) TEAM AWARDS
 
 `Unsolicited Promotion awarded to C Brennan (formalities right?) by fmr VP of Linehaul Current VP at Schneider Mr Sir Rob Bulick - an amazing man & mentor.`<br>
 
@@ -536,19 +536,19 @@ Stockbridge, GA  | Aug 2016 – Aug 2017 <br>
 
 `at the intersection of everywhere`<br>
 
-Business Insight | Customer Focus | Decision Quality | Active Listener | Global Perspective | Organizational Dynamics
+Creativity | Sustainability | Customer Focus | Decision Quality | Active Listener | Leadership & Development
 :---|:---|---|---|---:|---:
-Strategic Mindset | Action Oriented | Demonstrates Resourcefulness | Planning & Alignment | Ensures Accountability | Interpersonal Savvy
-Customer-Centric | Total Customer Satisfaction | Customer Success Champion | Network Builder | Cultivates Innovation | Optimizes Work Processes
+Strategic Mindset | Action-oriented | Demonstrates Resourcefulness | Planning & Alignment | Accountability | Interpersonal Savvy
+G-Suite | Total Customer Satisfaction | Customer Success Champion | Network Builder | Cultivates Innovation | Optimizes Work Processes
  Drives Results | Talent Developer | Strategic Vision | Effective | Efficient Communicator | Values Diversity
- Drives Vision | Forward to Think | Instills Trust | Nimble Learner | Resilient | Situational Adaptability
- Authentic | Microsoft 365 | Word, Excel, Power Point, Dynamics, Access | Costumer Focused | Power Bi | HTML5, CSS, Java
- All Around Asset |  Perspective Taking | Accountancy | Call Center | Customer Complaint Resolution | Customer Relationship Management (CRM)
+ Drives Vision | Forward to Think | Instills Trust | Nimble Learner | Organizational Dynamics | Situational Adaptability
+ Authentic | Microsoft 365 | Word, Excel, Power Point, Dynamics, Access | Project Management | Power Bi | HTML5, CSS, Java
+ Cloud Principles (Azure, GCP, AWS, Digital Ocean) |  Perspective Taking | Accountancy | Data Analytics | Customer Complaint Resolution | Customer Relationship Management (CRM)
 Data Analysis | Data Entry | Decision Making | Demand Planning | Executive Management | Markdown
-Fleet Operations | Lean Processes | Lean Six Sigma | Legal | Listening | Processes Evaluation  
-Marketing | Social Media Marketing Mentoring | Operating Systems | Organizational Skills | Policy Analysis | Problem Solving
-Process Engineering | Product Team Integration | Project Management | Quality | Sales | Six Sigma
-Supply Chain | Telephone Skills | Total Quality Management | Vision | Writing | Design
+Fleet Operations | Lean Processes | Lean Six Sigma | People Empowerment | Continuous Improvement | Processes Implementation
+Marketing | Social Media Marketing | Ethics | Organizational Skills | Policy Analysis | Problem Solving
+Process Engineering | Product Team Integration | Project Management | Quality Assurance | Lean Management | Six Sigma
+Supply Chain | Telephone Skills | Total Quality Management | Bottoms-up | Writing | Agile
 
 ---
 
