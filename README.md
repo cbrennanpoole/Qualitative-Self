@@ -108,16 +108,16 @@ No 1 : `it's the real thing`<br>
 
 `expensive curriculum` `have a coke on me` ...<br>
 
-MGS 4760 Total Quality Management | MGS 4740 Operations Strategy | MGS 4730 Project Management 
+MGS 4770 Service Operations Management | MGS 4760 Total Quality Management | MGS 4740 Operations Strategy
 :---|:---|---:
-MGS 4770 Service Operations Management MGS 4700 Operations Management | MGS 4500 Entrepreneurship / New Venture Management | MK 4400 Distribution Management Consumer
-MGS 4110 Analysis of Business Data | MGS 4120 Optimal Resource Allocation | MGS 4000 Managerial Decision Making
+MGS 4730 Project Management | MGS 4700 Operations Management | MGS 4500 Entrepreneurship / New Venture Management
+MK 4400 Distribution Management Consumer | MGS 4110 Analysis of Business Data | MGS 4120 Optimal Resource Allocation
 MGS 4000 Managerial Decision Making | MGS 4710 Analysis of Business Data | ACCT 4210 Cost/Managerial Accounting
 BCOM 3950 Business Communication and Professional Development | FI 3300 Corporation Finance | MGS 3100 Business Analysis
 MGS 3400 Managing People in Organization | BUSA 3000 Globalization and Business Practices | MK 3010 Basic Marketing
 RE 3010 Real Estate Principles | CRJU 3100 Intro to Criminal Justice | ACCT 2102 Principles of Accounting II  
 ACCT 2101 Principles of Accounting I | PHIL 2410 Critical Thinking | BUSA 2106 Legal Environment of Business
-ECON 2100 The Global Economy | HIST 2110 Survey of US History | CRJU 2200 Social Sciences & America's Criminology Problem
+CRJU 2200 Social Sciences & America's Criminology Problem | HIST 2110 Survey of US History | ECON 2100 The Global Economy
 MATH 2101 Mathematical Modeling | AH 1070 Survey of Art II | POLS 1101 American Government
 MATH 1070 Elementary Statistics ENGL 2102 English Composition II | CIS 2010 Computer Information Systems
 ECON 2106 Principles of Microeconomics | ECON 2106 Principles Of Macroeconomics | BIOL 1110K Human Anatomy & Phsyiology
@@ -398,7 +398,7 @@ Ellenwood, GA | Mar 2008 - Jul 2009 <br>
                        - Thrive through collaboration as was the 
                        - Very prescription (placebo i.e. spoonful of sugar) Atl-Dock-Ops didn't know they were in need of. 
 5. Establish Daily-Ops game - plan (as the excel sheet was labelled - no hyper-link unfortunately).
-5. Ensure zone has sufficient equipment to load on
+6. Ensure zone has sufficient equipment to load on
     - Reconciling equipment on dock with 
         1. Graphical User Interface (GUI);
     - prepare loading manifest for regions of responsibility in order to ensure standard work process optimization :
@@ -584,44 +584,44 @@ Supply Chain | Telephone Skills | Total Quality Management | Vision | Writing | 
 10. Supply Chain Management
 11. Teamwork
 12. Accomplishes results through the coordination of a team of professionals.
-`working cross-functionally`<br>
+`working cross-functionally`
 13. Acts as an advisor to others.
-`communicates deadlines clearly and consistently`<br>
+`communicates deadlines clearly and consistently`
 14. The ability to apply forecasting techniques and skills to support region planning. 
-`applies system knowledge to improve reporting process / model.`<br>
+`applies system knowledge to improve reporting process / model.`
 15. Budgeting, 
-    `Planning` and `forecasting` with <br>
+    `Planning` and `forecasting` with
     - Attention-to-detail.
 16. Problem Analysis
-`Problem Solving`<br>
+`Problem Solving`
 17. Accounting Experience.
-    `Proficient in Excel`<br>
+    `Proficient in Excel`
     - able to apply the skill in managing database and 
         1. ability to convert and 
         2. analyze the data.
 18. SAP/Hyperion Experience is a strong plus
-`collaborative / team player.`<br>
+`collaborative / team player.`
     - Effective Communication Skills. 
         1. Takes Ownership and 
         2. Acts with Integrity.
 - Ability to build endearing customer relationships.
 19. Proven leader
-`leads peers with professionalism`, `Cross channel knowledge including QSR Foodservice and CR preferred`<br>
+`leads peers with professionalism`, `Cross channel knowledge including QSR Foodservice and CR preferred`
     - Expertise in cross collaboration and project management due to nature of innovation mindset of the customer 
 20. Strong strategic thinking,
-`Relationship - building`<br>
+`Relationship - building`
     - Has professional Selling and 
     - Negotiation best-practices Skills. 
     - Working knowledge of C4V selling platform.
 21. Experience in developing successful Collaborative environments
-`Business Plans and strong strategic thinking skills`<br>   
+`Business Plans and strong strategic thinking skills`
     - Price / package plans to 
         1. Drive growth for retail customers and 
         2. History of delivering plan objectives.
 22. Ability to Lead
-`cross-functional teams`<br>
+`cross-functional teams`
 23. Ability to thrive in a growth-oriented team environment 
-`Strategic thinking`<br>
+`Strategic thinking`
 24. Active listening 
 `authentic engagement`
     - with associates and 
@@ -631,51 +631,48 @@ Supply Chain | Telephone Skills | Total Quality Management | Vision | Writing | 
         3. GEMBA walks, 
             - Corrective actions. 
 25. Filing of documentation required by we chemtrekheaded to various regulatory agencies 
-`OSHA,` `EPA`.<br>
+`OSHA,` `EPA`.
     - Assist the development and filing of documentation for the Integrated Management System.  
     - Assist with SES inspections, audits, and documentation as needed. 
 26. Generate daily/weekly/monthly reports and audit results, as assigned. 
 27. Effectively utilize software: 
-
-Excel | Word | PowerPoint | ~Lotus Notes~ | Other PAAS
-
-28. Effectively utilize basic `Technical math skills`<br>
+28. Effectively utilize basic `Technical math skills`
     - Basic grammar, and 
     - Technical writing skills. 
-29. Assist in development and presentation of SES-related training topics.`technical writer`<br>
+29. Assist in development and presentation of SES-related training topics.`technical writer`
 30. Assist implementation of safety programs and/or procedures for new line installations.
     - i.e. in electrix
 31. Work with Maintenance Department to track completion of safety work orders.  
 32. Work up to ~12~ make that 16 - 20 hours, overtime, and weekends to meet the business requirements.
-`cost objectives`<br>
+`cost objectives`
     - Ensure all tasks are performed toward achieving the safety, quality, and service.
     - Demonstrate good attendance in accordance with plant attendance guidelines. • Self starter, ability to work with limited direction. 
 33. Ability to present topics to small and large groups of people. 
 34. Attend SES Committee Meetings. 
 35. Demonstrated ability.
-`more than qualified to facilitate team-based problem-solving`<br>
+`more than qualified to facilitate team-based problem-solving`
     - Advanced Risk Assessment, 
     - Incident Investigation and 
     - Five Why methodology. 
 36. Lead Gemba events.
-`Work on Root Cause Analysis.`<br>
+`Work on Root Cause Analysis.`
 37. First-Aid and 
-`CPR trained`<br>
+`CPR trained`
 38. Best practices: 
-`Knowledge of Procurement`<br>    
+`Knowledge of Procurement`
     - Industry and business best practices to guide thought leadership and ensure effective procurement strategies. 
     - Includes the ability to recognise value creation opportunities within the supply chain.
-39. Create and manage databases.`insightful analysis`<br>
+39. Create and manage databases.`insightful analysis`
     - of database management as a proficient business analysis & data scientist
     - Maintain, update category spend, and 
     - Volumes.
-40. Executes Business Results in a `supply - chain environment`<br>
+40. Executes Business Results in a `supply - chain environment`
 41. Enable procurement effectiveness by 
     - Developing and 
     - Applying tools and 
     - KPIs.
 42. Synthesize data and 
-`Identifies problems`<br>
+`Identifies problems`
     - Through financial analysis; 
     - Proficiency in recommending solutions.
 43. Supplier Performance, 
@@ -686,19 +683,19 @@ Excel | Word | PowerPoint | ~Lotus Notes~ | Other PAAS
     - Of and ability to articulate to senior management  the 
     - Benefits of supporting cross-functional objectives to 
          1. Achieve the business plan.
-45. Deep Ecommerce knowledge; understands the `Digital Customers Landscape`<br>    
+45. Deep Ecommerce knowledge; understands the `Digital Customers Landscape`    
     - Or Journey. 
-46. Understands industry research and trends and `anticipates variables`<br>
+46. Understands industry research and trends and `anticipates variables`
     - Future customer &
         1. Market needs.
 47. Drives Innovation.
-48. Strategic Thinker.`positive influencer`and<br>
+48. Strategic Thinker.`positive influencer`and
     - Negotiator.
     - Shopper knowledge.
 49. Adaptability.
-50. Project management : `task - driven affect leader`<br>
+50. Project management : `task - driven affect leader`
 51. Effective communication & Interpersonal Savvy : 
-`Team-building`<br>
+`Team-building`
     - Ability
         1. Brings key stakeholders together.
 52. Value chain experience
@@ -707,7 +704,7 @@ Excel | Word | PowerPoint | ~Lotus Notes~ | Other PAAS
     - Excellent Project / Program Management Skills.
     - Effective Communications Skills
     - Verbal and Written.
-53. Ability to Lead Cross-functional teams to Deliver Results.`technically proficient`<br>
+53. Ability to Lead Cross-functional teams to Deliver Results.`technically proficient`
     - Expertise in Innovation,
     - Logistics, and the 
     - The North American infrastructure 
@@ -718,7 +715,7 @@ Excel | Word | PowerPoint | ~Lotus Notes~ | Other PAAS
 
 ### Links 
 
-`the pause that refreshes...`<br>
+`the pause that refreshes...`
 
 [Let's Connect on LinkedIn](https://linkedin.com/in/oudcollective) | [LinkedIn Control Page](https://linkedin.com/in/c-brennan-poole)
 :---|---:
@@ -742,8 +739,6 @@ Excel | Word | PowerPoint | ~Lotus Notes~ | Other PAAS
 [Dark Theme Podcast Post-production Transcripts](https://bit.ly/Podcast-Transcripts-Dark-Theme) | [Unsplash](https://unsplash.com/@oudcollective/stats?stats=last-30)
 [Growth-hack Attack v.2.1](https://drive.google.com/drive/u/1/folders/1tBIWum7wR3weNNFrSUz6GpexeYgGMo9O) | [YC SUS 2020](https://www.startupschool.org/companies/withWind)
 
-> BY ALL MEANS : Let us connect. [Care to CC0-11-aborate?](https://twitter.com/oudcollective) and start the work that will absolutely change the game, tilt the scales, and finally level the playing field for our Grandchildrens' Grandchildren! #GoodLordWillingAndTheCreekDontRise
-
 ---
 
 #### Legalese
@@ -756,7 +751,7 @@ Excel | Word | PowerPoint | ~Lotus Notes~ | Other PAAS
 
 ##### Creative Commons 
 
-`( CC BY-SA )`<br>
+`( CC BY-SA )`
 
 copyright© 2020 chasing the wind, some rights reserved. works are licensed under a creative commons (cc by-sa) international free cultural works 4.0 license. link to license: 
 < https://creativecommons.org/licenses/by-sa/4.0/ >
@@ -768,8 +763,8 @@ copyright© 2020 chasing the wind, some rights reserved. works are licensed unde
 
 ##### Software Licensing 
 
-`ahh... that's the good stuff!`<bar>
+`ahh... that's the good stuff!`
 
 This repository is licensed under* [MIT](../LICENSE) *if ever I get to delivering in-demand code - that is.* (c) #twenty20times [GitHub](https://github.com/OUDcollective/Quantified-Self "In Jesus Name. Amen! Hallel Allah. Praise Jehova. Hare Krsna. Hare Rama. Rama Rama. Want to flip Scripts; Move Consciousness with me?"), Inc. All rights to their namesake and logo are reserved. Thanks for hosting us! IAM [C brennan Poole ](https://www.bing.com/search?q=c+brennan+poole+chasing+the+wind "Bing powered by Microsoft : hacking traffic to the SERP to keep the sticky effect alive and well while attempting to roket launch inefficiencies into a total process overhaul i.e. digital transformation with Wind and C Brennan Poole pandemic forced states since dropped 'chasing' now simply DBA with Wind")         
 
-`GodSpeed` `Wrapped up in YHWW` `Headed the unwoke way` `In Jesus Name` `Hare Krishna` `Praise Jah` `finding sustainable` `do the next right thing` `Pay it Forward`
+[GodSpeed](https://www.pinterest.com/withWindllc "Wrapped up in YHWW` `Headed the unwoke way` `In Jesus Name` `Hare Krishna` `Praise Jah` `finding sustainable` `do the next right thing` `Pay it Forward`")
