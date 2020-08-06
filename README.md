@@ -31,8 +31,8 @@ to provide `Total Customer Satisfaction` thru `Total Quality Management` `Positi
 
 `dad can do datasets` `comprehensive body of works`<br>
     
-No # | Position | Employer | Physical Address | Start - End Date | (Promotion Y/N)
-:---|:---|:---|:---:|:---:|---:|---:|---:
+No # | Position | Employer | Physical Address | Start - End Date | (Promotion Y/N)    
+:---|:---|:---|:---:|:---:|---:    
 1 | Creative Strategist & Principal Chief of Operations | the Wind, LLC | Covington, GA | Nov 2018 - Present | N
 2 | Logistics Coorginator | Amazon Logistics | Stockbridge, GA | Oct 2017 - Feb 2018 | N
 3 | Maintenance & Landscape  | Pine Hills | Stockbridge, GA | Aug 2016 - Aug 2017 | Y  |
