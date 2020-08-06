@@ -10,9 +10,8 @@
 
 ### Résumé 
 
-`Traditional` `Condensed Versions`
-
-Dark Theme Résumé | ATS Résumé
+`Traditional` `Condensed Versions`    
+Dark Theme Résumé | ATS Résumé    
 :---|---:
 [Dark Theme Résumé](https://bit.ly/Real-time-PDF-dark-theme "Google Docs Viewer : Material Design by the Google LLC inspired document") | [ATS - Résumé](https://bit.ly/ATS-Real-time-PDF "a less disruptive version; also Google Docs Viewer for downloadable copies please see below")
 [Download the Dark Theme Résumé PDF](https://bit.ly/dark-theme-resume) | [Download ATS - Résumé PDF](https://bit.ly/twenty-20-CV "C Brennan Poole : Taurus : Lefty : Bottoms-Up Creative Strategist : Jot and Tittle Service Operations Manager")
@@ -93,8 +92,8 @@ No 1 : `it's the real thing`<br>
             - In Progress,
             - Complete.
 5. University Coursework : 
-
-`expensive curriculum` `have a coke on me`
+    
+`expensive curriculum` `have a coke on me`     
 
 MGS 4770 Service Operations Management | MGS 4760 Total Quality Management | MGS 4740 Operations Strategy
 :---|:---|---:
@@ -115,7 +114,8 @@ POLS 1101 American Government | ASTR 1001 Intro to Astronomy | SPCH 1000 Human C
 
 ### MOOC - Work 
 
-`7 - 3` . `3 - 11`. `11 - 7`<br>
+`7 - 3` . `3 - 11`. `11 - 7`     
+
 Raising Capital | Creating the Conditions for Others to Thrive | Developing a Learning Mindset | Learning Data Science
 :---|:---|---:|---:
 Enhancing Your Productivity | Google My Business Basics | Growing Your Small Business with Linkedin | Pitching Yourself
@@ -131,14 +131,16 @@ Writing a Compelling Blog Post | Why are Opioids So Addictive (University South 
 
 #### Summary
 
-`it's 5 o'clock somewhere`
-> Operations strategist providing total Customer Satisfaction by fostering the people process, developing cross-functional, collaborative workplace environments, and using creative problem solving techniques; with easy to understand - yet -  increasingly difficult-to-achieve Key Performance Indicators.
-
 ---
 
-### Realtime Real-Life Hands-on Work History
+`it's 5 o'clock somewhere`
 
-`coke float`!<br>
+> Operations strategist providing total Customer Satisfaction by fostering the people process, developing cross-functional, collaborative workplace environments, and using creative problem solving techniques; with easy to understand - yet -  increasingly difficult-to-achieve Key Performance Indicators.
+
+### Realtime Real-Life Hands-on Work History
+     
+`coke float`
+
 ---
 
 ### New Venture Management
@@ -190,7 +192,7 @@ Covington, GA | Nov 2018 - Present
 ---
 
 #### Annex Freight Systems Inc 
-`DISPATCH SUPERVISOR`    
+`DISPATCH SUPERVISOR`      
 Newnan, GA  | Mar 2013 - Oct 2013    
 1. Stream-line processes within the supply chain and within the internal, inter-departmental operations and customer service team
 2. Provide Total Customer Satisfaction by providing a more enjoyable service experience with team members, drivers, delivery partners, warehouse associates, third-party vendors, & most importantly, the customer.
@@ -270,12 +272,12 @@ Ellenwood, GA | Jul 2011 - Feb 2013
 
 #### Saia LTL Freight Inc    
 `DISPATCH SUPERVISOR`    
- Johns Creek, GA | Jul 2009 - Jul 2011    
+Johns Creek, GA | Jul 2009 - Jul 2011    
 1. Regional travel providing Atlanta region Dock Ops Teams :   
     - Training,  
     - Mentoring,  
     - Organizational dynamics at discretion of Vice President of Line Haul.  
-2. Establish cross-functional constructive collaboration,  
+2. Establish cross-functional constructive collaboration : 
     - Forge foundation for profitable partnership;   
     - Enable regional lane load average improvement,
     - Foster best-in-class awards by creating a continuous improvement environment.
@@ -285,40 +287,39 @@ Ellenwood, GA | Jul 2011 - Feb 2013
     - Take Ownership of 250-325 average nightly calls from all operations, sales, and safety angles.  
     - Assurance Supervisor 
 4. Express appreciation for line and city drivers' as
-        1. In-house feedback and Human Resources identified a schism with : 
-            - driver-to-dispatch and 
-            - drivers-to-dockOps Team 
-                1. relations were in a continual decline in earlier years.
+    - In-house feedback and Human Resources identified a schism with : 
+        1. Driver-to-dispatch and 
+        2. drivers-to-dockOps Team.
 5. Forge authentic relationship with region & drivers-of-responsibility through 
     - Active listening,
     - People Empowerment, 
-    - Continuous Improvement mind-set, 
-    - Inclusive & Transformative leadership strategy.
-    - Consistancy in day-to-day interactions; especially with 
+    - Continuous Improvement, 
+    - Transformational leadership.
+    - Consistancy day-to-day with handling of : 
         1. Conflict resolution, 
-        2. Call - off expectations, 
-        3. Seniority SOP.
-6. Build rapport by following through without fail. 
-7. Plan-to-cover and pre-plan efficiently for 
-    - Driver time-off requests; 
-        1. If Drivers could begin to follow the standard work  process
-        2. Accepting the long - standing rules in place while also not waivering or making regular exceptions
+        2. Call - offs, 
+        3. Seniority standard work processes.
+6. Build rapport with the follow-thru.
+7. Plan-to-cover :
+    - Driver time-off; 
+        1. If Drivers could begin to follow the standard work process, while;
+        2. Accepting the long-standing rules in place while also not waivering or making regular exceptions
     - Requests were honored; further improving the KPI most in-need of immediate improvement.
 8. Articulate expectations in a 
     - Clear and 
     - Concise manner.    
 9. Develop efficient, near autonomous set of workflow processes to 
     - Creating a more accountable workforce
-10. Improve the regional Ops perspective : 
+10. Improve Regional Mgmt perspective : 
     - Define clear expections : setting the benchmark (standard expectation directly inline with the company expectation of 98.6%; while 
-        1. created an environment conducive to continuous improvement that would halt and catch fire the 2nd year; ultimately 
-            - Establish and improving on a 99.4% service standard.  
-            - The catalyst to almost instant recognition,  
-                1. Recepient of multiple internal service awards, including   
+        1. Create an environment conducive to continuous improvement that would halt and catch fire the 2nd year; ultimately 
+            - Establish  a 99.4% service standard.  
+                1. The catalyst to almost instant recognition,  
+                2. Recepient of multiple internal service awards, including   
                     - Best-in-class break ( medium terminals MPS, TN 2010), 
                     - Best-in-class relay ( OKC + TUL terminals 2010), 
                     - Most improved regional service standards (MPS & OKC regions 2010).   
-10. Serve as onduit to growth for :    
+10. Nurture growth thru :    
     - Terminal DockOps,  
     - Sales Division,  
         1. Specialized & Accelerated Shipping,  
@@ -327,13 +328,15 @@ Ellenwood, GA | Jul 2011 - Feb 2013
         4. Customer Success Team, and
             - Regional Manageement, 
             - C-Suite
-11. Implement a redictive forecasting algorithm and logarithmic model as co-authored with Linehaul Planning Department. 
-12. Produce an environment conducive to excellence creating consistence in KPIs and confidence in the budding team that was about to rocket launch their carrers throughout the network; making a sustainable impact on the carrier and industry.
+11. Implement : 
+    - Predictive forecasting algorithm and logarithmic model as co-authored with Linehaul Planning Department. 
+12. Produce : 
+    - Environment conducive to excellence creating consistence in KPIs and confidence in the budding team that was about to rocket launch their carrers throughout the network; making a sustainable impact on the carrier and industry.
 
 ---
 
 #### Saia LTL Freight Inc
-`OPERATIONS SUPERVISOR`
+`OPERATIONS SUPERVISOR`     
 Ellenwood, GA | Mar 2008 - Jul 2009     
 1. Monitor, oversee, guide, and support proper work direction :
     - Professional Freighthandlers,
@@ -404,15 +407,15 @@ Ellenwood, GA | Mar 2008 - Jul 2009
 
 #### Ted's Montana Grill     
 `Trainer - Server`    
-Atlanta, GA  | Dec 2005 - May 2006
+Atlanta, GA  | Dec 2005 - May 2006    
 1. Implement suggestive sales technique by identifying customers preference.
 2. Offer tailored-to-individual insight on menu items, daily blue-plate specials, seasonal dessert offering, and signature bar drinks.
 
 ---
 
 #### The Italian Oven     
-`Trainer-Manager`
-Stockbridge, GA  | Dec 2003 - Jan 2005
+`Trainer-Manager`    
+Stockbridge, GA  | Dec 2003 - Jan 2005     
 1. Present menu in a simplistic, yet fastionable manner; 
 2. Identifyinsightful Italian pairings with a tasteful introduction for appetizer.
 2. Pair with spirits (if applicable) 
@@ -423,20 +426,20 @@ Stockbridge, GA  | Dec 2003 - Jan 2005
 ---
 
 #### Amazon Inc
-`LOGISTICS COORDINATOR`
-Virtual | Oct 2017 – Jan 2018
+`LOGISTICS COORDINATOR`    
+Virtual | Oct 2017 – Jan 2018     
 1. Virtual work environment encouraging active participation using various mediums to foster the team dynamic and engaging cross-functional teams in facilitating the construction of innovative problem resolution strategies.
 2. Serve as advocate for customer;
 3. Field inbound calls from Amazon Flex Delivery Partners; 
 4. Map progress, 
 5. Navigate and troubleshoot variables;
 6. Guide, and encourage 100% successful delivery of Amazon goods and services.
-7. Forge concrete customer and team partnerships and own the Customer-Centric process by taking accountability when necessary and delivering personalized, peculiar experiences that customers love. 
+7. Forge concrete customer and team partnerships owning he Customer-Centric process.
 
 ---
 
 #### Pine Hills     
-`LANDSCAPE & GENERAL MAINTENANCE`
+`LANDSCAPE & GENERAL MAINTENANCE`     
 Stockbridge, GA  | Aug 2016 – Aug 2017     
 1. Take ownership of the residential development by demonstrating unquestionable work ethic while nurturing and nursing the land and serving as caregiver to the community. 
 2. Develop a partnership with residents by always offering to assist and delivering on early on requisition duties. 
@@ -445,29 +448,33 @@ Stockbridge, GA  | Aug 2016 – Aug 2017
     
 
 ### Shared Awards : 
-    
 `Teamwork` makes the `Dreamwork`    
+
+---
 
 #### [2013 ](https://www.saia.com/about-us/awards) TEAM AWARDS
 
-`Service Operations Manager`<br>
+---
+
+`Atlanta Dock` `Service Operations Manager`    
 1. Responsible Care® Partner of the Year 
-`—American Chemistry Council`
+`—American Chemistry Council`    
 2. First Place for Safety in the "General Commodities LTL/Local Division" 
 `—American Trucking Associations Safety Management Council`
 3. Third Place for Safety in the "General Commodities LTL/Linehaul Division" 
-`—American Trucking Associations Safety Management Council`
+`—American Trucking Associations Safety Management Council`    
 4. Top 100 Motor Carrier, "G75" Green Supply Chain Partner 
-`—Inbound Logistics Magazine`
+`—Inbound Logistics Magazine`    
 5. Gold Team Award 
-`—Lowe's Companies Inc.`
+`—Lowe's Companies Inc.`    
 6. LTL National Carrier of the Year 
-`—Walmart`
+`—Walmart`    
 
 ---
 
 #### [2012](https://www.saia.com/about-us/awards) TEAM AWARDS
 
+---
 
 `FREIGHT DIMENSIONER TECHNOLOGY INSTITUTION & TOTAL (DISRUPTIVE as MOST EFFECTIVE & IMMEDIATELY IMPACTFUL OF THE 3 PROGRAMS )  PROCESS OVERHAUL TO STANDARD WORK PROCESSES, EFFICIENCIES, AND BOTTOM-LINE IMPACT TO THE BLACK ALMOST WITH THE FLIP OF THE SWITCH.`<br>
 
@@ -483,6 +490,8 @@ Stockbridge, GA  | Aug 2016 – Aug 2017
 `—Lowe's Companies Inc.`
 
 #### [2011](https://www.saia.com/about-us/awards) TEAM AWARDS
+
+---
 
 `Quality Matters campaign roll-out` `First Full Year as Terminal Operations Manager with Saia AtlDockOps Team`<br>
 
@@ -506,8 +515,9 @@ Stockbridge, GA  | Aug 2016 – Aug 2017
 ---
 
 #### [2010](https://www.saia.com/about-us/awards) TEAM AWARDS
+`Unsolicited Promotion by fmr VP of Linehaul Current VP at Schneider Rob Bulick.`<br>
 
-`Unsolicited Promotion awarded to C Brennan (formalities right?) by fmr VP of Linehaul Current VP at Schneider Mr Sir Rob Bulick - an amazing man & mentor.`<br>
+---
 
 1. Super Regional LTL Carrier of the Year 
 `—Access America Transport`
@@ -548,7 +558,6 @@ Supply Chain | Telephone Skills | Total Quality Management | Bottom-up Strategy 
 ---
 
 ###  Skills Assessment (Application Tracking Systems (ATS))
-
 `on the highway to anywhere`; this one is `Done Right` at ... `Coca - Cola` `ATS and verbatim assessment`; `Hey!` - `enjoy` :     
 
 --- 
@@ -717,48 +726,60 @@ Supply Chain | Telephone Skills | Total Quality Management | Bottom-up Strategy 
 
 `the pause that refreshes...`
 
-[Let's Connect on LinkedIn](https://linkedin.com/in/oudcollective) | [LinkedIn Control Page](https://linkedin.com/in/c-brennan-poole) | [Pinterest](https://www.pinterest.com/withWindllc
-:---|:---:|---:
+---
+
+[Let's Connect on LinkedIn](https://linkedin.com/in/oudcollective) | [LinkedIn Control Page](https://linkedin.com/in/c-brennan-poole) | [Pinterest](https://www.pinterest.com/withWindllc)    
+:---|:---:|---:    
 [Twitter](https://twitter.com/oudcollective) | [LinkedIn with Wind](https://linkedin.com/company/the-wind) |  [Quora](https://quora.com/c-brennnan-poole)
 [instagram](https://instagram.com/twenty20times) | [Some Links](https://my.bio/thewindllc) | [Medium](https://medium.com/@C.Brennan.Poole)
 [Rockin' Chair Panel](https://medium.com/rockinchairpanel) | [DEV](https://dev.to/cbrennanpoole) | [Hackernoon](https:/hackernoon.com/@chasing-the-wind)
 [Crunchbase Founder Top 5k Bio](https://www.crunchbase.com/person/c-brennan-poole) | [Crunchbase with Wind Top 50k Organization](https://www.crunchbase.com/organization/chasing-the-wind-llc) | [Coil Blog](https://coil.com/u/oudcollective)
-[GOOGLE SERP](https://www.google.com/search?q=c+brennan+poole+wind) | [BING SERP](https://www.bing.com/search?q=c+brennan+poole+chasing+the+wind) | [ORCID](https://orcid.org/0000-0001-6537-7683) 
-[dribbbler](https://dribbble.com/C-Brennan-Poole/about) | [Objective Assessment of the N American Opioid Crisis; for whole-truth >> follow the finances, silent partnerships, collaborative arrangements with peers and specialized interst MD >> understand, it's an all-cash establishment that further fuels off the fallacies in US dot GOV](https://docs.google.com/spreadsheets/d/e/2PACX-1vQtNSLY1eaa8StJxhsTOh6DkVDyj8nTnqf9nQYz1QvJ0lWnrc7gQpiGyhlTuIkDPllAi0bwrDMDiQv3/pubchart?oid=181466766&format=interactive) | [Giphy](https://giphy.com/channel/chasing-the-wind) | [YouTube](https://www.youtube.com/channel/UCYVa4H5JraM-R6YoORABg3Q/about?disable_polymer=1)
-[Wiki Profile](https://en.wikipedia.org/wiki/User:C-Brennan-Poole) | [Stack Overflow Story](https://stackoverflow.com/story/c-brennan-poole) | [Stack Overflow CV](https://stackoverflow.com/cv/c-brennan-poole)
-[Dark Docs Template](docs.google.com/document/d/1-JMQZuREnJHeSVKiyT7TKi_pyj1DCC1cfUR8Mhsilpo/template/preview) | [Dark Sheets Template](docs.google.com/spreadsheets/d/1m3ORMVcPysEeyoBzcJ4JPzHXRBgKYMnorIPJrMH1IOw/template/preview) | [GitHub Post Template](https://bit.ly/Git-Template)
-[Hangouts to iOS Hack](https://hangouts.google.com/?hs=139&action=chat&pn=4705801515) | [Messenger](https://m.me/IntheBusinessBusiness) | [Telegram](https://t.me/oudcollective) 
-[GitHub Projects](https://github.com/OUDcollective/Qualitative-Self/projects) | [Apple Inc Diversity / EEOC Issues on Google Sheets](https://docs.google.com/spreadsheets/d/1wQbP_f9faXGKKyWBTsKOd9yt4xqnLktvq_8AofdupSI/edit#gid=785042388) | [Seed Startup Hub](https://www.seedstartuphub.com/Home/StartupProfile/~10505)
-[Epidemic Statistic Playlist on Apple Music](https://music.apple.com/us/playlist/epidemic-statistics/pl.u-38oWZy3sYK72y0R) | [Vimeo](https://vimeo.com/accessibilityassistants) | [Google My Business; & the Truth Shall set you Free](https://oudcollective.com "Stay - tuned as this one is the epitome of machines learning gone terribly learnng; while at the same time it will deliver a justified exoneration 'in the midst'; must just trust me on this Scorsese - like true story")
-[Dark Theme Podcast Post-production Transcripts](https://bit.ly/Podcast-Transcripts-Dark-Theme) | [Unsplash](https://unsplash.com/@oudcollective/stats?stats=last-30)
-[Growth-hack Attack v.2.1](https://drive.google.com/drive/u/1/folders/1tBIWum7wR3weNNFrSUz6GpexeYgGMo9O) | [YC SUS 2020](https://www.startupschool.org/companies/withWind)
+[GOOGLE SERP](https://www.google.com/search?q=c+brennan+poole+wind) | [BING SERP](https://www.bing.com/search?q=c+brennan+poole+chasing+the+wind) | [ORCID](https://orcid.org/0000-0001-6537-7683)     
+[dribbbler](https://dribbble.com/C-Brennan-Poole/about) | [Objective Assessment of the N American Opioid Crisis; for whole-truth >> follow the finances, silent partnerships, collaborative arrangements with peers and specialized interst MD >> understand, it's an all-cash establishment that further fuels off the fallacies in US dot GOV](https://docs.google.com/spreadsheets/d/e/2PACX-1vQtNSLY1eaa8StJxhsTOh6DkVDyj8nTnqf9nQYz1QvJ0lWnrc7gQpiGyhlTuIkDPllAi0bwrDMDiQv3/pubchart?oid=181466766&format=interactive) | [Giphy](https://giphy.com/channel/chasing-the-wind)
+[YouTube](https://www.youtube.com/channel/UCYVa4H5JraM-R6YoORABg3Q/about?disable_polymer=1) | [WIKI](https://en.wikipedia.org/wiki/User:C-Brennan-Poole) | [Stack Overflow Story](https://stackoverflow.com/story/c-brennan-poole)
+[Stack Overflow CV](https://stackoverflow.com/cv/c-brennan-poole) | [Dark Docs Template](docs.google.com/document/d/1-JMQZuREnJHeSVKiyT7TKi_pyj1DCC1cfUR8Mhsilpo/template/preview) | [Dark Sheets Template](docs.google.com/spreadsheets/d/1m3ORMVcPysEeyoBzcJ4JPzHXRBgKYMnorIPJrMH1IOw/template/preview)
+[GitHub Post Template](https://bit.ly/Git-Template) | [Hangouts to iOS Hack](https://hangouts.google.com/?hs=139&action=chat&pn=4705801515) | [Messenger](https://m.me/IntheBusinessBusiness)
+[Telegram](https://t.me/oudcollective) | [GitHub Projects](https://github.com/OUDcollective/Qualitative-Self/projects) | [Apple Inc Diversity / EEOC Issues on Google Sheets](https://docs.google.com/spreadsheets/d/1wQbP_f9faXGKKyWBTsKOd9yt4xqnLktvq_8AofdupSI/edit#gid=785042388)
+[Seed Startup Hub](https://www.seedstartuphub.com/Home/StartupProfile/~10505) | [Epidemic Statistic Playlist on Apple Music](https://music.apple.com/us/playlist/epidemic-statistics/pl.u-38oWZy3sYK72y0R) | [Vimeo](https://vimeo.com/accessibilityassistants)
+[Google My Business](https://oudcollective.com "Stay - tuned as this one is the epitome of machines learning gone terribly learnng; while at the same time it will deliver a justified exoneration 'in the midst'; must just trust me on this Scorsese - like true story") | [Dark Theme Podcast Post-production Transcripts](https://bit.ly/Podcast-Transcripts-Dark-Theme) | [Unsplash](https://unsplash.com/@oudcollective/stats?stats=last-30)    
+[Growth-hack Attack v.2.1](https://drive.google.com/drive/u/1/folders/1tBIWum7wR3weNNFrSUz6GpexeYgGMo9O) | [YC SUS 2020](https://www.startupschool.org/companies/withWind) | [Google Drive Root](https://bit.ly/OUDcollective)
 
 ---
 
 #### Legalese
+`the great national temperance drink`     
 
-`the great national temperance drink`<br>
+---
 
-- Careful now; the Devil dwells on the details & abodes in the fine print. Stay Woke, Git Gud, Git God! 
+```
+Careful now; the Devil dwells on details & abodes in fine print.
+```
 
 ---
 
 ##### Creative Commons 
+`( CC BY-SA )`     
 
-`( CC BY-SA )`
+---
 
-copyright© 2020 chasing the wind, some rights reserved. works are licensed under a creative commons (cc by-sa) international free cultural works 4.0 license. link to license: 
-< https://creativecommons.org/licenses/by-sa/4.0/ >
-    - in other words, feel free to remix, reuse, redistribute but make sure attribute with a 
-        - Link back to title of the work,    
-        - The original author slash artist, the source of the work, and compatible license.
+Copyright© #twenty20times chasing the wind, LLC pandemic forced shape, now DBA with Wind LLC; some rights reserved. 
+
+Works  licensed under the creative commons International 4.0 Sharealike license (CC BY-SA). 
+Link to license :
+    - [creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)     
+        1. Feel free to 
+             - Remix, 
+             - Reuse, 
+             - Redistribute but make sure to attribute :  
+                 1. Linking back to title of the work,    
+                     - The original author, 
+                     - Source of work.
 
 ---
 
 ##### Software Licensing 
+`ahh... that's the good stuff!`    
 
-`ahh... that's the good stuff!`
+---
 
-This repository is licensed under* [MIT](../LICENSE) *if ever I get to delivering in-demand code - that is.* (c) #twenty20times [GitHub](https://github.com/OUDcollective/Quantified-Self "In Jesus Name. Amen! Hallel Allah. Praise Jehova. Hare Krsna. Hare Rama. Rama Rama. Want to flip Scripts; Move Consciousness with me?"), Inc. All rights to their namesake and logo are reserved. Thanks for hosting us! IAM [C brennan Poole ](https://www.bing.com/search?q=c+brennan+poole+chasing+the+wind "Bing powered by Microsoft : hacking traffic to the SERP to keep the sticky effect alive and well while attempting to roket launch inefficiencies into a total process overhaul i.e. digital transformation with Wind and C Brennan Poole pandemic forced states since dropped 'chasing' now simply DBA with Wind")         
-
-[GodSpeed](https://www.pinterest.com/withWindllc "Wrapped up in YHWW` `Headed the unwoke way` `In Jesus Name` `Hare Krishna` `Praise Jah` `finding sustainable` `do the next right thing` `Pay it Forward`")
+This repository is licensed under* [MIT](../LICENSE) *if ever I get to delivering in-demand code - that is.* (c) #twenty20times [GitHub](https://github.com/OUDcollective/Quantified-Self "In Jesus Name. Amen! Hallel Allah. Praise Jehova. Hare Krsna. Hare Rama. Rama Rama. Want to flip Scripts; Move Consciousness with me?"), Inc. All rights to their namesake and logo are reserved. Thanks for hosting us! IAM [C brennan Poole ](https://www.bing.com/search?q=c+brennan+poole+chasing+the+wind "Bing powered by Microsoft : hacking traffic to the SERP to keep the sticky effect alive and well while attempting to roket launch inefficiencies into a total process overhaul i.e. digital transformation with Wind and C Brennan Poole pandemic forced states since dropped 'chasing' now simply DBA with Wind"). [GodSpeed](https://www.pinterest.com/withWindllc "Wrapped up in YHWW` `Headed the unwoke way` `In Jesus Name` `Hare Krishna` `Praise Jah` `finding sustainable` `do the next right thing` `Pay it Forward`")
