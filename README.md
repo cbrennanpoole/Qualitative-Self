@@ -88,7 +88,7 @@ No # | Position | Employer | Physical Address | Start Date | End Date | (Promoti
 
 ### Secondary and Postsecondary
 
-`lean on me` : `9 - 16` `reverse chronological order`<br>
+`lean on me` : `9 - 16` `chronological order`<br>
     
 No | school | city | state | start | end | details | add'l    
 :---|:---|---|---|---|---|---:|---:   
@@ -106,22 +106,22 @@ No 1 : `it's the real thing`<br>
 
 ### Postsecondary Purview
 
- the more `expensive curriculum` `have a coke on me` ...<br>
+`expensive curriculum` `have a coke on me` ...<br>
 
-MGS 4740 Operations Strategy | MGS 4760 Total Quality Management | MGS 4700 Operations Management  
+MGS 4760 Total Quality Management | MGS 4740 Operations Strategy | MGS 4730 Project Management 
 :---|:---|---:
-MGS 4730 Project Management | MGS 4000 Managerial Decision Making | MGS 4770 Service Operations Management
+MGS 4770 Service Operations Management MGS 4700 Operations Management | MGS 4500 Entrepreneurship / New Venture Management | MK 4400 Distribution Management Consumer
 MGS 4110 Analysis of Business Data | MGS 4120 Optimal Resource Allocation | MGS 4000 Managerial Decision Making
-BCOM 3950 Business Communication and Professional Development | MGS 4710 Analysis of Business Data  | ACCT 2101 Principles of Accounting I 
-ACCT 4210 Cost/Managerial Accounting | ECON 2106 Principles of Microeconomics | ECON 2106 Principles Of Macroeconomics 
-FI 3300 Corporation Finance | MGS 3100 Business Analysis | MGS 3400 Managing People in Organization
-BUSA 3000 Globalization and Business Practices | MK 3010 Basic Marketing | BUSA 2106 Legal Environment of Business
-ECON 2100 The Global Economy | HIST 2110 Survey of US History  | AH 1070 Survey of Art II 
-CRJU 2200 Social Sciences & America's Criminology Problem | RE 3010 Real Estate Principles | MATH 2101 Mathematical Medleing 
-CRJU 3100 Intro to Criminal Justice | POLS 1101 American Government | BCOM 3950 Business Communication and Professional Development
-Critical Thinking PHIL 2410  | MK 4400 Distribution Management Consumer | MATH 1070 Elementary Statistics Coursses
-ENGL 2102 English Composition II | MGS 4500 Entrepreneurship / New VVenture Management | BIOL 1110K Human Anatomy & Phsiology
-SPCH 1000 Human Communication | Intro to Astronomy(ASTR 1100) | CIS 2010 Computer Information Systems
+MGS 4000 Managerial Decision Making | MGS 4710 Analysis of Business Data | ACCT 4210 Cost/Managerial Accounting
+BCOM 3950 Business Communication and Professional Development | FI 3300 Corporation Finance | MGS 3100 Business Analysis
+MGS 3400 Managing People in Organization | BUSA 3000 Globalization and Business Practices | MK 3010 Basic Marketing
+RE 3010 Real Estate Principles | CRJU 3100 Intro to Criminal Justice | ACCT 2102 Principles of Accounting II  
+ACCT 2101 Principles of Accounting I | PHIL 2410 Critical Thinking | BUSA 2106 Legal Environment of Business
+ECON 2100 The Global Economy | HIST 2110 Survey of US History | CRJU 2200 Social Sciences & America's Criminology Problem
+MATH 2101 Mathematical Modeling | AH 1070 Survey of Art II | POLS 1101 American Government
+MATH 1070 Elementary Statistics ENGL 2102 English Composition II | CIS 2010 Computer Information Systems
+ECON 2106 Principles of Microeconomics | ECON 2106 Principles Of Macroeconomics | BIOL 1110K Human Anatomy & Phsyiology
+SPCH 1000 Human Communication | BIOL 1101 Intro to Biology | BIOL 1102 (TK)
 
 ---
 
