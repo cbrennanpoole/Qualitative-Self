@@ -156,7 +156,7 @@ Covington, GA | Nov 2018 - Present
     - set to be recognized on Climate day; novel coronavirus cancellation causation. 
 3. Invite to [GovCity III](https://govcity.com) cohort for [SXSW 2020](https://sxsw.com "South by Southwest is an annual conglomeration of parallel film, interactive media, and music festivals and conferences organized jointly that take place in mid-March in Austin, Texas, United States.") and 2nd invite to startup festival after the 
     - unsolicited offer from [SXSW 2020 Executive Producer extended an invite](https://docs.google.com/spreadsheets/d/1i23nUbKEccvqhnrTq8qfO9Y0vqb85VezkMIzTIjjP-k/edit?usp=sharing "with a 48 - hour deadline : Think.FailHuge Think.ContinuousImprovement inception")
-4. Extend reach to effectively garner the attention of the [United Nations- Habitat in partnership with Dubai Municipality : International Awards for Best Practices in Sustainable Development](https://drive.google.com/file/d/1v3chrKnW2E2dnxMvnXHgXMsHmLyA_Jl5/view?usp=sharing"had to vet; but it's more than legit" : again however - no 'chasing' with twenty - three attempts of encouragement trying to get with Wind all - in.")
+4. Extend reach to effectively garner the attention of the [United Nations- Habitat in partnership with Dubai Municipality : International Awards for Best Practices in Sustainable Development](https://drive.google.com/file/d/1v3chrKnW2E2dnxMvnXHgXMsHmLyA_Jl5/view?usp=sharing"had to vet; but it's more than legit : again however - no 'chasing' with twenty - three attempts of encouragement trying to get with Wind all - in.")
     - Reason for not 'chasing' (`Legal entity : Chasing the Wind LLC`) : 
         1. `Team` —less.
         2. Being recognized for a conceptual sustainable model while not being a sustainable entity felt like (and likely is) utter `hypocrisy`. 
@@ -173,10 +173,10 @@ Covington, GA | Nov 2018 - Present
 8. Chief Executive of [dribbble](https://dribbble.com/C-Brennan-Poole/about "one look at the Wind posts will show we're clearly not really all that design - friendly ; at least we weren't as yet until"); Zack Onisko, drafts to platform; as non-designer and like-minded growth - hack.
 9. Achieve [Popular on Pinterest](https://www.pinterest.com/withWindllc "categorical associative algorithmic theory : proven success") status with  
     - 500,000 + views / month ( average 02/2020 - 06/2020 ); 
-        1. ‘in the midst’ of novel quarantine states of global confusion; 
+        1. ‘in the midst’ of novel coronavirus. 
     - Drive engagement analytics over 50% growth month-over-month (Feb and Mar 2020) attaining 
-        2. > 2.5 million / impressions past 90 days (Apr - Jul '20).
-        3. + 300% increase of actionable engaged audience (same timeline).
+        1. > 2.5 million / impressions past 90 days (Apr - Jul '20).
+        2. + 300% increase of actionable engaged audience (same timeline).
 10. Establish +9.5% engagement rate on [LinkedIn with Wind Company Page](https://linkedin.com/the-wind). 
     - Sustainable impact YOY holding the average.
 11. Google Cloud for Startups 
@@ -188,7 +188,7 @@ Covington, GA | Nov 2018 - Present
 15. [Microsoft partner](https://partner.microsoft.com/en-US/membership/competencies "it takes two; that's you! Yes You! +1 678-338-7339 Yes equity" ) Path.
 
 ### Professional & Leadership Roles (Corporate US)      
-`Ain't nothing but the Real Thing Baby!`
+`Ain't nothing like the Real Thing!`
 
 ---
 
@@ -495,6 +495,8 @@ Stockbridge, GA  | Aug 2016 – Aug 2017
 5. Gold Team Award 
 `—Lowe's Companies Inc.`
 
+---
+
 #### [2011](https://www.saia.com/about-us/awards) TEAM AWARDS
 
 ---
@@ -764,27 +766,25 @@ Careful now; the Devil dwells on details & abodes in fine print.
 ---
 
 ##### Creative Commons 
-`( CC BY-SA )`     
+`(CC BY-SA)`     
 
 ---
 
 Copyright© #twenty20times chasing the wind, LLC pandemic forced shape, now DBA with Wind LLC; some rights reserved. 
-
-Works  licensed under the creative commons International 4.0 Sharealike license (CC BY-SA). 
-Link to license :
+Works  licensed under the creative commons International 4.0 Sharealike license (CC BY-SA). Link to license :
     - [creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)     
         1. Feel free to 
              - Remix, 
              - Reuse, 
              - Redistribute but make sure to attribute :  
-                 1. Linking back to title of the work,    
-                     - The original author, 
-                     - Source of work.
+                 1. Link back to title of the work,    
+                     - Original author, 
+                     - Source / publication.
 
 ---
 
 ##### Software Licensing 
-`ahh... that's the good stuff!`    
+`the good stuff!`    
 
 ---
 
