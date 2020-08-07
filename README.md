@@ -10,7 +10,8 @@
 
 ### Résumé 
 
-`Traditional` `Condensed Versions`    
+`Traditional` `Condensed Versions` 
+
 Dark Theme Résumé | ATS Résumé    
 :---|---:
 [Dark Theme Résumé](https://bit.ly/Real-time-PDF-dark-theme "Google Docs Viewer : Material Design by the Google LLC inspired document") | [ATS - Résumé](https://bit.ly/ATS-Real-time-PDF "a less disruptive version; also Google Docs Viewer for downloadable copies please see below")
@@ -218,12 +219,14 @@ Ellenwood, GA | Jul 2011 - Feb 2013
         4. 12 Operations Supervisors, 
         5. 6 Dispatch Supervisors,
         6. 10 Clerical Teammembers,
-2. Trend analysis of seasonal trends in tonnage and seasonal workforce issues helping to 
+2. Trend analysis in tonnage and seasonal workforce issues helping to 
     - Identify patterns to develop new due service schedules for linehaul,
-    - Eliminate existing schedules by building loads dynamic builds to Atlanta / Carolina region satellite (end) service centers.
-    - Increase hiring efforts earlier in calendar year (Jan and Feb) to have a cross-functional team in place to cover the seasonal up-tick in tonnage and vacation requests.    
+    - Eliminate existing schedules by building dynamic loads to satellite (end) service centers.
+    - Increase hiring efforts earlier in calendar year (Jan and Feb) to improve quality thru more effective training as well as cover seasonal up-tick in tonnage and vacation requests.    
 3. Implement : 
-    - Lean, six-sigma management principles,
+    - Lean, 
+    - Six-sigma 
+    - Best-in-class management principles,
 4. Institute :
     - Just-in-time (J.I.T.) workflow models 
     - Yard hostler changes in standard work process. 
@@ -232,41 +235,44 @@ Ellenwood, GA | Jul 2011 - Feb 2013
     - Support :
         1. Upper - management goals,
         2. Regional management expectations :
-            - Offer the terminal perspective at quarterly meetings
-            - Develop staff to fall-in-line helping to further achieve the goal of 
+            - Provide terminal perspective at management meetings.
+            - Encourage a unified mindset; helping to further achieve the goal of 
                 1. Always on A / B testing,
                 2. Real - time human resources establishing a body of 
-                    - Continuous integration / improvement.
-6. Craft operations strategy aligning organizational vision with operations team and associates daily game plan.
-    - 1st day introduction issued a challenge to perform as one unit and single team. 
+                    - Continuous integration and continuous improvement.
+6. Craft operations strategy aligning organizational vision with Atlanta Dock Ops daily game plan.
+    - 1st day introduction issued a challenge to perform as one unit and team. 
         1. Issue command to excellence, and
-        2. Mission to take pride in the job. 
-        3. Promising to return to an open door management policy. 
-            - Address all inquires 
-            - Committment to resolve pre-existing & future (if warranted) concerns. 
+        2. Demand pride be taken in the job. 
+        3. Assurance to return to an open door management policy. 
+            - Address all inquires, 
+            - Commit to resolve pre-existing & future concerns. 
 7. Explore underlying issues affecting workforce thru : 
     - Active listening  :
         1. Individual,  
         2. Group information gathering sessions; 
-8. Analyze and identify anomalies and outliers : 
-            - Continuous observation and perspective taking until identification of root cause(s) could be established; 
-            - Addressing all associate : 
+8. Analyze and identify outliers : 
+            - Continuous observation until identification of root cause(s) could be established; 
+            - Address all associate : 
                 1. Feedback  
                 2. Questions of doubt &  
                 3. Resistance to change.  
-                4. Serve as liaison / conduet as the voice of the dock to : `senior management`; `advocating for legitimate equipment needs and fundamental employee benefits (F/T & P/T issues);
-9. Author and co-collaborator of :   
-    - 20% Dock operations productivity enhancement (KPI),
-        1. No less than 40% gain in delivery before exception metric;
-10. Slash : 
-    - Over - the - road (OTR) expenditures, 
-    - Permanent cancellation of 4 due-service regional runs by implementing multi-stop, strategic load plan.  
-        1. Shave no less than 6 city of Atlanta delivery & pickup (PUD) routes, and  
-11. Establish : 
-    - 2% Standard of Service improvement.
-        1. Total Customer Satisfaction delivering of 99.2% on-time and 
-12. Reduce damages : 
-    - 40% across-the-board.
+9. Slash long standing incentives & rewards program; replacing with a scale-ready, peer reviewed model; the iSaia program using a team-oriented approach driven by analytics driven by understandable measurables (KPI) : 
+    - 177% increase to Earnings per Share 
+        - EPS at $1.94 equating to a 
+            1. 7% gain in revenues + 1.1 (billion) to shareholders’ equity.
+10. Spearhead company’s inaugural [dock-to-driver campaign](https://www.youtube.com/watch?v=-mG5veBWS00&t=4s "YouTube video from Atlanta Dock") to establish an 8 +
+year competitive advantage.
+11. Institute total process overhaul with the [Quality MattersTM campaign](https://www.youtube.com/watch?v=nPTt37YGdH4&list=PL7R4Ra-1Mrclih8qRlT9Z0ExjtdX_8vnm&index=2&t=3s "Atlanta dock is the flagship terminal and is an iterative environment as all programs roll-out thru that facility).
+12. Integrate a continuous improvement model using best-in-class best business practices featuring : 
+    - Concept of pinwheeling and 
+    - Multi-stop strategic framework.
+    - Focus on quality,
+    - Adherence to safety SOP,
+    - Accountability thru documentation.
+13. Support IT, Sales, and the Weight & Research team with the [freight dimensioner technology national
+rollout](https://www.youtube.com/watch?v=l3d6sJZ-mQ0 "most effective program serving as calalyst to overhaul and driver of quality helping reduce operating ratio").
+14. Deliver Top 10 Fortune LTL ranking resulting from implementation and continued success from aforementioned programs.
          
 ---    
 
