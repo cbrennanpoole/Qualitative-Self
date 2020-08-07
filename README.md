@@ -107,7 +107,7 @@ RE 3010 Real Estate Principles | BUSA 3000 Globalization and Business Practices 
 CRJU 2200 Social Sciences & America's Criminology Problem  | BUSA 2106 Legal Environment of Business | ACCT 2102 Principles of Accounting II
 ACCT 2101 Principles of Accounting I | HIST 2110 Survey of US History | MATH 2101 Mathematical Modeling
 ECON 2106 Principles of Microeconomics | ECON 2105 Principles Of Macroeconomics | CIS 2010 Computer Information Systems 
-ECON 2100 The Global Economy | BIOL 1110K Human Anatomy & Phsyiology | BIOL 1102 (TK) | BIOL 1101 Intro to Biology
+ECON 2100 The Global Economy | BIOL 1110K Human Anatomy & Phsyiology | BIOL 1101 Intro to Biology
 AH 1070 Survey of Art II | ENGL 2102 American Literature | MATH 1070 Elementary Statistics
 POLS 1101 American Government | ASTR 1001 Intro to Astronomy | SPCH 1000 Human Communication
 
