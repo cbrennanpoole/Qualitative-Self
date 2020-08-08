@@ -6,7 +6,7 @@
 
 ---
 
-![C BRENNAN POOLE and the Qualitative-Self](https://camo.githubusercontent.com/29977588d9fbd41675e40fd5656c0de818389388/68747470733a2f2f646f63732e676f6f676c652e636f6d2f64726177696e67732f642f652f32504143582d3176534d70495f4d6152776a4f57354a6b6878675f302d4336465f4f75354d4a6174665650524379524c756b77686c7a69754f416c6a676735675266315858694e6c4e307035495f515f30722d43496d2f7075623f773d3132303026683d363237)
+![C BRENNAN POOLE and the Qualitative-Self](https://user-images.githubusercontent.com/50818414/89713927-08c2d080-d969-11ea-8601-e4196047e4c1.jpg "the gauses are made using Google Sheets and taken from the assessments used by indeed.com; as far as the ugly mug in the top right corner - those are my two nephews Hayden and Wyatt - and they are handsome thank you very much")
 
 ---
 
