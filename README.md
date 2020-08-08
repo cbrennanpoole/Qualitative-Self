@@ -52,23 +52,24 @@ to provide Total Customer Satisfaction thru Total Quality Management, People Emp
 
 No # | Position | Employer | Physical Address | Start - End Date | (Promotion Y/N)    
 :---|:---|:---:|---:|:---|---:    
-1 | Creative Strategist & Principal Chief of Operations | the Wind, LLC | Covington, GA | Nov 2018 - Present | N
-2 | Logistics Coorginator | Amazon Logistics | Stockbridge, GA | Oct 2017 - Feb 2018 | N
-3 | Maintenance & Landscape  | Pine Hills | Stockbridge, GA | Aug 2016 - Aug 2017 | Y  |
-4 | Self-employed (Freelance) | Sub-Contract Work | Stockbridge, GA | Feb 2014 - Jan 2017 | N
-5 | Dispatch Supervisor | Annex Freight Systems | Newnan, GA | March 2013 - Nov 2013 | N
-6 | Operations Manager | Saia LTL Freight Inc | Ellenwood, GA | July 2011 - Feb 2013 | N
-7 | Dispatch Supervisor | Saia LTL Freight Inc | Johns Creek, GA | July 2009 - July 2011 | Y
-8 | Operations Supervisor | Saia LTL Freight Inc | Ellenwood, GA | March 2008 - July 2009 | Y
-9 | Operations / Office Manager | South County Masonry Inc | Venice, FL | May 2006 - Aug 2007 | NA
-10 | Team Lead | Ted's Montana Grill | Midtown Atlanta, GA | Nov 2005 - May 2006 | Y
-11| Trainer / FOH Manager | Italian Oven | Stockbridge, GA | Dec 2003 - Jan 2005 | Y
-12 | Customer Service Associate II | Lowe's Inc | Stockbridge, GA - March 2003 | Nov 2003 | Y
-13 | Freight Handler | Roadway Express Inc | Atlanta, GA | Aug 2002-  Feb 2003 | Y
-14 | Umpire | RYBA (Youth Baseball Assoc. Rockdale County) | Conyers, GA | May 2000 - May 2001 | NA
-15 | Secratarial Assistant | Richard H. Ramsey IV, Esquire | Dothan, AL | Nov 2000 - May 2000 | NA
-16 | Back of House | City Slickers, LLC | Conyers, GA | January 1999 - May 2001 | NA
-17 | Innocence of Youth | American Dreamer | Historic Heartland of Georgia, US & Greater Metro Atlanta area | May 1983 - TBD | 😉
+1 | Strategist | Let's Keep on Trucking | Morrow, GA | Aug 2020 - Present | `soon enough`
+2 | Creative Strategist & Principal Chief of Operations | the Wind, LLC | Covington, GA | Nov 2018 - Present | N
+3 | Logistics Coorginator | Amazon Logistics | Stockbridge, GA | Oct 2017 - Feb 2018 | N
+4 | Maintenance & Landscape  | Pine Hills | Stockbridge, GA | Aug 2016 - Aug 2017 | Y  |
+5 | Self-employed (Freelance) | Sub-Contract Work | Stockbridge, GA | Feb 2014 - Jan 2017 | N
+6 | Dispatch Supervisor | Annex Freight Systems | Newnan, GA | March 2013 - Nov 2013 | N
+7 | Operations Manager | Saia LTL Freight Inc | Ellenwood, GA | July 2011 - Feb 2013 | N
+8 | Dispatch Supervisor | Saia LTL Freight Inc | Johns Creek, GA | July 2009 - July 2011 | Y
+9 | Operations Supervisor | Saia LTL Freight Inc | Ellenwood, GA | March 2008 - July 2009 | Y
+10 | Operations / Office Manager | South County Masonry Inc | Venice, FL | May 2006 - Aug 2007 | NA
+11 | Team Lead | Ted's Montana Grill | Midtown Atlanta, GA | Nov 2005 - May 2006 | Y
+12| Trainer / FOH Manager | Italian Oven | Stockbridge, GA | Dec 2003 - Jan 2005 | Y
+13 | Customer Service Associate II | Lowe's Inc | Stockbridge, GA - March 2003 | Nov 2003 | Y
+14 | Freight Handler | Roadway Express Inc | Atlanta, GA | Aug 2002-  Feb 2003 | Y
+15 | Umpire | RYBA (Youth Baseball Assoc. Rockdale County) | Conyers, GA | May 2000 - May 2001 | NA
+16 | Secratarial Assistant | Richard H. Ramsey IV, Esquire | Dothan, AL | Nov 2000 - May 2000 | NA
+17 | Back of House | City Slickers, LLC | Conyers, GA | January 1999 - May 2001 | NA
+18 | Innocence of Youth | American Dreamer | Historic Heartland of Georgia, US & Greater Metro Atlanta area | May 1983 - TBD | 😉
 
 ---
 
@@ -188,6 +189,16 @@ Writing a Compelling Blog Post | Why are Opioids So Addictive (University South 
 ### New Venture Management
 
 ---
+
+#### Let's Keep on Trucking     
+`Operations Strategist"     
+Morrow, GA | Aug 2018 - Present
+1. Institute total process overhaul helping team shift organizational dynamics by getting back to logistics management basics.
+2. Define clearly the objectives of the organization and help employees overcome the fear of the unknown i.e. change.
+3. Create always available managment model and open door policy that employees can count on. 
+4. Foster innovation and encourage outside-the-box innovative solutions to help deliver a more dynamic and agile less-than-load industry. 
+4. Establish Key Performance Indicators to help the 18 terminal operation understand importance in goal-setting and continuous improvement.
+
 
 #### with Wind LLC    
 `CREATIVE STRATEGIST and PRINCIPAL CHIEF of OPERATIONS`    
