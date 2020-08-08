@@ -192,7 +192,7 @@ Writing a Compelling Blog Post | Why are Opioids So Addictive (University South 
 
 #### Let's Keep on Trucking     
 `Operations Strategist` `Management Consultancy` `with Wind LLC`     
-Morrow, GA | Aug 2018 - Present
+Morrow, GA | Aug 2020 - Present
 1. Institute total process overhaul helping team shift organizational dynamics by getting back to logistics management basics.
 2. Define clearly the objectives of the organization and help employees overcome the fear of the unknown i.e. change.
 3. Create always available managment model and open door policy that employees can count on. 
