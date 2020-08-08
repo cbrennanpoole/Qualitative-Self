@@ -1,8 +1,10 @@
-# Qualitative Self
+# The Qualitative Self
 
 ---
 
 ## On [C Brennan Poole](https://crunchbase.com/person/c-brennan-poole "The growth - hack attack v.2.2 : aiming at the backend as it's where I belong. First, an algorithmic riddle : dropped the '-asey'. i.e. no more 'chasing'; do you want to go 'NASCAR racing'? It's 'verily verily' simple : Think Jot and Tittle")  
+
+---
 
 ![C BRENNAN POOLE and the Qualitative-Self](https://camo.githubusercontent.com/29977588d9fbd41675e40fd5656c0de818389388/68747470733a2f2f646f63732e676f6f676c652e636f6d2f64726177696e67732f642f652f32504143582d3176534d70495f4d6152776a4f57354a6b6878675f302d4336465f4f75354d4a6174665650524379524c756b77686c7a69754f416c6a676735675266315858694e6c4e307035495f515f30722d43496d2f7075623f773d3132303026683d363237)
 
@@ -10,7 +12,11 @@
 
 ### Résumé 
 
-`Traditional` `Condensed Versions` 
+---
+
+`Traditional Versions` 
+
+---
 
 Dark Theme Résumé | ATS Résumé    
 :---|---:
@@ -21,7 +27,14 @@ Dark Theme Résumé | ATS Résumé
 
 ### The [Quantified-Self](https://bit.ly/The-Quantified-Self-twenty-20 "I thought I was onto something with this creation, as it turns out - the world wide web is truly a world wide abyss - unless you have ad-spend or take to plagiarizing to please the ATS, which I refuse to do anymore; this is my answer to the copycat tactics, however successful it is, it is TBD and a realtime journey; enjoy.") : 
 
-to provide `Total Customer Satisfaction` thru `Total Quality Management` `Positive Reinforcement` `People Empowerment` & `Continuous Improvement`.
+
+```
+
+to provide Total Customer Satisfaction thru Total Quality Management, People Empowerment, & Continuous Improvement.
+
+```
+
+---
 
 [Interactive CV on Google Sheets](https://bit.ly/The-Quantified-Self-twenty-20 "I thought I was onto something with this creation, as it turns out - the world wide web is truly a world wide abyss - unless you have ad-spend or take to plagiarizing to please the ATS, which I refuse to do anymore; this is my answer to the copycat tactics, however successful it is, it is TBD and a realtime journey; enjoy.")<br>
 
@@ -29,8 +42,12 @@ to provide `Total Customer Satisfaction` thru `Total Quality Management` `Positi
 
 ## Professional Table     
 
-`dad can do datasets` `comprehensive body of works`<br>
-    
+---
+
+`dad can do datasets`
+
+---
+
 No # | Position | Employer | Physical Address | Start - End Date | (Promotion Y/N)    
 :---|:---|:---|:---:|:---:|---:    
 1 | Creative Strategist & Principal Chief of Operations | the Wind, LLC | Covington, GA | Nov 2018 - Present | N
@@ -55,8 +72,12 @@ No # | Position | Employer | Physical Address | Start - End Date | (Promotion Y/
 
 ### Secondary and Postsecondary
 
+---
+
 `lean on me` : `9 - 16` `chronological order`<br>
-    
+   
+---
+
 No | school | city | state | start | end | details | add'l    
 :---|:---|---|---|---|---|---:|---:   
 8 | Berkmar High School | Lawrenceville | GA | Aug 1997 | May 1998 | Freshman Year | 4.0 GPA
@@ -67,11 +88,15 @@ No | school | city | state | start | end | details | add'l
 3 | University of West Georgia | Carrollton | GA | Aug 2001 | May 2002 | Undergraduate Studies | Undecided 
 2 | Georgia State University / J Mack Robinson College of Business | Atlanta | GA | Aug 2002 | May 2006 | BBA | Operations Management   
 
+---
+
 No 1 : `it's the real thing`<br>
 
 ---
 
 ## Georgia State University
+
+---
 
 `Faculty Scholar 2004` | `Dean's List 2005` | `Class of 2006`
 1. **COLLEGE** :
@@ -92,9 +117,13 @@ No 1 : `it's the real thing`<br>
             - To-do,
             - In Progress,
             - Complete.
-5. University Coursework : 
+### 5. University Coursework : 
+
+---
     
-`expensive curriculum` `have a coke on me`     
+`have a coke on me`     
+
+---
 
 MGS 4770 Service Operations Management | MGS 4760 Total Quality Management | MGS 4740 Operations Strategy
 :---|:---|---:
@@ -115,7 +144,11 @@ POLS 1101 American Government | ASTR 1001 Intro to Astronomy | SPCH 1000 Human C
 
 ### MOOC - Work 
 
+---
+
 `7 - 3` . `3 - 11`. `11 - 7`     
+
+---
 
 Raising Capital | Creating the Conditions for Others to Thrive | Developing a Learning Mindset | Learning Data Science
 :---|:---|---:|---:
@@ -136,10 +169,16 @@ Writing a Compelling Blog Post | Why are Opioids So Addictive (University South 
 
 `it's 5 o'clock somewhere`
 
+---
+
 > Operations strategist providing total Customer Satisfaction by fostering the people process, developing cross-functional, collaborative workplace environments, and using creative problem solving techniques; with easy to understand - yet -  increasingly difficult-to-achieve Key Performance Indicators.
 
+---
+
 ### Realtime Real-Life Hands-on Work History
-     
+   
+---   
+   
 `coke float`
 
 ---
@@ -187,7 +226,12 @@ Covington, GA | Nov 2018 - Present
 14. [Amazon (AWS) partner path](https://aws.amazon.com/partners/training/ "is there anybody out there? Just hit me at git.actionable@chasingthewindllc.com")
 15. [Microsoft partner](https://partner.microsoft.com/en-US/membership/competencies "it takes two; that's you! Yes You! +1 678-338-7339 Yes equity" ) Path.
 
+---
+
 ### Professional & Leadership Roles (Corporate US)      
+
+---
+
 `Ain't nothing like the Real Thing!`
 
 ---
@@ -263,7 +307,7 @@ Ellenwood, GA | Jul 2011 - Feb 2013
             1. 7% gain in revenues + 1.1 (billion) to shareholders’ equity.
 10. Spearhead company’s inaugural [dock-to-driver campaign](https://www.youtube.com/watch?v=-mG5veBWS00&t=4s "YouTube video from Atlanta Dock") to establish an 8 +
 year competitive advantage.
-11. Institute total process overhaul with the [Quality MattersTM campaign](https://www.youtube.com/watch?v=nPTt37YGdH4&list=PL7R4Ra-1Mrclih8qRlT9Z0ExjtdX_8vnm&index=2&t=3s "Atlanta dock is the flagship terminal and is an iterative environment as all programs roll-out thru that facility).
+11. Institute total process overhaul with the [Quality MattersTM campaign](https://www.youtube.com/watch?v=nPTt37YGdH4&list=PL7R4Ra-1Mrclih8qRlT9Z0ExjtdX_8vnm&index=2&t=3s "Atlanta dock is the flagship terminal and is an iterative environment as all programs roll-out thru that facility").
 12. Integrate a continuous improvement model using best-in-class best business practices featuring : 
     - Concept of pinwheeling and 
     - Multi-stop strategic framework.
