@@ -602,6 +602,9 @@ Stockbridge, GA  | Aug 2016 – Aug 2017
 ---
 
 ## Skills
+
+---
+
 `at the intersection of everywhere`    
 
 ---
@@ -623,7 +626,10 @@ Supply Chain | Telephone Skills | Total Quality Management | Bottom-up Strategy 
 ---
 
 ###  Skills Assessment (Application Tracking Systems (ATS))
-`on the highway to anywhere`; this one is `Done Right` at ... `Coca - Cola` `ATS and verbatim assessment`; `Hey!` - `enjoy` :     
+
+---
+
+`on the highway to anywhere`: `Coca - Cola` `ATS objective assessment`
 
 --- 
 
@@ -789,7 +795,9 @@ Supply Chain | Telephone Skills | Total Quality Management | Bottom-up Strategy 
 
 ### Links 
 
-`the pause that refreshes...`
+---
+
+`the pause that refreshes`...
 
 ---
 
@@ -812,17 +820,17 @@ Supply Chain | Telephone Skills | Total Quality Management | Bottom-up Strategy 
 ---
 
 #### Legalese
+
+---
+
 `the great national temperance drink`     
 
 ---
 
-```
-Careful now; the Devil dwells on details & abodes in fine print.
-```
+##### Creative Commons 
 
 ---
 
-##### Creative Commons 
 `(CC BY-SA)`     
 
 ---
@@ -841,8 +849,11 @@ Works  licensed under the creative commons International 4.0 Sharealike license 
 ---
 
 ##### Software Licensing 
+
+---
+
 `the good stuff!`    
 
 ---
 
-This repository is licensed under* [MIT](../LICENSE) *if ever I get to delivering in-demand code - that is.* (c) #twenty20times [GitHub](https://github.com/OUDcollective/Quantified-Self "In Jesus Name. Amen! Hallel Allah. Praise Jehova. Hare Krsna. Hare Rama. Rama Rama. Want to flip Scripts; Move Consciousness with me?"), Inc. All rights to their namesake and logo are reserved. Thanks for hosting us! IAM [C brennan Poole ](https://www.bing.com/search?q=c+brennan+poole+chasing+the+wind "Bing powered by Microsoft : hacking traffic to the SERP to keep the sticky effect alive and well while attempting to roket launch inefficiencies into a total process overhaul i.e. digital transformation with Wind and C Brennan Poole pandemic forced states since dropped 'chasing' now simply DBA with Wind"). [GodSpeed](https://www.pinterest.com/withWindllc "Wrapped up in YHWW` `Headed the unwoke way` `In Jesus Name` `Hare Krishna` `Praise Jah` `finding sustainable` `do the next right thing` `Pay it Forward`")
+This repository is licensed under* [MIT](../LICENSE) *if ever I get to delivering in-demand code - that is.* (c) #twenty20times [GitHub](https://github.com/OUDcollective/Quantified-Self "In Jesus Name. Amen! Hallel Allah. Praise Jehova. Hare Krsna. Hare Rama. Rama Rama. Want to flip Scripts; Move Consciousness with me?"), Inc. All rights to their namesake and logo are reserved. Thanks for hosting us! IAM [C brennan Poole ](https://www.bing.com/search?q=c+brennan+poole+chasing+the+wind "Bing powered by Microsoft : hacking traffic to the SERP to keep the sticky effect alive and well while attempting to roket launch inefficiencies into a total process overhaul i.e. digital transformation with Wind and C Brennan Poole pandemic forced states since dropped 'chasing' now simply DBA with Wind"). [GodSpeed](https://www.pinterest.com/withWindllc "Wrapped up in YHWW` `Headed the unwoke way` `In Jesus Name` `Hare Krishna` `Praise Jah` `finding sustainable` `do the next right thing` `Pay it Forward`"). `Hey! Enjoy`... (😉)
