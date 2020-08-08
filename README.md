@@ -22,10 +22,12 @@ Dark Theme Résumé | ATS Résumé
 :---|---:
 [Dark Theme Résumé](https://bit.ly/Real-time-PDF-dark-theme "Google Docs Viewer : Material Design by the Google LLC inspired document") | [ATS - Résumé](https://bit.ly/ATS-Real-time-PDF "a less disruptive version; also Google Docs Viewer for downloadable copies please see below")    
 [Download the Dark Theme Résumé PDF](https://bit.ly/dark-theme-resume) | [Download ATS - Résumé PDF](https://bit.ly/twenty-20-CV "C Brennan Poole : Taurus : Lefty : Bottoms-Up Creative Strategist : Jot and Tittle Service Operations Manager")
+[Slideshare Dark Theme](https://www.slideshare.net/OUDCollective/c-brennan-poole-creative-ops-strategist-chasing-the-wind "7 years and 6 months : the amount of time it took to receive the only thing I ever asked of anyone; a single opportunity. Seized it! Talk soon!") | 🤔
+[The State Way CV ](https://www.slideshare.net/OUDCollective/caseybrennanpoolegeorgiastateuniversitybbaoperationsmanager "well sort of; I no longer subscribe to plagiarism tactics forced down on our throat by machines learning unconscious bias thru learned trait hate : call it what you want to call it; just don't call it anything less than what it is : A100") | ✌🏽
 
 ---
 
-### The [Quantified-Self](https://bit.ly/The-Quantified-Self-twenty-20 "I thought I was onto something with this creation, as it turns out - the world wide web is truly a world wide abyss - unless you have ad-spend or take to plagiarizing to please the ATS, which I refuse to do anymore; this is my answer to the copycat tactics, however successful it is, it is TBD and a realtime journey; enjoy.") : 
+### [The Quantified-Self](https://bit.ly/The-Quantified-Self-twenty-20 "I thought I was onto something with this creation, as it turns out - the world wide web is truly a world wide abyss - unless you have ad-spend or take to plagiarizing to please the ATS, which I refuse to do anymore; this is my answer to the copycat tactics, however successful it is, it is TBD and a realtime journey; enjoy.") : 
 
 
 ```
