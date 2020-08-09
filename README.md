@@ -174,7 +174,7 @@ Writing a Compelling Blog Post | Why are Opioids So Addictive (University South 
 
 ---
 
-> Operations strategist providing total Customer Satisfaction by fostering the people process, developing cross-functional, collaborative workplace environments, and using creative problem solving techniques; with easy to understand - yet -  increasingly difficult-to-achieve Key Performance Indicators.
+> Operations strategist providing total Customer Satisfaction by fostering the people process, developing cross-functional workplaces, & collaborative environments; using creative problem solving techniques; holding transparent, fair motives. 
 
 ---
 
@@ -193,44 +193,61 @@ Writing a Compelling Blog Post | Why are Opioids So Addictive (University South 
 #### Let's Keep on Trucking     
 `Operations Strategist` `Management Consultancy` `with Wind LLC`     
 Morrow, GA | Aug 2020 - Present
-1. Institute total process overhaul helping team shift organizational dynamics by getting back to logistics management basics.
-2. Define clearly the objectives of the organization and help employees overcome the fear of the unknown i.e. change.
-3. Create always available managment model and open door policy that employees can count on. 
-4. Foster innovation and encourage outside-the-box innovative solutions to help deliver a more dynamic and agile less-than-load industry. 
-4. Establish Key Performance Indicators to help the 18 terminal operation understand importance in goal-setting and continuous improvement.
+1. Institute total process overhaul to create improved organizational dynamics. 
+    - For us to `Let's Keep on Trucking` we must get back-to-basics.
+2. Clearly define company objectives : 
+    - Remain transparent.
+    - Hold no ulterior motives.
+3. Create always available managment model
+4. Institute an open door policy employees can count on. 
+4. Foster innovation; encouraging creative problem-solving ideas.
+    - Team-centered model.
+4. Establish Key Performance Indicators ( KPIs ). 
+    - Drive change thru 
+        1. Shared accountability. 
+        2. Trust. 
+        3. People empowerment. 
+        4. Continuous Improvement. 
+
+---
+
+> Kiichiro Toyoda & The Toyota Way : This provides for the second opportunity in career to institute with a guarantee of success (if all parties buy-in to model).
+
+---
 
 
 #### with Wind LLC    
 `CREATIVE STRATEGIST and PRINCIPAL CHIEF of OPERATIONS`    
 Covington, GA | Nov 2018 - Present    
-1. Deliver 4,000% growth YOY (1 / 19 - 1 / 20); increase followers + 750% (July '20).
-2. Sustainable Impact Award Recognition by Climate Collaborative 
-    - set to be recognized on Climate day; novel coronavirus cancellation causation. 
-3. Invite to [GovCity III](https://govcity.com) cohort for [SXSW 2020](https://sxsw.com "South by Southwest is an annual conglomeration of parallel film, interactive media, and music festivals and conferences organized jointly that take place in mid-March in Austin, Texas, United States.") and 2nd invite to startup festival after the 
-    - unsolicited offer from [SXSW 2020 Executive Producer extended an invite](https://docs.google.com/spreadsheets/d/1i23nUbKEccvqhnrTq8qfO9Y0vqb85VezkMIzTIjjP-k/edit?usp=sharing "with a 48 - hour deadline : Think.FailHuge Think.ContinuousImprovement inception")
-4. Extend reach to garner attention of [The United Nations](https://drive.google.com/file/d/1v3chrKnW2E2dnxMvnXHgXMsHmLyA_Jl5/view?usp=sharing "had to vet; but it's more than legit : again however - no 'chasing' with twenty - three attempts of encouragement trying to get with Wind all - in") - Habitat in partnership with Dubai Municipality and their International Awards for Best Practices in Sustainable Development Awards.
-    - Reason for not 'chasing' (`Legal entity : Chasing the Wind LLC`) : 
-        1. `Team` —less.
-        2. Being recognized for a conceptual sustainable model while not being a sustainable entity felt like (and likely is) utter `hypocrisy`. 
-5. Short-lists : 
+1. Sustainable Impact Award Recognition by Climate Collaborative 
+    - Recognition in Sustainability was set for Anaheim, CA on Climate day (COVID-19 N. American quarantine caused cancellation).
+2. Invite to [GovCity III](https://govcity.com) cohort for [SXSW 2020](https://sxsw.com "South by Southwest is an annual conglomeration of parallel film, interactive media, and music festivals and conferences organized jointly that take place in mid-March in Austin, Texas, United States.") and 2nd invite to startup festival :
+    - Earlier unnsolicited offer coming direct from [SXSW 2020 Pitch](https://docs.google.com/spreadsheets/d/1i23nUbKEccvqhnrTq8qfO9Y0vqb85VezkMIzTIjjP-k/edit?usp=sharing "with a 48 - hour deadline : Think.FailHuge Think.ContinuousImprovement inception") with a 48-hour to deadline invite to apply.
+3. Extend reach to garner attention of [The United Nations](https://drive.google.com/file/d/1v3chrKnW2E2dnxMvnXHgXMsHmLyA_Jl5/view?usp=sharing "had to vet; but it's more than legit : again however - no 'chasing' with twenty - three attempts of encouragement trying to get with Wind all - in; reason for not 'chasing' `Legal entity : Chasing the Wind LLC` : `Team` —less; plus being recognized for a conceptual sustainable model while not being a sustainable entity felt like (and likely is) utter `hypocrisy") - Habitat in partnership with Dubai Municipality and their International Awards for Best Practices in Sustainable Development Awards.
+4. Short-lists : 
     - Red Herring’s Top 100` : North American Tech Startups `annual publication`,
     - `Inc 5000`; `annual publication`,
     - `Red Oak Labs`. `Silicon Valley` `accelerator`
-6. Invite to be featured on `AMC Networks` by 
-    - `NewsWatch` *sent 3 inquiries* (20 Jun - 23, 2020)
-7. `Invitations` & more `short-list` offerings :  
-    - [Learn Launch](https://learnlaunch.org/ "out of the whole gamut; this is the one the Wind may take to 'chasing'"), 
-    - [Hatch Pitch](https://www.hatchpitch.com/ "maybe guilty of riding the SXSW 2020 Pitch invite and 'chasing this one; did take part in the actual event as an invite & voting participant"), 
-    - [Gener8tor](https://www.gener8tor.com/ "There's reason why `the Wind` did not attempt to go after these; it's hard to articulate, have to hold out `Faith` it seems")
-8. Chief Executive of [dribbble](https://dribbble.com/C-Brennan-Poole/about "one look at the Wind posts will show we're clearly not really all that design - friendly ; at least we weren't as yet until"); Zack Onisko, drafts to platform; as non-designer and like-minded growth - hack.
-9. Achieve [Popular on Pinterest](https://www.pinterest.com/withWindllc "categorical associative algorithmic theory : proven success") status with  
+5. Invite to be featured on `AMC Networks` by 
+    - `NewsWatch` *sent 3 inquiries* (20 Jun - 23, 2020).
+    - [Learn Launch](https://learnlaunch.org/ "out of the whole gamut; this is the one the Wind may take to 'chasing'").
+    - [Hatch Pitch](https://www.hatchpitch.com/ "maybe guilty of riding the SXSW 2020 Pitch invite and 'chasing this one; did take part in the actual event as an invite & voting participant").
+    - [Gener8tor](https://www.gener8tor.com/ "There's reason why `the Wind` did not attempt to go after these; it's hard to articulate, have to hold out `Faith` it seems").
+6. `Invitations` & `short-list` offerings :  
+    
+7. Chief Executive of [dribbble](https://dribbble.com/C-Brennan-Poole/about "one look at the Wind posts will show we're clearly not really all that design - friendly ; at least we weren't as yet until"); Zack Onisko, drafts to platform; as non-designer and like-minded growth - hack.
+8. Achieve [Popular on Pinterest](https://www.pinterest.com/withWindllc "categorical associative algorithmic theory : proven success") status with  
     - 500,000 + views / month ( average 02/2020 - 06/2020 ); 
-        1. ‘in the midst’ of novel coronavirus. 
+        1. ‘In the midst’ : of novel coronavirus. 
     - Drive engagement analytics over 50% growth month-over-month (Feb and Mar 2020) attaining 
         1. > 2.5 million / impressions past 90 days (Apr - Jul '20).
         2. + 300% increase of actionable engaged audience (same timeline).
-10. Establish +9.5% engagement rate on [LinkedIn with Wind Company Page](https://linkedin.com/the-wind). 
+9. Establish +9.5% engagement rate on [LinkedIn with Wind Company Page](https://linkedin.com/the-wind). 
     - Sustainable impact YOY holding the average.
+    - Deliver 4,000% growth YOY (Jan 2019 - Jan 2020) 
+        1. Increase followers + 750% (July '20).
+             - As of August 2020 :
+                 1. 450 Followers [LinkedIn with Wind](https://linkedin.com/company/the-wind).
 11. Google Cloud for Startups 
     - [Google Cloud Next Participant starting 14 July, 2020](https://g.co/cloudnext "free to register and participate; i have thousands to spend, let's talk!").
         1. Leadership Participant.
@@ -340,48 +357,46 @@ Johns Creek, GA | Jul 2009 - Jul 2011
     - Training,  
     - Mentoring,  
     - Organizational dynamics at discretion of Vice President of Line Haul.  
-2. Establish cross-functional constructive collaboration : 
-    - Forge foundation for profitable partnership;   
-    - Enable regional lane load average improvement,
-    - Foster best-in-class awards by creating a continuous improvement environment.
-    - Peer recognition for Memphis and Oklahoma City regional operations teams.  
-3. Call center setting 600-minute shifts and 480-minute phone time expectation,  
-    - Average > 530 minutes.  
-    - Take Ownership of 250-325 average nightly calls from all operations, sales, and safety angles.  
-    - Assurance Supervisor 
-4. Express appreciation for line and city drivers' as
+2. Call center setting : 
+    - 600-minute shifts and 480-minute phone time expectation,  
+        1. Average > 530 minutes.  
+        2. Own 250-325 nightly calls of responsibility : 
+        3. Coming from all areas of nation.
+        4. Across region of responsibility. 
+            - Operations.
+            - Sales.
+            - Safety.
+            - Customers.
+            - C-Suite.
+3. Express appreciation for line and city drivers' as
     - In-house feedback and Human Resources identified a schism with : 
-        1. Driver-to-dispatch and 
-        2. drivers-to-dockOps Team.
-5. Forge authentic relationship with region & drivers-of-responsibility through 
+        1. Driver-to-dispatch.
+        2. drivers to ATL dock Ops.
+4. Foster a genuine working relationship with peers, subordinates, and executives : 
     - Active listening,
     - People Empowerment, 
     - Continuous Improvement, 
     - Transformational leadership.
-    - Consistancy day-to-day with handling of : 
+    - Remain consistent :
         1. Conflict resolution, 
         2. Call - offs, 
         3. Seniority standard work processes.
-6. Build rapport with the follow-thru.
-7. Plan-to-cover :
-    - Driver time-off; 
-        1. If Drivers could begin to follow the standard work process, while;
-        2. Accepting the long-standing rules in place while also not waivering or making regular exceptions
-    - Requests were honored; further improving the KPI most in-need of immediate improvement.
-8. Articulate expectations in a 
-    - Clear and 
-    - Concise manner.    
-9. Develop efficient, near autonomous set of workflow processes to 
-    - Creating a more accountable workforce
-10. Improve Regional Mgmt perspective : 
-    - Define clear expections : setting the benchmark (standard expectation directly inline with the company expectation of 98.6%; while 
-        1. Create an environment conducive to continuous improvement that would halt and catch fire the 2nd year; ultimately 
-            - Establish  a 99.4% service standard.  
-                1. The catalyst to almost instant recognition,  
-                2. Recepient of multiple internal service awards, including   
-                    - Best-in-class break ( medium terminals MPS, TN 2010), 
-                    - Best-in-class relay ( OKC + TUL terminals 2010), 
-                    - Most improved regional service standards (MPS & OKC regions 2010).   
+5. Build rapport by establishing trust.
+6. Plan-to-cover :
+    - Drivers : 
+        1. Attain buy-in by drivers to adhere to SOP. 
+        2. Acceptance of long-standing rules while not waivering or playing favorites.
+    - Honor time-off requests.
+7. Articulate expectations use clear and concise language all can relate with.
+8. Develop efficient, near autonomous workflow processes.
+9. Improve Regional Mgmt perspective : 
+    - Define clear expections : results : 
+        1. > 99.4% service standard.  
+            - 2. The catalyst to almost instant recognition,  
+        2. Recepient of internal & external service awards :    
+            - Best-in-class break ( medium terminals MPS, TN 2010), 
+            - Best-in-class relay ( OKC + TUL terminals 2010), 
+             - Most improved regional service standards (MPS & OKC regions 2010).   
 10. Nurture growth thru :    
     - Terminal DockOps,  
     - Sales Division,  
@@ -392,41 +407,40 @@ Johns Creek, GA | Jul 2009 - Jul 2011
             - Regional Manageement, 
             - C-Suite
 11. Implement : 
-    - Predictive forecasting algorithm and logarithmic model as co-authored with Linehaul Planning Department. 
+    - Design predictive forecasting algorithm and logarithmic model as co-authored with Linehaul Planning Department. 
 12. Produce : 
-    - Environment conducive to excellence creating consistence in KPIs and confidence in the budding team that was about to rocket launch their carrers throughout the network; making a sustainable impact on the carrier and industry.
+    - Environment conducive to excellence. 
+    - Create consistency. 
+        - Identify and benchmark using KPIs that easy for all to relate with; helping team understand big picture and importance of shared goals.
 
 ---
 
 #### Saia LTL Freight Inc
 `OPERATIONS SUPERVISOR`     
 Ellenwood, GA | Mar 2008 - Jul 2009     
-1. Monitor, oversee, guide, and support proper work direction :
+1. Monitor, oversee, guide, and support proper work direction of :
     - Professional Freighthandlers,
     - Line Drivers,
     - City (PUD) Drivers,
     - Interline (3rd Party) Drivers, 
     - Dispatch - to - Dock Ops, 
     - Administrative Assista.  
-2. Support meeting of production metrics to establish a continuous improvement environment and engaged workforce with development of simple process; a daily check-list for 
-    - Professional Freighthandlers, 
-    - Peers in cross-functional collaboration with 
-        1. Atlanta & Central Dispatch out-of the Corporate Office with Atlanta Dock Operations. 
-    - Provide Guarantee of on-time customer service standard of 98.6% by working tirelessly to improve the controllables i.e.
-        1. On-time close schedule, meeting or exceeding the 93.5% rate of on-time closes ( direct controllable ), and   
-        2. On time departure 96.5% (indirect controllable). 
-3. Improve quality implementing an already well-established but not utilized dock mentor program and daily education during safety meetings,
-    - emphasizing a cross-functionall training of production associates and peers that encouraged (rather than the previous practice of discouraging) the changing of day and night shifts on the Friday and Saturday shift; 
+2. Support meeting of production metrics to establish a continuous improvement environment :
+    - Professional Freighthandlers,
+    - Peers in cross-functional collaboration :
+        1. Atlanta & Central Dispatch out-of Atlanta Corporate Office.
+    - Guarantee on-time customer service standard of > 98.6% : work tirelessly to improve all controllables & reduce the variables.
+        1. On-time close schedule : > 93.5% standard expectation ( direct controllable ).   
+        2. On time departure : > 93.5% (indirect controllable). 
+3. Improve quality by following standard work processes being written all-but realtime. 
+    - Emphasize cross-functionall training : 
         1. Immediate boost in employee morale as it was an ask they had all-but demanded for years, and 
-        2. Further fuel the increasingly difficult to achieve KPIs the team had begun looking forward to beating. 
-4. Verify nightly thru *report reconciliation* all due-service freight is :   
-    - Picked up and status properly,  
-    - Accounted for; i.e.      
+        2. Fuel the increasingly difficult to achieve KPIs : with a human-centered team approach.
+4. Report due-service reconciliation : continuous improvement and nightly responsibility. 
+    - Freight is both picked up & shows in proper status in AS400.
+    - Account for :      
         1. Proper loading status & technique in place `best practices`,  
-        2. Shipments status as loaded out (LOA), 
-            - Closed (CLO) Load - to - Ride (LTR) or 
-            - Over-the-road (OTR); 
-        3. Ensure AS400 (dos-based) became a daily task with a continuous reconciliation strategy, 
+        2. Ensure AS400 (dos-based) became a daily task with a continuous reconciliation strategy, 
             - With plan for departure and direct verification with the linehaul unit; which 
                1. further tear - down barriers in place cross-(dys)functionally among the various units that had 
                2. Begun to stagnate due to groupthink rather than 
@@ -436,15 +450,17 @@ Ellenwood, GA | Mar 2008 - Jul 2009
 6. Ensure zone has sufficient equipment to load on
     - Reconciling equipment on dock with 
         1. Graphical User Interface (GUI);
-    - prepare loading manifest for regions of responsibility in order to ensure standard work process optimization :
-        1. Checks &
+    - Prepare manifest all loads of responsiblity. 
+        1. Follow the Checks
             - AS400 reconciliation. 
         2. Balances 
             - Manual documentations / verification.
+                1. Pen or pencil.
+                2. Verifiedd by loader & Operations Supervisor
 7. Create fluid transition, 
-    - Encourage cross-functional collaborative workplace to create one unit rather than the industry accepted `inbound / outbound` service infrastructure. 
-    - Monitor incoming freight levels and all late arriving due service `2-day points : Toledo, Cincinnati, Indianapolis, Detroit, etc.` and  
-    - Audit national accounts incessantly to create a 100% service standard while gaining acute awareneness of companies single largest customers `shipper` i.e. :
+    - Encourage cross-functional collaboration : create a team dynamic; encouragin active participation from all parties. 
+    - Monitor freight levels : plan for incoming break tonnage and late arriving freight out of city.
+    - Audit national accounts : incessantly check for late arriving origin freight due service following morning. 
         - Lowe's Inc., 
         - Starbucks Coffee
         - Behr,
@@ -453,16 +469,16 @@ Ellenwood, GA | Mar 2008 - Jul 2009
         - Benjamin Moore,
         - Valspar Paints, 
         - Masterchem (Kilz) Paints.
-8. Establish daily crossover : 
-    - Walk-the-doors *standard work process* created among `supervisors / peers`, 
-9. Verify shipments in loading (LOA) status to guarantee freight is handled using best-in-class business practices : 
-    - Brace using best practices for guidance, 
-    - Pin-wheeled to ensure the foundation of the load was in tact and capable of full utilization of space (the service provided in LTL is space ), and   
-10. Verify zone is ready for cross-over by 
+8. Create seamless workflow thru a shared daily crossover : 
+    - Walk zone : discussing variables & outliers.
+9. Verify shipments : all ATL origina picked up and in either loading or over-the-road.
+    - Brace : use best practices for guidance, 
+    - Pin-wheel skids : ensure a solid foundation of load from start to finish.
+10. Verify zone is ready for cross-over :
     - Fill internal work stations  : 
-        1. Tools : in - place, 
-        2. Doors chocked & blocked.
-        3. Equipment count & status reconciation. 
+        1. Tools : in proper place.
+        2. All loading Doors : chocked. blocked. & manifest ready.
+        3. Equipment : count & status report reconciation. 
 
 ### Other Work Experience 
 
@@ -471,20 +487,22 @@ Ellenwood, GA | Mar 2008 - Jul 2009
 #### Ted's Montana Grill     
 `Trainer - Server`    
 Atlanta, GA  | Dec 2005 - May 2006    
-1. Implement suggestive sales technique by identifying customers preference.
-2. Offer tailored-to-individual insight on menu items, daily blue-plate specials, seasonal dessert offering, and signature bar drinks.
+1. Implement suggestive sales techniques; identifying customers preference thru human-centered conversational marketing design-thinking.
+2. Offer custom tailored insight to menu.
+3. Ask open-ended questions in a pleasant tone.
+4. Encourage patrons to request services the following week. 
 
 ---
 
 #### The Italian Oven     
 `Trainer-Manager`    
 Stockbridge, GA  | Dec 2003 - Jan 2005     
-1. Present menu in a simplistic, yet fastionable manner; 
-2. Identifyinsightful Italian pairings with a tasteful introduction for appetizer.
-2. Pair with spirits (if applicable) 
-4. Offer main course that complements wine / spirits, and preferences,
-5. Entice guests with succulent dessert, and,
-6. After dinner coffee or sparkling water.
+1. Present menu in a simple, yet elegant manner.
+2. Suggest insightful Italian offerings for starters.
+2. Pair with spirits (if applicable).
+4. Pair wine & spirits with complementary main course.
+5. Entice patrons with a seasonal dessert.
+6. End evening with after dinner drink / coffee offering.
 
 ---
 
@@ -504,7 +522,7 @@ Virtual | Oct 2017 – Jan 2018
 #### Pine Hills     
 `LANDSCAPE & GENERAL MAINTENANCE`     
 Stockbridge, GA  | Aug 2016 – Aug 2017     
-1. Take ownership of the residential development by demonstrating unquestionable work ethic while nurturing and nursing the land and serving as caregiver to the community. 
+1. Assume ownership of the residential development by demonstrating unquestionable work ethic while nurturing and nursing the land and serving as caregiver to the community. 
 2. Develop a partnership with residents by always offering to assist and delivering on early on requisition duties. 
 
 ---
