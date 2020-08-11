@@ -280,6 +280,11 @@ party to maintain client satisfaction rating of above 98.5%.
 
 ---
 
+![Saia, Inc 2012 Annual Report](https://camo.githubusercontent.com/6db179ef03460bc2806f78069c48b00179589de7/68747470733a2f2f7777772e617765736f6d6573637265656e73686f742e636f6d2f6170692f76312f64657374696e6174696f6e2f696d6167652f73686f773f496d6167654b65793d746d2d333935372d31373934332d3766343033326333303063643464366361346630623532653438313334653939)    
+[Link to : Saia, Inc : 2012 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/358zUazvTQNm3jaMkpABaj/8e03804738cbe0beccff5fef0a3824ab/Saia_2012_Annual_Report_and_Form_10-K_0.pdf)
+
+---
+
 #### Saia LTL Freight Inc   
 `TERMINAL OPERATIONS MANAGER`     
 Ellenwood, GA | Jul 2011 - Feb 2013    
@@ -331,7 +336,7 @@ Ellenwood, GA | Jul 2011 - Feb 2013
                 1. Feedback  
                 2. Questions of doubt &  
                 3. Resistance to change.  
-9. Slash long standing incentives & rewards program; replacing with a scale-ready, peer reviewed model; the iSaia program using a team-oriented approach driven by analytics driven by understandable measurables (KPI) : 
+9. [Slash long standing incentives & rewards program; replacing with a scale-ready, peer reviewed model; the iSaia program using a team-oriented approach driven by analytics driven by understandable measurables (KPI)](https://assets.ctfassets.net/kjv8gs2ccggb/358zUazvTQNm3jaMkpABaj/8e03804738cbe0beccff5fef0a3824ab/Saia_2012_Annual_Report_and_Form_10-K_0.pdf) : 
     - 177% increase to Earnings per Share 
         - EPS at $1.94 equating to a 
             1. 7% gain in revenues + 1.1 (billion) to shareholders’ equity.
