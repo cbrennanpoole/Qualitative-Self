@@ -178,6 +178,13 @@ Writing a Compelling Blog Post | Why are Opioids So Addictive (University South 
 
 ---
 
+##### [On the State of Georgia : America's Top Logistics Hub](https://www.inboundlogistics.com/cms/article/georgia-logistics-sweet-spot/ "Prime Logistics Location. Taking full advantage of its geographic location at the crossroads of north-south and east-west travel in North America, Georgia provides shippers easy access to a wealth of major interstates, rail networks, airports, and sea ports. Abundant warehousing space rounds out the offerings, which add up to a convenient and efficient logistics sector.")
+
+![Logistics in Georgia : `Competitive Advantage`](https://resources.inboundlogistics.com/userfiles/georgia_map_inline_0314.jpg)   
+Link to Article and Source Credit : `Inbound Logistics`](https://www.inboundlogistics.com/cms/article/georgia-logistics-sweet-spot/)
+
+---
+
 ### Realtime Real-Life Hands-on Work History
    
 ---   
@@ -211,7 +218,7 @@ Morrow, GA | Aug 2020 - Present
 
 ---
 
-> Kiichiro Toyoda & The Toyota Way : This provides for the second opportunity in career to institute with a guarantee of success (if all parties buy-in to model).
+> Kiichiro Toyoda & The Toyota Way : Second opportunity in career to institute total process overhaul with guarantee of success.
 
 ---
 
