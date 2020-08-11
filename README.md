@@ -365,7 +365,7 @@ rollout](https://www.youtube.com/watch?v=l3d6sJZ-mQ0 "most effective program ser
          
 ---    
 
-![Saia, Inc : 2011 Annual Report](https://camo.githubusercontent.com/52502ba74a3e9473e40044190b69664f0ee2adf9/68747470733a2f2f7777772e617765736f6d6573637265656e73686f742e636f6d2f6170692f76312f64657374696e6174696f6e2f696d6167652f73686f773f496d6167654b65793d746d2d333935372d31373934322d6262626264636133306361363732663038383366626266343634656334643935)<br>
+![Saia, Inc : 2011 Annual Report](https://user-images.githubusercontent.com/50818414/89959039-768d2780-dc09-11ea-96ae-fca8892073b5.jpg)<br>
 [Link to Saia, Inc 2011 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/4M6d73qEcviGKIF2eMu4ro/130e6f2563346680b8b035864922e1f9/Saia_2012_Annual_Report.pdf "Quantifiable Analytics : Straight from the Source")
 
 ---
