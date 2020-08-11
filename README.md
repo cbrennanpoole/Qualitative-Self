@@ -224,6 +224,7 @@ Morrow, GA | Aug 2020 - Present
 #### with Wind LLC    
 `CREATIVE STRATEGIST and PRINCIPAL CHIEF of OPERATIONS`    
 Covington, GA | Nov 2018 - Present    
+
 1. Sustainable Impact Award Recognition by Climate Collaborative 
     - Recognition in Sustainability was set for Anaheim, CA on Climate day (COVID-19 N. American quarantine caused cancellation).
 2. Invite to [GovCity III](https://govcity.com) cohort for [SXSW 2020](https://sxsw.com "South by Southwest is an annual conglomeration of parallel film, interactive media, and music festivals and conferences organized jointly that take place in mid-March in Austin, Texas, United States.") and 2nd invite to startup festival :
@@ -274,6 +275,7 @@ Covington, GA | Nov 2018 - Present
 #### Annex Freight Systems Inc 
 `DISPATCH SUPERVISOR`      
 Newnan, GA  | Mar 2013 - Oct 2013    
+
 1. Stream-line processes within the supply chain and within the internal, inter-departmental operations and customer service team
 2. Provide Total Customer Satisfaction by providing a more enjoyable service experience with team members, drivers, delivery partners, warehouse associates, third-party vendors, & most importantly, the customer.
 3. Provide pipeline management and logistics analysis for rail, truckload, and less than load (LTL) customers eliminating no less than $60,000 in shipping expense for customers
@@ -298,6 +300,7 @@ party to maintain client satisfaction rating of above 98.5%.
 #### Saia LTL Freight Inc   
 `TERMINAL OPERATIONS MANAGER`     
 Ellenwood, GA | Jul 2011 - Feb 2013    
+
 1. Design, Develop, and implement daily ops plan to ensure 98.6% on-time service standard. 
     - Consisting of approximately 650,000 to 1.5 million pounds of overnight due-service origin freight, and 
     - Approximately 4 to 6 million pounds in-bound break tonnage due-in nightl
@@ -378,6 +381,7 @@ rollout](https://www.youtube.com/watch?v=l3d6sJZ-mQ0 "most effective program ser
 #### Saia LTL Freight Inc    
 `Regional Linehaul Supervisor`    
 Johns Creek, GA | Jul 2009 - Jul 2011    
+
 1. Regional travel providing Atlanta region Dock Ops Teams :   
     - Training,  
     - Mentoring,  
@@ -448,6 +452,7 @@ Johns Creek, GA | Jul 2009 - Jul 2011
 #### Saia LTL Freight Inc
 `OPERATIONS SUPERVISOR`     
 Ellenwood, GA | Mar 2008 - Jul 2009     
+
 1. Monitor, oversee, guide, and support proper work direction of :
     - Professional Freighthandlers,
     - Line Drivers,
@@ -517,6 +522,7 @@ Ellenwood, GA | Mar 2008 - Jul 2009
 #### Ted's Montana Grill     
 `Trainer - Server`    
 Atlanta, GA  | Dec 2005 - May 2006    
+
 1. Implement suggestive sales techniques; identifying customers preference thru human-centered conversational marketing design-thinking.
 2. Offer custom tailored insight to menu.
 3. Ask open-ended questions in a pleasant tone.
@@ -527,6 +533,7 @@ Atlanta, GA  | Dec 2005 - May 2006
 #### The Italian Oven     
 `Trainer-Manager`    
 Stockbridge, GA  | Dec 2003 - Jan 2005     
+
 1. Present menu in a simple, yet elegant manner.
 2. Suggest insightful Italian offerings for starters.
 2. Pair with spirits (if applicable).
@@ -539,6 +546,7 @@ Stockbridge, GA  | Dec 2003 - Jan 2005
 #### Amazon Inc
 `LOGISTICS COORDINATOR`    
 Virtual | Oct 2017 – Jan 2018     
+
 1. Virtual work environment encouraging active participation using various mediums to foster the team dynamic and engaging cross-functional teams in facilitating the construction of innovative problem resolution strategies.
 2. Serve as advocate for customer;
 3. Field inbound calls from Amazon Flex Delivery Partners; 
@@ -547,17 +555,9 @@ Virtual | Oct 2017 – Jan 2018
 6. Guide, and encourage 100% successful delivery of Amazon goods and services.
 7. Forge concrete customer and team partnerships owning he Customer-Centric process.
 
----
-
-#### Pine Hills     
-`LANDSCAPE & GENERAL MAINTENANCE`     
-Stockbridge, GA  | Aug 2016 – Aug 2017     
-1. Assume ownership of the residential development by demonstrating unquestionable work ethic while nurturing and nursing the land and serving as caregiver to the community. 
-2. Develop a partnership with residents by always offering to assist and delivering on early on requisition duties. 
 
 ---
     
-
 ### Shared Awards : 
 `Teamwork` makes the `Dreamwork`    
 
@@ -587,7 +587,9 @@ Stockbridge, GA  | Aug 2016 – Aug 2017
 
 ---
 
-`FREIGHT DIMENSIONER TECHNOLOGY INSTITUTION & TOTAL (DISRUPTIVE as MOST EFFECTIVE & IMMEDIATELY IMPACTFUL OF THE 3 PROGRAMS )  PROCESS OVERHAUL TO STANDARD WORK PROCESSES, EFFICIENCIES, AND BOTTOM-LINE IMPACT TO THE BLACK ALMOST WITH THE FLIP OF THE SWITCH.`<br>
+`Institute Total Process Overhaul` with `W&R Freight Dimensioner Technology Implementation` & continuance of `Quality Matters` + `iSaia peer-based recognition` programs.
+
+---
 
 1. Carrier of the Year 
 `—Ames True Temper`
@@ -607,6 +609,8 @@ Stockbridge, GA  | Aug 2016 – Aug 2017
 ---
 
 `Quality Matters campaign roll-out` `First Full Year as Terminal Operations Manager with Saia AtlDockOps Team`<br>
+
+---
 
 1. Super Regional LTL Carrier of the Year 
 `—Access America Transport`
@@ -628,7 +632,10 @@ Stockbridge, GA  | Aug 2016 – Aug 2017
 ---
 
 #### [2010](https://www.saia.com/about-us/awards) TEAM AWARDS
-`Unsolicited Promotion by fmr VP of Linehaul Current VP at Schneider Rob Bulick.`<br>
+
+---
+
+`Unsolicited Promotion by the former VP of Linehaul` & `Current VP at Schneider` `Robert Bulick`.
 
 ---
 
@@ -677,7 +684,7 @@ Supply Chain | Telephone Skills | Total Quality Management | Bottom-up Strategy 
 
 ---
 
-`on the highway to anywhere`: `Coca - Cola` `ATS objective assessment`
+`on the highway to anywhere`: `Coca - Cola` `Application Tracking Systems` `objective assessment`
 
 --- 
 
