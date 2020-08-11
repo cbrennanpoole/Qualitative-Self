@@ -287,7 +287,7 @@ party to maintain client satisfaction rating of above 98.5%.
 
 ---
 
-![Saia, Inc : 2013 Annual Report](https://camo.githubusercontent.com/36d285742c1019e6462268bf75143e00bbfc71e2/68747470733a2f2f7777772e617765736f6d6573637265656e73686f742e636f6d2f6170692f76312f64657374696e6174696f6e2f696d6167652f73686f773f496d6167654b65793d746d2d333935372d31373934352d3265643964356362616331393762616636313066613464333161353066653161 "Let's Git Quantifiable")    
+![Saia, Inc : 2013 Annual Report](https://user-images.githubusercontent.com/50818414/89960345-c9b4a980-dc0c-11ea-8086-635d76abb144.jpg "Let's Git Quantifiable")    
 [Link to : Saia, Inc 2013 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf)    
 
 ---
