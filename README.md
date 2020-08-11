@@ -370,6 +370,11 @@ rollout](https://www.youtube.com/watch?v=l3d6sJZ-mQ0 "most effective program ser
 
 ---
 
+![Saia, Inc : 2010 Annual Report](https://user-images.githubusercontent.com/50818414/89956466-3cb92280-dc03-11ea-9c21-fea34a8d3913.jpg "Full-year service in the single most impactful department in less-than-load industry; linehaul.")    
+[Link to : Saia, Inc 2010 Annual Report](https://www.annualreports.com/HostedData/AnnualReportArchive/s/NASDAQ_SAIA_2010.pdf "Quantifiable Analytics that make dad gum sense.")
+
+---
+
 #### Saia LTL Freight Inc    
 `Regional Linehaul Supervisor`    
 Johns Creek, GA | Jul 2009 - Jul 2011    
