@@ -2,6 +2,10 @@
 
 ---
 
+`to provide Total Customer Satisfaction thru Total Quality Management, People Empowerment, & Continuous Improvement.`
+
+---
+
 ## On [C Brennan Poole](https://crunchbase.com/person/c-brennan-poole "The growth - hack attack v.2.2 : aiming at the backend as it's where I belong. First, an algorithmic riddle : dropped the '-asey'. i.e. no more 'chasing'; do you want to go 'NASCAR racing'? It's 'verily verily' simple : Think Jot and Tittle")  
 
 ---
@@ -14,7 +18,7 @@
 
 ---
 
-`Traditional Versions` 
+`Traditional Purview` 
 
 ---
 
@@ -29,12 +33,6 @@ Dark Theme Résumé | ATS Résumé
 
 ### [The Quantified-Self](https://bit.ly/The-Quantified-Self-twenty-20 "I thought I was onto something with this creation, as it turns out - the world wide web is truly a world wide abyss - unless you have ad-spend or take to plagiarizing to please the ATS, which I refuse to do anymore; this is my answer to the copycat tactics, however successful it is, it is TBD and a realtime journey; enjoy.") : 
 
-
-```
-
-to provide Total Customer Satisfaction thru Total Quality Management, People Empowerment, & Continuous Improvement.
-
-```
 
 ---
 
@@ -181,7 +179,7 @@ Writing a Compelling Blog Post | Why are Opioids So Addictive (University South 
 ##### [On the State of Georgia : America's Top Logistics Hub](https://www.inboundlogistics.com/cms/article/georgia-logistics-sweet-spot/ "Prime Logistics Location. Taking full advantage of its geographic location at the crossroads of north-south and east-west travel in North America, Georgia provides shippers easy access to a wealth of major interstates, rail networks, airports, and sea ports. Abundant warehousing space rounds out the offerings, which add up to a convenient and efficient logistics sector.")
 
 ![Logistics in Georgia : `Competitive Advantage`](https://resources.inboundlogistics.com/userfiles/georgia_map_inline_0314.jpg)   
-Link to Article and Source Credit : `Inbound Logistics`](https://www.inboundlogistics.com/cms/article/georgia-logistics-sweet-spot/)
+[Link to Article and Source Credit : `Inbound Logistics`](https://www.inboundlogistics.com/cms/article/georgia-logistics-sweet-spot/)
 
 ---
 
