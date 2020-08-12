@@ -176,7 +176,7 @@ Writing a Compelling Blog Post | Why are Opioids So Addictive (University South 
 
 ---  
 
-#### Summary
+### Executive Summary
 
 ---
 
@@ -188,10 +188,18 @@ Writing a Compelling Blog Post | Why are Opioids So Addictive (University South 
 
 ---
 
-##### [On the State of Georgia : America's Top Logistics Hub](https://user-images.githubusercontent.com/50818414/89961460-bbb45800-dc0f-11ea-8df9-2ef272c8f56e.jpg "Prime Logistics Location. Taking full advantage of its geographic location at the crossroads of north-south and east-west travel in North America, Georgia provides shippers easy access to a wealth of major interstates, rail networks, airports, and sea ports. Abundant warehousing space rounds out the offerings, which add up to a convenient and efficient logistics sector.")
 
-![Logistics in Georgia : `Competitive Advantage`](https://resources.inboundlogistics.com/userfiles/georgia_map_inline_0314.jpg)   
-[Link to Article and Source Credit : `Inbound Logistics`](https://www.inboundlogistics.com/cms/article/georgia-logistics-sweet-spot/)
+##### Kiichiro Toyoda 
+
+---
+
+`The Toyota Way`
+
+---
+
+> *Toyota views employees not just as pairs of hands but as knowledge workers who accumulate chie—the wisdom of experience—on the company’s front lines.*
+
+- [Hirotaka Takeuchi](https://hbr.org/search?term=hirotaka%20takeuchi) , [Emi Osono](https://hbr.org/search?term=emi%20osono), & [Norihiko Shimizu](https://hbr.org/search?term=norihiko%20shimizu); [*The Contradictions That Drive Toyota’s Success*](https://hbr.org/2008/06/the-contradictions-that-drive-toyotas-success). [**Harvard Business Review**](https://hbr.org/) : June 2008.
 
 ---
 
@@ -226,10 +234,6 @@ Morrow, GA | Aug 2020 - Present
         2. Trust. 
         3. People empowerment. 
         4. Continuous Improvement. 
-
----
-
-> Kiichiro Toyoda & The Toyota Way : Second opportunity in career to institute total process overhaul with guarantee of success.
 
 ---
 
@@ -272,6 +276,13 @@ Covington, GA | Nov 2018 - Present
 13. [Segment for Startups](https://segment.com/industry/startups/ "up to 1 million and I've found sustainable : seek geeks and whispering direct injects via Git.actionable y'all") participant.
 14. [Amazon (AWS) partner path](https://aws.amazon.com/partners/training/ "is there anybody out there? Just hit me at git.actionable@chasingthewindllc.com")
 15. [Microsoft partner](https://partner.microsoft.com/en-US/membership/competencies "it takes two; that's you! Yes You! +1 678-338-7339 Yes equity" ) Path.
+
+---
+
+##### [On the State of Georgia : America's Top Logistics Hub](https://user-images.githubusercontent.com/50818414/89961460-bbb45800-dc0f-11ea-8df9-2ef272c8f56e.jpg "Prime Logistics Location. Taking full advantage of its geographic location at the crossroads of north-south and east-west travel in North America, Georgia provides shippers easy access to a wealth of major interstates, rail networks, airports, and sea ports. Abundant warehousing space rounds out the offerings, which add up to a convenient and efficient logistics sector.")
+
+![Logistics in Georgia : `Competitive Advantage`](https://resources.inboundlogistics.com/userfiles/georgia_map_inline_0314.jpg)   
+[Link to Article and Source Credit : `Inbound Logistics`](https://www.inboundlogistics.com/cms/article/georgia-logistics-sweet-spot/)
 
 ---
 
