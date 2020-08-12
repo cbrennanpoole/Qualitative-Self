@@ -33,9 +33,9 @@ Dark Theme Résumé | ATS Résumé
 
 ### [The Quantified-Self](https://bit.ly/The-Quantified-Self-twenty-20 "I thought I was onto something with this creation, as it turns out - the world wide web is truly a world wide abyss - unless you have ad-spend or take to plagiarizing to please the ATS, which I refuse to do anymore; this is my answer to the copycat tactics, however successful it is, it is TBD and a realtime journey; enjoy.") : 
 
-
 ---
 
+![Preview of Heatmap on the Google Drive](https://user-images.githubusercontent.com/50818414/89962792-cbce3680-dc13-11ea-919d-40a6fc8b010e.jpg "inspiration from support.google on Heatmaps")     
 [Interactive CV on Google Sheets](https://bit.ly/The-Quantified-Self-twenty-20 "I thought I was onto something with this creation, as it turns out - the world wide web is truly a world wide abyss - unless you have ad-spend or take to plagiarizing to please the ATS, which I refuse to do anymore; this is my answer to the copycat tactics, however successful it is, it is TBD and a realtime journey; enjoy.")<br>
 
 ---
