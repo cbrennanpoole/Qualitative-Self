@@ -522,6 +522,14 @@ Ellenwood, GA | Mar 2008 - Jul 2009
         2. All loading Doors : chocked. blocked. & manifest ready.
         3. Equipment : count & status report reconciation. 
 
+##### Saia, Inc Operating Ratio for Time-of-tenure (emphasis again on team dynamics)
+
+---
+
+![Saia, Inc. : Operating Ratio (2008-2013)](https://user-images.githubusercontent.com/50818414/89961638-5319ab00-dc10-11ea-95a2-63175100b6d2.png "Quantifiable Quandary of sorts 😉")
+
+---
+
 ### Other Work Experience 
 
 ---
