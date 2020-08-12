@@ -50,22 +50,22 @@ Dark Theme Résumé | ATS Résumé
 
 No # | Position | Employer | Physical Address | Start - End Date | (Promotion Y/N)    
 :---|:---|:---:|---:|:---|---:    
-1 | Strategist | Let's Keep on Trucking | Morrow, GA | Aug 2020 - Present | `soon enough`
-2 | Creative Strategist & Principal Chief of Operations | the Wind, LLC | Covington, GA | Nov 2018 - Present | N
-3 | Logistics Coorginator | Amazon Logistics | Stockbridge, GA | Oct 2017 - Feb 2018 | N
+1 | [Creative Ops Strategist](https://github.com/OUDcollective/Qualitative-Self#lets-keep-on-trucking "Start Date : 17 Aug, 2020 1235 Commerce Dr Unit H") | Let's Keep on Trucking | Morrow, GA | Aug 2020 - Present | `soon enough`
+2 | [Creative Strategist & Principal Chief of Operations](https://github.com/OUDcollective/Qualitative-Self#with-wind-llc "since 15NOV18; found clarity 10MAY19") | with Wind, LLC | Covington, GA | Nov 2018 - Present | N
+3 | [Logistics Coordinator](https://github.com/OUDcollective/Qualitative-Self#amazon-inc "temporary position : course of life pivot") | Amazon Logistics | Stockbridge, GA | Oct 2017 - Feb 2018 | N
 4 | Maintenance & Landscape  | Pine Hills | Stockbridge, GA | Aug 2016 - Aug 2017 | Y  |
 5 | Self-employed (Freelance) | Sub-Contract Work | Stockbridge, GA | Feb 2014 - Jan 2017 | N
-6 | Dispatch Supervisor | Annex Freight Systems | Newnan, GA | March 2013 - Nov 2013 | N
-7 | Operations Manager | Saia LTL Freight Inc | Ellenwood, GA | July 2011 - Feb 2013 | N
-8 | Dispatch Supervisor | Saia LTL Freight Inc | Johns Creek, GA | July 2009 - July 2011 | Y
-9 | Operations Supervisor | Saia LTL Freight Inc | Ellenwood, GA | March 2008 - July 2009 | Y
+6 | [Dispatch Supervisor](https://github.com/OUDcollective/Qualitative-Self#annex-freight-systems-inc "Contract position") | Annex Freight Systems | Newnan, GA | March 2013 - Nov 2013 | N
+7 | [Terminal Operations Manager](https://github.com/OUDcollective/Qualitative-Self#saia-ltl-freight-inc "return to work prematurely causing 7 year hiatus from industry") | Saia, Inc | Ellenwood, GA | July 2011 - Feb 2013 | N
+8 | [Dispatch Supervisor](https://github.com/OUDcollective/Qualitative-Self#saia-ltl-freight-inc-1) | Saia, Inc | Johns Creek, GA | July 2009 - July 2011 | Y
+9 | [Operations Supervisor](https://github.com/OUDcollective/Qualitative-Self#saia-ltl-freight-inc-2) | Saia, Inc | Ellenwood, GA | March 2008 - July 2009 | Y
 10 | Operations / Office Manager | South County Masonry Inc | Venice, FL | May 2006 - Aug 2007 | NA
-11 | Team Lead | Ted's Montana Grill | Midtown Atlanta, GA | Nov 2005 - May 2006 | Y
-12| Trainer / FOH Manager | Italian Oven | Stockbridge, GA | Dec 2003 - Jan 2005 | Y
+11 | [Team Lead](https://github.com/OUDcollective/Qualitative-Self#teds-montana-grill) | Ted's Montana Grill | Midtown Atlanta, GA | Nov 2005 - May 2006 | Y
+12| [Trainer / FOH Manager](https://github.com/OUDcollective/Qualitative-Self#the-italian-oven) | Italian Oven | Stockbridge, GA | Dec 2003 - Jan 2005 | Y
 13 | Customer Service Associate II | Lowe's Inc | Stockbridge, GA - March 2003 | Nov 2003 | Y
 14 | Freight Handler | Roadway Express Inc | Atlanta, GA | Aug 2002-  Feb 2003 | Y
 15 | Umpire | RYBA (Youth Baseball Assoc. Rockdale County) | Conyers, GA | May 2000 - May 2001 | NA
-16 | Secratarial Assistant | Richard H. Ramsey IV, Esquire | Dothan, AL | Nov 2000 - May 2000 | NA
+16 | Secretarial Assistant | Richard H. Ramsey IV, Esquire | Dothan, AL | Nov 2000 - May 2000 | NA
 17 | Back of House | City Slickers, LLC | Conyers, GA | January 1999 - May 2001 | NA
 18 | Innocence of Youth | American Dreamer | Historic Heartland of Georgia, US & Greater Metro Atlanta area | May 1983 - TBD | 😉
 
@@ -298,8 +298,16 @@ party to maintain client satisfaction rating of above 98.5%.
 
 ---
 
+##### [Saia, Inc : 2013 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf)
+
+---
+
 ![Saia, Inc : 2013 Annual Report](https://user-images.githubusercontent.com/50818414/89960345-c9b4a980-dc0c-11ea-8086-635d76abb144.jpg "Let's Git Quantifiable")    
 [Link to : Saia, Inc 2013 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf)    
+
+---
+
+##### [Saia, Inc : 2012 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/358zUazvTQNm3jaMkpABaj/8e03804738cbe0beccff5fef0a3824ab/Saia_2012_Annual_Report_and_Form_10-K_0.pdf)
 
 ---
 
@@ -382,10 +390,19 @@ rollout](https://www.youtube.com/watch?v=l3d6sJZ-mQ0 "most effective program ser
          
 ---    
 
+##### [Saia, Inc : 2011 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/4M6d73qEcviGKIF2eMu4ro/130e6f2563346680b8b035864922e1f9/Saia_2012_Annual_Report.pdf "Quantifiable Analytics : Straight from the Source")
+
+---
+
 ![Saia, Inc : 2011 Annual Report](https://user-images.githubusercontent.com/50818414/89959039-768d2780-dc09-11ea-96ae-fca8892073b5.jpg)<br>
 [Link to Saia, Inc 2011 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/4M6d73qEcviGKIF2eMu4ro/130e6f2563346680b8b035864922e1f9/Saia_2012_Annual_Report.pdf "Quantifiable Analytics : Straight from the Source")
 
 ---
+
+##### [Saia, Inc : 2010 Annual Report](https://www.annualreports.com/HostedData/AnnualReportArchive/s/NASDAQ_SAIA_2010.pdf "Quantifiable Analytics that make dad gum sense.")
+
+---
+
 
 ![Saia, Inc : 2010 Annual Report](https://user-images.githubusercontent.com/50818414/89956466-3cb92280-dc03-11ea-9c21-fea34a8d3913.jpg "Full-year service in the single most impactful department in less-than-load industry; linehaul.")    
 [Link to : Saia, Inc 2010 Annual Report](https://www.annualreports.com/HostedData/AnnualReportArchive/s/NASDAQ_SAIA_2010.pdf "Quantifiable Analytics that make dad gum sense.")
@@ -449,8 +466,16 @@ Johns Creek, GA | Jul 2009 - Jul 2011
 
 ---
 
+##### [Saia, Inc : 2009 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/3IEwyWksjECWYpTIQV1hpz/81790563baaf3d59e58c1f4b12c4f473/Saia_2009_Annual_Report___10-K.pdf)
+
+---
+
 ![Saia, Inc : 2009 Annual Report](https://user-images.githubusercontent.com/50818414/89959982-a3423e80-dc0b-11ea-88bf-8f2a3ffa49cf.jpg "Let's Git Actionable!")    
 [Link to : Saia, Inc : 2009 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/3IEwyWksjECWYpTIQV1hpz/81790563baaf3d59e58c1f4b12c4f473/Saia_2009_Annual_Report___10-K.pdf)
+
+---
+
+##### [Saia, Inc : 2008 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/5eLp57gLd4MTg6DQxj72Rb/a606477bdc8b4b38851a6ab130d4658f/Saia_2008_Annual_Report.pdf)
 
 ---
 
@@ -524,12 +549,15 @@ Ellenwood, GA | Mar 2008 - Jul 2009
         1. Tools : in proper place.
         2. All loading Doors : chocked. blocked. & manifest ready.
         3. Equipment : count & status report reconciation. 
+        
+---
 
 ##### Saia, Inc Operating Ratio for Time-of-tenure (emphasis again on team dynamics)
 
 ---
 
-![Saia, Inc. : Operating Ratio (2008-2013)](https://user-images.githubusercontent.com/50818414/89961638-5319ab00-dc10-11ea-95a2-63175100b6d2.png "Quantifiable Quandary of sorts 😉")
+![Saia, Inc. : Operating Ratio (2008-2013)](https://user-images.githubusercontent.com/50818414/89961638-5319ab00-dc10-11ea-95a2-63175100b6d2.png "Quantifiable Quandary of sorts 😉")    
+Taken from [Saia, Inc 2013 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf)
 
 ---
 
