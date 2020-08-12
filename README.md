@@ -623,7 +623,7 @@ Virtual | Oct 2017 – Jan 2018
 
 ---
 
-`Quality Matters campaign roll-out` `First Full Year as Terminal Operations Manager with Saia AtlDockOps Team`<br>
+`Quality Matters campaign roll-out` `First Full Year as Terminal Operations Manager` with `Atlanta` `Dock Ops Team`
 
 ---
 
@@ -650,7 +650,7 @@ Virtual | Oct 2017 – Jan 2018
 
 ---
 
-`Unsolicited Promotion by the former VP of Linehaul` & `Current VP & General Mgr.` `Schneider National` [`Robert Bulick`](https://www.linkedin.com/in/rob-bulick-34502213).
+`Unsolicited Promotion by the former VP of Linehaul` & `Current VP & General Manager` at `Schneider` [`Robert Bulick`](https://www.linkedin.com/in/rob-bulick-34502213)
 
 ---
 
