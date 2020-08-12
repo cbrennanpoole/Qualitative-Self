@@ -99,6 +99,11 @@ No 1 : `it's the real thing`<br>
 
 ---
 
+![US News & World Report Rankings for Robinson College of Business Courtesy robinson.gsu.edu](https://user-images.githubusercontent.com/50818414/89962968-45febb00-dc14-11ea-904e-03acb0b54471.png "BBA ranking at 50 '31st among public institutions`")    
+[Source of Article :](https://robinson.gsu.edu/2019/09/three-robinson-undergraduate-programs-among-nations-best-in-latest-u-s-news-rankings/)
+
+---
+
 `Faculty Scholar 2004` | `Dean's List 2005` | `Class of 2006`
 1. **COLLEGE** :
     - The J Mack Robinson College of Business. 
