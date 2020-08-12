@@ -176,7 +176,7 @@ Writing a Compelling Blog Post | Why are Opioids So Addictive (University South 
 
 ---
 
-##### [On the State of Georgia : America's Top Logistics Hub](https://www.inboundlogistics.com/cms/article/georgia-logistics-sweet-spot/ "Prime Logistics Location. Taking full advantage of its geographic location at the crossroads of north-south and east-west travel in North America, Georgia provides shippers easy access to a wealth of major interstates, rail networks, airports, and sea ports. Abundant warehousing space rounds out the offerings, which add up to a convenient and efficient logistics sector.")
+##### [On the State of Georgia : America's Top Logistics Hub](https://user-images.githubusercontent.com/50818414/89961460-bbb45800-dc0f-11ea-8df9-2ef272c8f56e.jpg "Prime Logistics Location. Taking full advantage of its geographic location at the crossroads of north-south and east-west travel in North America, Georgia provides shippers easy access to a wealth of major interstates, rail networks, airports, and sea ports. Abundant warehousing space rounds out the offerings, which add up to a convenient and efficient logistics sector.")
 
 ![Logistics in Georgia : `Competitive Advantage`](https://resources.inboundlogistics.com/userfiles/georgia_map_inline_0314.jpg)   
 [Link to Article and Source Credit : `Inbound Logistics`](https://www.inboundlogistics.com/cms/article/georgia-logistics-sweet-spot/)
