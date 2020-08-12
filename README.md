@@ -387,7 +387,7 @@ Johns Creek, GA | Jul 2009 - Jul 2011
 1. Regional travel providing Atlanta region Dock Ops Teams :   
     - Training,  
     - Mentoring,  
-    - Organizational dynamics at discretion of Vice President of Line Haul.  
+    - Organizational dynamics at discretion of [Vice President of Line Haul](http://www.saiasecure.com/PressReleases/view.asp?id=270 "at the time Mr Bulick was Director of Linehaul").  
 2. Call center setting : 
     - 600-minute shifts and 480-minute phone time expectation,  
         1. Average > 530 minutes.  
