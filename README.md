@@ -10,7 +10,7 @@
 
 ---
 
-![C BRENNAN POOLE and the Qualitative-Self](https://user-images.githubusercontent.com/50818414/89713927-08c2d080-d969-11ea-8601-e4196047e4c1.jpg "the gauses are made using Google Sheets and taken from the assessments used by indeed.com; as far as the ugly mug in the top right corner - those are my two nephews Hayden and Wyatt - and they are handsome thank you very much")
+![C BRENNAN POOLE and the Qualitative-Self](https://user-images.githubusercontent.com/50818414/89961291-39c42f00-dc0f-11ea-9347-1c16c7da87bc.jpg "the gauses are made using Google Sheets and taken from the assessments used by indeed.com; as far as the ugly mug in the top right corner - those are my two nephews Hayden and Wyatt - and they are handsome thank you very much")
 
 ---
 
