@@ -198,6 +198,7 @@ Writing a Compelling Blog Post | Why are Opioids So Addictive (University South 
 #### Let's Keep on Trucking     
 `Operations Strategist` `Management Consultancy` `with Wind LLC`     
 Morrow, GA | Aug 2020 - Present
+
 1. Institute total process overhaul to create improved organizational dynamics. 
     - For us to `Let's Keep on Trucking` we must get back-to-basics.
 2. Clearly define company objectives : 
@@ -220,7 +221,6 @@ Morrow, GA | Aug 2020 - Present
 
 ---
 
-
 #### with Wind LLC    
 `CREATIVE STRATEGIST and PRINCIPAL CHIEF of OPERATIONS`    
 Covington, GA | Nov 2018 - Present    
@@ -240,7 +240,6 @@ Covington, GA | Nov 2018 - Present
     - [Hatch Pitch](https://www.hatchpitch.com/ "maybe guilty of riding the SXSW 2020 Pitch invite and 'chasing this one; did take part in the actual event as an invite & voting participant").
     - [Gener8tor](https://www.gener8tor.com/ "There's reason why `the Wind` did not attempt to go after these; it's hard to articulate, have to hold out `Faith` it seems").
 6. `Invitations` & `short-list` offerings :  
-    
 7. Chief Executive of [dribbble](https://dribbble.com/C-Brennan-Poole/about "one look at the Wind posts will show we're clearly not really all that design - friendly ; at least we weren't as yet until"); Zack Onisko, drafts to platform; as non-designer and like-minded growth - hack.
 8. Achieve [Popular on Pinterest](https://www.pinterest.com/withWindllc "categorical associative algorithmic theory : proven success") status with  
     - 500,000 + views / month ( average 02/2020 - 06/2020 ); 
@@ -292,7 +291,7 @@ party to maintain client satisfaction rating of above 98.5%.
 
 ---
 
-![Saia, Inc 2012 Annual Report](https://camo.githubusercontent.com/6db179ef03460bc2806f78069c48b00179589de7/68747470733a2f2f7777772e617765736f6d6573637265656e73686f742e636f6d2f6170692f76312f64657374696e6174696f6e2f696d6167652f73686f773f496d6167654b65793d746d2d333935372d31373934332d3766343033326333303063643464366361346630623532653438313334653939)    
+![Saia, Inc 2012 Annual Report](https://user-images.githubusercontent.com/50818414/89960478-22844200-dc0d-11ea-8539-22409451e39b.jpg)        
 [Link to : Saia, Inc : 2012 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/358zUazvTQNm3jaMkpABaj/8e03804738cbe0beccff5fef0a3824ab/Saia_2012_Annual_Report_and_Form_10-K_0.pdf)
 
 ---
@@ -301,70 +300,73 @@ party to maintain client satisfaction rating of above 98.5%.
 `TERMINAL OPERATIONS MANAGER`     
 Ellenwood, GA | Jul 2011 - Feb 2013    
 
-1. Design, Develop, and implement daily ops plan to ensure 98.6% on-time service standard. 
-    - Consisting of approximately 650,000 to 1.5 million pounds of overnight due-service origin freight, and 
-    - Approximately 4 to 6 million pounds in-bound break tonnage due-in nightl
-    - Associate shift composition of 
-        1. 100-125 Professional Freight Handlers,
-        2. 85-110 Line Drivers,
-        3. 60-75 PUD Drivers,
-        4. 12 Operations Supervisors, 
-        5. 6 Dispatch Supervisors,
-        6. 10 Clerical Teammembers,
-2. Trend analysis in tonnage and seasonal workforce issues helping to 
+1. Design, Develop, and implement daily ops plan to ensure 98.6% on-time service standard; consisting of approximately 650,000 to 1.5 million pounds of overnight due-service origin freight, and approximately 4 to 6 million pounds in-bound break tonnage due-in nightly (Tue - Sunday am) :
+    - Shift composition consisting of :
+        1. ~ 100-125 Professional Freight Handlers,
+        2. ~ 85-110 Line Drivers,
+        3. ~ 60-75 PUD Drivers,
+        4. ~ 12 Operations Supervisors, 
+        5. ~ 6 Dispatch Supervisors,
+        6. ~ 10 Clerical Teammembers,
+2. Trend analysis of seasonal tonnage fluctations with historical manpower levels; helping to :
     - Identify patterns to develop new due service schedules for linehaul,
     - Eliminate existing schedules by building dynamic loads to satellite (end) service centers.
     - Increase hiring efforts earlier in calendar year (Jan and Feb) to improve quality thru more effective training as well as cover seasonal up-tick in tonnage and vacation requests.    
-3. Implement : 
+3. Implementation of : 
     - Lean, 
-    - Six-sigma 
-    - Best-in-class management principles,
-4. Institute :
-    - Just-in-time (J.I.T.) workflow models 
-    - Yard hostler changes in standard work process. 
-5. Design-thinking :
-    - Dock Ops stand to areas more conducive to employee than supervisor bottom-up ops strategy).
+    - Six-sigma,
+    - Best-in-class management principles.
+4. Collaborate to institute :
+    - Just-in-time (J.I.T.) workflow model. 
+    - Yard hostler and culture change in standard work process for said position. 
+5. Design-think :
+    - Atlanta Dock Ops stand : 
+        1. Affix stand (central dock) to an area more conducive to the freight handlers best interest (helping align their concern for optimal SE Times (algorithm-driven standard time allowable per trailer assignment) than that of managements original positioning (*example of bottom-up ops strategy*).
     - Support :
         1. Upper - management goals,
         2. Regional management expectations :
-            - Provide terminal perspective at management meetings.
-            - Encourage a unified mindset; helping to further achieve the goal of 
-                1. Always on A / B testing,
-                2. Real - time human resources establishing a body of 
-                    - Continuous integration and continuous improvement.
-6. Craft operations strategy aligning organizational vision with Atlanta Dock Ops daily game plan.
+6. Provide terminal perspective at management & quarterly meetings :
+    - Encourage a unified mindset; helping to further achieve the goal of 
+        1. Always on A / B testing,
+        2. Real - time human resources establishing a body of 
+            - Continuous Integration and 
+            - Continuous Improvement.
+7. Craft operations strategy aligning organizational vision with Atlanta Dock Ops daily game plan.
     - 1st day introduction issued a challenge to perform as one unit and team. 
-        1. Issue command to excellence, and
-        2. Demand pride be taken in the job. 
-        3. Assurance to return to an open door management policy. 
+        1. Issuance of a command to excellence.
+        2. Demand accountability thru job ownership. 
+        3. Assurance to return to always open door management policy. 
             - Address all inquires, 
-            - Commit to resolve pre-existing & future concerns. 
-7. Explore underlying issues affecting workforce thru : 
+            - Commit to resolving pre-existing plus future concerns. 
+8. Explore underlying issues affecting workforce : 
     - Active listening  :
-        1. Individual,  
-        2. Group information gathering sessions; 
-8. Analyze and identify outliers : 
-            - Continuous observation until identification of root cause(s) could be established; 
-            - Address all associate : 
-                1. Feedback  
-                2. Questions of doubt &  
-                3. Resistance to change.  
-9. [Slash long standing incentives & rewards program; replacing with a scale-ready, peer reviewed model; the iSaia program using a team-oriented approach driven by analytics driven by understandable measurables (KPI)](https://assets.ctfassets.net/kjv8gs2ccggb/358zUazvTQNm3jaMkpABaj/8e03804738cbe0beccff5fef0a3824ab/Saia_2012_Annual_Report_and_Form_10-K_0.pdf) : 
+        1. Individual &,  
+        2. Group 
+    - Information gathering sessions.
+9. Analyze and identify outliers to the algorithms : 
+    - Continuous observation until identification of root cause(s) could be established; 
+        1. Address all associate : 
+            - Feedback  
+            - Questions of doubt &  
+            - Resistance to change.  
+10. [Slash long standing incentives & rewards program; replacing with a scale-ready, peer reviewed model; the iSaia program using a team-oriented approach driven by analytics driven by understandable measurables (KPI)](https://assets.ctfassets.net/kjv8gs2ccggb/358zUazvTQNm3jaMkpABaj/8e03804738cbe0beccff5fef0a3824ab/Saia_2012_Annual_Report_and_Form_10-K_0.pdf) : 
     - 177% increase to Earnings per Share 
         - EPS at $1.94 equating to a 
             1. 7% gain in revenues + 1.1 (billion) to shareholders’ equity.
-10. Spearhead company’s inaugural [dock-to-driver campaign](https://www.youtube.com/watch?v=-mG5veBWS00&t=4s "YouTube video from Atlanta Dock") to establish an 8 +
+11. Spearhead company’s inaugural [dock-to-driver campaign](https://www.youtube.com/watch?v=-mG5veBWS00&t=4s "YouTube video from Atlanta Dock") to establish an 8 +
 year competitive advantage.
-11. Institute total process overhaul with the [Quality MattersTM campaign](https://www.youtube.com/watch?v=nPTt37YGdH4&list=PL7R4Ra-1Mrclih8qRlT9Z0ExjtdX_8vnm&index=2&t=3s "Atlanta dock is the flagship terminal and is an iterative environment as all programs roll-out thru that facility").
-12. Integrate a continuous improvement model using best-in-class best business practices featuring : 
+12. Institute total process overhaul with the [Quality MattersTM campaign](https://www.youtube.com/watch?v=nPTt37YGdH4&list=PL7R4Ra-1Mrclih8qRlT9Z0ExjtdX_8vnm&index=2&t=3s "Atlanta dock is the flagship terminal and is an iterative environment as all programs roll-out thru that facility").
+13. Integrate a continuous improvement model using best-in-class best business practices featuring : 
     - Concept of pinwheeling and 
     - Multi-stop strategic framework.
-    - Focus on quality,
-    - Adherence to safety SOP,
-    - Accountability thru documentation.
-13. Support IT, Sales, and the Weight & Research team with the [freight dimensioner technology national
+    - Focus on `Quality Matters` (above all else - short of safety) campaign,
+    - Adherence to safety standard operating procedures (SOP),
+        1. Return to daily pre-shift.
+        2. Alternating managers to cover daily pre-shift safety topic.
+        3. Creation of accountability thru documentation and the inevitable digital tracks that followed suit.
+14. Support IT, Sales, and the Weight & Research team with the [freight dimensioner technology : a national
 rollout](https://www.youtube.com/watch?v=l3d6sJZ-mQ0 "most effective program serving as calalyst to overhaul and driver of quality helping reduce operating ratio").
-14. Deliver Top 10 Fortune LTL ranking resulting from implementation and continued success from aforementioned programs.
+15. Deliver Top 10 Fortune LTL ranking resulting from implementation and continued success from aforementioned programs.
          
 ---    
 
