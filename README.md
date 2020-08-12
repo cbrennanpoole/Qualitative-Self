@@ -650,7 +650,7 @@ Virtual | Oct 2017 – Jan 2018
 
 ---
 
-`Unsolicited Promotion by the former VP of Linehaul` & `Current VP at Schneider` `Robert Bulick`.
+`Unsolicited Promotion by the former VP of Linehaul` & `Current VP at Schneider` [`Robert Bulick`](https://www.linkedin.com/in/rob-bulick-34502213).
 
 ---
 
