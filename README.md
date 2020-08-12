@@ -426,28 +426,29 @@ Johns Creek, GA | Jul 2009 - Jul 2011
 7. Articulate expectations use clear and concise language all can relate with.
 8. Develop efficient, near autonomous workflow processes.
 9. Improve Regional Mgmt perspective : 
-    - Define clear expections : results : 
+    - Define clear expections : 
         1. > 99.4% service standard.  
             - 2. The catalyst to almost instant recognition,  
         2. Recepient of internal & external service awards :    
-            - Best-in-class break ( medium terminals MPS, TN 2010), 
-            - Best-in-class relay ( OKC + TUL terminals 2010), 
-             - Most improved regional service standards (MPS & OKC regions 2010).   
+            - Best - in - Class Break ( among medium-sized terminals `MPS` 2010).
+            - Best - in - Class Relay ( `OKC` & `TUL` terminals 2010).
+            - Most Improved regional service standards (`MPS` Region 2010).   
 10. Nurture growth thru :    
-    - Terminal DockOps,  
-    - Sales Division,  
-        1. Specialized & Accelerated Shipping,  
-        2. Drivers,  
-        3. Interline carriers (3rd party), and  
-        4. Customer Success Team, and
-            - Regional Manageement, 
-            - C-Suite
-11. Implement : 
-    - Design predictive forecasting algorithm and logarithmic model as co-authored with Linehaul Planning Department. 
-12. Produce : 
-    - Environment conducive to excellence. 
+    - Mentoring Terminal Dock Ops Teams.    
+    - Active Listening to Linehaul Drivers Concerns / Feedback.
+    - Sales Division,     
+        1. Specialized & Accelerated Shipping.
+        2. Drivers.     
+        3. Interline carriers (3rd party).
+        4. Customer Success Team.
+            - Regional Manageement.
+            - C-Suite.
+11. Implement & design predictive forecasting algorithm : `logarithmic model` aiding Linehaul Planning division with real-time feedback. 
+12. Produce environment conducive to excellence :      
     - Create consistency. 
-        - Identify and benchmark using KPIs that easy for all to relate with; helping team understand big picture and importance of shared goals.
+    - Identify / benchmark using key performance indicators ( KPI ) that are understandable from all levels : 
+        1. Assist team in understand big picture. 
+        2. Importance of shared goals.
 
 ---
 
