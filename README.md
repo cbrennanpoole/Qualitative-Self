@@ -105,6 +105,10 @@ No 1 : `it's the real thing`<br>
 ---
 
 `Faculty Scholar 2004` | `Dean's List 2005` | `Class of 2006`
+:---|:---:|---:    
+
+---
+
 1. **COLLEGE** :
     - The J Mack Robinson College of Business. 
 2. **DEGREE** :
@@ -123,7 +127,10 @@ No 1 : `it's the real thing`<br>
             - To-do,
             - In Progress,
             - Complete.
-### 5. University Coursework : 
+
+---
+            
+### Undergraduate Coursework : 
 
 ---
     
@@ -152,7 +159,7 @@ POLS 1101 American Government | ASTR 1001 Intro to Astronomy | SPCH 1000 Human C
 
 ---
 
-`7 - 3` . `3 - 11`. `11 - 7`     
+`7 - 3` : `3 - 11`: `11 - 7`     
 
 ---
 
@@ -173,11 +180,11 @@ Writing a Compelling Blog Post | Why are Opioids So Addictive (University South 
 
 ---
 
-`it's 5 o'clock somewhere`
+`It's 5 O'clock Somewhere`
 
 ---
 
-> Operations strategist providing total Customer Satisfaction by fostering the people process, developing cross-functional workplaces, & collaborative environments; using creative problem solving techniques; holding transparent, fair motives. 
+> Operations strategist providing total Customer Satisfaction by fostering the people process, developing cross-functional workplaces, & establishing collaborative environments.
 
 ---
 
@@ -188,11 +195,11 @@ Writing a Compelling Blog Post | Why are Opioids So Addictive (University South 
 
 ---
 
-### Realtime Real-Life Hands-on Work History
+### Hands-on Work Experience
    
 ---   
    
-`coke float`
+`Coke Float`
 
 ---
 
@@ -204,17 +211,17 @@ Writing a Compelling Blog Post | Why are Opioids So Addictive (University South 
 `Operations Strategist` `Management Consultancy` `with Wind LLC`     
 Morrow, GA | Aug 2020 - Present
 
-1. Institute total process overhaul to create improved organizational dynamics. 
+1. **Institute** total process overhaul to create improved organizational dynamics. 
     - For us to `Let's Keep on Trucking` we must get back-to-basics.
-2. Clearly define company objectives : 
-    - Remain transparent.
-    - Hold no ulterior motives.
-3. Create always available managment model
-4. Institute an open door policy employees can count on. 
-4. Foster innovation; encouraging creative problem-solving ideas.
+2.  **Define** (clear & concise) company objectives : 
+    - **Remain** transparent.
+    - **Hold** no ulterior motives.
+3. **Create** always available managment model
+4. **Incorporate** open door policy employees can count on. 
+4. **Foster** innovation; encouraging creative problem-solving ideas.
     - Team-centered model.
-4. Establish Key Performance Indicators ( KPIs ). 
-    - Drive change thru 
+4. **Establish** Key Performance Indicators ( KPIs ). 
+    - **Affect** change thru 
         1. Shared accountability. 
         2. Trust. 
         3. People empowerment. 
@@ -393,22 +400,11 @@ Johns Creek, GA | Jul 2009 - Jul 2011
     - Training,  
     - Mentoring,  
     - Organizational dynamics at discretion of [Vice President of Line Haul](http://www.saiasecure.com/PressReleases/view.asp?id=270 "at the time Mr Bulick was Director of Linehaul").  
-2. Call center setting : 
-    - 600-minute shifts and 480-minute phone time expectation,  
-        1. Average > 530 minutes.  
-        2. Own 250-325 nightly calls of responsibility : 
-        3. Coming from all areas of nation.
-        4. Across region of responsibility. 
-            - Operations.
-            - Sales.
-            - Safety.
-            - Customers.
-            - C-Suite.
-3. Express appreciation for line and city drivers' as
+2. Express appreciation for line and city drivers' :
     - In-house feedback and Human Resources identified a schism with : 
         1. Driver-to-dispatch.
         2. drivers to ATL dock Ops.
-4. Foster a genuine working relationship with peers, subordinates, and executives : 
+3. Foster a genuine working relationship with peers, subordinates, and executives : 
     - Active listening,
     - People Empowerment, 
     - Continuous Improvement, 
@@ -417,25 +413,23 @@ Johns Creek, GA | Jul 2009 - Jul 2011
         1. Conflict resolution, 
         2. Call - offs, 
         3. Seniority standard work processes.
-5. Build rapport by establishing trust.
-6. Plan-to-cover :
+4. Build rapport by establishing trust.
+5. Plan-to-cover :
     - Drivers : 
         1. Attain buy-in by drivers to adhere to SOP. 
         2. Acceptance of long-standing rules while not waivering or playing favorites.
     - Honor time-off requests.
-7. Articulate expectations use clear and concise language all can relate with.
-8. Develop efficient, near autonomous workflow processes.
-9. Improve Regional Mgmt perspective : 
+6. Articulate expectations use clear and concise language all can relate with.
+7. Develop efficient, near autonomous workflow processes.
+8. Improve Regional Mgmt perspective : 
     - Define clear expections : 
         1. > 99.4% service standard.  
-            - 2. The catalyst to almost instant recognition,  
-        2. Recepient of internal & external service awards :    
-            - Best - in - Class Break ( among medium-sized terminals `MPS` 2010).
-            - Best - in - Class Relay ( `OKC` & `TUL` terminals 2010).
-            - Most Improved regional service standards (`MPS` Region 2010).   
-10. Nurture growth thru :    
+            - Serving as catalyst to almost instant recognition.
+9. Nurture growth thru :    
     - Mentoring Terminal Dock Ops Teams.    
-    - Active Listening to Linehaul Drivers Concerns / Feedback.
+    - Active Listening : 
+       - Linehaul driver concerns.
+       - Inclusion thru feedback.
     - Sales Division,     
         1. Specialized & Accelerated Shipping.
         2. Drivers.     
@@ -443,11 +437,14 @@ Johns Creek, GA | Jul 2009 - Jul 2011
         4. Customer Success Team.
             - Regional Manageement.
             - C-Suite.
-11. Implement & design predictive forecasting algorithm : `logarithmic model` aiding Linehaul Planning division with real-time feedback. 
-12. Produce environment conducive to excellence :      
-    - Create consistency. 
-    - Identify / benchmark using key performance indicators ( KPI ) that are understandable from all levels : 
-        1. Assist team in understand big picture. 
+10. Produce environment conducive to excellence :      
+    - Create consistency.
+        - Reduction of variables.
+        - Identification of outliers. 
+            - Performaance improvement plan. 
+            - Inform Linehaul planning of underlying (unaccounted for) issue (if any at all).
+    - Identify benchmarks using key performance indicators ( KPI ) that are understandable from all levels : 
+        1. Assist team in understanding `big picture`. 
         2. Importance of shared goals.
 
 ---
@@ -749,56 +746,55 @@ Supply Chain | Telephone Skills | Total Quality Management | Bottom-up Strategy 
 `Problem Solving`
 17. Accounting Experience.
     `Proficient in Excel`
-    - Able to apply the skill in managing database and 
+    - Able to apply the skill in `managing databases` 
         1. Ability to convert and 
         2. Analyze the data.
-18. SAP/Hyperion Experience is a strong plus
+18. `SAP` / `Hyperion` Experience a strong plus
 `collaborative / team player.`
     - Effective Communication Skills. 
-        1. Takes Ownership and 
+        1. Takes Ownership. 
         2. Acts with Integrity.
-- Ability to build endearing customer relationships.
+    - Ability to build endearing customer relationships.
 19. Proven leader
-`leads peers with professionalism`, `Cross channel knowledge including QSR Foodservice and CR preferred`
-    - Expertise in cross collaboration and project management due to nature of innovation mindset of the customer 
-20. Strong strategic thinking,
-`Relationship - building`
-    - Has professional Selling and 
-    - Negotiation best-practices Skills. 
-    - Working knowledge of C4V selling platform.
-21. Experience in developing successful Collaborative environments
+`leads peers with professionalism`, `Cross channel knowledge` including `QSR Foodservice` and `CR preferred`
+    - Expertise in `cross collaboration` and `project management` due to nature of `innovation mindset` of the `customer`. 
+20. Strong `strategic thinking`,
+`Relationship-building`
+    - Has `professional selling` and 
+    - `Negotiation` `best-practices` Skills. 
+    - Working knowledge of `C4V` selling platform.
+21. Experience in developing successful `collaborative environments` :
 `Business Plans and strong strategic thinking skills`
     - Price / package plans to 
-        1. Drive growth for retail customers and 
-        2. History of delivering plan objectives.
-22. Ability to Lead
+        1. `Drive growth` for retail customers and 
+        2. `History of delivering` plan objectives.
+22. Ability to `Lead`
 `cross-functional teams`
-23. Ability to thrive in a growth-oriented team environment 
-`Strategic thinking`
+23. Ability to `thrive` in a `growth-oriented team environment` :    
+`strategic thinking`
 24. Active listening 
 `authentic engagement`
-    - with associates and 
-    - team leads with 
-        1. Observations, 
+    - With associates and 
+    - Team leads with 
+        1. `Observations`, 
         2. Inspections, 
-        3. GEMBA walks, 
+        3. `GEMBA` walks, 
             - Corrective actions. 
-25. Filing of documentation required by we chemtrekheaded to various regulatory agencies 
+25. Filing of documentation required by various regulatory agencies 
 `OSHA,` `EPA`.
-    - Assist the development and filing of documentation for the Integrated Management System.  
-    - Assist with SES inspections, audits, and documentation as needed. 
-26. Generate daily/weekly/monthly reports and audit results, as assigned. 
+    - Assist the development and filing of documentation for the `Integrated Management System`.  
+    - Assist with `SES` `inspections`, `audits`, and documentation as needed. 
+26.` Generate daily/weekly/monthly reports` and audit results, as assigned. 
 27. Effectively utilize software: 
-28. Effectively utilize basic 
-`Technical math skills`
+28. `Technical math skills`
     - Basic grammar, and 
     - Technical writing skills. 
-29. Assist in development and presentation of SES-related training topics.`technical writer`
-30. Assist implementation of safety programs and/or procedures for new line installations.
-    - i.e. in electrix
+29. Assist in development and `presentation of SES-related training topics`
+    - `Technical writer`
+30. Assist in implementation of `safety programs` and/or procedures for new line installations.
 31. Work with Maintenance Department to track completion of safety work orders.  
 32. Work up to ~12~ make that 16 - 20 hours, overtime, and weekends to meet the business requirements.
-`cost objectives`
+`Cost Objectives`
     - Ensure all tasks are performed toward achieving the safety, quality, and service.
     - Demonstrate good attendance in accordance with plant attendance guidelines. • Self starter, ability to work with limited direction. 
 33. Ability to present topics to small and large groups of people. 
