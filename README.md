@@ -451,7 +451,7 @@ Johns Creek, GA | Jul 2009 - Jul 2011
 
 ---
 
-![Saia, Inc : 2008 Annual Report](https://camo.githubusercontent.com/538fced3e691e4eaaac37a9b9f1c60746bc579e3/68747470733a2f2f7777772e617765736f6d6573637265656e73686f742e636f6d2f6170692f76312f64657374696e6174696f6e2f696d6167652f73686f773f496d6167654b65793d746d2d333935372d31373934362d3966656265663238643163336437363461316134636535333663356437393033 "Let's Git Quantifiable")    
+![Saia, Inc : 2008 Annual Report](https://user-images.githubusercontent.com/50818414/89961598-2c5b7480-dc10-11ea-92fe-035797dfab6d.jpg "Let's Git Quantifiable")    
 [Link to : Saia, Inc 2008 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/5eLp57gLd4MTg6DQxj72Rb/a606477bdc8b4b38851a6ab130d4658f/Saia_2008_Annual_Report.pdf)
 
 ---
