@@ -919,7 +919,7 @@ Supply Chain | Telephone Skills | Total Quality Management | Bottom-up Strategy 
 [Rockin' Chair Panel](https://medium.com/rockinchairpanel) | [DEV](https://dev.to/cbrennanpoole) | [Hackernoon](https:/hackernoon.com/@chasing-the-wind)
 [Crunchbase Founder Top 5k Bio](https://www.crunchbase.com/person/c-brennan-poole) | [Crunchbase with Wind Top 50k Organization](https://www.crunchbase.com/organization/chasing-the-wind-llc) | [Coil Blog](https://coil.com/u/oudcollective)
 [GOOGLE SERP](https://www.google.com/search?q=c+brennan+poole+wind) | [BING SERP](https://www.bing.com/search?q=c+brennan+poole+chasing+the+wind) | [ORCID](https://orcid.org/0000-0001-6537-7683)     
-[dribbbler](https://dribbble.com/C-Brennan-Poole/about) | [Objective Assessment of the N American Opioid Crisis; for whole-truth >> follow the finances, silent partnerships, collaborative arrangements with peers and specialized interst MD >> understand, it's an all-cash establishment that further fuels off the fallacies in US dot GOV](https://docs.google.com/spreadsheets/d/e/2PACX-1vQtNSLY1eaa8StJxhsTOh6DkVDyj8nTnqf9nQYz1QvJ0lWnrc7gQpiGyhlTuIkDPllAi0bwrDMDiQv3/pubchart?oid=181466766&format=interactive) | [Giphy](https://giphy.com/channel/chasing-the-wind)
+[dribbbler](https://dribbble.com/C-Brennan-Poole/about) | [Objective {Financial - Unsustainable} Assessment of N America's Opioid Crisis](https://docs.google.com/spreadsheets/d/e/2PACX-1vQtNSLY1eaa8StJxhsTOh6DkVDyj8nTnqf9nQYz1QvJ0lWnrc7gQpiGyhlTuIkDPllAi0bwrDMDiQv3/pubchart?oid=181466766&format=interactive "; for whole-truth >> pandemic >> epidemics >> follow the Franklins >> silent partnerships >> collaborative arrangements >> special interests >> pharmacological angles >> & think ... propaganda that is SUBoxone SUBstitution and an opioid crisis not improving - rather - parabolically failing with novel coronavirus further fueling this corporatocracy use-case-study") MD >> understand, it's an all-cash establishment that further fuels off the fallacies in US dot GOV) | [Giphy](https://giphy.com/channel/chasing-the-wind)
 [YouTube](https://www.youtube.com/channel/UCYVa4H5JraM-R6YoORABg3Q/about?disable_polymer=1) | [WIKI](https://en.wikipedia.org/wiki/User:C-Brennan-Poole) | [Stack Overflow Story](https://stackoverflow.com/story/c-brennan-poole)
 [Stack Overflow CV](https://stackoverflow.com/cv/c-brennan-poole) | [Dark Docs Template](docs.google.com/document/d/1-JMQZuREnJHeSVKiyT7TKi_pyj1DCC1cfUR8Mhsilpo/template/preview) | [Dark Sheets Template](docs.google.com/spreadsheets/d/1m3ORMVcPysEeyoBzcJ4JPzHXRBgKYMnorIPJrMH1IOw/template/preview)
 [GitHub Post Template](https://bit.ly/Git-Template) | [Hangouts to iOS Hack](https://hangouts.google.com/?hs=139&action=chat&pn=4705801515) | [Messenger](https://m.me/IntheBusinessBusiness)
@@ -946,17 +946,19 @@ Supply Chain | Telephone Skills | Total Quality Management | Bottom-up Strategy 
 
 ---
 
-Copyright© #twenty20times chasing the wind, LLC pandemic forced shape, now DBA with Wind LLC; some rights reserved. 
-Works  licensed under the creative commons International 4.0 Sharealike license (CC BY-SA). Link to license :
-    - [creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)     
-        1. Feel free to 
-             - Remix, 
-             - Reuse, 
-             - Redistribute but make sure to attribute :  
-                 1. Link back to title of the work,    
-                     - Original author, 
-                     - Source / publication.
-
+Copyright© #twenty20times chasing the wind, LLC pandemic forced shape, DBA with Wind LLC; some rights reserved. 
+Works  licensed under a Creative Commons International Attribution Sharealike [(CC BY-SA)](https://creativecommons.org/licenses/by-sa/4.0/) 4.0 license. 
+    - Link to license :
+        1. [creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/legalcode)     
+            - Feel free to :
+                1. **Remix**, 
+                2. **Reuse**, 
+                3. **Redistribute** but make sure to attribute :  
+                    - **[Title of the work](https://oudcollective.github.io/Qualitative-Self/ "in this instance : The Qualitative-Self")**    
+                    - **[Original author](https://crunchbase.com/person/c-brennan-poole "in this instance : c brennan poole")**, 
+                    - **[Source** and / or **publication**](https://github.com/oudcollective "Always free hosting provided by the Microsoft parent company and Github, Inc; special thanks and actionable assist from GitHub Pages").
+                    - **Compatible** [*Creative Commons*](https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses "CC BY-SA 4.0 or later; Ported versions of the BY-SA license (if any), version 4.0 or later; The Free Art license 1.3; The GNU General Public License version 3; and any others added to the list at the link provided : Creative Commons rocks!") Licensing. 
+                     
 ---
 
 ##### Software Licensing 
@@ -967,4 +969,4 @@ Works  licensed under the creative commons International 4.0 Sharealike license 
 
 ---
 
-This repository is licensed under* [MIT](../LICENSE) *if ever I get to delivering in-demand code - that is.* (c) #twenty20times [GitHub](https://github.com/OUDcollective/Quantified-Self "In Jesus Name. Amen! Hallel Allah. Praise Jehova. Hare Krsna. Hare Rama. Rama Rama. Want to flip Scripts; Move Consciousness with me?"), Inc. All rights to their namesake and logo are reserved. Thanks for hosting us! IAM [C brennan Poole ](https://www.bing.com/search?q=c+brennan+poole+chasing+the+wind "Bing powered by Microsoft : hacking traffic to the SERP to keep the sticky effect alive and well while attempting to roket launch inefficiencies into a total process overhaul i.e. digital transformation with Wind and C Brennan Poole pandemic forced states since dropped 'chasing' now simply DBA with Wind"). [GodSpeed](https://www.pinterest.com/withWindllc "Wrapped up in YHWW` `Headed the unwoke way` `In Jesus Name` `Hare Krishna` `Praise Jah` `finding sustainable` `do the next right thing` `Pay it Forward`"). `Hey! Enjoy`... (😉)
+This repository is licensed under* [MIT](../LICENSE) *if ever I get to delivering in-demand code - that is.* (c) #twenty20times [GitHub](https://github.com/OUDcollective/Quantified-Self "In Jesus Name. Amen! Hallel Allah. Praise Jehova. Hare Krsna. Hare Rama. Rama Rama. Want to flip Scripts; Move Consciousness with me?"), Inc. All rights to their namesake and logo are reserved. Thanks for hosting us! IAM [C brennan Poole ](https://www.bing.com/search?q=c+brennan+poole+chasing+the+wind "Bing powered by Microsoft : hacking traffic to the SERP to keep the sticky effect alive and well while attempting to roket launch inefficiencies into a total process overhaul i.e. digital transformation with Wind and C Brennan Poole pandemic forced states since dropped 'chasing' now simply DBA with Wind"). [GodSpeed](https://www.pinterest.com/withWindllc "Wrapped up in YHWW` `Headed the unwoke way` `In Jesus Name` `Hare Krishna` `Praise Jah` `finding sustainable` `do the next right thing` `Pay it Forward`"). `Hey! Enjoy` ... `(😉)` `continuous improvement` : `iterative process` . `dynamic model` . `static mission` : `finding sustainability`.
