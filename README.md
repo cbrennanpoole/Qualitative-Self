@@ -247,11 +247,12 @@ Covington, GA | Nov 2018 - Present
     - Earlier unnsolicited offer coming direct from [SXSW 2020 Pitch](https://docs.google.com/spreadsheets/d/1i23nUbKEccvqhnrTq8qfO9Y0vqb85VezkMIzTIjjP-k/edit?usp=sharing "with a 48 - hour deadline : Think.FailHuge Think.ContinuousImprovement inception") with a 48-hour to deadline invite to apply.
 3. Extend reach to garner attention of [The United Nations](https://drive.google.com/file/d/1v3chrKnW2E2dnxMvnXHgXMsHmLyA_Jl5/view?usp=sharing "had to vet; but it's more than legit : again however - no 'chasing' with twenty - three attempts of encouragement trying to get with Wind all - in; reason for not 'chasing' `Legal entity : Chasing the Wind LLC` : `Team` —less; plus being recognized for a conceptual sustainable model while not being a sustainable entity felt like (and likely is) utter `hypocrisy") - Habitat in partnership with Dubai Municipality and their International Awards for Best Practices in Sustainable Development Awards.
 4. Short-lists : 
-    - Red Herring’s Top 100` : North American Tech Startups `annual publication`,
-    - `Inc 5000`; `annual publication`,
-    - `Red Oak Labs`. `Silicon Valley` `accelerator`
-5. Invite to be featured on `AMC Networks` by 
-    - `NewsWatch` *sent 3 inquiries* (20 Jun - 23, 2020).
+    - [Red Herring’s Top 100`](https://www.redherring.com/events/top-100/] 
+: North American Tech Startups") `Annual Publication`,
+    - [`Inc 5000`; `annual publication`](https://www.inc.com/inc5000 "no chasing - plus they sought money"),
+    - `Oak Labs`. `Silicon Valley` `accelerator`
+5. Invite to be featured on `[AMC Networks`](https://github.com/OUDcollective/Qualitative-Self/issues/30 "no `chasing` however...") by 
+    - [`NewsWatch`](https://newswatchtv.com/about-us/) *sent 3 inquiries* (20 Jun - 23, 2020).
     - [Learn Launch](https://learnlaunch.org/ "out of the whole gamut; this is the one the Wind may take to 'chasing'").
     - [Hatch Pitch](https://www.hatchpitch.com/ "maybe guilty of riding the SXSW 2020 Pitch invite and 'chasing this one; did take part in the actual event as an invite & voting participant").
     - [Gener8tor](https://www.gener8tor.com/ "There's reason why `the Wind` did not attempt to go after these; it's hard to articulate, have to hold out `Faith` it seems").
