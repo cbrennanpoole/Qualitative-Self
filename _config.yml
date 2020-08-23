@@ -1,8 +1,8 @@
-title:  Creative Strategist & Principal Chief of Operations
+title:  The Qualitative Self
 author: C-Brennan-Poole
+affiliatation: with Wind LLC
 email:  chief@chasingthewindllc.com
-description: > # this means to ignore newlines until "baseurl:"
-               `course of life's works` aka `curriculum vitae` & `Qualitative-Self`
+description: The Qualitative Self : a comprehensive overview & course of life work. On C Brennan Poole : ops management, business professional & creative strategist curriculum vitae.
 # social links
 twitter_username: OUDcollective
 github_username: OUDcollective
@@ -18,6 +18,7 @@ snapchat_username: cbrennanp
 quora_username: c-brennan-poole
 startupschool_username: withWind
 show_excerpts: true # set to false to remove excerpts on the homepage
+creative commons: (CC BY-SA)
 
 theme: jekyll-theme-hacker
 
