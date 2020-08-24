@@ -2,12 +2,6 @@
 
 ---
 
-![Total Quality Management : The Toyota Way](https://camo.githubusercontent.com/9f9698d6eabf54895654bcd67601b572e98189f9/68747470733a2f2f7777772e617765736f6d6573637265656e73686f742e636f6d2f6170692f76312f64657374696e6174696f6e2f696d6167652f73686f773f496d6167654b65793d746d2d333935372d31383430392d3362363130323138393563643936353139386337373534653138366232623964 "Image re-mix and credits to : Dark Reader, Squoosh App, Google Drawings, and Toyota Way Guiding Principles")
-
-`to provide Total Customer Satisfaction thru Total Quality Management, People Empowerment, & Continuous Improvement.`
-
----
-
 ## [On C Brennan Poole](https://crunchbase.com/person/c-brennan-poole "The growth - hack attack v.2.2 : aiming at the backend as it's where I belong. First, an algorithmic riddle : dropped the '-asey'. i.e. no more 'chasing'; do you want to go 'NASCAR racing'? It's 'verily verily' simple : Think Jot and Tittle")  
 
 ---
@@ -52,24 +46,23 @@ Dark Theme Résumé | ATS Résumé
 
 No # | Position | Employer | Physical Address | Start - End Date | (Promotion Y/N)    
 :---|:---|:---:|---:|:---|---:    
-1 | [Creative Ops Strategist](https://github.com/OUDcollective/Qualitative-Self#lets-keep-on-trucking "Start Date : 17 Aug, 2020 1235 Commerce Dr Unit H") | Let's Keep on Trucking | Morrow, GA | Aug 2020 - Present | `soon enough`
-2 | [Creative Strategist & Principal Chief of Operations](https://github.com/OUDcollective/Qualitative-Self#with-wind-llc "since 15NOV18; found clarity 10MAY19") | with Wind, LLC | Covington, GA | Nov 2018 - Present | N
-3 | [Logistics Coordinator](https://github.com/OUDcollective/Qualitative-Self#amazon-inc "temporary position : course of life pivot") | Amazon Logistics | Stockbridge, GA | Oct 2017 - Feb 2018 | N
-4 | Maintenance & Landscape  | Pine Hills | Stockbridge, GA | Aug 2016 - Aug 2017 | Y  |
-5 | Self-employed (Freelance) | Sub-Contract Work | Stockbridge, GA | Feb 2014 - Jan 2017 | N
-6 | [Dispatch Supervisor](https://github.com/OUDcollective/Qualitative-Self#annex-freight-systems-inc "Contract position") | Annex Freight Systems | Newnan, GA | March 2013 - Nov 2013 | N
-7 | [Terminal Operations Manager](https://github.com/OUDcollective/Qualitative-Self#saia-ltl-freight-inc "return to work prematurely causing 7 year hiatus from industry") | Saia, Inc | Ellenwood, GA | July 2011 - Feb 2013 | N
-8 | [Dispatch Supervisor](https://github.com/OUDcollective/Qualitative-Self#saia-ltl-freight-inc-1) | Saia, Inc | Johns Creek, GA | July 2009 - July 2011 | Y
-9 | [Operations Supervisor](https://github.com/OUDcollective/Qualitative-Self#saia-ltl-freight-inc-2) | Saia, Inc | Ellenwood, GA | March 2008 - July 2009 | Y
-10 | Operations / Office Manager | South County Masonry Inc | Venice, FL | May 2006 - Aug 2007 | NA
-11 | [Team Lead](https://github.com/OUDcollective/Qualitative-Self#teds-montana-grill) | Ted's Montana Grill | Midtown Atlanta, GA | Nov 2005 - May 2006 | Y
-12| [Trainer / FOH Manager](https://github.com/OUDcollective/Qualitative-Self#the-italian-oven) | Italian Oven | Stockbridge, GA | Dec 2003 - Jan 2005 | Y
-13 | Customer Service Associate II | Lowe's Inc | Stockbridge, GA - March 2003 | Nov 2003 | Y
-14 | Freight Handler | Roadway Express Inc | Atlanta, GA | Aug 2002-  Feb 2003 | Y
-15 | Umpire | RYBA (Youth Baseball Assoc. Rockdale County) | Conyers, GA | May 2000 - May 2001 | NA
-16 | Secretarial Assistant | Richard H. Ramsey IV, Esquire | Dothan, AL | Nov 2000 - May 2000 | NA
-17 | Back of House | City Slickers, LLC | Conyers, GA | January 1999 - May 2001 | NA
-18 | Innocence of Youth | American Dreamer | Historic Heartland of Georgia, US & Greater Metro Atlanta area | May 1983 - TBD | 😉
+1 | [Creative Strategist & Principal Chief of Operations](https://github.com/OUDcollective/Qualitative-Self#with-wind-llc "since 15NOV18; found clarity 10MAY19") | [with Wind, LLC](https://crunchbase.com/organization/chasing-the-wind-llc "On with Wind Crunchbase Profile") | Covington, GA | Nov 2018 - Present | N
+2 | [Logistics Coordinator](https://github.com/OUDcollective/Qualitative-Self#amazon-inc "temporary position : course of life pivot") | [Amazon Logistics](https://logistics.amazon.com/) | Stockbridge, GA | Oct 2017 - Feb 2018 | N
+3 | Maintenance & Landscape  | Pine Hills | Stockbridge, GA | Aug 2016 - Aug 2017 | Y  |
+4 | Self-employed (Freelance) | [Sub-Contract Work](https://google.com/search?q=c+brennan+poole+chasing+the+wind "Google SERP Footprint Establishment to help explain with Wind algorithmic understanding and associative-categorical theorizing using a closed network growth loop to make Wind actionable") | Stockbridge, GA | Feb 2014 - Jan 2017 | N
+5 | [Dispatch Supervisor](https://github.com/OUDcollective/Qualitative-Self#annex-freight-systems-inc "Contract position") | [Annex Freight Systems](http://www.annexfreight.com/ "contract work with former friend and mentor from Roadway Express, Inc 'first college less-than-load position working the dock and throwing boxes and tires") | Newnan, GA | March 2013 - Nov 2013 | N
+6 | [Terminal Operations Manager](https://github.com/OUDcollective/Qualitative-Self#saia-ltl-freight-inc "return to work prematurely causing 7 year hiatus from industry") | [Saia, Inc](https://www.youtube.com/watch?v=HhE8iuLYaBY "Look at Ellenwood Facility and the 226 door 400+ driver & associate operation on YouTube") | Ellenwood, GA | July 2011 - Feb 2013 | N
+7 | [Dispatch Supervisor](https://github.com/OUDcollective/Qualitative-Self#saia-ltl-freight-inc-1) | Saia, Inc | Johns Creek, GA | July 2009 - July 2011 | Y
+8 | [Operations Supervisor](https://github.com/OUDcollective/Qualitative-Self#saia-ltl-freight-inc-2) | Saia, Inc | Ellenwood, GA | March 2008 - July 2009 | Y
+9 | Operations / Office Manager | South County Masonry Inc | Venice, FL | May 2006 - Aug 2007 | NA
+10 | [Team Lead](https://github.com/OUDcollective/Qualitative-Self#teds-montana-grill) | Ted's Montana Grill | Midtown Atlanta, GA | Nov 2005 - May 2006 | Y
+11| [Trainer / FOH Manager](https://github.com/OUDcollective/Qualitative-Self#the-italian-oven) | Italian Oven | Stockbridge, GA | Dec 2003 - Jan 2005 | Y
+12 | Customer Service Associate II | [Lowe's Inc](https://lowes.com "Paint Department & Building Materials CSR II while studying at Georgia State's Robinson College of Business") | Stockbridge, GA - March 2003 | Nov 2003 | Y
+13 | Freight Handler | Roadway Express Inc | Atlanta, GA | Aug 2002-  Feb 2003 | Y
+14 | Umpire | RYBA (Youth Baseball Assoc. Rockdale County) | Conyers, GA | May 2000 - May 2001 | NA
+15 | Secretarial Assistant | [Richard H. Ramsey IV, Esquire](https://lawyers.findlaw.com/profile/view/2767034_1 "Work-study while at Northview High School Junior Year; and yes moved alot, allowing me to have a comprehensive, diverse, objective understanding of the educational institution that is in US") | Dothan, AL | Nov 2000 - May 2000 | NA
+16 | Back of House | City Slickers, LLC | Conyers, GA | January 1999 - May 2001 | NA
+17 | Innocence of Youth | American Dreamer | Historic Heartland of Georgia, US & Greater Metro Atlanta area | May 1983 - TBD | 😉
 
 ---
 
@@ -96,87 +89,6 @@ No | school | city | state | start | end | details | add'l
 No 1 : `it's the real thing`<br>
 
 ---
-
-## Georgia State University
-
----
-
-![US News & World Report Rankings for Robinson College of Business Courtesy robinson.gsu.edu](https://user-images.githubusercontent.com/50818414/89962968-45febb00-dc14-11ea-904e-03acb0b54471.png "BBA ranking at 50 '31st among public institutions`")    
-[Source of Article : robinson.gsu.edu](https://robinson.gsu.edu/2019/09/three-robinson-undergraduate-programs-among-nations-best-in-latest-u-s-news-rankings/)
-
----
-
-`Faculty Scholar 2004` | `Dean's List 2005` | `Class of 2006`
-:---|:---:|---:    
-
----
-
-1. **COLLEGE** :
-    - The J Mack Robinson College of Business. 
-2. **DEGREE** :
-    - Bachelor of Business Administration.
-3. **SPECIALIZATION** :
-    - Service Operations Management.
-4. **CASE - STUDY** : 
-    - [The Toyota Way](https://www.toyota-europe.com/world-of-toyota/this-is-toyota/the-toyota-way) & 
-        1. [Toyota Production Systems Guiding Principles](https://global.toyota/en/company/vision-and-philosophy/production-system/).
-            - Sustainability.<br>
-            - Best business practices.<br>
-        2. Kaizen Leadership.`Improvement` or `Change for the Better`.
-            - decreasing waste by eliminating overproduction, improving quality, being more efficient, having less idle time, and reducing unnecessary activities. 
-                - [Mind Tools](https://www.mindtools.com/pages/article/newSTR_97.htm)
-        3. Kanban 
-            - To-do,
-            - In Progress,
-            - Complete.
-
----
-            
-### Undergraduate Coursework : 
-
----
-    
-`have a coke on me`     
-
----
-
-MGS 4770 Service Operations Management | MGS 4760 Total Quality Management | MGS 4740 Operations Strategy
-:---|:---|---:
-MGS 4730 Project Management | MGS 4700 Operations Management | MGS 4500 Entrepreneurship / New Venture Management
-MK 4400 Distribution Management Consumer | MGS 4110 Analysis of Business Data | MGS 4120 Optimal Resource Allocation
-MGS 4000 Managerial Decision Making | MGS 4710 Analysis of Business Data | ACCT 4210 Cost/Managerial Accounting
-BCOM 3950 Business Communication and Professional Development | MGS 3400 Managing People in Organization | FI 3300 Corporation Finance
-MGS 3100 Business Analysis | CRJU 3100 Intro to Criminal Justice | MK 3010 Basic Marketing
-RE 3010 Real Estate Principles | BUSA 3000 Globalization and Business Practices | PHIL 2410 Critical Thinking
-CRJU 2200 Social Sciences & America's Criminology Problem  | BUSA 2106 Legal Environment of Business | ACCT 2102 Principles of Accounting II
-ACCT 2101 Principles of Accounting I | HIST 2110 Survey of US History | MATH 2101 Mathematical Modeling
-ECON 2106 Principles of Microeconomics | ECON 2105 Principles Of Macroeconomics | CIS 2010 Computer Information Systems 
-ECON 2100 The Global Economy | BIOL 1110K Human Anatomy & Phsyiology | BIOL 1101 Intro to Biology
-AH 1070 Survey of Art II | ENGL 2102 American Literature | MATH 1070 Elementary Statistics
-POLS 1101 American Government | ASTR 1001 Intro to Astronomy | SPCH 1000 Human Communication
-
----
-
-### MOOC - Work 
-
----
-
-`7 - 3` : `3 - 11`: `11 - 7`     
-
----
-
-Raising Capital | Creating the Conditions for Others to Thrive | Developing a Learning Mindset | Learning Data Science
-:---|:---|---:|---:
-Enhancing Your Productivity | Google My Business Basics | Growing Your Small Business with Linkedin | Pitching Yourself
-Marketing Your Side Hustle | OMCA Certification for Online Marketing Test | Managing Your Time | Purpose-Driven Sales
-Social Leadership | Teaching Technical Skills Through Video | Web Programming Foundations | Diversity & Inclusion in a Global Setting 
-Information Literacy | Learning From Failure | Learning to Teach Online | Logistics Foundations
-Using March Madness to Learn Data Science | Learning Infographic Design | Learning Rest API's | Marketing to Millennials 
-The Four Levels of Writing Mastery | Personal Branding on Social Media | Switching Your Career | UX Foundations: Content Strategy
-Web Development Foundations: Web Technologies | Gaining Skills with Linkedin Learning | Learning Brainstorming | Strategic Thinking
-Writing a Compelling Blog Post | Why are Opioids So Addictive (University South Florida) | Introduction to HTML, CSS, & Java | Web Development Foundations
-
----  
 
 ### Executive Summary
 
@@ -740,11 +652,125 @@ Supply Chain | Telephone Skills | Total Quality Management | Bottom-up Strategy 
 
 ---
 
-###  Skills Assessment (Application Tracking Systems (ATS))
+## Georgia State University
 
 ---
 
-`on the highway to anywhere`: `Coca - Cola` `Application Tracking Systems` `objective assessment`
+![US News & World Report Rankings for Robinson College of Business Courtesy robinson.gsu.edu](https://user-images.githubusercontent.com/50818414/89962968-45febb00-dc14-11ea-904e-03acb0b54471.png "BBA ranking at 50 '31st among public institutions`")    
+[Source : robinson.gsu.edu](https://robinson.gsu.edu/2019/09/three-robinson-undergraduate-programs-among-nations-best-in-latest-u-s-news-rankings/)
+
+`Faculty Scholar 2004` | `Dean's List 2005` | `Class of 2006`
+:---|:---:|---:    
+
+---
+
+1. **COLLEGE** :
+    - The J Mack Robinson College of Business. 
+2. **DEGREE** :
+    - Bachelor of Business Administration.
+3. **SPECIALIZATION** :
+   - Service Operations Management.
+        1. CASE - STUDY in TQM  :    
+            - [The Toyota Way](https://www.toyota-europe.com/world-of-toyota/this-is-toyota/the-toyota-way) & 
+                1. [Toyota Production Systems Guiding Principles](https://global.toyota/en/company/vision-and-philosophy/production-system/).
+                    - [Continuous improvement](https://en.wikipedia.org/wiki/Toyota_Production_System "Credit : Wikipedia Toyota Guiding Principles CC BY-SA")
+                        1. **Challenge** : We form a **long-term vision**, **meeting challenges** with *courage* and *creativity* to *realize our dreams*.
+                        2. [Kaizen](https://en.wikipedia.org/wiki/Kaizen "Source Credit : Wikipedia on Kaizen") : We *improve our business operations* **continuously**, *always driving* for *innovation* and *evolution*.
+                        3. [Genchi Genbutsu](https://en.wikipedia.org/wiki/Genchi_Genbutsu "Source Credit : Wikipedia on Genchi Genbutsu CC BY-SA") : **Go to the source** to *find the facts* **to make correct decisions**.)
+                2. [Respect for People](https://en.wikipedia.org/wiki/Toyota_Production_System "Credit : Wikipedia Toyota Guiding Principles CC BY-SA")
+                    - **Respect** (We respect others, make every effort to understand each other, take responsibility and do our best to build mutual trust.
+                    - **Teamwork** : We stimulate personal and professional growth, share the opportunities of development and maximize individual and team performance.
+                3. [The right process will produce the right results](https://en.wikipedia.org/wiki/Toyota_Production_System "Credit : Wikipedia Toyota Guiding Principles CC BY-SA")
+                    - Create continuous process flow to bring problems to the surface.
+                    - Use the `pull` system to **avoid overproduction**.
+                    - **Level out the workload** : Approach work like the tortoise, not the hare. 
+                4. **Build a culture** of *stopping to fix problems*, to *get quality right from the start*.
+                5. **Standardized tasks** are the foundation for *continuous improvement* and **employee empowerment**.
+                6. Use *visual control* so no problems are hidden.
+                7. Use only **reliable**, *thoroughly* **tested technology** that **serves your people** and *processes*.
+            - Add value to the organization by developing your people and partners
+                1. **Grow leaders** who 
+                    - *Thoroughly understand the work*, 
+                    - **Live the philosophy**, and 
+                    - **Teach it to others**.
+                2. **Develop exceptional people** and **teams** who *follow* your **company's philosophy**.
+                    - **Respect your extended network of partners and suppliers** by 
+                        1. *Challenging them* and 
+                        2. *Helping them improve*.
+                3. Continuously solving root problems drives organizational learning
+                    - **Go and see for yourself** to thoroughly understand the situation;
+                    - **Make decisions slowly by consensus**, *thoroughly considering all options*; 
+                    - **Implement decisions rapidly**;
+                    - **Become a learning organization through relentless reflection**.
+        2. Toyoda Precepts
+            - **Always be faithful** to your duties, thereby *contributing to the Company* and to the **overall good**.
+            - **Always be studious** and *creative*, *striving to stay ahead of the times*.
+            - **Always be practical** and avoid frivolousness.
+            - **Always strive to build a homelike atmosphere** at work that is warm and friendly.
+            - **Always have respect for spiritual matters**, and remember to be grateful at all times.
+
+---
+
+>  Getting back to the basics helps expose the real significance and underlying root cause (especially if systemic) of problems – making fundamental improvements – a pillar seen throughout Toyota Production Systems Sustainable business model.
+
+---
+
+![Total Quality Management : The Toyota Way](https://camo.githubusercontent.com/9f9698d6eabf54895654bcd67601b572e98189f9/68747470733a2f2f7777772e617765736f6d6573637265656e73686f742e636f6d2f6170692f76312f64657374696e6174696f6e2f696d6167652f73686f773f496d6167654b65793d746d2d333935372d31383430392d3362363130323138393563643936353139386337373534653138366232623964 "Image re-mix and credits to : Dark Reader, Squoosh App, Google Drawings, and Toyota Way Guiding Principles")
+
+---
+      
+### Undergraduate Coursework : 
+
+---
+    
+`have a coke on me`     
+
+---
+
+MGS 4770 Service Operations Management | MGS 4760 Total Quality Management | MGS 4740 Operations Strategy
+:---|:---|---:
+MGS 4730 Project Management | MGS 4700 Operations Management | MGS 4500 Entrepreneurship / New Venture Management
+MK 4400 Distribution Management Consumer | MGS 4110 Analysis of Business Data | MGS 4120 Optimal Resource Allocation
+MGS 4000 Managerial Decision Making | MGS 4710 Analysis of Business Data | ACCT 4210 Cost/Managerial Accounting
+BCOM 3950 Business Communication and Professional Development | MGS 3400 Managing People in Organization | FI 3300 Corporation Finance
+MGS 3100 Business Analysis | CRJU 3100 Intro to Criminal Justice | MK 3010 Basic Marketing
+RE 3010 Real Estate Principles | BUSA 3000 Globalization and Business Practices | PHIL 2410 Critical Thinking
+CRJU 2200 Social Sciences & America's Criminology Problem  | BUSA 2106 Legal Environment of Business | ACCT 2102 Principles of Accounting II
+ACCT 2101 Principles of Accounting I | HIST 2110 Survey of US History | MATH 2101 Mathematical Modeling
+ECON 2106 Principles of Microeconomics | ECON 2105 Principles Of Macroeconomics | CIS 2010 Computer Information Systems 
+ECON 2100 The Global Economy | BIOL 1110K Human Anatomy & Phsyiology | BIOL 1101 Intro to Biology
+AH 1070 Survey of Art II | ENGL 2102 American Literature | MATH 1070 Elementary Statistics
+POLS 1101 American Government | ASTR 1001 Intro to Astronomy | SPCH 1000 Human Communication
+
+---
+
+### MOOC - Work 
+
+---
+
+7 - 3 | 3 - 11 | 11 - 7    
+:---|:---:|---:
+
+---
+
+Raising Capital | Creating the Conditions for Others to Thrive | Developing a Learning Mindset | Learning Data Science
+:---|:---|---:|---:
+Enhancing Your Productivity | Google My Business Basics | Growing Your Small Business with Linkedin | Pitching Yourself
+Marketing Your Side Hustle | OMCA Certification for Online Marketing Test | Managing Your Time | Purpose-Driven Sales
+Social Leadership | Teaching Technical Skills Through Video | Web Programming Foundations | Diversity & Inclusion in a Global Setting 
+Information Literacy | Learning From Failure | Learning to Teach Online | Logistics Foundations
+Using March Madness to Learn Data Science | Learning Infographic Design | Learning Rest API's | Marketing to Millennials 
+The Four Levels of Writing Mastery | Personal Branding on Social Media | Switching Your Career | UX Foundations: Content Strategy
+Web Development Foundations: Web Technologies | Gaining Skills with Linkedin Learning | Learning Brainstorming | Strategic Thinking
+Writing a Compelling Blog Post | Why are Opioids So Addictive (University South Florida) | Introduction to HTML, CSS, & Java | Web Development Foundations
+
+---  
+
+####  Skills Assessment from Coca-Cola's Application Tracking Systems (ATS)
+
+---
+
+`on the highway to anywhere`
 
 --- 
 
@@ -907,7 +933,9 @@ Supply Chain | Telephone Skills | Total Quality Management | Bottom-up Strategy 
 
 ---
 
-### Links 
+#### Links    
+Authentic | Digital | Whole-Self
+:---|:---:|---:    
 
 ---
 
@@ -933,7 +961,7 @@ Supply Chain | Telephone Skills | Total Quality Management | Bottom-up Strategy 
 
 ---
 
-#### Legalese
+##### Legalese
 
 ---
 
@@ -941,7 +969,7 @@ Supply Chain | Telephone Skills | Total Quality Management | Bottom-up Strategy 
 
 ---
 
-##### Creative Commons 
+###### Creative Commons 
 
 ---
 
@@ -964,7 +992,7 @@ Works  licensed under a Creative Commons International Attribution Sharealike [(
                      
 ---
 
-##### Software Licensing 
+###### Software Licensing 
 
 ---
 
@@ -972,8 +1000,9 @@ Works  licensed under a Creative Commons International Attribution Sharealike [(
 
 ---
 
-This repository is licensed under* [MIT](../LICENSE) *if ever I get to delivering in-demand code - that is.* (c) #twenty20times [GitHub](https://github.com/OUDcollective/Quantified-Self "In Jesus Name. Amen! Hallel Allah. Praise Jehova. Hare Krsna. Hare Rama. Rama Rama. Want to flip Scripts; Move Consciousness with me?"), Inc. All rights to their namesake and logo are reserved. Thanks for hosting us! IAM [C brennan Poole ](https://www.bing.com/search?q=c+brennan+poole+chasing+the+wind "Bing powered by Microsoft : hacking traffic to the SERP to keep the sticky effect alive and well while attempting to roket launch inefficiencies into a total process overhaul i.e. digital transformation with Wind and C Brennan Poole pandemic forced states since dropped 'chasing' now simply DBA with Wind"). [GodSpeed](https://www.pinterest.com/withWindllc "Wrapped up in YHWW` `Headed the unwoke way` `In Jesus Name` `Hare Krishna` `Praise Jah` `finding sustainable` `do the next right thing` `Pay it Forward`"). `Hey! Enjoy` ... `(😉)` `continuous improvement` : `iterative process` . `dynamic model` . `static mission` : `finding sustainability`.
+This repository is licensed under* [MIT](../LICENSE)® #twenty20times [GitHub](https://github.com/OUDcollective/Quantified-Self "If ever I get around to delivering in-demand code"), Inc. All rights to their namesake and logo are reserved. Thanks for hosting us! IAM [C brennan Poole ](https://www.bing.com/search?q=c+brennan+poole+chasing+the+wind "Bing powered by Microsoft : hacking traffic to the SERP to keep the sticky effect alive and well while attempting to roket launch inefficiencies into a total process overhaul i.e. digital transformation with Wind and C Brennan Poole pandemic forced states since dropped 'chasing' now simply DBA with Wind").
 
 ---
 
-[with Wind, LLC](https://linkedin.com/company/the-wind) | [9114 Central Avenue SW Unit B Covington, GA US 30014](https://oudcollective.com "market research of GMB profile that will be a NYT Best Seller is all goes as expected ... STAY TUNED") | [US](https://bit.ly/oudcollective "ONCE great NATION") [Hangouts to iOS Actionable Hack from Desktop to iOS at least](https://hangouts.google.com/?hs=139&action=chat&pn=4705801515) | [Hangouts to whisper with Wind Hack](https://hangouts.google.com/?hs=139&action=chat&pn=470-444-1215 "should click-to-call with Wind Main-line at 470-444-1215") | [email with WInd today](mailto:gitactionable@chasingthewindllc.com)
+[with Wind, LLC](https://linkedin.com/company/the-wind) | [9114 Central Avenue SW Unit B Covington, GA US 30014](https://oudcollective.com "market research of GMB profile that will be a NYT Best Seller is all goes as expected ... STAY TUNED") | [US](https://bit.ly/oudcollective "ONCE great NATION") [Hangouts to iOS Hac]
+:---|:---:|---:
