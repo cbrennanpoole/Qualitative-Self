@@ -36,60 +36,6 @@ Dark Theme Résumé | ATS Résumé
 
 ---
 
-## Professional Table     
-
----
-
-`dad can do datasets`
-
----
-
-No # | Position | Employer | Physical Address | Start - End Date | (Promotion Y/N)    
-:---|:---|:---:|---:|:---|---:    
-1 | [Creative Strategist & Principal Chief of Operations](https://github.com/OUDcollective/Qualitative-Self#with-wind-llc "since 15NOV18; found clarity 10MAY19") | [with Wind, LLC](https://crunchbase.com/organization/chasing-the-wind-llc "On with Wind Crunchbase Profile") | Covington, GA | Nov 2018 - Present | N
-2 | [Logistics Coordinator](https://github.com/OUDcollective/Qualitative-Self#amazon-inc "temporary position : course of life pivot") | [Amazon Logistics](https://logistics.amazon.com/) | Stockbridge, GA | Oct 2017 - Feb 2018 | N
-3 | Maintenance & Landscape  | Pine Hills | Stockbridge, GA | Aug 2016 - Aug 2017 | Y  |
-4 | Self-employed (Freelance) | [Sub-Contract Work](https://google.com/search?q=c+brennan+poole+chasing+the+wind "Google SERP Footprint Establishment to help explain with Wind algorithmic understanding and associative-categorical theorizing using a closed network growth loop to make Wind actionable") | Stockbridge, GA | Feb 2014 - Jan 2017 | N
-5 | [Dispatch Supervisor](https://github.com/OUDcollective/Qualitative-Self#annex-freight-systems-inc "Contract position") | [Annex Freight Systems](http://www.annexfreight.com/ "contract work with former friend and mentor from Roadway Express, Inc 'first college less-than-load position working the dock and throwing boxes and tires") | Newnan, GA | March 2013 - Nov 2013 | N
-6 | [Terminal Operations Manager](https://github.com/OUDcollective/Qualitative-Self#saia-ltl-freight-inc "return to work prematurely causing 7 year hiatus from industry") | [Saia, Inc](https://www.youtube.com/watch?v=HhE8iuLYaBY "Look at Ellenwood Facility and the 226 door 400+ driver & associate operation on YouTube") | Ellenwood, GA | July 2011 - Feb 2013 | N
-7 | [Dispatch Supervisor](https://github.com/OUDcollective/Qualitative-Self#saia-ltl-freight-inc-1) | Saia, Inc | Johns Creek, GA | July 2009 - July 2011 | Y
-8 | [Operations Supervisor](https://github.com/OUDcollective/Qualitative-Self#saia-ltl-freight-inc-2) | Saia, Inc | Ellenwood, GA | March 2008 - July 2009 | Y
-9 | Operations / Office Manager | South County Masonry Inc | Venice, FL | May 2006 - Aug 2007 | NA
-10 | [Team Lead](https://github.com/OUDcollective/Qualitative-Self#teds-montana-grill) | Ted's Montana Grill | Midtown Atlanta, GA | Nov 2005 - May 2006 | Y
-11| [Trainer / FOH Manager](https://github.com/OUDcollective/Qualitative-Self#the-italian-oven) | Italian Oven | Stockbridge, GA | Dec 2003 - Jan 2005 | Y
-12 | Customer Service Associate II | [Lowe's Inc](https://lowes.com "Paint Department & Building Materials CSR II while studying at Georgia State's Robinson College of Business") | Stockbridge, GA - March 2003 | Nov 2003 | Y
-13 | Freight Handler | Roadway Express Inc | Atlanta, GA | Aug 2002-  Feb 2003 | Y
-14 | Umpire | RYBA (Youth Baseball Assoc. Rockdale County) | Conyers, GA | May 2000 - May 2001 | NA
-15 | Secretarial Assistant | [Richard H. Ramsey IV, Esquire](https://lawyers.findlaw.com/profile/view/2767034_1 "Work-study while at Northview High School Junior Year; and yes moved alot, allowing me to have a comprehensive, diverse, objective understanding of the educational institution that is in US") | Dothan, AL | Nov 2000 - May 2000 | NA
-16 | Back of House | City Slickers, LLC | Conyers, GA | January 1999 - May 2001 | NA
-17 | Innocence of Youth | American Dreamer | Historic Heartland of Georgia, US & Greater Metro Atlanta area | May 1983 - TBD | 😉
-
----
-
-### Secondary and Postsecondary
-
----
-
-`lean on me` : `9 - 16` `chronological order`<br>
-   
----
-
-No | school | city | state | start | end | details | add'l    
-:---|:---|---|---|---|---|---:|---:   
-8 | Berkmar High School | Lawrenceville | GA | Aug 1997 | May 1998 | Freshman Year | 4.0 GPA
-7 | Sandy Creek High School | Tyrone | GA | Aug 1999 | Jan 1999 | Sophomore 1st Semester | 4.0 GPA
-6 | Salem High School | Conyers | GA | Jan 1999 | May 1999 | Sopomore | 2nd Semester
-5 | Northview High School | Dothan | AL | Aug 1999 | May 2000 | Junior Year | 4.0 Work Study at Richard H Ramsey IV, Esquire
-4 | Salem High School | Conyers | GA | Aug 1999 | May 2001 | Dual Degree | College Preperatory & General Business Admininstration    
-3 | University of West Georgia | Carrollton | GA | Aug 2001 | May 2002 | Undergraduate Studies | Undecided 
-2 | Georgia State University / J Mack Robinson College of Business | Atlanta | GA | Aug 2002 | May 2006 | BBA | Operations Management   
-
----
-
-No 1 : `it's the real thing`<br>
-
----
-
 ### Executive Summary
 
 ---
@@ -764,6 +710,59 @@ The Four Levels of Writing Mastery | Personal Branding on Social Media | Switchi
 Web Development Foundations: Web Technologies | Gaining Skills with Linkedin Learning | Learning Brainstorming | Strategic Thinking
 Writing a Compelling Blog Post | Why are Opioids So Addictive (University South Florida) | Introduction to HTML, CSS, & Java | Web Development Foundations
 
+---
+
+## Professional Table     
+
+---
+
+`dad can do datasets`
+
+---
+
+No # | Position | Employer | Physical Address | Start - End Date | (Promotion Y/N)    
+:---|:---|:---:|---:|:---|---:    
+1 | [Creative Strategist & Principal Chief of Operations](https://github.com/OUDcollective/Qualitative-Self#with-wind-llc "since 15NOV18; found clarity 10MAY19") | [with Wind, LLC](https://crunchbase.com/organization/chasing-the-wind-llc "On with Wind Crunchbase Profile") | Covington, GA | Nov 2018 - Present | N
+2 | [Logistics Coordinator](https://github.com/OUDcollective/Qualitative-Self#amazon-inc "temporary position : course of life pivot") | [Amazon Logistics](https://logistics.amazon.com/) | Stockbridge, GA | Oct 2017 - Feb 2018 | N
+3 | Maintenance & Landscape  | Pine Hills | Stockbridge, GA | Aug 2016 - Aug 2017 | Y  |
+4 | Self-employed (Freelance) | [Sub-Contract Work](https://google.com/search?q=c+brennan+poole+chasing+the+wind "Google SERP Footprint Establishment to help explain with Wind algorithmic understanding and associative-categorical theorizing using a closed network growth loop to make Wind actionable") | Stockbridge, GA | Feb 2014 - Jan 2017 | N
+5 | [Dispatch Supervisor](https://github.com/OUDcollective/Qualitative-Self#annex-freight-systems-inc "Contract position") | [Annex Freight Systems](http://www.annexfreight.com/ "contract work with former friend and mentor from Roadway Express, Inc 'first college less-than-load position working the dock and throwing boxes and tires") | Newnan, GA | March 2013 - Nov 2013 | N
+6 | [Terminal Operations Manager](https://github.com/OUDcollective/Qualitative-Self#saia-ltl-freight-inc "return to work prematurely causing 7 year hiatus from industry") | [Saia, Inc](https://www.youtube.com/watch?v=HhE8iuLYaBY "Look at Ellenwood Facility and the 226 door 400+ driver & associate operation on YouTube") | Ellenwood, GA | July 2011 - Feb 2013 | N
+7 | [Dispatch Supervisor](https://github.com/OUDcollective/Qualitative-Self#saia-ltl-freight-inc-1) | Saia, Inc | Johns Creek, GA | July 2009 - July 2011 | Y
+8 | [Operations Supervisor](https://github.com/OUDcollective/Qualitative-Self#saia-ltl-freight-inc-2) | Saia, Inc | Ellenwood, GA | March 2008 - July 2009 | Y
+9 | Operations / Office Manager | South County Masonry Inc | Venice, FL | May 2006 - Aug 2007 | NA
+10 | [Team Lead](https://github.com/OUDcollective/Qualitative-Self#teds-montana-grill) | Ted's Montana Grill | Midtown Atlanta, GA | Nov 2005 - May 2006 | Y
+11| [Trainer / FOH Manager](https://github.com/OUDcollective/Qualitative-Self#the-italian-oven) | Italian Oven | Stockbridge, GA | Dec 2003 - Jan 2005 | Y
+12 | Customer Service Associate II | [Lowe's Inc](https://lowes.com "Paint Department & Building Materials CSR II while studying at Georgia State's Robinson College of Business") | Stockbridge, GA - March 2003 | Nov 2003 | Y
+13 | Freight Handler | Roadway Express Inc | Atlanta, GA | Aug 2002-  Feb 2003 | Y
+14 | Umpire | RYBA (Youth Baseball Assoc. Rockdale County) | Conyers, GA | May 2000 - May 2001 | NA
+15 | Secretarial Assistant | [Richard H. Ramsey IV, Esquire](https://lawyers.findlaw.com/profile/view/2767034_1 "Work-study while at Northview High School Junior Year; and yes moved alot, allowing me to have a comprehensive, diverse, objective understanding of the educational institution that is in US") | Dothan, AL | Nov 2000 - May 2000 | NA
+16 | Back of House | City Slickers, LLC | Conyers, GA | January 1999 - May 2001 | NA
+17 | Innocence of Youth | American Dreamer | Historic Heartland of Georgia, US & Greater Metro Atlanta area | May 1983 - TBD | 😉
+
+---
+
+### Comprehensive Learning & Development Overview    
+
+`lean on me` | `9 - 16` | `chronological order`    
+:---|:---:|---:
+   
+---
+
+No | school | city | state | start | end | details | add'l    
+:---|:---|---|---|---|---|---:|---:   
+8 | Berkmar High School | Lawrenceville | GA | Aug 1997 | May 1998 | Freshman Year | 4.0 GPA
+7 | Sandy Creek High School | Tyrone | GA | Aug 1999 | Jan 1999 | Sophomore 1st Semester | 4.0 GPA
+6 | Salem High School | Conyers | GA | Jan 1999 | May 1999 | Sopomore | 2nd Semester
+5 | Northview High School | Dothan | AL | Aug 1999 | May 2000 | Junior Year | 4.0 Work Study at Richard H Ramsey IV, Esquire
+4 | Salem High School | Conyers | GA | Aug 1999 | May 2001 | Dual Degree | College Preperatory & General Business Admininstration    
+3 | University of West Georgia | Carrollton | GA | Aug 2001 | May 2002 | Undergraduate Studies | Undecided 
+2 | Georgia State University / J Mack Robinson College of Business | Atlanta | GA | Aug 2002 | May 2006 | BBA | Operations Management   
+
+---
+
+No 1 : `it's the real thing`<br>
+
 ---  
 
 ####  Skills Assessment from Coca-Cola's Application Tracking Systems (ATS)
@@ -1004,5 +1003,5 @@ This repository is licensed under* [MIT](../LICENSE)® #twenty20times [GitHub](h
 
 ---
 
-[with Wind, LLC](https://linkedin.com/company/the-wind) | [9114 Central Avenue SW Unit B Covington, GA US 30014](https://oudcollective.com "market research of GMB profile that will be a NYT Best Seller is all goes as expected ... STAY TUNED") | [US](https://bit.ly/oudcollective "ONCE great NATION") [Hangouts to iOS Hac]
+[with Wind, LLC](https://linkedin.com/company/the-wind) | [9114 Central Avenue SW Unit B Covington, GA US 30014](https://oudcollective.com "market research of GMB profile that will be a NYT Best Seller is all goes as expected ... STAY TUNED") | [US](https://bit.ly/oudcollective "ONCE great NATION") [Hangouts to iOS Hack](https://hangouts.google.com/?hl=en&action=chat&pn=%2B1470-580-1515&authuser=1)
 :---|:---:|---:
