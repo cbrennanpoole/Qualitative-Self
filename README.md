@@ -75,28 +75,6 @@ Dark Theme Résumé | ATS Résumé
 
 ---
 
-#### Let's Keep on Trucking     
-`Operations Strategist` `Management Consultancy` `with Wind LLC`     
-Morrow, GA | Aug 2020 - Present
-
-1. **Institute** total process overhaul to create improved organizational dynamics. 
-    - For us to `Let's Keep on Trucking` we must get back-to-basics.
-2.  **Define** (clear & concise) company objectives : 
-    - **Remain** transparent.
-    - **Hold** no ulterior motives.
-3. **Create** always available managment model
-4. **Incorporate** open door policy employees can count on. 
-4. **Foster** innovation; encouraging creative problem-solving ideas.
-    - Team-centered model.
-4. **Establish** Key Performance Indicators ( KPIs ). 
-    - **Affect** change thru 
-        1. Shared accountability. 
-        2. Trust. 
-        3. People empowerment. 
-        4. Continuous Improvement. 
-
----
-
 #### with Wind LLC    
 `CREATIVE STRATEGIST and PRINCIPAL CHIEF of OPERATIONS`    
 Covington, GA | Nov 2018 - Present    
