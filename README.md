@@ -552,30 +552,6 @@ Virtual | Oct 2017 – Jan 2018
 
 ---
 
-## Skills
-
----
-
-`at the intersection of everywhere`    
-
----
-
-Creativity | Sustainability | Customer Focus | Decision Quality | Active Listener | Leadership & Development
-:---|:---|---|---|---:|---:
-Strategic Mindset | Action-oriented | Lean & Agile | Planning & Alignment | Accountability | Emotional Intelligence
-G-Suite | Total Customer Satisfaction | Customer Success Champion | Network Builder | Cultivates Innovation | Optimizes Work Processes
-Drives Results | Talent Developer | Strategic Vision | Effective | Efficient Communicator | Values Diversity
-Drives Vision | Forward to Think | Instills Trust | Nimble Learner | Organizational Dynamics | Situational Adaptability
-Authentic | Microsoft 365 | Word, Excel, Power Point, Dynamics, Access | Project Management | Power Bi | HTML5, CSS, Java
-Cloud Principles (Azure, GCP, AWS, Digital Ocean) |  Perspective Taking | Accountancy | Data Analytics | Customer Complaint Resolution | Customer Relationship Management (CRM)
-Data Analytics | Data Entry | Decision Making | Demand-planning | Executive Management | Markdown
-Processes Implementation | Process Improvement | Six Sigma | People Empowerment | Continuous Improvement | Continuous Integration    
-Marketing | Social Media Marketing | Ethics | Organizational Skills | Policy Analysis | Resilience
-Process Engineering | Product Team Integration | Project Management | Quality Assurance | Strategic Management | Globalization & Political Events    
-Supply Chain | Telephone Skills | Total Quality Management | Bottom-up Strategy | Technical Writing | Creative Writing
-
----
-
 ## Georgia State University
 
 ---
@@ -601,37 +577,41 @@ Supply Chain | Telephone Skills | Total Quality Management | Bottom-up Strategy 
                         1. **Challenge** : We form a **long-term vision**, **meeting challenges** with *courage* and *creativity* to *realize our dreams*.
                         2. [Kaizen](https://en.wikipedia.org/wiki/Kaizen "Source Credit : Wikipedia on Kaizen") : We *improve our business operations* **continuously**, *always driving* for *innovation* and *evolution*.
                         3. [Genchi Genbutsu](https://en.wikipedia.org/wiki/Genchi_Genbutsu "Source Credit : Wikipedia on Genchi Genbutsu CC BY-SA") : **Go to the source** to *find the facts* **to make correct decisions**.)
-                2. [Respect for People](https://en.wikipedia.org/wiki/Toyota_Production_System "Credit : Wikipedia Toyota Guiding Principles CC BY-SA")
-                    - **Respect** (We respect others, make every effort to understand each other, take responsibility and do our best to build mutual trust.
-                    - **Teamwork** : We stimulate personal and professional growth, share the opportunities of development and maximize individual and team performance.
-                3. [The right process will produce the right results](https://en.wikipedia.org/wiki/Toyota_Production_System "Credit : Wikipedia Toyota Guiding Principles CC BY-SA")
-                    - Create continuous process flow to bring problems to the surface.
-                    - Use the `pull` system to **avoid overproduction**.
-                    - **Level out the workload** : Approach work like the tortoise, not the hare. 
-                4. **Build a culture** of *stopping to fix problems*, to *get quality right from the start*.
-                5. **Standardized tasks** are the foundation for *continuous improvement* and **employee empowerment**.
-                6. Use *visual control* so no problems are hidden.
-                7. Use only **reliable**, *thoroughly* **tested technology** that **serves your people** and *processes*.
-            - Add value to the organization by developing your people and partners
-                1. **Grow leaders** who 
-                    - *Thoroughly understand the work*, 
-                    - **Live the philosophy**, and 
-                    - **Teach it to others**.
-                2. **Develop exceptional people** and **teams** who *follow* your **company's philosophy**.
+                    - [Respect for People](https://en.wikipedia.org/wiki/Toyota_Production_System "Credit : Wikipedia Toyota Guiding Principles CC BY-SA")
+                        1. **Respect** (We respect others, make every effort to understand each other, take responsibility and do our best to build mutual trust.
+                        2. Teamwork : We stimulate personal and professional growth, share the opportunities of development and maximize individual and team performance.
+                    - [The right process will produce the right results](https://en.wikipedia.org/wiki/Toyota_Production_System "Credit : Wikipedia Toyota Guiding Principles CC BY-SA")
+                        - Create continuous process flow to bring problems to the surface.
+                        - Use the `pull` system to **avoid overproduction**.
+                        - **Level out the workload** : Approach work like the tortoise, not the hare. 
+                    - Build a culture of *stopping to fix problems*, to *get quality right from the start*.
+                    - Standardized tasks are the foundation for *continuous improvement* and **employee empowerment**.
+                    - Use *visual control* so no problems are hidden.
+                    - Use only **reliable**, *thoroughly* **tested technology** that **serves your people** and *processes*.
+                2.Add value to the organization by developing your people and partners
+                    - Grow leaders who 
+                        1. Thoroughly understand the work. 
+                        2. Live the philosophy.
+                        3. Teach it to others.
+                3. Develop exceptional people and teams who follow your *company's philosophy.
                     - **Respect your extended network of partners and suppliers** by 
                         1. *Challenging them* and 
                         2. *Helping them improve*.
-                3. Continuously solving root problems drives organizational learning
+                4. Continuously solving root problems drives organizational learning
                     - **Go and see for yourself** to thoroughly understand the situation;
                     - **Make decisions slowly by consensus**, *thoroughly considering all options*; 
                     - **Implement decisions rapidly**;
                     - **Become a learning organization through relentless reflection**.
-        2. Toyoda Precepts
-            - **Always be faithful** to your duties, thereby *contributing to the Company* and to the **overall good**.
-            - **Always be studious** and *creative*, *striving to stay ahead of the times*.
-            - **Always be practical** and avoid frivolousness.
-            - **Always strive to build a homelike atmosphere** at work that is warm and friendly.
-            - **Always have respect for spiritual matters**, and remember to be grateful at all times.
+            2. Toyoda Precepts
+                - Always be faithful to your duties, thereby contributing to the Company and to the overall good.
+                - Always be studious and creative, striving to stay ahead of the times.
+                - Always be practical and avoid frivolousness.
+                - Always strive to build a homelike atmosphere at work that is warm and friendly.
+                - Always have respect for spiritual matters, and remember to be grateful at all times.
+
+
+![Total Quality Management : The Toyota Way](https://camo.githubusercontent.com/9f9698d6eabf54895654bcd67601b572e98189f9/68747470733a2f2f7777772e617765736f6d6573637265656e73686f742e636f6d2f6170692f76312f64657374696e6174696f6e2f696d6167652f73686f773f496d6167654b65793d746d2d333935372d31383430392d3362363130323138393563643936353139386337373534653138366232623964 "Image re-mix and credits to : Dark Reader, Squoosh App, Google Drawings, and Toyota Way Guiding Principles")
+
 
 ---
 
@@ -639,11 +619,7 @@ Supply Chain | Telephone Skills | Total Quality Management | Bottom-up Strategy 
 
 ---
 
-![Total Quality Management : The Toyota Way](https://camo.githubusercontent.com/9f9698d6eabf54895654bcd67601b572e98189f9/68747470733a2f2f7777772e617765736f6d6573637265656e73686f742e636f6d2f6170692f76312f64657374696e6174696f6e2f696d6167652f73686f773f496d6167654b65793d746d2d333935372d31383430392d3362363130323138393563643936353139386337373534653138366232623964 "Image re-mix and credits to : Dark Reader, Squoosh App, Google Drawings, and Toyota Way Guiding Principles")
-
----
-      
-### Undergraduate Coursework : 
+### College Curriculum : 
 
 ---
     
@@ -687,6 +663,33 @@ Using March Madness to Learn Data Science | Learning Infographic Design | Learni
 The Four Levels of Writing Mastery | Personal Branding on Social Media | Switching Your Career | UX Foundations: Content Strategy
 Web Development Foundations: Web Technologies | Gaining Skills with Linkedin Learning | Learning Brainstorming | Strategic Thinking
 Writing a Compelling Blog Post | Why are Opioids So Addictive (University South Florida) | Introduction to HTML, CSS, & Java | Web Development Foundations
+
+---
+
+## Skills
+
+---
+
+`at the intersection of everywhere`    
+
+---
+
+Creativity | Sustainability | Customer Focus | Decision Quality | Active Listener | Leadership & Development
+:---|:---|---|---|---:|---:
+Strategic Mindset | Action-oriented | Lean & Agile | Planning & Alignment | Accountability | Emotional Intelligence
+G-Suite | Total Customer Satisfaction | Customer Success Champion | Network Builder | Cultivates Innovation | Optimizes Work Processes
+Drives Results | Talent Developer | Strategic Vision | Effective | Efficient Communicator | Values Diversity
+Drives Vision | Forward to Think | Instills Trust | Nimble Learner | Organizational Dynamics | Situational Adaptability
+Authentic | Microsoft 365 | Word, Excel, Power Point, Dynamics, Access | Project Management | Power Bi | HTML5, CSS, Java
+Cloud Principles (Azure, GCP, AWS, Digital Ocean) |  Perspective Taking | Accountancy | Data Analytics | Customer Complaint Resolution | Customer Relationship Management (CRM)
+Data Analytics | Data Entry | Decision Making | Demand-planning | Executive Management | Markdown
+Processes Implementation | Process Improvement | Six Sigma | People Empowerment | Continuous Improvement | Continuous Integration    
+Marketing | Social Media Marketing | Ethics | Organizational Skills | Policy Analysis | Resilience
+Process Engineering | Product Team Integration | Project Management | Quality Assurance | Strategic Management | Globalization & Political Events    
+Supply Chain | Telephone Skills | Total Quality Management | Bottom-up Strategy | Technical Writing | Creative Writing
+
+---
+
 
 ---
 
@@ -737,8 +740,6 @@ No | school | city | state | start | end | details | add'l
 3 | University of West Georgia | Carrollton | GA | Aug 2001 | May 2002 | Undergraduate Studies | Undecided 
 2 | Georgia State University / J Mack Robinson College of Business | Atlanta | GA | Aug 2002 | May 2006 | BBA | Operations Management   
 
----
-
 No 1 : `it's the real thing`<br>
 
 ---  
@@ -752,7 +753,7 @@ No 1 : `it's the real thing`<br>
 --- 
 
 1. Business Administration
-`cross-Functional Collaboration` <br>
+`Cross-Functional Collaboration` <br>
     - Experience in facilitation of multi-disciplinary teams
     - Logistics
 2. Leadership : 
