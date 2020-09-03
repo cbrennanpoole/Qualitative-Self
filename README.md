@@ -49,7 +49,7 @@ Dark Theme Résumé | ATS Résumé
 ---
 
 
-##### Kiichiro Toyoda 
+##### On Toyoda 
 
 ---
 
@@ -67,7 +67,7 @@ Dark Theme Résumé | ATS Résumé
    
 ---   
    
-`Coke Float`
+`Sustainability`
 
 ---
 
@@ -129,7 +129,7 @@ Covington, GA | Nov 2018 - Present
 
 ---
 
-`Ain't nothing like the Real Thing!`
+`Continuous Improvement`
 
 ---
 
@@ -183,19 +183,43 @@ Ellenwood, GA | Jul 2011 - Feb 2013
     - Eliminate existing schedules by building dynamic loads to satellite (end) service centers.
     - Increase hiring efforts earlier in calendar year (Jan and Feb) to improve quality thru more effective training as well as cover seasonal up-tick in tonnage and vacation requests.    
 3. Implementation of : 
-    - Lean, 
-    - Six-sigma,
-    - Best-in-class management principles.
+    - [Lean-management]((https://google.com/search?=plean+management "hacking the SERP... It's that simple... and that complicated, unfortunate for me."), 
+        - [Lean Six-sigma precepts][Lean six-sigma for the digital analyst] https://online-behavior.com/analytics/lean-six-sigma "Leaan six-sigma precepts for the digital analyst")
+
+```
+
+An Assignment! 
+
+```
+
+---
+
+> Be nimble about Lean Six Sigma – to get started, just remember the DMAIC high-level approach and create a document with the five steps outlined. For each step, think of the following points:    
+
+D: | Define: | What's the objective? Can you state it as a SMART one? Who will be involved or impacted? What is in or out of scope?
+:---|:---:|:---
+M: | Measure: | What are the data sources? Anything missing? Is it good quality data? Can you gain initial insight from this data without too much effort?
+A: | Analyze: | What are the correlations and patterns? This is where your analysis skills are truly put to work!
+I: | Improve: | Be creative, think about various solutions that balance the optimal/best solution vs. what is realistic given the constraints.
+C: | Control: | It's not over until you can report the impact of your work –be humble and remember improvement rarely come from a sudden 100% increase in something, but from small improvements to dozens of little things.    
+source credit : | [Google Query & SERP](https://google.com/search?q=what+are+six-sigma+precepts") [`Six-sigma precepts`] | [Online-behavior.com](https://online-behavior.com)    . [Lean Six-sigma for the Digital Analyst](https://online-behavior.com/analytics/lean-six-sigma "actionable too!").     
+
+---
+
 4. Collaborate to institute :
-    - Just-in-time (J.I.T.) workflow model. 
-    - Yard hostler and culture change in standard work process for said position. 
+    - Just-in-time (J.I.T.) workflow process. 
+    - Foster culture change on yard by establishing accountability as a KPI.
 5. Design-think :
-    - Atlanta Dock Ops stand : 
-        1. Affix stand (central dock) to an area more conducive to the freight handlers best interest (helping align their concern for optimal SE Times (algorithm-driven standard time allowable per trailer assignment) than that of managements original positioning (*example of bottom-up ops strategy*).
+    - Re-position the Atlanta Dock Ops stand : 
+        1. Affix (central) dock-stand to an area conducive to operations efficiency and continuous improvement as opposed to accessibility for supervisory staff.
     - Support :
-        1. Upper - management goals,
-        2. Regional management expectations :
-6. Provide terminal perspective at management & quarterly meetings :
+        1. Regional management by : 
+            - Improving shareholders' equity through reduction in the Operating Ratio (OR); key driver for company-wide mandatory attendance of quarterly meetings. 
+                1. Articulate the bottom-up view & 
+                2. Atlanta dock ops perspective : 
+                    - as a means to serve as a : 
+                        1. Liaision for the employees who needed to be heard by upper management and : 
+                        2. Catylyst for sustainable growth at quarterly meetings.
     - Encourage a unified mindset; helping to further achieve the goal of 
         1. Always on A / B testing,
         2. Real - time human resources establishing a body of 
@@ -206,56 +230,52 @@ Ellenwood, GA | Jul 2011 - Feb 2013
         1. Issuance of a command to excellence.
         2. Demand accountability thru job ownership. 
         3. Assurance to return to always open door management policy. 
-            - Address all inquires, 
-            - Commit to resolving pre-existing plus future concerns. 
-8. Explore underlying issues affecting workforce : 
+            - Address all requests, & 
+                - feedback; commiting to resolve : 
+                    1. Pre-existing issues and any
+                    2. Future questions of concern. 
+8. Identify & analyze underlying issues that were negatively affecting the workforce thru : 
     - Active listening  :
         1. Individual &,  
         2. Group 
-    - Information gathering sessions.
-9. Analyze and identify outliers to the algorithms : 
-    - Continuous observation until identification of root cause(s) could be established; 
-        1. Address all associate : 
-            - Feedback  
-            - Questions of doubt &  
-            - Resistance to change.  
-10. [Slash long standing incentives & rewards program; replacing with a scale-ready, peer reviewed model; the iSaia program using a team-oriented approach driven by analytics driven by understandable measurables (KPI)](https://assets.ctfassets.net/kjv8gs2ccggb/358zUazvTQNm3jaMkpABaj/8e03804738cbe0beccff5fef0a3824ab/Saia_2012_Annual_Report_and_Form_10-K_0.pdf) : 
-    - 177% increase to Earnings per Share 
-        - EPS at $1.94 equating to a 
-            1. 7% gain in revenues + 1.1 (billion) to shareholders’ equity.
-11. Spearhead company’s inaugural [dock-to-driver campaign](https://www.youtube.com/watch?v=-mG5veBWS00&t=4s "YouTube video from Atlanta Dock") to establish an 8 +
-year competitive advantage.
+    - Empathy : 
+        1. User -or- human-centered approach to problem solving & human psychology.  
+9. Reverse engineer the `algorithm` with a `fail-big` perspective. 
+    - Continuous improvement mindset; which required an almost always-on and responsive presence thru the change management process. 
+10. End Results : 
+
+```
+
+177% increase in Earnings per Share equaling $1.94 or 
+
+
+```
+
+```
+
+```
+
+7% gain in revenues + 1.1 (billion) to shareholders’ equity.
+
+```
+
+11. Spearhead company’s inaugural [dock-to-driver campaign](https://www.youtube.com/watch?v=-mG5veBWS00&t=4s "YouTube video from Atlanta Dock as ATL is their flaship terminal and all rollouts literally rollout of Atlanta") to establish a sustainable competitive advantage.
 12. Institute total process overhaul with the [Quality MattersTM campaign](https://www.youtube.com/watch?v=nPTt37YGdH4&list=PL7R4Ra-1Mrclih8qRlT9Z0ExjtdX_8vnm&index=2&t=3s "Atlanta dock is the flagship terminal and is an iterative environment as all programs roll-out thru that facility").
-13. Integrate a continuous improvement model using best-in-class best business practices featuring : 
-    - Concept of pinwheeling and 
-    - Multi-stop strategic framework.
-    - Focus on `Quality Matters` (above all else - short of safety) campaign,
+13. Integrate a continuous improvement model using best-in-class business practices featuring : 
+    - Concept of pinwheeling and,
+    - Multi-stop dynamic loading of regions satellite facilities (satellite : anything due within approx. 150 miles of Atlanta). 
+    - Focus all meetings, instituting the return to the pre-shift `huddle` to discuss Why `Quality Matters`? (above all; which safe working conditions is a cornerstone of) campaign,
     - Adherence to safety standard operating procedures (SOP),
-        1. Return to daily pre-shift.
-        2. Alternating managers to cover daily pre-shift safety topic.
-        3. Creation of accountability thru documentation and the inevitable digital tracks that followed suit.
 14. Support IT, Sales, and the Weight & Research team with the [freight dimensioner technology : a national
 rollout](https://www.youtube.com/watch?v=l3d6sJZ-mQ0 "most effective program serving as calalyst to overhaul and driver of quality helping reduce operating ratio").
-15. Deliver Top 10 Fortune LTL ranking resulting from implementation and continued success from aforementioned programs.
+15. Deliver Top 10 Fortune LTL ranking resulting from implementation and continued success of above processes.
          
 ---    
 
-##### [Saia, Inc : 2011 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/4M6d73qEcviGKIF2eMu4ro/130e6f2563346680b8b035864922e1f9/Saia_2012_Annual_Report.pdf "Quantifiable Analytics : Straight from the Source")
-
----
-
-![Saia, Inc : 2011 Annual Report](https://user-images.githubusercontent.com/50818414/89959039-768d2780-dc09-11ea-96ae-fca8892073b5.jpg)<br>
-[Link to Saia, Inc 2011 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/4M6d73qEcviGKIF2eMu4ro/130e6f2563346680b8b035864922e1f9/Saia_2012_Annual_Report.pdf "Quantifiable Analytics : Straight from the Source")
-
----
-
-##### [Saia, Inc : 2010 Annual Report](https://www.annualreports.com/HostedData/AnnualReportArchive/s/NASDAQ_SAIA_2010.pdf "Quantifiable Analytics that make dad gum sense.")
-
----
-
-
-![Saia, Inc : 2010 Annual Report](https://user-images.githubusercontent.com/50818414/89956466-3cb92280-dc03-11ea-9c21-fea34a8d3913.jpg "Full-year service in the single most impactful department in less-than-load industry; linehaul.")    
-[Link to : Saia, Inc 2010 Annual Report](https://www.annualreports.com/HostedData/AnnualReportArchive/s/NASDAQ_SAIA_2010.pdf "Quantifiable Analytics that make dad gum sense.")
+##### [Saia, Inc : 2011 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/4M6d73qEcviGKIF2eMu4ro/130e6f2563346680b8b035864922e1f9/Saia_2012_Annual_Report.pdf "Quantifiable Analytics : Straight from the Source") | [Saia, Inc : 2010 Annual Report](https://www.annualreports.com/HostedData/AnnualReportArchive/s/NASDAQ_SAIA_2010.pdf "Quantifiable Analytics that make dad gum sense.")    
+:---:|:---:    
+![Saia, Inc : 2011 Annual Report](https://user-images.githubusercontent.com/50818414/89959039-768d2780-dc09-11ea-96ae-fca8892073b5.jpg) | ![Saia, Inc : 2010 Annual Report](https://user-images.githubusercontent.com/50818414/89956466-3cb92280-dc03-11ea-9c21-fea34a8d3913.jpg "Full-year service in the single most impactful department in less-than-load industry; linehaul.")    
+[credit : Saia, Inc 2011 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/4M6d73qEcviGKIF2eMu4ro/130e6f2563346680b8b035864922e1f9/Saia_2012_Annual_Report.pdf "Quantifiable Analytics : Straight from the Source") | credit : [Saia, Inc : 2010 Annual Report](https://www.annualreports.com/HostedData/AnnualReportArchive/s/NASDAQ_SAIA_2010.pdf "Quantifiable Analytics that make dad gum sense.") | [Link to : Saia, Inc 2010 Annual Report](https://www.annualreports.com/HostedData/AnnualReportArchive/s/NASDAQ_SAIA_2010.pdf "Quantifiable Analytics that make dad gum sense.")    
 
 ---
 
@@ -264,10 +284,9 @@ rollout](https://www.youtube.com/watch?v=l3d6sJZ-mQ0 "most effective program ser
 Johns Creek, GA | Jul 2009 - Jul 2011    
 
 1. Regional travel providing Atlanta region Dock Ops Teams :   
-    - Training,  
-    - Mentoring,  
-    - Organizational dynamics at discretion of [Vice President of Line Haul](http://www.saiasecure.com/PressReleases/view.asp?id=270 "at the time Mr Bulick was Director of Linehaul").  
-2. Express appreciation for line and city drivers' :
+    - On-baord & training new team; working as point-of-contact between regional management and immediate manager to establish a relationship helping cohesion progress at an accelearated rate.
+    - Mentor peers while actively participating in group dialogue and virtual / remote discussions via email, internal message boards and forums designed for such cross-functional collaboration. 
+2. Develop inclusive practices to bridge the divide between line-haul and city drivers' :
     - In-house feedback and Human Resources identified a schism with : 
         1. Driver-to-dispatch.
         2. drivers to ATL dock Ops.
@@ -623,54 +642,63 @@ Virtual | Oct 2017 – Jan 2018
 
 ---
     
-`have a coke on me`     
+`comprehensive` `coursework`     
 
 ---
 
-MGS 4770 Service Operations Management | MGS 4760 Total Quality Management | MGS 4740 Operations Strategy
-:---|:---|---:
-MGS 4730 Project Management | MGS 4700 Operations Management | MGS 4500 Entrepreneurship / New Venture Management
-MK 4400 Distribution Management Consumer | MGS 4110 Analysis of Business Data | MGS 4120 Optimal Resource Allocation
-MGS 4000 Managerial Decision Making | MGS 4710 Analysis of Business Data | ACCT 4210 Cost/Managerial Accounting
-BCOM 3950 Business Communication and Professional Development | MGS 3400 Managing People in Organization | FI 3300 Corporation Finance
-MGS 3100 Business Analysis | CRJU 3100 Intro to Criminal Justice | MK 3010 Basic Marketing
-RE 3010 Real Estate Principles | BUSA 3000 Globalization and Business Practices | PHIL 2410 Critical Thinking
-CRJU 2200 Social Sciences & America's Criminology Problem  | BUSA 2106 Legal Environment of Business | ACCT 2102 Principles of Accounting II
-ACCT 2101 Principles of Accounting I | HIST 2110 Survey of US History | MATH 2101 Mathematical Modeling
-ECON 2106 Principles of Microeconomics | ECON 2105 Principles Of Macroeconomics | CIS 2010 Computer Information Systems 
-ECON 2100 The Global Economy | BIOL 1110K Human Anatomy & Phsyiology | BIOL 1101 Intro to Biology
-AH 1070 Survey of Art II | ENGL 2102 American Literature | MATH 1070 Elementary Statistics
-POLS 1101 American Government | ASTR 1001 Intro to Astronomy | SPCH 1000 Human Communication
+MGS 4770 Service Operations Management | MGS 4760 Total Quality Management    
+MGS 4740 Operations Strategy | MGS 4500 Entrepreneurship / New Venture Management
+:---|---:     
+MGS 4730 Project Management | MGS 4700 Operations Management    
+MK 4400 Distribution Management Consumer | MGS 4110 Analysis of Business Data    
+MGS 4120 Optimal Resource Allocation | MGS 4000 Managerial Decision Making
+MGS 4710 Analysis of Business Data | ACCT 4210 Cost/Managerial Accounting    
+BCOM 3950 Business Communication and Professional Development | MGS 3400 Managing People in Organization    
+FI 3300 Corporation Finance | MGS 3100 Business Analysis
+CRJU 3100 Intro to Criminal Justice | MK 3010 Basic Marketing    
+RE 3010 Real Estate Principles | BUSA 3000 Globalization and Business Practices    
+PHIL 2410 Critical Thinking | CRJU 2200 Social Sciences & America's Criminology Problem    
+BUSA 2106 Legal Environment of Business | ACCT 2102 Principles of Accounting II    
+ACCT 2101 Principles of Accounting I | HIST 2110 Survey of US History    
+MATH 2101 Mathematical Modeling | ECON 2106 Principles of Microeconomics
+ECON 2105 Principles Of Macroeconomics | CIS 2010 Computer Information Systems     
+ECON 2100 The Global Economy | BIOL 1110K Human Anatomy & Phsyiology    
+BIOL 1101 Intro to Biology | AH 1070 Survey of Art II   
+ENGL 2102 American Literature | MATH 1070 Elementary Statistics    
+POLS 1101 American Government | ASTR 1001 Intro to Astronomy    
+SPCH 1000 Human Communication | [Google Drive Root Folder](https://bit.ly/oudcollective "see record of success folder to further vet, if necessary.")     
 
 ---
 
 ### MOOC - Work 
-
----
 
 7 - 3 | 3 - 11 | 11 - 7    
 :---|:---:|---:
 
 ---
 
-Raising Capital | Creating the Conditions for Others to Thrive | Developing a Learning Mindset | Learning Data Science
-:---|:---|---:|---:
-Enhancing Your Productivity | Google My Business Basics | Growing Your Small Business with Linkedin | Pitching Yourself
-Marketing Your Side Hustle | OMCA Certification for Online Marketing Test | Managing Your Time | Purpose-Driven Sales
-Social Leadership | Teaching Technical Skills Through Video | Web Programming Foundations | Diversity & Inclusion in a Global Setting 
-Information Literacy | Learning From Failure | Learning to Teach Online | Logistics Foundations
-Using March Madness to Learn Data Science | Learning Infographic Design | Learning Rest API's | Marketing to Millennials 
-The Four Levels of Writing Mastery | Personal Branding on Social Media | Switching Your Career | UX Foundations: Content Strategy
-Web Development Foundations: Web Technologies | Gaining Skills with Linkedin Learning | Learning Brainstorming | Strategic Thinking
-Writing a Compelling Blog Post | Why are Opioids So Addictive (University South Florida) | Introduction to HTML, CSS, & Java | Web Development Foundations
+Raising Capital | Creating the Conditions for Others to Thrive | Developing a Learning Mindset     
+:---|:---|---:      
+Enhancing Your Productivity | Google My Business Basics | Growing Your Small Business    
+Marketing Your Side Hustle | OMCA Certification for Online Marketing Test | Managing Your Time    
+Social Leadership | Teaching Technical Skills Through Video | Web Programming Foundations    
+Information Literacy | Learning From Failure | Learning to Teach Online    
+Using March Madness to Learn Data Science | Learning Infographic Design | Learning Rest API's    
+Four Levels of Writing Mastery | Personal Branding on Social Media | Switching Your Career    
+Web Dev Foundations: Emerging Technologies | Gaining Skills with Linkedin Learning | Learning Brainstorming    
+Writing a Compelling Blog Post | Why are Opioids So Addictive (USF) | Content Strategy    
+Learning Data Science | Web Development Foundations | Pitching Yourself    
+Purpose-Driven Sales | Introduction to HTML | Strategic Thinking      
+Diversity & Inclusion in a Global Setting | Logistics Foundations | Marketing to Millennials   
+UX Foundations | Time Management | Learn Adobe In-design    
 
 ---
 
-## Skills
+## Skills    
 
 ---
 
-`at the intersection of everywhere`    
+`deep-dive`    
 
 ---
 
@@ -697,35 +725,35 @@ Supply Chain | Telephone Skills | Total Quality Management | Bottom-up Strategy 
 
 ---
 
-`dad can do datasets`
+`T.O.C` `TK`
 
 ---
 
-No # | Position | Employer | Physical Address | Start - End Date | (Promotion Y/N)    
-:---|:---|:---:|---:|:---|---:    
-1 | [Creative Strategist & Principal Chief of Operations](https://github.com/OUDcollective/Qualitative-Self#with-wind-llc "since 15NOV18; found clarity 10MAY19") | [with Wind, LLC](https://crunchbase.com/organization/chasing-the-wind-llc "On with Wind Crunchbase Profile") | Covington, GA | Nov 2018 - Present | N
-2 | [Logistics Coordinator](https://github.com/OUDcollective/Qualitative-Self#amazon-inc "temporary position : course of life pivot") | [Amazon Logistics](https://logistics.amazon.com/) | Stockbridge, GA | Oct 2017 - Feb 2018 | N
-3 | Maintenance & Landscape  | Pine Hills | Stockbridge, GA | Aug 2016 - Aug 2017 | Y  |
-4 | Self-employed (Freelance) | [Sub-Contract Work](https://google.com/search?q=c+brennan+poole+chasing+the+wind "Google SERP Footprint Establishment to help explain with Wind algorithmic understanding and associative-categorical theorizing using a closed network growth loop to make Wind actionable") | Stockbridge, GA | Feb 2014 - Jan 2017 | N
-5 | [Dispatch Supervisor](https://github.com/OUDcollective/Qualitative-Self#annex-freight-systems-inc "Contract position") | [Annex Freight Systems](http://www.annexfreight.com/ "contract work with former friend and mentor from Roadway Express, Inc 'first college less-than-load position working the dock and throwing boxes and tires") | Newnan, GA | March 2013 - Nov 2013 | N
-6 | [Terminal Operations Manager](https://github.com/OUDcollective/Qualitative-Self#saia-ltl-freight-inc "return to work prematurely causing 7 year hiatus from industry") | [Saia, Inc](https://www.youtube.com/watch?v=HhE8iuLYaBY "Look at Ellenwood Facility and the 226 door 400+ driver & associate operation on YouTube") | Ellenwood, GA | July 2011 - Feb 2013 | N
-7 | [Dispatch Supervisor](https://github.com/OUDcollective/Qualitative-Self#saia-ltl-freight-inc-1) | Saia, Inc | Johns Creek, GA | July 2009 - July 2011 | Y
-8 | [Operations Supervisor](https://github.com/OUDcollective/Qualitative-Self#saia-ltl-freight-inc-2) | Saia, Inc | Ellenwood, GA | March 2008 - July 2009 | Y
-9 | Operations / Office Manager | South County Masonry Inc | Venice, FL | May 2006 - Aug 2007 | NA
-10 | [Team Lead](https://github.com/OUDcollective/Qualitative-Self#teds-montana-grill) | Ted's Montana Grill | Midtown Atlanta, GA | Nov 2005 - May 2006 | Y
-11| [Trainer / FOH Manager](https://github.com/OUDcollective/Qualitative-Self#the-italian-oven) | Italian Oven | Stockbridge, GA | Dec 2003 - Jan 2005 | Y
-12 | Customer Service Associate II | [Lowe's Inc](https://lowes.com "Paint Department & Building Materials CSR II while studying at Georgia State's Robinson College of Business") | Stockbridge, GA - March 2003 | Nov 2003 | Y
-13 | Freight Handler | Roadway Express Inc | Atlanta, GA | Aug 2002-  Feb 2003 | Y
-14 | Umpire | RYBA (Youth Baseball Assoc. Rockdale County) | Conyers, GA | May 2000 - May 2001 | NA
-15 | Secretarial Assistant | [Richard H. Ramsey IV, Esquire](https://lawyers.findlaw.com/profile/view/2767034_1 "Work-study while at Northview High School Junior Year; and yes moved alot, allowing me to have a comprehensive, diverse, objective understanding of the educational institution that is in US") | Dothan, AL | Nov 2000 - May 2000 | NA
-16 | Back of House | City Slickers, LLC | Conyers, GA | January 1999 - May 2001 | NA
-17 | Innocence of Youth | American Dreamer | Historic Heartland of Georgia, US & Greater Metro Atlanta area | May 1983 - TBD | 😉
+No # | Position | Employer | Physical Address | Start - End Date
+:---|:---|:---:|---:|---:
+1 | [Creative Strategist & Principal Chief of Operations](https://github.com/OUDcollective/Qualitative-Self#with-wind-llc "since 15NOV18; found clarity 10MAY19") | [with Wind, LLC](https://crunchbase.com/organization/chasing-the-wind-llc "On with Wind Crunchbase Profile") | Covington, GA | Nov 2018 - Present     
+2 | [Logistics Coordinator](https://github.com/OUDcollective/Qualitative-Self#amazon-inc "temporary position : course of life pivot") | [Amazon Logistics](https://logistics.amazon.com/) | Stockbridge, GA | Oct 2017 - Feb 2018
+3 | Maintenance & Landscape  | Pine Hills | Stockbridge, GA | Aug 2016 - Aug 2017   
+4 | Self-employed (Freelance) | [Sub-Contract Work](https://google.com/search?q=c+brennan+poole+chasing+the+wind "Google SERP Footprint Establishment to help explain with Wind algorithmic understanding and associative-categorical theorizing using a closed network growth loop to make Wind actionable") | Stockbridge, GA | Feb 2014 - Jan 2017    
+5 | [Dispatch Supervisor](https://github.com/OUDcollective/Qualitative-Self#annex-freight-systems-inc "Contract position") | [Annex Freight Systems](http://www.annexfreight.com/ "contract work with former friend and mentor from Roadway Express, Inc 'first college less-than-load position working the dock and throwing boxes and tires") | Newnan, GA | March 2013 - Nov 2013      
+6 | [Terminal Operations Manager](https://github.com/OUDcollective/Qualitative-Self#saia-ltl-freight-inc "return to work prematurely causing 7 year hiatus from industry") | [Saia, Inc](https://www.youtube.com/watch?v=HhE8iuLYaBY "Look at Ellenwood Facility and the 226 door 400+ driver & associate operation on YouTube") | Ellenwood, GA | July 2011 - Feb 2013    
+7 | [Dispatch Supervisor](https://github.com/OUDcollective/Qualitative-Self#saia-ltl-freight-inc-1) | Saia, Inc | Johns Creek, GA | July 2009 - July 2011     
+8 | [Operations Supervisor](https://github.com/OUDcollective/Qualitative-Self#saia-ltl-freight-inc-2) | Saia, Inc | Ellenwood, GA | March 2008 - July 2009    
+9 | Operations / Office Manager | South County Masonry Inc | Venice, FL | May 2006 - Aug 2007    
+10 | [Team Lead](https://github.com/OUDcollective/Qualitative-Self#teds-montana-grill) | Ted's Montana Grill | Midtown Atlanta, GA | Nov 2005 - May 2006     
+11| [Trainer / FOH Manager](https://github.com/OUDcollective/Qualitative-Self#the-italian-oven) | Italian Oven | Stockbridge, GA | Dec 2003 - Jan 2005     
+12 | Customer Service Associate II | [Lowe's Inc](https://lowes.com "Paint Department & Building Materials CSR II while studying at Georgia State's Robinson College of Business") | Stockbridge, GA - March 2003 | Nov 2003      
+13 | Freight Handler | Roadway Express Inc | Atlanta, GA | Aug 2002-  Feb 2003     
+14 | Umpire | RYBA (Youth Baseball Assoc. Rockdale County) | Conyers, GA | May 2000 - May 2001    
+15 | Secretarial Assistant | [Richard H. Ramsey IV, Esquire](https://lawyers.findlaw.com/profile/view/2767034_1 "Work-study while at Northview High School Junior Year; and yes moved alot, allowing me to have a comprehensive, diverse, objective understanding of the educational institution that is in US") | Dothan, AL | Nov 2000 - May 2000    
+16 | Back of House | City Slickers, LLC | Conyers, GA | January 1999 - May 2001    
+17 | Innocence of Youth | American Dreamer | Historic Heartland of Georgia, US & Greater Metro Atlanta area | May 1983 - TBD    
 
 ---
 
-### Comprehensive Learning & Development Overview    
+### Closer Look at Education 
 
-`lean on me` | `9 - 16` | `chronological order`    
+`Rolling Stone` | `Ramblin' Man` | `Time to Move On`    
 :---|:---:|---:
    
 ---
@@ -740,11 +768,11 @@ No | school | city | state | start | end | details | add'l
 3 | University of West Georgia | Carrollton | GA | Aug 2001 | May 2002 | Undergraduate Studies | Undecided 
 2 | Georgia State University / J Mack Robinson College of Business | Atlanta | GA | Aug 2002 | May 2006 | BBA | Operations Management   
 
-No 1 : `it's the real thing`<br>
+No 1 : However, `it's the real thing`<br>
 
 ---  
 
-####  Skills Assessment from Coca-Cola's Application Tracking Systems (ATS)
+####  Coca-Cola : Skills Assessment (from Application Tracking Systems (ATS))
 
 ---
 
