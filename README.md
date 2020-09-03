@@ -253,8 +253,6 @@ source credit : | [Google Query & SERP](https://google.com/search?q=what+are+six
 
 ```
 
-```
-
 7% gain in revenues + 1.1 (billion) to shareholders’ equity.
 
 ```
