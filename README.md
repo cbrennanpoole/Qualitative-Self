@@ -273,12 +273,12 @@ rollout](https://www.youtube.com/watch?v=l3d6sJZ-mQ0 "most effective program ser
 ##### [Saia, Inc : 2011 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/4M6d73qEcviGKIF2eMu4ro/130e6f2563346680b8b035864922e1f9/Saia_2012_Annual_Report.pdf "Quantifiable Analytics : Straight from the Source") | [Saia, Inc : 2010 Annual Report](https://www.annualreports.com/HostedData/AnnualReportArchive/s/NASDAQ_SAIA_2010.pdf "Quantifiable Analytics that make dad gum sense.")    
 :---:|:---:    
 ![Saia, Inc : 2011 Annual Report](https://user-images.githubusercontent.com/50818414/89959039-768d2780-dc09-11ea-96ae-fca8892073b5.jpg) | ![Saia, Inc : 2010 Annual Report](https://user-images.githubusercontent.com/50818414/89956466-3cb92280-dc03-11ea-9c21-fea34a8d3913.jpg "Full-year service in the single most impactful department in less-than-load industry; linehaul.")    
-[credit : Saia, Inc 2011 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/4M6d73qEcviGKIF2eMu4ro/130e6f2563346680b8b035864922e1f9/Saia_2012_Annual_Report.pdf "Quantifiable Analytics : Straight from the Source") | credit : [Saia, Inc : 2010 Annual Report](https://www.annualreports.com/HostedData/AnnualReportArchive/s/NASDAQ_SAIA_2010.pdf "Quantifiable Analytics that make dad gum sense.") | [Link to : Saia, Inc 2010 Annual Report](https://www.annualreports.com/HostedData/AnnualReportArchive/s/NASDAQ_SAIA_2010.pdf "Quantifiable Analytics that make dad gum sense.")    
+[credit : Saia, Inc 2011 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/4M6d73qEcviGKIF2eMu4ro/130e6f2563346680b8b035864922e1f9/Saia_2012_Annual_Report.pdf "Quantifiable Analytics : Straight from the Source") | credit : [Saia, Inc : 2010 Annual Report](https://www.annualreports.com/HostedData/AnnualReportArchive/s/NASDAQ_SAIA_2010.pdf "Quantifiable Analytics that make dad gum sense.")    
 
 ---
 
 #### Saia LTL Freight Inc    
-`Regional Linehaul Supervisor`    
+`REGIIONAL LINEHAUL SUPERVISOR`    
 Johns Creek, GA | Jul 2009 - Jul 2011    
 
 1. Regional travel providing Atlanta region Dock Ops Teams :   
@@ -287,7 +287,7 @@ Johns Creek, GA | Jul 2009 - Jul 2011
 2. Develop inclusive practices to bridge the divide between line-haul and city drivers' :
     - In-house feedback and Human Resources identified a schism with : 
         1. Driver-to-dispatch.
-        2. drivers to ATL dock Ops.
+        2. Drivers to ATL dock Ops.
 3. Foster a genuine working relationship with peers, subordinates, and executives : 
     - Active listening,
     - People Empowerment, 
@@ -333,21 +333,11 @@ Johns Creek, GA | Jul 2009 - Jul 2011
 
 ---
 
-##### [Saia, Inc : 2009 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/3IEwyWksjECWYpTIQV1hpz/81790563baaf3d59e58c1f4b12c4f473/Saia_2009_Annual_Report___10-K.pdf)
+[Saia, Inc : 2009 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/3IEwyWksjECWYpTIQV1hpz/81790563baaf3d59e58c1f4b12c4f473/Saia_2009_Annual_Report___10-K.pdf) | [Saia, Inc : 2008 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/5eLp57gLd4MTg6DQxj72Rb/a606477bdc8b4b38851a6ab130d4658f/Saia_2008_Annual_Report.pdf)    
+:---:|:---:    
 
----
-
-![Saia, Inc : 2009 Annual Report](https://user-images.githubusercontent.com/50818414/89959982-a3423e80-dc0b-11ea-88bf-8f2a3ffa49cf.jpg "Let's Git Actionable!")    
-[Link to : Saia, Inc : 2009 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/3IEwyWksjECWYpTIQV1hpz/81790563baaf3d59e58c1f4b12c4f473/Saia_2009_Annual_Report___10-K.pdf)
-
----
-
-##### [Saia, Inc : 2008 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/5eLp57gLd4MTg6DQxj72Rb/a606477bdc8b4b38851a6ab130d4658f/Saia_2008_Annual_Report.pdf)
-
----
-
-![Saia, Inc : 2008 Annual Report](https://user-images.githubusercontent.com/50818414/89961598-2c5b7480-dc10-11ea-92fe-035797dfab6d.jpg "Let's Git Quantifiable")    
-[Link to : Saia, Inc 2008 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/5eLp57gLd4MTg6DQxj72Rb/a606477bdc8b4b38851a6ab130d4658f/Saia_2008_Annual_Report.pdf)
+![Saia, Inc : 2009 Annual Report](https://user-images.githubusercontent.com/50818414/89959982-a3423e80-dc0b-11ea-88bf-8f2a3ffa49cf.jpg "Let's Git Actionable!") | ![Saia, Inc : 2008 Annual Report](https://user-images.githubusercontent.com/50818414/89961598-2c5b7480-dc10-11ea-92fe-035797dfab6d.jpg "Let's Git Quantifiable")    
+credit : [Saia, Inc 2008 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/5eLp57gLd4MTg6DQxj72Rb/a606477bdc8b4b38851a6ab130d4658f/Saia_2008_Annual_Report.pdf) | credit : [Saia, Inc : 2009 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/3IEwyWksjECWYpTIQV1hpz/81790563baaf3d59e58c1f4b12c4f473/Saia_2009_Annual_Report___10-K.pdf)     
 
 ---
 
@@ -419,13 +409,13 @@ Ellenwood, GA | Mar 2008 - Jul 2009
         
 ---
 
-##### Saia, Inc Operating Ratio for Time-of-tenure (emphasis again on team dynamics)
-
+##### [Saia, Inc Operating Ratio for Time-of-tenure](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf)    
+     
 ---
-
+     
 ![Saia, Inc. : Operating Ratio (2008-2013)](https://user-images.githubusercontent.com/50818414/89961638-5319ab00-dc10-11ea-95a2-63175100b6d2.png "Quantifiable Quandary of sorts 😉")    
 Taken from [Saia, Inc 2013 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf)
-
+    
 ---
 
 ### Other Work Experience 
