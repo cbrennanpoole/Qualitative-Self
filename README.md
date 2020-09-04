@@ -36,7 +36,7 @@
 
 ---
 
-`It's 5 O'clock Somewhere`
+`Actionable`
 
 ---
 
@@ -241,9 +241,29 @@ rollout](https://www.youtube.com/watch?v=l3d6sJZ-mQ0 "most effective program ser
 
 [Saia, Inc : 2011 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/4M6d73qEcviGKIF2eMu4ro/130e6f2563346680b8b035864922e1f9/Saia_2012_Annual_Report.pdf "Quantifiable Analytics : Straight from the Source") | [Saia, Inc : 2010 Annual Report](https://www.annualreports.com/HostedData/AnnualReportArchive/s/NASDAQ_SAIA_2010.pdf "Quantifiable Analytics that make dad gum sense.")    
 :---:|:---:    
-![Saia, Inc : 2011 Annual Report](https://user-images.githubusercontent.com/50818414/89959039-768d2780-dc09-11ea-96ae-fca8892073b5.jpg) | ![Saia, Inc : 2010 Annual Report](https://user-images.githubusercontent.com/50818414/89956466-3cb92280-dc03-11ea-9c21-fea34a8d3913.jpg "Full-year service in the single most impactful department in less-than-load industry; linehaul.")    
-[credit : Saia, Inc 2011 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/4M6d73qEcviGKIF2eMu4ro/130e6f2563346680b8b035864922e1f9/Saia_2012_Annual_Report.pdf "Quantifiable Analytics : Straight from the Source") | credit : [Saia, Inc : 2010 Annual Report](https://www.annualreports.com/HostedData/AnnualReportArchive/s/NASDAQ_SAIA_2010.pdf "Quantifiable Analytics that make dad gum sense.")    
-    
+![Saia, Inc : 2011 Annual Report](https://user-images.githubusercontent.com/50818414/89959039-768d2780-dc09-11ea-96ae-fca8892073b5.jpg)! | ![Saia, Inc : 2010 Annual Report](https://user-images.githubusercontent.com/50818414/89956466-3cb92280-dc03-11ea-9c21-fea34a8d3913.jpg "Full-year service in the single most impactful department in less-than-load industry; linehaul.")    
+[credit : Saia Inc.](https://saia.com/about-us "Top 10 Fortune Ranked lees-than-load freight & transportation carrier") | credit : [Saia Inc.](https://saia.com/awards "team awards reference : 2010 - 2014 cbrennanpoole service with company.")    
+
+```
+
+An Assignment! 
+
+```
+
+---
+
+> Be nimble about Lean Six Sigma – to get started, just remember the DMAIC high-level approach and create a document with the five steps outlined. For each step, think of the following points:    
+
+D: | Define: | What's the objective? Can you state it as a SMART one? Who will be involved or impacted? What is in or out of scope?
+:---|:---:|:---
+M: | Measure: | What are the data sources? Anything missing? Is it good quality data? Can you gain initial insight from this data without too much effort?
+A: | Analyze: | What are the correlations and patterns? This is where your analysis skills are truly put to work!
+I: | Improve: | Be creative, think about various solutions that balance the optimal/best solution vs. what is realistic given the constraints.
+C: | Control: | It's not over until you can report the impact of your work –be humble and remember improvement rarely come from a sudden 100% increase in something, but from small improvements to dozens of little things.    
+
+- source credit : | [Google Query & SERP](https://google.com/search?q=what+are+six-sigma+precepts"). [Lean Six-sigma for the Digital Analyst](https://online-behavior.com/analytics/lean-six-sigma "actionable too!"). [Online-behavior.com](https://online-behavior.com "Keep it simple, stupid.")     
+
+
 ---
 
 #### Saia LTL Freight Inc    
