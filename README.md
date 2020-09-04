@@ -144,23 +144,12 @@ party to maintain client satisfaction rating of above 98.5%.
 
 ---
 
-##### [Saia, Inc : 2013 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf)
-
----
-
-![Saia, Inc : 2013 Annual Report](https://user-images.githubusercontent.com/50818414/89960345-c9b4a980-dc0c-11ea-8086-635d76abb144.jpg "Let's Git Quantifiable")    
-[Link to : Saia, Inc 2013 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf)    
-
----
-
-##### [Saia, Inc : 2012 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/358zUazvTQNm3jaMkpABaj/8e03804738cbe0beccff5fef0a3824ab/Saia_2012_Annual_Report_and_Form_10-K_0.pdf)
-
----
-
-![Saia, Inc 2012 Annual Report](https://user-images.githubusercontent.com/50818414/89960478-22844200-dc0d-11ea-8539-22409451e39b.jpg)        
-[Link to : Saia, Inc : 2012 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/358zUazvTQNm3jaMkpABaj/8e03804738cbe0beccff5fef0a3824ab/Saia_2012_Annual_Report_and_Form_10-K_0.pdf)
-
----
+[Saia, Inc. 2013 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf) | [Saia, Inc. 2012 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/358zUazvTQNm3jaMkpABaj/8e03804738cbe0beccff5fef0a3824ab/Saia_2012_Annual_Report_and_Form_10-K_0.pdf)    
+:---:|:---:    
+![saia-inc-2013-annual-report -11-straight-quarters-improved-profitability-with-c-brennan-poole](https://user-images.githubusercontent.com/50818414/92198910-a9f75680-ee43-11ea-92df-ee8c63223e3d.png) | ![saia-inc-2012-annual-report-7-straight-quarters-improved-profitability-with-c-brennan-poole](https://user-images.githubusercontent.com/50818414/92198927-b4b1eb80-ee43-11ea-8791-ea8a0629f2e2.png)    
+credit : [Saia, Inc.](https://saia.com/about-us) | credit : [Saia, Inc.](https://saia.com/awards)
+     
+ ---    
 
 #### Saia LTL Freight Inc   
 `TERMINAL OPERATIONS MANAGER`     
