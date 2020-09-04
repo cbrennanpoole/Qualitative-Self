@@ -2,11 +2,9 @@
 
 ---
 
-## [On C Brennan Poole](https://crunchbase.com/person/c-brennan-poole "The growth - hack attack v.2.2 : aiming at the backend as it's where I belong. First, an algorithmic riddle : dropped the '-asey'. i.e. no more 'chasing'; do you want to go 'NASCAR racing'? It's 'verily verily' simple : Think Jot and Tittle")  
+## [c brennan poole](https://crunchbase.com/person/c-brennan-poole "The growth - hack attack v.2.2 : aiming at the backend as it's where I belong. First, an algorithmic riddle : dropped the '-asey'. i.e. no more 'chasing'; do you want to go 'NASCAR racing'? It's 'verily verily' simple : Think Jot and Tittle")  
 
----
-
-![C BRENNAN POOLE and the Qualitative-Self](https://user-images.githubusercontent.com/50818414/89961291-39c42f00-dc0f-11ea-9347-1c16c7da87bc.jpg "the gauses are made using Google Sheets and taken from the assessments used by indeed.com; as far as the ugly mug in the top right corner - those are my two nephews Hayden and Wyatt - and they are handsome thank you very much")
+![qualitatitve-definition-google-serp-assists-with-wind-and-c-brennan-poole](https://user-images.githubusercontent.com/50818414/92187310-6393fe80-ee27-11ea-90e1-a29d4578dda2.png "thanks for stopping in and feel free to fork, clone, or enlist for services")
 
 ---
 
@@ -14,7 +12,7 @@
 
 ---
 
-`Traditional Purview` 
+`format` `matters` 
 
 ---
 
