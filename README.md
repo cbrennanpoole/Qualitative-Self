@@ -4,19 +4,16 @@
 
 ## [c brennan poole](https://crunchbase.com/person/c-brennan-poole "The growth - hack attack v.2.2 : aiming at the backend as it's where I belong. First, an algorithmic riddle : dropped the '-asey'. i.e. no more 'chasing'; do you want to go 'NASCAR racing'? It's 'verily verily' simple : Think Jot and Tittle")  
 
-![qualitatitve-definition-google-serp-assists-with-wind-and-c-brennan-poole](https://user-images.githubusercontent.com/50818414/92187310-6393fe80-ee27-11ea-90e1-a29d4578dda2.png "thanks for stopping in and feel free to fork, clone, or enlist for services")
+![qualitatitve-definition-by-c-brennan-poole](https://user-images.githubusercontent.com/50818414/92188261-182f1f80-ee2a-11ea-8291-019f53f0fbd1.jpg "credit: cbrennanpoole with an adobe spark assist" )    
 
 ---
 
-### Résumé 
+### Résumé     
 
 ---
 
-`format` `matters` 
+`a more 'traditional' purview`
 
----
-
-Dark Theme Résumé | ATS Résumé    
 :---|---:
 [Dark Theme Résumé](https://bit.ly/Real-time-PDF-dark-theme "Google Docs Viewer : Material Design by the Google LLC inspired document") | [ATS - Résumé](https://bit.ly/ATS-Real-time-PDF "a less disruptive version; also Google Docs Viewer for downloadable copies please see below")    
 [Download the Dark Theme Résumé PDF](https://bit.ly/dark-theme-resume) | [Download ATS - Résumé PDF](https://bit.ly/twenty-20-CV "C Brennan Poole : Taurus : Lefty : Bottoms-Up Creative Strategist : Jot and Tittle Service Operations Manager")
@@ -29,8 +26,8 @@ Dark Theme Résumé | ATS Résumé
 
 ---
 
-![Preview of Heatmap on the Google Drive](https://user-images.githubusercontent.com/50818414/89962792-cbce3680-dc13-11ea-919d-40a6fc8b010e.jpg "inspiration from support.google on Heatmaps")     
-[Interactive CV on Google Sheets](https://bit.ly/The-Quantified-Self-twenty-20 "I thought I was onto something with this creation, as it turns out - the world wide web is truly a world wide abyss - unless you have ad-spend or take to plagiarizing to please the ATS, which I refuse to do anymore; this is my answer to the copycat tactics, however successful it is, it is TBD and a realtime journey; enjoy.")<br>
+![quantitative-definition-by-c-brennan-poole](https://user-images.githubusercontent.com/50818414/92188235-08174000-ee2a-11ea-8cab-28cfcc360607.jpg "credit: cbrennanpoole with an adobe spark assist")    
+[Interactive CV on Google Sheets](https://bit.ly/The-Quantified-Self-twenty-20 "enjoy")<br>
 
 ---
 
