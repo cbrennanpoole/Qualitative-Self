@@ -14,8 +14,9 @@
 
 `a more 'traditional' purview`
 
-:---|---:
+
 [Dark Theme Résumé](https://bit.ly/Real-time-PDF-dark-theme "Google Docs Viewer : Material Design by the Google LLC inspired document") | [ATS - Résumé](https://bit.ly/ATS-Real-time-PDF "a less disruptive version; also Google Docs Viewer for downloadable copies please see below")    
+:---|---:
 [Download the Dark Theme Résumé PDF](https://bit.ly/dark-theme-resume) | [Download ATS - Résumé PDF](https://bit.ly/twenty-20-CV "C Brennan Poole : Taurus : Lefty : Bottoms-Up Creative Strategist : Jot and Tittle Service Operations Manager")
 [Slideshare Dark Theme](https://www.slideshare.net/OUDCollective/c-brennan-poole-creative-ops-strategist-chasing-the-wind "7 years and 6 months : the amount of time it took to receive the only thing I ever asked of anyone; a single opportunity. Seized it! Talk soon!") | 🤔
 [The State Way CV ](https://www.slideshare.net/OUDCollective/caseybrennanpoolegeorgiastateuniversitybbaoperationsmanager "well sort of; I no longer subscribe to plagiarism tactics forced down on our throat by machines learning unconscious bias thru learned trait hate : call it what you want to call it; just don't call it anything less than what it is : A100") | ✌🏽
