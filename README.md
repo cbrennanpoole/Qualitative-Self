@@ -178,37 +178,16 @@ Ellenwood, GA | Jul 2011 - Feb 2013
     - Identify patterns to develop new due service schedules for linehaul,
     - Eliminate existing schedules by building dynamic loads to satellite (end) service centers.
     - Increase hiring efforts earlier in calendar year (Jan and Feb) to improve quality thru more effective training as well as cover seasonal up-tick in tonnage and vacation requests.    
-3. Implementation of : 
+3. **Implementation** of : 
     - [Lean-management]((https://google.com/search?=plean+management "hacking the SERP... It's that simple... and that complicated, unfortunate for me."), 
-        - [Lean Six-sigma precepts][Lean six-sigma for the digital analyst] https://online-behavior.com/analytics/lean-six-sigma "Leaan six-sigma precepts for the digital analyst")
-
-```
-
-An Assignment! 
-
-```
-
----
-
-> Be nimble about Lean Six Sigma – to get started, just remember the DMAIC high-level approach and create a document with the five steps outlined. For each step, think of the following points:    
-
-D: | Define: | What's the objective? Can you state it as a SMART one? Who will be involved or impacted? What is in or out of scope?
-:---|:---:|:---
-M: | Measure: | What are the data sources? Anything missing? Is it good quality data? Can you gain initial insight from this data without too much effort?
-A: | Analyze: | What are the correlations and patterns? This is where your analysis skills are truly put to work!
-I: | Improve: | Be creative, think about various solutions that balance the optimal/best solution vs. what is realistic given the constraints.
-C: | Control: | It's not over until you can report the impact of your work –be humble and remember improvement rarely come from a sudden 100% increase in something, but from small improvements to dozens of little things.    
-source credit : | [Google Query & SERP](https://google.com/search?q=what+are+six-sigma+precepts") [`Six-sigma precepts`] | [Online-behavior.com](https://online-behavior.com)    . [Lean Six-sigma for the Digital Analyst](https://online-behavior.com/analytics/lean-six-sigma "actionable too!").     
-
----
-
-4. Collaborate to institute :
+        - (Lean Six-sigma precepts) https://online-behavior.com/analytics/lean-six-sigma "Lean six-sigma for the digital analyst")    
+4. **Collaborate** to institute :
     - Just-in-time (J.I.T.) workflow process. 
     - Foster culture change on yard by establishing accountability as a KPI.
-5. Design-think :
+5. **Design-think** :
     - Re-position the Atlanta Dock Ops stand : 
         1. Affix (central) dock-stand to an area conducive to operations efficiency and continuous improvement as opposed to accessibility for supervisory staff.
-    - Support :
+    - **Support** :
         1. Regional management by : 
             - Improving shareholders' equity through reduction in the Operating Ratio (OR); key driver for company-wide mandatory attendance of quarterly meetings. 
                 1. Articulate the bottom-up view & 
@@ -216,12 +195,12 @@ source credit : | [Google Query & SERP](https://google.com/search?q=what+are+six
                     - as a means to serve as a : 
                         1. Liaision for the employees who needed to be heard by upper management and : 
                         2. Catylyst for sustainable growth at quarterly meetings.
-    - Encourage a unified mindset; helping to further achieve the goal of 
+    - **Encourage** unified mindset; helping to further achieve the goal of 
         1. Always on A / B testing,
         2. Real - time human resources establishing a body of 
             - Continuous Integration and 
             - Continuous Improvement.
-7. Craft operations strategy aligning organizational vision with Atlanta Dock Ops daily game plan.
+7. **Craft** operations strategy aligning organizational vision with Atlanta Dock Ops daily game plan.
     - 1st day introduction issued a challenge to perform as one unit and team. 
         1. Issuance of a command to excellence.
         2. Demand accountability thru job ownership. 
@@ -230,39 +209,33 @@ source credit : | [Google Query & SERP](https://google.com/search?q=what+are+six
                 - feedback; commiting to resolve : 
                     1. Pre-existing issues and any
                     2. Future questions of concern. 
-8. Identify & analyze underlying issues that were negatively affecting the workforce thru : 
-    - Active listening  :
+8. **Identify & analyze** underlying issues that were negatively affecting the workforce thru : 
+    - *Active listening*  :
         1. Individual &,  
         2. Group 
-    - Empathy : 
+    - *Empathy* : 
         1. User -or- human-centered approach to problem solving & human psychology.  
-9. Reverse engineer the `algorithm` with a `fail-big` perspective. 
-    - Continuous improvement mindset; which required an almost always-on and responsive presence thru the change management process. 
-10. End Results : 
+9. **Reverse engineer** the `algorithm` with a `fail-big` perspective. 
+    - *Continuous improvement mindset**; which required an almost always-on and responsive presence thru the change management process. 
+10. **End Results** : 
 
 ```
 
-177% increase in Earnings per Share equaling $1.94 or 
-
-
-```
-
-```
-
+177% increase in Earnings per Share equaling $1.94 or    
 7% gain in revenues + 1.1 (billion) to shareholders’ equity.
 
 ```
 
-11. Spearhead company’s inaugural [dock-to-driver campaign](https://www.youtube.com/watch?v=-mG5veBWS00&t=4s "YouTube video from Atlanta Dock as ATL is their flaship terminal and all rollouts literally rollout of Atlanta") to establish a sustainable competitive advantage.
+11. **Spearhead** company’s inaugural [dock-to-driver campaign](https://www.youtube.com/watch?v=-mG5veBWS00&t=4s "YouTube video from Atlanta Dock as ATL is their flaship terminal and all rollouts literally rollout of Atlanta") to establish a sustainable competitive advantage.
 12. Institute total process overhaul with the [Quality MattersTM campaign](https://www.youtube.com/watch?v=nPTt37YGdH4&list=PL7R4Ra-1Mrclih8qRlT9Z0ExjtdX_8vnm&index=2&t=3s "Atlanta dock is the flagship terminal and is an iterative environment as all programs roll-out thru that facility").
-13. Integrate a continuous improvement model using best-in-class business practices featuring : 
-    - Concept of pinwheeling and,
-    - Multi-stop dynamic loading of regions satellite facilities (satellite : anything due within approx. 150 miles of Atlanta). 
-    - Focus all meetings, instituting the return to the pre-shift `huddle` to discuss Why `Quality Matters`? (above all; which safe working conditions is a cornerstone of) campaign,
-    - Adherence to safety standard operating procedures (SOP),
-14. Support IT, Sales, and the Weight & Research team with the [freight dimensioner technology : a national
+13. **Integrate** a continuous improvement model using best-in-class business practices featuring : 
+    - *Concept* of pinwheeling and,
+    - *Multi-stop** dynamic loading of regions satellite facilities (satellite : anything due within approx. 150 miles of Atlanta). 
+    - *Focus* all meetings, instituting the return to the pre-shift `huddle` to discuss Why `Quality Matters`? (above all; which safe working conditions is a cornerstone of) campaign,
+    - *Adherence* to safety standard operating procedures (SOP),
+14. **Support** IT, Sales, and the Weight & Research team with the [freight dimensioner technology : a national
 rollout](https://www.youtube.com/watch?v=l3d6sJZ-mQ0 "most effective program serving as calalyst to overhaul and driver of quality helping reduce operating ratio").
-15. Deliver Top 10 Fortune LTL ranking resulting from implementation and continued success of above processes.
+15. **Deliver** Top 10 Fortune LTL ranking resulting from implementation and continued success of above processes.
          
 ---    
 
