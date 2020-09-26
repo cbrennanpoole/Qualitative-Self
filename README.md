@@ -554,15 +554,15 @@ THE STATE WAY | RCB | GEORGIA STATE PANTHERS
 
 ---
 
-MGS 4770 Service Operations Management | MGS 4760 Total Quality Management    
-MGS 4740 Operations Strategy | MGS 4500 Entrepreneurship / New Venture Management
+MGS 4770 Service Operations Management | MGS 4760 Total Quality Management      
 :---|---:     
+MGS 4740 Operations Strategy | MGS 4500 Entrepreneurship / New Venture Management    
 MGS 4730 Project Management | MGS 4700 Operations Management    
 MK 4400 Distribution Management Consumer | MGS 4110 Analysis of Business Data    
 MGS 4120 Optimal Resource Allocation | MGS 4000 Managerial Decision Making
 MGS 4710 Analysis of Business Data | ACCT 4210 Cost/Managerial Accounting    
-BCOM 3950 Business Communication and Professional Development | MGS 3400 Managing People in Organization    
-FI 3300 Corporation Finance | MGS 3100 Business Analysis
+BCOM 3950 Business Communication and Professional Development | MGS 3400 Managing People in Organization       
+FI 3300 Corporation Finance | MGS 3100 Business Analysis     
 CRJU 3100 Intro to Criminal Justice | MK 3010 Basic Marketing    
 RE 3010 Real Estate Principles | BUSA 3000 Globalization and Business Practices    
 PHIL 2410 Critical Thinking | CRJU 2200 Social Sciences & America's Criminology Problem    
@@ -574,8 +574,8 @@ ECON 2100 The Global Economy | BIOL 1110K Human Anatomy & Phsyiology
 BIOL 1101 Intro to Biology | AH 1070 Survey of Art II   
 ENGL 2102 American Literature | MATH 1070 Elementary Statistics    
 POLS 1101 American Government | ASTR 1001 Intro to Astronomy    
-SPCH 1000 Human Communication | [Google Drive Root Folder](https://bit.ly/oudcollective "see record of success folder to further vet, if necessary.")     
-
+SPCH 1000 Human Communication | [Google Drive Root Folder](https://bit.ly/oudcollective "see record of success folder to further vet, if necessary.")       
+       
 ---
 
 ### MOOC - Work 
@@ -591,8 +591,8 @@ Raising Capital | Creating the Conditions for Others to Thrive | Developing a Le
 Enhancing Your Productivity | Google My Business Basics | Growing Your Small Business    
 Marketing Your Side Hustle | OMCA Certification for Online Marketing Test | Managing Your Time    
 Social Leadership | Teaching Technical Skills Through Video | Web Programming Foundations    
-Information Literacy | Learning From Failure | Learning to Teach Online    
-Using March Madness to Learn Data Science | Learning Infographic Design | Learning Rest API's    
+Information Literacy | Learning From Failure | Learning to Teach Online     
+Using March Madness to Learn Data Science | Learning Infographic Design | Learning Rest API's      
 Four Levels of Writing Mastery | Personal Branding on Social Media | Switching Your Career    
 Web Dev Foundations: Emerging Technologies | Gaining Skills with Linkedin Learning | Learning Brainstorming    
 Writing a Compelling Blog Post | Why are Opioids So Addictive (USF) | Content Strategy    
@@ -632,23 +632,22 @@ Word | Powerpoint | Excel | Project | Python
 
 No # | Position | Employer | Physical Address | Start - End Date
 :---|:---|:---:|---:|---:
-1 | [Creative Strategist & Principal Chief of Operations](https://github.com/OUDcollective/Qualitative-Self#with-wind-llc "since 15NOV18; found clarity 10MAY19") | [with Wind, LLC](https://crunchbase.com/organization/chasing-the-wind-llc "On with Wind Crunchbase Profile") | Covington, GA | Nov 2018 - Present     
-2 | [Logistics Coordinator](https://github.com/OUDcollective/Qualitative-Self#amazon-inc "temporary position : course of life pivot") | [Amazon Logistics](https://logistics.amazon.com/) | Stockbridge, GA | Oct 2017 - Feb 2018
-3 | Maintenance & Landscape  | Pine Hills | Stockbridge, GA | Aug 2016 - Aug 2017   
-4 | Self-employed (Freelance) | [Sub-Contract Work](https://google.com/search?q=c+brennan+poole+chasing+the+wind "Google SERP Footprint Establishment to help explain with Wind algorithmic understanding and associative-categorical theorizing using a closed network growth loop to make Wind actionable") | Stockbridge, GA | Feb 2014 - Jan 2017    
-5 | [Dispatch Supervisor](https://github.com/OUDcollective/Qualitative-Self#annex-freight-systems-inc "Contract position") | [Annex Freight Systems](http://www.annexfreight.com/ "contract work with former friend and mentor from Roadway Express, Inc 'first college less-than-load position working the dock and throwing boxes and tires") | Newnan, GA | March 2013 - Nov 2013      
-6 | [Terminal Operations Manager](https://github.com/OUDcollective/Qualitative-Self#saia-ltl-freight-inc "return to work prematurely causing 7 year hiatus from industry") | [Saia, Inc](https://www.youtube.com/watch?v=HhE8iuLYaBY "Look at Ellenwood Facility and the 226 door 400+ driver & associate operation on YouTube") | Ellenwood, GA | July 2011 - Feb 2013    
-7 | [Dispatch Supervisor](https://github.com/OUDcollective/Qualitative-Self#saia-ltl-freight-inc-1) | Saia, Inc | Johns Creek, GA | July 2009 - July 2011     
-8 | [Operations Supervisor](https://github.com/OUDcollective/Qualitative-Self#saia-ltl-freight-inc-2) | Saia, Inc | Ellenwood, GA | March 2008 - July 2009    
+1 | [Creative Strategist & Principal Chief of Operations](https://github.com/OUDcollective/Qualitative-Self#with-wind-llc "since 15NOV18; found clarity 10MAY19") | [with Wind, LLC](https://crunchbase.com/organization/chasing-the-wind-llc "On with Wind Crunchbase Profile") | Covington, GA | 2018 - Present     
+2 | [Logistics Coordinator](https://github.com/OUDcollective/Qualitative-Self#amazon-inc "temporary position : course of life pivot") | [Amazon Logistics](https://logistics.amazon.com/) | Stockbridge, GA | 2017 - 2018
+3 | Maintenance & Landscape  | Pine Hills | Stockbridge, GA | 2016 - 2017   
+4 | Self-employed (Freelance) | [Sub-Contract Work](https://google.com/search?q=c+brennan+poole+chasing+the+wind "Google SERP Footprint Establishment to help explain with Wind algorithmic understanding and associative-categorical theorizing using a closed network growth loop to make Wind actionable") | Stockbridge, GA | 2014 - 2017    
+5 | [Dispatch Supervisor](https://github.com/OUDcollective/Qualitative-Self#annex-freight-systems-inc "Contract position") | [Annex Freight Systems](http://www.annexfreight.com/ "contract work with former friend and mentor from Roadway Express, Inc 'first college less-than-load position working the dock and throwing boxes and tires") | Newnan, GA | 2013 - 2013      
+6 | [Terminal Operations Manager](https://github.com/OUDcollective/Qualitative-Self#saia-ltl-freight-inc "return to work prematurely causing 7 year hiatus from industry") | [Saia, Inc](https://www.youtube.com/watch?v=HhE8iuLYaBY "Look at Ellenwood Facility and the 226 door 400+ driver & associate operation on YouTube") | Ellenwood, GA | 2011 - 2013    7 | [Dispatch Supervisor](https://github.com/OUDcollective/Qualitative-Self#saia-ltl-freight-inc-1) | Saia, Inc | Johns Creek, GA | 2009 - 2011     
+8 | [Operations Supervisor](https://github.com/OUDcollective/Qualitative-Self#saia-ltl-freight-inc-2) | Saia, Inc | Ellenwood, GA | 2008 - 2009    
 9 | Operations / Office Manager | South County Masonry Inc | Venice, FL | May 2006 - Aug 2007    
-10 | [Team Lead](https://github.com/OUDcollective/Qualitative-Self#teds-montana-grill) | Ted's Montana Grill | Midtown Atlanta, GA | Nov 2005 - May 2006     
-11| [Trainer / FOH Manager](https://github.com/OUDcollective/Qualitative-Self#the-italian-oven) | Italian Oven | Stockbridge, GA | Dec 2003 - Jan 2005     
-12 | Customer Service Associate II | [Lowe's Inc](https://lowes.com "Paint Department & Building Materials CSR II while studying at Georgia State's Robinson College of Business") | Stockbridge, GA - March 2003 | Nov 2003      
-13 | Freight Handler | Roadway Express Inc | Atlanta, GA | Aug 2002-  Feb 2003     
-14 | Umpire | RYBA (Youth Baseball Assoc. Rockdale County) | Conyers, GA | May 2000 - May 2001    
+10 | [Team Lead](https://github.com/OUDcollective/Qualitative-Self#teds-montana-grill) | Ted's Montana Grill | Midtown Atlanta, GA | 2005 - 2006     
+11| [Trainer / FOH Manager](https://github.com/OUDcollective/Qualitative-Self#the-italian-oven) | Italian Oven | Stockbridge, GA | 2003 - 2005     
+12 | Customer Service Associate II | [Lowe's Inc](https://lowes.com "Paint Department & Building Materials CSR II while studying at Georgia State's Robinson College of Business") | Stockbridge, GA - 2003 | 2003      
+13 | Freight Handler | Roadway Express Inc | Atlanta, GA | 2002-  2003     
+14 | Umpire | RYBA (Youth Baseball Assoc. Rockdale County) | Conyers, GA | 2000 - 2001    
 15 | Secretarial Assistant | [Richard H. Ramsey IV, Esquire](https://lawyers.findlaw.com/profile/view/2767034_1 "Work-study while at Northview High School Junior Year; and yes moved alot, allowing me to have a comprehensive, diverse, objective understanding of the educational institution that is in US") | Dothan, AL | Nov 2000 - May 2000    
-16 | Back of House | City Slickers, LLC | Conyers, GA | January 1999 - May 2001    
-17 | Innocence of Youth | American Dreamer | Historic Heartland of Georgia, US & Greater Metro Atlanta area | May 1983 - TBD    
+16 | Back of House | City Slickers, LLC | Conyers, GA | 1999 - 2001    
+17 | Innocence of Youth | American Dreamer | Historic Heartland of Georgia, US & Greater Metro Atlanta area | 1983 - TBD    
 
 ---
 
