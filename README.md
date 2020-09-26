@@ -653,9 +653,10 @@ No # | Position | Employer | Physical Address | Start - End Date
 ---
 
 ### Closer Look at Education 
-`Rolling Stone` | `Ramblin' Man` | `Time to Move On`    
-:---|:---:|---:
-Mick | Duane | Tom     
+
+Rolling Stone | Ramblin' Man | Time to Move On    
+:---|:---:|---:      
+Mick | Duane | Tom         
 
 ---
 
