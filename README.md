@@ -62,9 +62,9 @@
 `CREATIVE STRATEGIST and PRINCIPAL CHIEF of OPERATIONS`    
 Covington, GA | Nov 2018 - Present    
 
-1. Received invitation from Executive Producer of [SXSW 2020 Pitch](https://docs.google.com/spreadsheets/d/1i23nUbKEccvqhnrTq8qfO9Y0vqb85VezkMIzTIjjP-k/edit?usp=sharing "with a 48 - hour deadline : Think.FailHuge Think.ContinuousImprovement inception with a 48-hour to deadline invite to apply.")
+1.  **Invitation from Executive Producer** of [SXSW 2020 Pitch](https://docs.google.com/spreadsheets/d/1i23nUbKEccvqhnrTq8qfO9Y0vqb85VezkMIzTIjjP-k/edit?usp=sharing "with a 48 - hour deadline : Think.FailHuge Think.ContinuousImprovement inception with a 48-hour to deadline invite to apply.")
 2. **Extend reach** to garner attention of [The United Nations](https://drive.google.com/file/d/1v3chrKnW2E2dnxMvnXHgXMsHmLyA_Jl5/view?usp=sharing "had to vet; but it's more than legit : again however - no 'chasing' with twenty - three attempts of encouragement trying to get with Wind all - in; reason for not 'chasing' `Legal entity : Chasing the Wind LLC` : `Team` —less; plus being recognized for a conceptual sustainable model while not being a sustainable entity felt like (and likely is) utter `hypocrisy") - Habitat in partnership with Dubai Municipality and UAE [International Awards for Best Practices in Sustainable Development](http://dubaiaward.ae/).
-3. Short-lists : 
+3. **Short-lists** : 
     - [Red Herring’s Top 100`](https://www.redherring.com/events/top-100/ "North American Tech Startups").
     - [`Inc 5000`; `annual publication`](https://www.inc.com/inc5000 "no chasing - plus they sought money"),
     - [Oak Labs. Silicon Valley accelerator](https://www.oakslab.com/)
@@ -72,16 +72,16 @@ Covington, GA | Nov 2018 - Present
     - [Gener8tor](https://www.gener8tor.com/ "There's reason why `the Wind` did not attempt to go after these; it's hard to articulate, have to hold out `Faith` it seems").
     - [The Venture City](https://theventure.city/en/) Accelerator.
     - [Angel Effect](https://angeleffect.co/). 
-4. Invite to be featured on 
-    - `[AMC Networks`](https://github.com/OUDcollective/Qualitative-Self/issues/30 "no `chasing` however...")
-        1. [`NewsWatch`](https://newswatchtv.com/about-us/ "sent 3 inquiries 20 Jun - 23, 2020")
-    - [Hatch Pitch](https://www.hatchpitch.com/ "maybe guilty of riding the SXSW 2020 Pitch invite and 'chasing this one; did take part in the actual event as an invite & voting participant").
+4. **Invite for feature**:    
+    - [AMC Networks](https://github.com/OUDcollective/Qualitative-Self/issues/30 "no chasing...")
+        1. [NewsWatch](https://newswatchtv.com/about-us/ "sent 3 inquiries 20 Jun - 23, 2020")
+    - [Hatch Pitch](https://www.hatchpitch.com/ "maybe guilty of riding the SXSW 2020 Pitch invite and 'chasing this one; did take part in the actual event as an invite & voting participant") invite to participate in 1st virtual pitch event (Spring '20; great learning experience).
     - Invite to [GovCity III](https://govcity.com) cohort for [SXSW 2020](https://sxsw.com "South by Southwest is an annual conglomeration of parallel film, interactive media, and music festivals and conferences organized jointly that take place in mid-March in Austin, Texas, United States and 2nd invite to startup festival"). 
-5. Chief Executive of [dribbble](https://dribbble.com/C-Brennan-Poole/about "one look at the Wind posts will show we're clearly not really all that design - friendly ; at least we weren't as yet until"); Zack Onisko, drafts to platform; as non-designer and like-minded growth - hack.
-6. Recepient of **Sustainable Impact Award** by [Climate Collaborative](https://climatecollaborative.org "Recognition in Sustainability was set for Anaheim, CA on Climate day (COVID-19 N. American quarantine caused cancellation"). 
-8. Achieve [Popular on Pinterest](https://www.pinterest.com/withWindllc "categorical associative algorithmic theory : proven success 500,000 + views / month ( average 02/2020 - 06/2020; Drive engagement analytics over 50% growth month-over-month (Feb and Mar 2020) attaining > 2.5 million / impressions past 90 days Apr - Jul '20 +300% increase of actionable engaged audience").
-9. Establish +9.5% engagement rate on [LinkedIn with Wind Company Page](https://linkedin.com/the-wind "Deliver 4,000% growth YOY Jan 2019 - Jan 2020 Increase followers + 750% (July '20) As of August 2020 450 Followers"). 
-    - Sustainable impact YOY holding the average.
+5. **Chief Executive** of [dribbble](https://dribbble.com/C-Brennan-Poole/about "one look at the Wind posts will show we're clearly not really all that design - friendly ; at least we weren't until the day Onisko would nudge me toward human-centered design-thinkning"); Zack Onisko, drafts to design platform;.
+6. **Sustainable Impact Award** by [Climate Collaborative](https://climatecollaborative.org "Recognition in Sustainability was set for Anaheim, CA on Climate day (COVID-19 N. American quarantine caused cancellation") 2020. 
+8. [Popular on Pinterest](https://www.pinterest.com/withWindllc "categorical associative algorithmic theory : proven success 500,000 + views / month ( average 02/2020 - 06/2020; Drive engagement analytics over 50% growth month-over-month (Feb and Mar 2020) attaining > 2.5 million / impressions past 90 days Apr - Jul '20 +300% increase of actionable engaged audience") sustainable presence; over quarter million monthly hits YOY median avg.
+9. **Establish +9.5% engagement rate** on [LinkedIn with Wind Company Page](https://linkedin.com/the-wind "Deliver 4,000% growth YOY Jan 2019 - Jan 2020 Increase followers + 750% (July '20) As of August 2020 450 Followers"). 
+    - *Sustainable impact YOY maintaining average*.
 10. **Google Cloud for Startups** 
     - [Google Cloud Next Participant starting 14 July, 2020](https://g.co/cloudnext "free to register and participate; i have thousands to spend, let's talk!").
         1. Leadership Participant.
@@ -139,64 +139,66 @@ Ellenwood, GA | Jul 2011 - Feb 2013
     - **Identify patterns** to develop new due service schedules for linehaul,
     - **Eliminate existing** schedules by building dynamic loads to satellite (end) service centers.
     - **Increase hiring efforts** earlier in calendar year (Jan and Feb) to improve quality thru more effective training as well as cover seasonal up-tick in tonnage and vacation requests.    
-3. **Implementation** of : 
+3. **Implement** : 
     - [Lean-management]((https://google.com/search?=plean+management "hacking the SERP... It's that simple... and that complicated, unfortunate for me."), 
         - [Lean Six-sigma precepts](https://online-behavior.com/analytics/lean-six-sigma "Lean six-sigma for the digital analyst")    
 4. **Collaborate** to institute :
-    - **Just-in-time** (J.I.T.) workflow process. 
-5. **Design-think** :
-    - Re-position the Atlanta Dock Ops stand : 
-        1. Affix (central) dock-stand to an area conducive to operations efficiency and continuous improvement as opposed to accessibility for supervisory staff.
-    - **Support** :
-        1. Regional management by : 
-            - **Improving shareholders' equity** through reduction in the Operating Ratio (OR); key driver for company-wide mandatory attendance of quarterly meetings. 
-                1. Articulate bottom-up view perspective.  
-                    - as means to serve as a : 
-                        1. **Liaision** for the employees who needed to be heard by upper management and : 
-                        2. **Catylyst** for sustainable growth at quarterly meetings.
-6. **Craft** operations strategy aligning organizational vision with Atlanta Dock Ops daily game plan.
-    - 1st day introduction issued a challenge to perform as one unit and team. 
-        1. Command to excellence.
-        2. Demand accountability thru job ownership. 
-        3. Assurance to return to always open door management policy. 
-            - Address all requests, & provide feedback; commiting to resolve : 
-                1. Pre-existing issues and any
-                2. Future questions of concern. 
-8. **Identify & analyze** underlying issues that were negatively affecting the workforce thru : 
+    - **Just-in-time** (J.I.T.) *workflow process*. 
+5. **Design-thinking* :
+    - Re-position Atlanta Central Dock-stand : 
+        1. Affix central dock back to the center of the dock. Improving : 
+            - Accessibility.
+            - Employee Morale. 
+            - Productivity. 
+            - On-time : 
+                1. Close.
+                2. Dispatch.
+                3. Arrivals. 
+6. **Support Regional Management Objectives** :  
+    - **Improving shareholders' equity** through reduction in the Operating Ratio (OR); key driver for company-wide mandatory attendance of quarterly meetings. 
+        1. Articulate bottom-up view perspective :
+            - **Liaision** for the employees who needed to be heard by upper management and : 
+            - **Catylyst** for sustainable growth at quarterly meetings.
+7. **Craft operations strategy** *aligning organizational vision with Atlanta Dock Ops daily game plan*.
+    - **1st day introduction issuuance of challenge to perform** :
+        1. **Command** to excellence.
+        2. **Demand** accountability thru job ownership. 
+        3. **Assure** a return to always open door management policy. 
+8. **Identify & analyze underlying issues** *negatively affecting the workforce* : 
     - **Active listening**  :
         1. Individual &,  
         2. Group 
     -  **Empathy** : 
         1. User -or- human-centered approach to problem solving & human psychology.  
-9. **Reverse engineer** the `algorithm` with a `fail-big` perspective. 
-    - *Continuous improvement mindset**; which required an almost always-on and responsive presence thru the change management process. 
-10. **End Results** : 
+9. **End Results** (*Corporate Level Perspective*): 
 
 ```
 
-177% increase in Earnings per Share equaling $1.94 or    
-7% gain in revenues + 1.1 (billion) to shareholders’ equity.
+177% increase in Earnings per Share equaling     
+$1.94 or     
+7% gain in revenues    
++ 1.1 (billion) to shareholders’ equity.
 
 ```
 
-11. **Spearhead** company’s inaugural [dock-to-driver campaign](https://www.youtube.com/watch?v=-mG5veBWS00&t=4s "YouTube video from Atlanta Dock as ATL is their flaship terminal and all rollouts literally rollout of Atlanta") to establish a sustainable competitive advantage.
-12. **Institute total process overhaul** with     
-[!Quality MattersTM campaign](https://www.youtube.com/watch?v=nPTt37YGdH4&list=PL7R4Ra-1Mrclih8qRlT9Z0ExjtdX_8vnm&index=2&t=3s "Atlanta dock is the flagship terminal and is an iterative environment as all programs roll-out thru that facility").
-13. **Integrate** a continuous improvement model using best-in-class business practices featuring : 
+10. **Spearhead company’s inaugural** [dock-to-driver campaign](https://www.youtube.com/watch?v=-mG5veBWS00&t=4s "YouTube video from Atlanta Dock as ATL is their flaship terminal and all rollouts literally rollout of Atlanta") *to establish a sustainable competitive advantage*.
+11. **Institute total process overhaul** thru the
+[!Quality Matters campaign](https://www.youtube.com/watch?v=nPTt37YGdH4&list=PL7R4Ra-1Mrclih8qRlT9Z0ExjtdX_8vnm&index=2&t=3s "Atlanta dock is the flagship terminal and is an iterative environment as all programs roll-out thru that facility").
+12. **Integrate continuous improvement model** *using best-in-class business practices featuring* : 
     - *Concept* of pinwheeling and,
     - *Multi-stop** dynamic loading of regions satellite facilities (satellite : anything due within approx. 150 miles of Atlanta). 
     - *Focus* all meetings, instituting the return to the pre-shift `huddle` to discuss Why `Quality Matters`? (above all; which safe working conditions is a cornerstone of) campaign,
-    - *Adherence* to safety standard operating procedures (SOP),
-14. **Support** IT, Sales, and the Weight & Research team with the [freight dimensioner technology : a national
+    - *Adhere* to safety standard operating procedures (SOP),
+13. **Support** *IT, Sales, and the Weight & Research team with* [freight dimensioner technology & national, corporate
 rollout](https://www.youtube.com/watch?v=l3d6sJZ-mQ0 "most effective program serving as calalyst to overhaul and driver of quality helping reduce operating ratio").
-15. **Deliver** Top 10 Fortune LTL ranking resulting from implementation and continued success of above processes.
+14. **Deliver** Top 10 Fortune LTL ranking resulting from implementation and continued success of above processes.
          
 ---    
 
 [Saia, Inc : 2011 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/4M6d73qEcviGKIF2eMu4ro/130e6f2563346680b8b035864922e1f9/Saia_2012_Annual_Report.pdf "Quantifiable Analytics : Straight from the Source") | [Saia, Inc : 2010 Annual Report](https://www.annualreports.com/HostedData/AnnualReportArchive/s/NASDAQ_SAIA_2010.pdf "Quantifiable Analytics that make dad gum sense.")    
 :---:|:---:    
 ![Saia, Inc : 2011 Annual Report](https://user-images.githubusercontent.com/50818414/89959039-768d2780-dc09-11ea-96ae-fca8892073b5.jpg)! | ![Saia, Inc : 2010 Annual Report](https://user-images.githubusercontent.com/50818414/89956466-3cb92280-dc03-11ea-9c21-fea34a8d3913.jpg "Full-year service in the single most impactful department in less-than-load industry; linehaul.")    
-[credit : Saia Inc.](https://saia.com/about-us "Top 10 Fortune Ranked lees-than-load freight & transportation carrier") | credit : [Saia Inc.](https://saia.com/awards "team awards reference : 2010 - 2014 cbrennanpoole service with company.")    
+crediti : [Saia Inc.](https://saia.com/about-us "Top 10 Fortune Ranked lees-than-load freight & transportation carrier") | credit : [Saia Inc.](https://saia.com/awards "team awards reference : 2010 - 2014 cbrennanpoole service with company.")    
 
 ```
 
@@ -206,16 +208,18 @@ An Assignment!
 
 ---
 
-> Be nimble about Lean Six Sigma – to get started, just remember the DMAIC high-level approach and create a document with the five steps outlined. For each step, think of the following points:    
+> Be nimble about Lean Six Sigma – to get started, just remember the DMAIC high-level approach and [create a document](https://bit.ly/withWind-DarkDoc "Google Docs Dark Theme with Wind LLC") with the below **five steps** outlined.   
 
-**D**: | Define: | What's the objective? Can you state it as a SMART one? Who will be involved or impacted? What is in or out of scope?
+For each step, think of the following points:    
+
+**D**: | **Define**: | What's the objective? Can you state it as a SMART one? Who will be involved or impacted? What is in or out of scope?
 :---|:---:|:---
-**M**: | Measure: | What are the data sources? Anything missing? Is it good quality data? Can you gain initial insight from this data without too much effort?
-**A**: | Analyze: | What are the correlations and patterns? This is where your analysis skills are truly put to work!
-**I**: | Improve: | Be creative, think about various solutions that balance the optimal/best solution vs. what is realistic given the constraints.
-**C**: | Control: | It's not over until you can report the impact of your work –be humble and remember improvement rarely come from a sudden 100% increase in something, but from small improvements to dozens of little things.    
+**M**: | **Measure**: | What are the data sources? Anything missing? Is it good quality data? Can you gain initial insight from this data without too much effort?
+**A**: | **Analyze**: | What are the correlations and patterns? This is where your analysis skills are truly put to work!
+**I**: | **Improve**: | Be creative, think about various solutions that balance the optimal/best solution vs. what is realistic given the constraints.
+**C**: | **Control**: | It's not over until you can report the impact of your work –be humble and remember improvement rarely come from a sudden 100% increase in something, but from small improvements to dozens of little things.    
 
-- source credit : | [Google Query & SERP](https://google.com/search?q=what+are+six-sigma+precepts"). [Lean Six-sigma for the Digital Analyst](https://online-behavior.com/analytics/lean-six-sigma "actionable too!"). [Online-behavior.com](https://online-behavior.com "Keep it simple, stupid.")     
+- credit : | [Google SERP](https://google.com/search?q=what+are+six-sigma+precepts"). [Lean Six-sigma for the Digital Analyst](https://online-behavior.com/analytics/lean-six-sigma "actionable too!"). [Online-behavior.com](https://online-behavior.com "Keep it simple, stupid.")     
 
 
 ---
@@ -227,11 +231,11 @@ Johns Creek, GA | Jul 2009 - Jul 2011
 1. Regional travel providing Atlanta region Dock Ops Teams :   
     - On-baord & training new team; working as point-of-contact between regional management and immediate manager to establish a relationship helping cohesion progress at an accelearated rate.
     - Mentor peers while actively participating in group dialogue and virtual / remote discussions via email, internal message boards and forums designed for such cross-functional collaboration. 
-2. **Develop inclusive practices** to bridge the divide between line-haul and city drivers' :
-    - In-house feedback and Human Resources identified a schism with : 
+2. **Develop inclusive practices** *to bridge divide between line-haul and city drivers'* :
+    - **NOTE**: In-house feedback and Human Resources identified a schism with : 
         1. Driver-to-dispatch.
         2. Drivers to ATL dock Ops.
-3. **Foster a genuine working relationship** with peers, subordinates, and executives : 
+3. **Foster authentic work relations** *with peers, subordinates, and executives* : 
     - **Active listening**,
     - **People Empowerment**,
     - **Transformational leadership**.
@@ -239,36 +243,34 @@ Johns Creek, GA | Jul 2009 - Jul 2011
         1. Conflict resolution, 
         2. Call - offs, 
         3. Seniority standard work processes.
-4. **Build rapport** by establishing trust.
-5. Plan-to-cover :
+4. **Build rapport thru shared trust**.
+5. **Plan** :
     - Drivers : 
         1. Attain buy-in by drivers to adhere to SOP. 
         2. Acceptance of long-standing rules while not waivering or playing favorites.
-    - Honor time-off requests.
-6. Articulate expectations use clear and concise language all can relate with.
-7. Develop efficient, near autonomous workflow processes.
-8. Improve Regional Mgmt perspective : 
-    - Define clear expections : 
-        1. > 99.4% service standard.  
-            - Serving as catalyst to almost instant recognition.
-9. **Nurture growth** thru :    
-    - **Mentoring** Terminal Dock Ops Teams.    
+    - **Honor** time-off requests.
+6. **Articulate expectations** using clear and concise language.
+7. **Develop efficient**, *near autonomous workflow processes*.
+8. **Improve**Regional Mgmt perspective : 
+    - > 99.4% service standard.  
+10. **Nurture growth** thru :    
+    - **Mentoring** Terminal Dock Teams.    
         - **Sales Division***,     
             1. Specialized & Accelerated Shipping.
-            2.** Driversv.     
-            3. **Interline carriers **(3rd party).
-            4. **Customer Success Team**.
+            2. Drivers.     
+            3. Interline carriers (3rd party).
+            4. Customer Success Team.
                 - Regional Manageement.
                 - C-Suite.
 10. Produce environment conducive to excellence :      
-    - **Create consistency.
+    - Create consistency.
         - **Reduction of variables**.
         - **Identification of outliers**. 
             - Performaance improvement plan. 
             - Inform Linehaul planning of underlying (unaccounted for) issue (if any at all).
-    - **Identify benchmarks using key performance indicators** ( KPI ) that are understandable from all levels : 
-        1. **Assist team** in understanding `big picture`. 
-        2. **Importance of shared goals**.
+11. **Identify benchmarks using key performance indicators** ( KPI )  : 
+        1. Assist team** in understanding `big picture`. 
+        2. Importance of shared goals.
 
 ---
 
@@ -311,10 +313,10 @@ Ellenwood, GA | Mar 2008 - Jul 2009
                2. Begun to stagnate due to groupthink rather than 
                        - Thrive through collaboration as was the 
                        - Very prescription (placebo i.e. spoonful of sugar) Atl-Dock-Ops didn't know they were in need of. 
-5. Create fluid transition, 
-    - Encourage cross-functional collaboration : create a team dynamic; encouragin active participation from all parties. 
-    - Monitor freight levels : plan for incoming break tonnage and late arriving freight out of city.
-    - Audit national accounts : incessantly check for late arriving origin freight due service following morning. 
+5. **Create fluid transition**, 
+    - **Encourage cross-functional collaboration** : create a team dynamic; encouragin active participation from all parties. 
+    - **Monitor freight levels** : plan for incoming break tonnage and late arriving freight out of city.
+    - **Audit national accounts** : incessantly check for late arriving origin freight due service following morning. 
         - Lowe's Inc., 
         - Starbucks Coffee
         - Behr,
@@ -323,13 +325,9 @@ Ellenwood, GA | Mar 2008 - Jul 2009
         - Benjamin Moore,
         - Valspar Paints, 
         - Masterchem (Kilz) Paints.
-6. **Create seamless workflow** thru a shared daily crossover : 
-    - Walk zone : discussing variables & outliers.
-7. **Verify shipments** : all ATL origina picked up and in either loading or over-the-road.
-    - Brace : use best practices for guidance, 
-    - Pin-wheel skids : ensure a solid foundation of load from start to finish.
-8. **Verify zone ready** for cross-over :
-    - Fill internal work stations  : 
+6. **Verify shipments** : all ATL origin freight showing picked up and in either loading or over-the-road.
+7. **Verify zone ready** for cross-over :
+    - **Fill work stations**  : 
         1. Tools : in proper place.
         2. All loading Doors : chocked. blocked. & manifest ready.
         3. Equipment : count & status report reconciation. 
@@ -337,9 +335,6 @@ Ellenwood, GA | Mar 2008 - Jul 2009
 ---
 
 ##### [Saia, Inc Operating Ratio for Time-of-tenure](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf)    
-     
----
-     
 ![Saia, Inc. : Operating Ratio (2008-2013)](https://user-images.githubusercontent.com/50818414/89961638-5319ab00-dc10-11ea-95a2-63175100b6d2.png "Quantifiable Quandary of sorts 😉")    
 credit :  [Saia, Inc 2013 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf "with Wind creation")
     
@@ -356,7 +351,7 @@ Atlanta, GA  | Dec 2005 - May 2006
 1. **Implement suggestive sales** techniques; identifying customers preference thru human-centered conversational marketing design-thinking.
 2. **Offer custom tailored** insight to menu.
 3. **Ask open-ended questions** in a pleasant tone.
-4. **Encourage patrons to request services** the following week. 
+4. **Encourage** patrons to request services** the following week. 
 
 ---
 
@@ -380,101 +375,76 @@ Virtual | Oct 2017 – Jan 2018
 1. **Virtual work environment** encouraging active participation using various mediums to foster the team dynamic and engaging cross-functional teams in facilitating the construction of innovative problem resolution strategies.
 2. **Serve** as advocate for customer;
 3. **Field inbound calls** from Amazon Flex Delivery Partners; 
-4. **Map progress**. 
-5. **Navigate and troubleshoot variables**.
-6. **Guide, and encourage 100% successful delivery of Amazon goods and services**.
+4. **Navigate and troubleshoot** *variables*.
+5. **Guide and encourage** *100% successful delivery of Amazon goods and services*.
 
     
 ### Shared Awards : 
-`Teamwork` makes the `Dreamwork`    
+`Teamwork` *makes the* `Dreamwork`    
 
 ---
 
-#### [2013 ](https://www.saia.com/about-us/awards) TEAM AWARDS
-
----
-
-`Atlanta Dock` `Service Operations Manager`    
-1. Responsible Care® Partner of the Year 
-`—American Chemistry Council`    
-2. First Place for Safety in the "General Commodities LTL/Local Division" 
-`—American Trucking Associations Safety Management Council`
-3. Third Place for Safety in the "General Commodities LTL/Linehaul Division" 
+#### [2013 ](https://www.saia.com/about-us/awards) TEAM AWARDS     
+`Atlanta Dock` `Service Operations Manager`     
+1. **Responsible Care® Partner of the Year**     
+`—American Chemistry Council`       
+2. **First Place for Safety** *in the "General Commodities LTL/Local Division*     
 `—American Trucking Associations Safety Management Council`    
-4. Top 100 Motor Carrier, "G75" Green Supply Chain Partner 
-`—Inbound Logistics Magazine`    
-5. Gold Team Award 
-`—Lowe's Companies Inc.`    
-6. LTL National Carrier of the Year 
+3. **Top 100 Motor Carrier**, *"G75" Green Supply Chain Partner*     
+`—Inbound Logistics Magazine`     
+5. **Gold Team Award**     
+`—Lowe's Companies Inc.`      
+6. **LTL National Carrier of the Year**      
 `—Walmart`    
 
 ---
 
-#### [2012](https://www.saia.com/about-us/awards) TEAM AWARDS
-
----
-
-`Institute Total Process Overhaul` with `W&R Freight Dimensioner Technology Implementation` & continuance of `Quality Matters` + `iSaia peer-based recognition` programs.
-
----
-
-1. Carrier of the Year 
+#### [2012](https://www.saia.com/about-us/awards) TEAM AWARDS    
+`Institute Total Process Overhaul` with `W&R Freight Dimensioner Technology Implementation` & `Quality Matters` *plus* `iSaia program`.
+1. **Carrier of the Year**      
 `—Ames True Temper`
-2. First Place for Safety in the "General Commodities LTL/Local Division" 
-`—American Trucking Associations Safety Management Council`
-3. Third Place for Safety in the "General Commodities LTL/Linehaul Division" 
-`—American Trucking Associations Safety Management Council`
-4. Top 100 Motor Carrier 
+2. **First Place for Safety** *in the "General Commodities LTL/Local Division* 
+`—American Trucking Associations Safety Management Council`     
+3. **Top 100 Motor Carrier**     
 `—Inbound Logistics Magazine`
-5. Gold Team Award 
-`—Lowe's Companies Inc.`
+4. **Gold Team Award**      
+`—Lowe's Companies Inc.`     
 
 ---
 
 #### [2011](https://www.saia.com/about-us/awards) TEAM AWARDS
-
----
-
-`Quality Matters campaign roll-out` `First Full Year as Terminal Operations Manager` with `Atlanta` `Dock Ops Team`
-
----
-
-1. Super Regional LTL Carrier of the Year 
+`Quality Matters campaign roll-out` `First Year Terminal Operations Manager`    
+1. **Super Regional LTL Carrier of the Year** 
 `—Access America Transport`
-2. First Place for Safety in the "General Commodities LTL/Local Division" 
+2. **First Place for Safety** *in the "General Commodities LTL/Local Division" 
 `—American Trucking Associations Safety Management Council`
-3. Third Place for Safety in the "General Commodities LTL/Linehaul Division" 
-`—American Trucking Associations Safety Management Council`
-4. Best-in-Class Carrier 
+3. **Best-in-Class Carrier**    
 `—GlobalTranz`
-5. Top 100 Motor Carrier 
+4. **Top 100 Motor Carrier**    
 `—Inbound Logistics Magazine`
-6. InformationWeek 500 Honoree 
+6. **InformationWeek 500 Honoree**    
 `—InformationWeek`
-7. Interregional Quality Carrier of the Year 
+7. **Interregional Quality Carrier of the Year**    
 `—Ryder System, Inc.`
-8. Strategic Partner Carrier of the Year 
+8. **Strategic Partner** *Carrier of the Year*     
 `—Unishippers Global Logistics, LLC`
 
 ---
 
 #### [2010](https://www.saia.com/about-us/awards) TEAM AWARDS
-
----
-
-`Unsolicited Promotion by the former VP of Linehaul` & `Current VP & General Manager` at `Schneider` [`Robert Bulick`](https://www.linkedin.com/in/rob-bulick-34502213)
+`Unsolicited Promotion by the [frmr VP of Linehaul & Current VP & General Manager. Schneider](https://www.linkedin.com/in/rob-bulick-34502213)  
 
 ---
 
 1. Super Regional LTL Carrier of the Year 
 `—Access America Transport`
-2. First Place for Safety in the "General Commodities LTL/Local Division" 
+2. **First Place for Safety** in the "General Commodities LTL/Local Division" 
 `—American Trucking Associations Safety Management Council`
-3. Interregional Carrier of the Year 
+3. **Interregional Carrier of the Year** 
 `—CoLinx, LLC`
-4. Best-in-Class Carrier 
+4. **Best-in-Class Carrier**
 `—GlobalTranz`
-5. InformationWeek 500 Honoree 
+5. **InformationWeek 500 Honoree 
 `—InformationWeek`
 6. Top 100 Motor Carrier 
 `—Inbound Logistics Magazine`
