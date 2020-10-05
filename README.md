@@ -178,15 +178,14 @@ Ellenwood, GA | Jul 2011 - Feb 2013
 > + 1.1 (billion) to shareholders’ equity.
 
 10. **Spearhead company’s inaugural** [**dock-to-driver campaign**](https://www.youtube.com/watch?v=-mG5veBWS00&t=4s "YouTube video from Atlanta Dock as ATL is their flaship terminal and all rollouts literally rollout of Atlanta") *to establish a sustainable competitive advantage*.
-11. **Institute total process overhaul**:    
-![Quality Matters campaign](https://www.youtube.com/watch?v=nPTt37YGdH4&list=PL7R4Ra-1Mrclih8qRlT9Z0ExjtdX_8vnm&index=2&t=3s "Atlanta dock is the flagship terminal and is an iterative environment as all programs roll-out thru that facility").
-12. **Integrate continuous improvement model** *using best-in-class business practices featuring* : 
-    - *Concept* of pinwheeling and,
-    - **Multi-stop** *dynamic loading of regions satellite facilities. (As info: satelliters are typically smaller, inter-regional terminals, strategically ppopsitionied to cover suburban, rural, and relay geopgraphical areas throughout US).
-    - **Focus** *on meetings*: 
+11. **Institute total process overhaul**: [Quality Matters campaign](https://www.youtube.com/watch?v=nPTt37YGdH4&list=PL7R4Ra-1Mrclih8qRlT9Z0ExjtdX_8vnm&index=2&t=3s "Atlanta dock is the flagship terminal and is an iterative environment as all programs roll-out thru that facility").    
+12. **Integrate continuous improvement model** *using best-in-class business practices featuring*: 
+    - Concept of pinwheeling and,
+    - Multi-stop dynamic loading of regions satellite facilities. 
+    - Focus on meetings: 
         1. **Re-institue pre-shift meetings / huddle** *to discuss 'why' `Quality Matters*.
-13. **Support** *IT, Sales, and the Weight & Research team with* [**Freight Dimensioner Technology & Scanner**](https://www.youtube.com/watch?v=l3d6sJZ-mQ0 "most effective program serving as calalyst to overhaul and driver of quality helping reduce operating ratio").
-14. **Deliver** *Top 10 Fortune LTL ranking resulting from implementation and continued success of above processes*.
+13. **Support IT, Sales, and the Weight & Research team** *with [**Freight Dimensioner Technology & Scanner**](https://www.youtube.com/watch?v=l3d6sJZ-mQ0 "most effective program serving as calalyst to overhaul and driver of quality helping reduce operating ratio")*.
+14. **Deliver Top 10 Fortune LTL ranking**.
          
 ---    
 
@@ -205,7 +204,12 @@ An Assignment!
 
 > Be nimble about Lean Six Sigma – to get started, just remember the DMAIC high-level approach and [create a document](https://bit.ly/withWind-DarkDoc "Google Docs Dark Theme with Wind LLC") with the below five steps outlined.   
 
-**For each step, think** *of the following points*:    
+```
+
+For each step, think...
+Of the following points:    
+
+```
 
 **D**: | **Define**: | What's the objective? Can you state it as a SMART one? Who will be involved or impacted? What is in or out of scope?
 :---|:---:|:---
@@ -225,7 +229,6 @@ Johns Creek, GA | Jul 2009 - Jul 2011
 
 1. **Regional travel** to provide:   
     - On-baording support & training.
-    - Serve as point-of-contact between regional management and terminal manager.
     - Mentor peers in-person and in virtual / remote discussions via email, internal message boards and forums.
 2. **Develop inclusive practices** *to bridge divide between line-haul and city drivers* :
     - **NOTE**: *In-house feedback and Human Resources identified a schism*: 
@@ -251,7 +254,7 @@ Johns Creek, GA | Jul 2009 - Jul 2011
 
 [Saia, Inc : 2009 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/3IEwyWksjECWYpTIQV1hpz/81790563baaf3d59e58c1f4b12c4f473/Saia_2009_Annual_Report___10-K.pdf) | [Saia, Inc : 2008 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/5eLp57gLd4MTg6DQxj72Rb/a606477bdc8b4b38851a6ab130d4658f/Saia_2008_Annual_Report.pdf "Image of cover 2009 Annual Report for Saia LTL Freight, Inc.")    
 :---:|:---:      
-![saia-inc-2009-annual-report-memphis-region-linehaul-planner-c-brennan-poole](https://user-images.githubusercontent.com/50818414/94346615-ce39f380-fffb-11ea-9cf4-98bf01ea9992.png "Year 2 from ACO") | ![saia-inc-2008-annual-report-c-brennan-poole-joins-saia-atlanta-not-pictured](https://user-images.githubusercontent.com/50818414/94346596-b06c8e80-fffb-11ea-89a6-7ba6e1ec6336.png) "Image of 2008 Annual Report Saia LTL Freight, Inc.")     
+![saia-inc-2009-annual-report-memphis-region-linehaul-planner-c-brennan-poole](https://user-images.githubusercontent.com/50818414/94346615-ce39f380-fffb-11ea-9cf4-98bf01ea9992.png "Year 2 from ACO") | ![saia-inc-2008-annual-report-c-brennan-poole-joins-saia-atlanta-not-pictured](https://user-images.githubusercontent.com/50818414/94346596-b06c8e80-fffb-11ea-89a6-7ba6e1ec6336.png "Image of 2008 Annual Report Saia LTL Freight, Inc.")     
  credit : [Saia, Inc : 2009 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/3IEwyWksjECWYpTIQV1hpz/81790563baaf3d59e58c1f4b12c4f473/Saia_2009_Annual_Report___10-K.pdf) | credit : [Saia, Inc 2008 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/5eLp57gLd4MTg6DQxj72Rb/a606477bdc8b4b38851a6ab130d4658f/Saia_2008_Annual_Report.pdf)       
 
 ---
@@ -296,13 +299,13 @@ Ellenwood, GA | Mar 2008 - Jul 2009
             
 ---
 
-##### [Saia, Inc Operating Ratio during time-of-tenure](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf)    
+##### [Saia, Inc Operating Ratio while in service](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf) 
 ![Saia, Inc. : Operating Ratio (2008-2013)](https://user-images.githubusercontent.com/50818414/89961638-5319ab00-dc10-11ea-95a2-63175100b6d2.png "Saia Inc. OR 2008-2013")    
-credit :  [Saia, Inc 2013 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf "with Wind creation")
+credit :  [Saia, Inc 2013 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf "with Wind creation")     
     
 ---
 
-### Other    
+### Service Experience
 
 ---
 
@@ -441,27 +444,27 @@ J. Mack | GSU | Panthers
                 1. Respect: We respect others, make every effort to understand each other, take responsibility and do our best to build mutual trust.
                 2. Teamwork : We stimulate personal and professional growth, share the opportunities of development and maximize individual and team performance.   
     - [The right process will produce the right results](https://en.wikipedia.org/wiki/Toyota_Production_System "Credit : Wikipedia Toyota Guiding Principles CC BY-SA")
-        1. Create continuous process flow to bring problems to the surface.
-        2. Use the `pull` system to **avoid overproduction**.
-        3. Level out the workload: `Approach work like the tortoise, not the hare`. 
-        4. Build a culture of *stopping to fix problems*, to *get quality right from the start*.
-            - **Standardized tasks** are the foundation for *continuous improvement* and **employee empowerment.
-            - **Use visual control** so no problems are hidden.
-            - **Use only reliable**, *thoroughly* tested technology that **serves your people and processes.
-            - **Add value** to the organization by developing your people and partners
+        1. **Create continuous process** flow to bring problems to the surface.
+        2. **Use the `pull` system to avoid overproduction**.
+        3. **Level out the workload**: `Approach work like the tortoise, not the hare`. 
+        4. **Build a culture of stopping to fix problems**, to *get quality right from the start*.
+            - Standardized task are the foundation for *continuous improvement and employee empowerment.
+            - Use visual control so no problems are hidden.
+            - Use only reliable, *thoroughly* tested technology that **serves your people and processes.
+            - Add value to the organization by developing your people and partners
     - Grow leaders who:    
-        1. Thoroughly understand the work. 
-        2. Live the philosophy.
-        3. Teach it to others.
-        4. Develop exceptional people and teams who follow your company's philosophy.
-        5. Respect your extended network of partners and suppliers: 
+        1. **Thoroughly understand the work**. 
+        2. **Live the philosophy**.
+        3. **Teach it to others**.
+        4. **Develop exceptional people** and **teams** who follow your company's philosophy.
+        5. **Respect your extended network of partners and suppliers**: 
             - Challenging them and helping them improve.
             - Continuously solving root problems drives organizational learning. 
-        6. Go and see for yourself to thoroughly understand the situation;
+        6. **Go and see for yourself** to thoroughly understand the situation;
             - Make decisions slowly by consensus, thoroughly considering all options: 
-        7. Implement decisions rapidly.
+        7. **Implement decisions rapidly**.
             - Become a learning organization through relentless reflection.
-    - **Toyoda Precepts**:    
+    - Toyoda Precepts:    
         1. **Always be faithful** to your duties, thereby contributing to the Company and to the overall good.
         2. **Always be studious** and creative, striving to stay ahead of the times.
         3. ***Always be practical** and avoid frivolousness.
@@ -506,7 +509,7 @@ SPCH 1000 Human Communication | [Google Drive Root Folder](https://bit.ly/oudcol
 ### MOOC - Work 
 
 7 - 3 | 3 - 11 | 11 - 7    
-:---|:---:|---:
+:---|:---:|---:    
 Talking | Bout | Shift-Work    
 
 ---
@@ -514,17 +517,17 @@ Talking | Bout | Shift-Work
 Raising Capital | Creating the Conditions for Others to Thrive | Developing a Learning Mindset     
 :---|:---|---:      
 Enhancing Your Productivity | Google My Business Basics | Growing Your Small Business    
-Marketing Your Side Hustle | OMCA Certification for Online Marketing Test | Managing Your Time    
-Social Leadership | Teaching Technical Skills Through Video | Web Programming Foundations    
-Information Literacy | Learning From Failure | Learning to Teach Online     
-Using March Madness to Learn Data Science | Learning Infographic Design | Learning Rest API's      
-Four Levels of Writing Mastery | Personal Branding on Social Media | Switching Your Career    
-Web Dev Foundations: Emerging Technologies | Gaining Skills with Linkedin Learning | Learning Brainstorming    
-Writing a Compelling Blog Post | Why are Opioids So Addictive (USF) | Content Strategy    
+Marketing Your Side Hustle | OMCA Certification | Managing Your Time    
+Social Leadership | Teaching Technical Skills | Web Programming Foundations    
+Information Literacy | Learning From Failure | Teaching Online     
+March Madness & Data Science | Infographic Design | Learning Rest API's      
+Four Levels of Writing Mastery | Personal Branding | Switching Your Career    
+Web Dev Foundations | Gaining Skills with Linkedin Learning | Learning Brainstorming    
+Write Compelling Posts | Why are Opioids So Addictive? (USF) | Content Strategy    
 Learning Data Science | Web Development Foundations | Pitching Yourself    
 Purpose-Driven Sales | Introduction to HTML | Strategic Thinking      
-Diversity & Inclusion in a Global Setting | Logistics Foundations | Marketing to Millennials   
-UX Foundations | Time Management | Learn Adobe In-design    
+Diversity & Inclusion | Logistics Foundations | Marketing to Millennials   
+UX Foundations | Time Management | Adobe In-design    
 
 ---
 
@@ -534,7 +537,7 @@ UX Foundations | Time Management | Learn Adobe In-design
 ---
 
 Creativity | Sustainability | Customer Focus | Decision Quality
-:---|:---|---|---|---:|---:
+:---|:---:|:---:|---:    
 Strategic Mindset | Action-oriented | Lean & Agile | Planning & Alignment    
 Drives Results | Talent Developer | Strategic Vision | Effective   
 Drives Vision | Forward to Think | Instills Trust | Nimble Learner     
@@ -555,7 +558,7 @@ Word | Powerpoint | Excel | Project | Python
 ---
 
 No # | Position | Employer | Physical Address | Start - End Date
-:---|:---|:---:|---:|---:
+:---|:---|:---:|---:|---:    
 1 | [Creative Strategist & Principal Chief of Operations](https://github.com/OUDcollective/Qualitative-Self#with-wind-llc "since 15NOV18; found clarity 10MAY19") | [with Wind, LLC](https://crunchbase.com/organization/chasing-the-wind-llc "On with Wind Crunchbase Profile") | Covington, GA | 2018 - Present     
 2 | [Logistics Coordinator](https://github.com/OUDcollective/Qualitative-Self#amazon-inc "temporary position : course of life pivot") | [Amazon Logistics](https://logistics.amazon.com/) | Stockbridge, GA | 2017 - 2018
 3 | Maintenance & Landscape  | Pine Hills | Stockbridge, GA | 2016 - 2017   
@@ -596,170 +599,6 @@ No | school | city | state | start | end | details
 No 1: `it's the real thing`<br>
 
 ---  
-
-####  Coca-Cola's ATS Results:    
-`on the highway to anywhere`
-
----
-
-1. Business Administration
-`Cross-Functional Collaboration` <br>
-    - Experience in facilitation of multi-disciplinary teams
-    - Logistics
-2. Leadership : 
-`strong organizational and planning ability`<br>
-    - Teamwork and interpersonal skills with the 
-    - Ability to communicate and execute strategies.
-3. Project Management : 
-`drives collaboration`<br>
-     - background that will drive collaborative working relationships to achieve incremental sales and supplier performance metrics.
-4. Six Sigma : 
-`solid business acumen`<br>
-    - Strong Team Leadership
-    - Strategic Thinking
-    - Planning and Consulting Skills
-5. Strong negotiation
-`influencing skills`<br>
-6. Writing /Presentation
-`skills in English`<br>
-7. Analytical rigour : 
-`can balance the quantitative and qualitative`.
-8. Building Relationships
-`strong collaboration skills among peers in all organizational levels.`.
-9. Developing Talent
-10. Supply Chain Management
-11. Teamwork
-12. Accomplishes results through the coordination of a team of professionals.
-`working cross-functionally`    
-13. Acts as an advisor to others.
-`communicates deadlines clearly and consistently`     
-14. The ability to apply forecasting techniques and skills to support region planning. 
-`applies system knowledge to improve reporting process / model.`
-15. Budgeting, 
-    `Planning` and `forecasting` with
-    - Attention-to-detail.
-16. Problem Analysis
-`Problem Solving`
-17. Accounting Experience.
-    `Proficient in Excel`
-    - Able to apply the skill in `managing databases` 
-        1. Ability to convert and 
-        2. Analyze the data.
-18. `SAP` / `Hyperion` Experience a strong plus
-`collaborative / team player.`
-    - Effective Communication Skills. 
-        1. Takes Ownership. 
-        2. Acts with Integrity.
-    - Ability to build endearing customer relationships.
-19. Proven leader
-`leads peers with professionalism`, `Cross channel knowledge` including `QSR Foodservice` and `CR preferred`
-    - Expertise in `cross collaboration` and `project management` due to nature of `innovation mindset` of the `customer`. 
-20. Strong `strategic thinking`,
-`Relationship-building`
-    - Has `professional selling` and 
-    - `Negotiation` `best-practices` Skills. 
-    - Working knowledge of `C4V` selling platform.
-21. Experience in developing successful `collaborative environments` :
-`Business Plans and strong strategic thinking skills`
-    - Price / package plans to 
-        1. `Drive growth` for retail customers and 
-        2. `History of delivering` plan objectives.
-22. Ability to `Lead`
-`cross-functional teams`
-23. Ability to `thrive` in a `growth-oriented team environment` :    
-`strategic thinking`
-24. Active listening 
-`authentic engagement`
-    - With associates and 
-    - Team leads with 
-        1. `Observations`, 
-        2. Inspections, 
-        3. `GEMBA` walks, 
-            - Corrective actions. 
-25. Filing of documentation required by various regulatory agencies 
-`OSHA,` `EPA`.
-    - Assist the development and filing of documentation for the `Integrated Management System`.  
-    - Assist with `SES` `inspections`, `audits`, and documentation as needed. 
-26.` Generate daily/weekly/monthly reports` and audit results, as assigned. 
-27. Effectively utilize software: 
-28. `Technical math skills`
-    - Basic grammar, and 
-    - Technical writing skills. 
-29. Assist in development and `presentation of SES-related training topics`
-    - `Technical writer`
-30. Assist in implementation of `safety programs` and/or procedures for new line installations.
-31. Work with Maintenance Department to track completion of safety work orders.  
-32. Work up to ~12~ make that 16 - 20 hours, overtime, and weekends to meet the business requirements.
-`Cost Objectives`
-    - Ensure all tasks are performed toward achieving the safety, quality, and service.
-    - Demonstrate good attendance in accordance with plant attendance guidelines. • Self starter, ability to work with limited direction. 
-33. Ability to present topics to small and large groups of people. 
-34. Attend SES Committee Meetings. 
-35. Demonstrated ability.
-`more than qualified to facilitate team-based problem-solving`
-    - Advanced Risk Assessment, 
-    - Incident Investigation and 
-    - Five Why methodology. 
-36. Lead Gemba events.
-`Work on Root Cause Analysis.`
-37. First-Aid and 
-`CPR trained`
-38. Best practices: 
-`Knowledge of Procurement`
-    - Industry and business best practices to guide thought leadership and ensure effective procurement strategies. 
-    - Includes the ability to recognise value creation opportunities within the supply chain.
-39. Create and manage databases.
-`insightful analysis`
-    - Maintain, 
-    - Update category spend, and 
-    - Volume.
-40. Executes Business Results in a 
-`supply - chain environment`
-41. Enable procurement effectiveness by 
-    - Developing and 
-    - Applying tools and 
-    - KPIs.
-42. Synthesize data and 
-`Identifies problems`
-    - Through financial analysis; 
-    - Proficiency in recommending solutions.
-43. Supplier Performance, 
-    - Inventory, 
-    - Financial reports.
-44. Cross Functional Relationships : 
-`Knowledge of the Truth; ok - this one is an attribution with Wind; just checking your state of 'woke'`<br>
-    - Of and ability to articulate to senior management  the 
-    - Benefits of supporting cross-functional objectives to 
-         1. Achieve the business plan.
-45. Deep Ecommerce knowledge; understands the `Digital Customers Landscape`    
-    - Or Journey. 
-46. Understands industry research and trends and `anticipates variables`
-    - Future customer &
-        1. Market needs.
-47. Drives Innovation.
-48. Strategic Thinker.`positive influencer`and
-    - Negotiator.
-    - Shopper knowledge.
-49. Adaptability.
-50. Project management : `task - driven affect leader`
-51. Effective communication & Interpersonal Savvy : 
-`Team-building`
-    - Ability
-        1. Brings key stakeholders together.
-52. Value chain experience
-`financial skillset
-`<br>
-    - Excellent Project / Program Management Skills.
-    - Effective Communications Skills
-    - Verbal and Written.
-53. Ability to Lead Cross-functional teams to Deliver Results.`technically proficient`
-    - Expertise in Innovation,
-    - Logistics, and the 
-    - The North American infrastructure 
-        1. i.e. Interstate and highway systems i.e. 
-        2. The global leader and most innovative supply chain on the planet. 
-
----
 
 #### Links    
 `the pause that refreshes`    
