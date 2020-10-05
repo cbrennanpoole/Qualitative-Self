@@ -143,17 +143,17 @@ Ellenwood, GA | Jul 2011 - Feb 2013
     - **Increase hiring efforts** earlier in calendar year (Jan and Feb) to improve quality thru more effective training as well as cover seasonal up-tick in tonnage and vacation requests.    
 3. **Implement** : 
     - [Lean-management]((https://google.com/search?=plean+management "hacking the SERP... It's that simple... and that complicated, unfortunate for me."), 
-        - [Lean Six-sigma precepts](https://online-behavior.com/analytics/lean-six-sigma "Lean six-sigma for the digital analyst")    
+        - [**Six-sigma** *best practices*](https://online-behavior.com/analytics/lean-six-sigma "Lean six-sigma for the digital analyst")    
 4. **Collaborate** to institute :
-    - **Just-in-time** (J.I.T.) *workflow process*. 
+    - Just-in-time (JIT) workflow process. 
 5. **Design-thinking* :
     - Re-position Atlanta Central Dock-stand : 
-        1. Affix central dock back to optimal location in center of Atlanta Dock, a 226 door facility, helping Improve:     
+        1. **Move dock-stand (center-of-action) to center of Atlanta dock**, *a 226 door facility, helping Improve*:     
             - **Accessibility**.
             - **Employee Morale**. 
             - **Productivity**. 
             - **On-time** *closure & departures*.
-            - **Customer Service Standard**.
+            - **Customer service standard**.
 6. **Support Regional Management Objectives** :  
     - Improve shareholders' equity** through reduction in the Operating Ratio (OR); key driver for company-wide mandatory attendance of quarterly meetings. 
         1. **Articulate** *bottom-up operations strategy*:
@@ -178,18 +178,18 @@ Ellenwood, GA | Jul 2011 - Feb 2013
 > + 1.1 (billion) to shareholders’ equity.
 
 10. **Spearhead company’s inaugural** [**dock-to-driver campaign**](https://www.youtube.com/watch?v=-mG5veBWS00&t=4s "YouTube video from Atlanta Dock as ATL is their flaship terminal and all rollouts literally rollout of Atlanta") *to establish a sustainable competitive advantage*.
-11. **Institute total process overhaul**: [Quality Matters campaign](https://www.youtube.com/watch?v=nPTt37YGdH4&list=PL7R4Ra-1Mrclih8qRlT9Z0ExjtdX_8vnm&index=2&t=3s "Atlanta dock is the flagship terminal and is an iterative environment as all programs roll-out thru that facility").    
-12. **Integrate continuous improvement model** *using best-in-class business practices featuring*: 
+11. **Institute total process overhaul**: [Quality Matters campaign](https://www.youtube.com/watch?v=nPTt37YGdH4&list=PL7R4Ra-1Mrclih8qRlT9Z0ExjtdX_8vnm&index=2&t=3s "Atlanta dock is the flagship terminal and is an iterative environment as all programs roll-out thru that facility").
+12. **Integrate continuous improvement model** *using best-in-class business practices featuring* : 
     - Concept of pinwheeling and,
-    - Multi-stop dynamic loading of regions satellite facilities. 
+    - Multi-stop dynamic loading of regions satellite facilities. (As info: satelliters are typically smaller, inter-regional terminals, strategically ppopsitionied to cover suburban, rural, and relay geopgraphical areas throughout US).
     - Focus on meetings: 
-        1. **Re-institue pre-shift meetings / huddle** *to discuss 'why' `Quality Matters*.
-13. **Support IT, Sales, and the Weight & Research team** *with [**Freight Dimensioner Technology & Scanner**](https://www.youtube.com/watch?v=l3d6sJZ-mQ0 "most effective program serving as calalyst to overhaul and driver of quality helping reduce operating ratio")*.
-14. **Deliver Top 10 Fortune LTL ranking**.
+        1. **Re-institue pre-shift meetings / huddle** *to discuss 'why'* **Quality Matters**.
+13. **Support IT, Sales, and the Weight & Research team with** [*Freight Dimensioner Technology & Scanner*](https://www.youtube.com/watch?v=l3d6sJZ-mQ0 "most effective program serving as calalyst to total process overhaul and driver of quality; helping reduce operating ratio").
+14. **Deliver Top 10 Fortune LTL ranking resulting from implementation and continued success of above processes**.
          
 ---    
 
-[Saia, Inc : 2011 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/4M6d73qEcviGKIF2eMu4ro/130e6f2563346680b8b035864922e1f9/Saia_2012_Annual_Report.pdf "Quantifiable Analytics : Straight from the Source") | [Saia, Inc : 2010 Annual Report](https://www.annualreports.com/HostedData/AnnualReportArchive/s/NASDAQ_SAIA_2010.pdf "Quantifiable Analytics that make dad gum sense.")    
+[Saia, Inc : 2011 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/4M6d73qEcviGKIF2eMu4ro/130e6f2563346680b8b035864922e1f9/Saia_2012_Annual_Report.pdf "Quantifiable Analytics : Straight from the Source") | [Saia, Inc : 2010 Annual Report](https://www.annualreports.com/HostedData/AnnualReportArchive/s/NASDAQ_SAIA_2010.pdf "Quantifiable Analytics. Actionable")    
 :---:|:---:    
 ![Saia, Inc : 2011 Annual Report](https://user-images.githubusercontent.com/50818414/89959039-768d2780-dc09-11ea-96ae-fca8892073b5.jpg)! | ![Saia, Inc : 2010 Annual Report](https://user-images.githubusercontent.com/50818414/89956466-3cb92280-dc03-11ea-9c21-fea34a8d3913.jpg "Full-year service in the single most impactful department in less-than-load industry; linehaul.")    
 credit : [Saia Inc.](https://saia.com/about-us "Top 10 Fortune Ranked lees-than-load freight & transportation carrier") | credit : [Saia Inc.](https://saia.com/awards "team awards reference : 2010 - 2014 cbrennanpoole service with company.")    
@@ -204,12 +204,7 @@ An Assignment!
 
 > Be nimble about Lean Six Sigma – to get started, just remember the DMAIC high-level approach and [create a document](https://bit.ly/withWind-DarkDoc "Google Docs Dark Theme with Wind LLC") with the below five steps outlined.   
 
-```
-
-For each step, think...
-Of the following points:    
-
-```
+**For each step, think** *of the following points*:    
 
 **D**: | **Define**: | What's the objective? Can you state it as a SMART one? Who will be involved or impacted? What is in or out of scope?
 :---|:---:|:---
@@ -229,6 +224,7 @@ Johns Creek, GA | Jul 2009 - Jul 2011
 
 1. **Regional travel** to provide:   
     - On-baording support & training.
+    - Serve as point-of-contact between regional management and terminal manager.
     - Mentor peers in-person and in virtual / remote discussions via email, internal message boards and forums.
 2. **Develop inclusive practices** *to bridge divide between line-haul and city drivers* :
     - **NOTE**: *In-house feedback and Human Resources identified a schism*: 
@@ -252,10 +248,10 @@ Johns Creek, GA | Jul 2009 - Jul 2011
 
 ---
 
-[Saia, Inc : 2009 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/3IEwyWksjECWYpTIQV1hpz/81790563baaf3d59e58c1f4b12c4f473/Saia_2009_Annual_Report___10-K.pdf) | [Saia, Inc : 2008 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/5eLp57gLd4MTg6DQxj72Rb/a606477bdc8b4b38851a6ab130d4658f/Saia_2008_Annual_Report.pdf "Image of cover 2009 Annual Report for Saia LTL Freight, Inc.")    
+[Saia, Inc : 2009 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/3IEwyWksjECWYpTIQV1hpz/81790563baaf3d59e58c1f4b12c4f473/Saia_2009_Annual_Report___10-K.pdf) | [Saia, Inc : 2008 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/5eLp57gLd4MTg6DQxj72Rb/a606477bdc8b4b38851a6ab130d4658f/Saia_2008_Annual_Report.pdf "Image of cover 2009 Annual Report for Saia LTL Freight, Inc. Service: Linehaul Dispatch July 2009-2011. Atlanta Corporate Office.")    
 :---:|:---:      
 ![saia-inc-2009-annual-report-memphis-region-linehaul-planner-c-brennan-poole](https://user-images.githubusercontent.com/50818414/94346615-ce39f380-fffb-11ea-9cf4-98bf01ea9992.png "Year 2 from ACO") | ![saia-inc-2008-annual-report-c-brennan-poole-joins-saia-atlanta-not-pictured](https://user-images.githubusercontent.com/50818414/94346596-b06c8e80-fffb-11ea-89a6-7ba6e1ec6336.png "Image of 2008 Annual Report Saia LTL Freight, Inc.")     
- credit : [Saia, Inc : 2009 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/3IEwyWksjECWYpTIQV1hpz/81790563baaf3d59e58c1f4b12c4f473/Saia_2009_Annual_Report___10-K.pdf) | credit : [Saia, Inc 2008 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/5eLp57gLd4MTg6DQxj72Rb/a606477bdc8b4b38851a6ab130d4658f/Saia_2008_Annual_Report.pdf)       
+ credit : [Saia, Inc : 2009 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/3IEwyWksjECWYpTIQV1hpz/81790563baaf3d59e58c1f4b12c4f473/Saia_2009_Annual_Report___10-K.pdf) | credit : [Saia, Inc 2008 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/5eLp57gLd4MTg6DQxj72Rb/a606477bdc8b4b38851a6ab130d4658f/Saia_2008_Annual_Report.pdf "Atlanta Dock Supervisor March 2008-July 2009. Image is courtesy Saia LTL Inc sourced from 2008 Annual Report to Shareholders.")       
 
 ---
 
@@ -278,19 +274,15 @@ Ellenwood, GA | Mar 2008 - Jul 2009
 4. **Report due-service reconciliation** : continuous improvement and nightly responsibility. 
     - Freight is both picked up & shows in proper status in AS400.
     - Account for :      
-        1. Proper loading status & technique in place `best practices`,  
-        2. Ensure AS400 (dos-based) became a daily task with a continuous reconciliation strategy, 
+        1. **Proper loading status** & technique in place `best practices`,  
+        2. **Ensure AS400** (**dos-based**) remains an *iterative continuous improvement*.
             - With plan for departure and direct verification with the linehaul unit; which 
-               1. further tear - down barriers in place cross-(dys)functionally among the various units that had 
-               2. Begun to stagnate due to groupthink rather than 
-                       - Thrive through collaboration as was the 
-                       - Very prescription (placebo i.e. spoonful of sugar) Atl-Dock-Ops didn't know they were in need of. 
-5. **Create fluid transition**, 
-    - **Encourage cross-functional collaboration** : create a team dynamic; encouragin active participation from all parties. 
-6. **Audit national accounts** *incessantly checking for late arriving origin freight & due service inbound tonnage*. 
-    - Lowe's Inc.     
-    - Starbucks Coffee.     
-    - Behr.   
+               1. Further tear - down barriers in place cross *dys*–functionally causing:
+               2. Stagnation to occur due to groupthink rather than thriving while growing through *cross-functional collaboration*.
+5. **Audit national accounts** *incessantly checking for late arriving origin freight & due service inbound tonnage*. 
+    - [Lowe's Inc]("").     
+    - [Starbucks Coffee](https:// "").     
+    - [Behr](https:// "").   
     - Ingram Micro.    
     - Sherwin Williams.    
     - Benjamin Moore.    
@@ -299,13 +291,13 @@ Ellenwood, GA | Mar 2008 - Jul 2009
             
 ---
 
-##### [Saia, Inc Operating Ratio while in service](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf) 
+##### [Saia, Inc Operating Ratio during time-of-tenure](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf)    
 ![Saia, Inc. : Operating Ratio (2008-2013)](https://user-images.githubusercontent.com/50818414/89961638-5319ab00-dc10-11ea-95a2-63175100b6d2.png "Saia Inc. OR 2008-2013")    
-credit :  [Saia, Inc 2013 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf "with Wind creation")     
+credit :  [Saia, Inc 2013 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf "with Wind creation")
     
 ---
 
-### Service Experience
+### Other    
 
 ---
 
@@ -419,7 +411,7 @@ Virtual | Oct 2017 – Jan 2018
 ---
 
 ![US News & World Report Rankings for Robinson College of Business Courtesy robinson.gsu.edu](https://user-images.githubusercontent.com/50818414/89962968-45febb00-dc14-11ea-904e-03acb0b54471.png "Georgia State University BBA ranks in 50 31st among public institutions 2018.")    
-credit: [robinson.gsu.edu](https://robinson.gsu.edu/2019/09/three-robinson-undergraduate-programs-among-nations-best-in-latest-u-s-news-rankings/)   
+credit: [robinson.gsu.edu](https://robinson.gsu.edu/2019/09/three-robinson-undergraduate-programs-among-nations-best-in-latest-u-s-news-rankings/ "International Ranking with Significant International Influence: Eduniversal.")   
 
 Faculty Scholar 2004 | Dean's List 2005 | Class of 2006
 :---|:---:|---:    
@@ -444,27 +436,27 @@ J. Mack | GSU | Panthers
                 1. Respect: We respect others, make every effort to understand each other, take responsibility and do our best to build mutual trust.
                 2. Teamwork : We stimulate personal and professional growth, share the opportunities of development and maximize individual and team performance.   
     - [The right process will produce the right results](https://en.wikipedia.org/wiki/Toyota_Production_System "Credit : Wikipedia Toyota Guiding Principles CC BY-SA")
-        1. **Create continuous process** flow to bring problems to the surface.
-        2. **Use the `pull` system to avoid overproduction**.
-        3. **Level out the workload**: `Approach work like the tortoise, not the hare`. 
-        4. **Build a culture of stopping to fix problems**, to *get quality right from the start*.
-            - Standardized task are the foundation for *continuous improvement and employee empowerment.
-            - Use visual control so no problems are hidden.
-            - Use only reliable, *thoroughly* tested technology that **serves your people and processes.
-            - Add value to the organization by developing your people and partners
+        1. Create continuous process flow to bring problems to the surface.
+        2. Use the `pull` system to **avoid overproduction**.
+        3. Level out the workload: `Approach work like the tortoise, not the hare`. 
+        4. Build a culture of *stopping to fix problems*, to *get quality right from the start*.
+            - **Standardized tasks** are the foundation for *continuous improvement* and **employee empowerment.
+            - **Use visual control** so no problems are hidden.
+            - **Use only reliable**, *thoroughly* tested technology that **serves your people and processes.
+            - **Add value** to the organization by developing your people and partners
     - Grow leaders who:    
-        1. **Thoroughly understand the work**. 
-        2. **Live the philosophy**.
-        3. **Teach it to others**.
-        4. **Develop exceptional people** and **teams** who follow your company's philosophy.
-        5. **Respect your extended network of partners and suppliers**: 
+        1. Thoroughly understand the work. 
+        2. Live the philosophy.
+        3. Teach it to others.
+        4. Develop exceptional people and teams who follow your company's philosophy.
+        5. Respect your extended network of partners and suppliers: 
             - Challenging them and helping them improve.
             - Continuously solving root problems drives organizational learning. 
-        6. **Go and see for yourself** to thoroughly understand the situation;
+        6. Go and see for yourself to thoroughly understand the situation;
             - Make decisions slowly by consensus, thoroughly considering all options: 
-        7. **Implement decisions rapidly**.
+        7. Implement decisions rapidly.
             - Become a learning organization through relentless reflection.
-    - Toyoda Precepts:    
+    - **Toyoda Precepts**:    
         1. **Always be faithful** to your duties, thereby contributing to the Company and to the overall good.
         2. **Always be studious** and creative, striving to stay ahead of the times.
         3. ***Always be practical** and avoid frivolousness.
@@ -509,7 +501,7 @@ SPCH 1000 Human Communication | [Google Drive Root Folder](https://bit.ly/oudcol
 ### MOOC - Work 
 
 7 - 3 | 3 - 11 | 11 - 7    
-:---|:---:|---:    
+:---|:---:|---:
 Talking | Bout | Shift-Work    
 
 ---
@@ -517,17 +509,17 @@ Talking | Bout | Shift-Work
 Raising Capital | Creating the Conditions for Others to Thrive | Developing a Learning Mindset     
 :---|:---|---:      
 Enhancing Your Productivity | Google My Business Basics | Growing Your Small Business    
-Marketing Your Side Hustle | OMCA Certification | Managing Your Time    
-Social Leadership | Teaching Technical Skills | Web Programming Foundations    
-Information Literacy | Learning From Failure | Teaching Online     
-March Madness & Data Science | Infographic Design | Learning Rest API's      
-Four Levels of Writing Mastery | Personal Branding | Switching Your Career    
-Web Dev Foundations | Gaining Skills with Linkedin Learning | Learning Brainstorming    
-Write Compelling Posts | Why are Opioids So Addictive? (USF) | Content Strategy    
+Marketing Your Side Hustle | OMCA Certification for Online Marketing Test | Managing Your Time    
+Social Leadership | Teaching Technical Skills Through Video | Web Programming Foundations    
+Information Literacy | Learning From Failure | Learning to Teach Online     
+Using March Madness to Learn Data Science | Learning Infographic Design | Learning Rest API's      
+Four Levels of Writing Mastery | Personal Branding on Social Media | Switching Your Career    
+Web Dev Foundations: Emerging Technologies | Gaining Skills with Linkedin Learning | Learning Brainstorming    
+Writing a Compelling Blog Post | Why are Opioids So Addictive (USF) | Content Strategy    
 Learning Data Science | Web Development Foundations | Pitching Yourself    
 Purpose-Driven Sales | Introduction to HTML | Strategic Thinking      
-Diversity & Inclusion | Logistics Foundations | Marketing to Millennials   
-UX Foundations | Time Management | Adobe In-design    
+Diversity & Inclusion in a Global Setting | Logistics Foundations | Marketing to Millennials   
+UX Foundations | Time Management | Learn Adobe In-design    
 
 ---
 
@@ -537,8 +529,8 @@ UX Foundations | Time Management | Adobe In-design
 ---
 
 Creativity | Sustainability | Customer Focus | Decision Quality
-:---|:---:|:---:|---:    
-Strategic Mindset | Action-oriented | Lean & Agile | Planning & Alignment    
+:---|:---|---|---     
+Strategic Mindset | Action-oriented | Lean & Agile | Planning & Alignment      
 Drives Results | Talent Developer | Strategic Vision | Effective   
 Drives Vision | Forward to Think | Instills Trust | Nimble Learner     
 Authentic | Microsoft 365 | Project Management | Power Bi     
@@ -548,7 +540,7 @@ Processes Implementation | Process Improvement | Six Sigma | People Empowerment
 Marketing & Sales | Social Media Marketing | Ethics | Resliency        
 Process Engineering | Product Team Integration | Project Management | Quality Assurance    
 Supply Chain | Telephone Skills | Total Quality Management | Technical Writing    
-Word | Powerpoint | Excel | Project | Python    
+Word | Powerpoint | Excel | Project    
 
 ---
 
@@ -558,7 +550,7 @@ Word | Powerpoint | Excel | Project | Python
 ---
 
 No # | Position | Employer | Physical Address | Start - End Date
-:---|:---|:---:|---:|---:    
+:---|:---|:---:|---:|---:
 1 | [Creative Strategist & Principal Chief of Operations](https://github.com/OUDcollective/Qualitative-Self#with-wind-llc "since 15NOV18; found clarity 10MAY19") | [with Wind, LLC](https://crunchbase.com/organization/chasing-the-wind-llc "On with Wind Crunchbase Profile") | Covington, GA | 2018 - Present     
 2 | [Logistics Coordinator](https://github.com/OUDcollective/Qualitative-Self#amazon-inc "temporary position : course of life pivot") | [Amazon Logistics](https://logistics.amazon.com/) | Stockbridge, GA | 2017 - 2018
 3 | Maintenance & Landscape  | Pine Hills | Stockbridge, GA | 2016 - 2017   
@@ -586,19 +578,19 @@ Mick | Duane | Tom
 
 ---
 
-No | school | city | state | start | end | details
-:---|:---|---|---|---|---|---:
-8 | Berkmar High School | Lawrenceville | GA | 1997-1998    
-7 | Sandy Creek High School | Tyrone | GA | 1998-1999         
-6 | Salem High School | Conyers | GA | 1999    
-5 | Northview High School | Dothan | AL | 1999-2000    
-4 | Salem High School | Conyers | GA | Aug 1999-2001    
-3 | University of West Georgia | Carrollton | GA | Aug 2001-2002    
-2 | Georgia State University / J Mack Robinson College of Business | Atlanta | GA | 2002-2006
+No | school | city | state | start-end     
+:---|:---|:---:|---:|---:    
+8 | Berkmar High School | Lawrenceville | GA | 1997-1998     
+7 | Sandy Creek High School | Tyrone | GA | 1998-1999            
+6 | Salem High School | Conyers | GA | 1999     
+5 | Northview High School | Dothan | AL | 1999-2000     
+4 | Salem High School | Conyers | GA | Aug 1999-2001       
+3 | University of West Georgia | Carrollton | GA | Aug 2001-2002      
+2 | Georgia State / Robinson College of Business | Atlanta | GA | '02-'06  
 
 No 1: `it's the real thing`<br>
 
----  
+---
 
 #### Links    
 `the pause that refreshes`    
@@ -606,11 +598,12 @@ No 1: `it's the real thing`<br>
 Authentic | Digital | Self
 :---|:---:|---:    
 CASEY | BRENNAN | POOLE    
+10 | MAY | 1983    
 
 ---
 
 [LinkedIn: Project](https://linkedin.com/in/oudcollective) | [LinkedIn: Control](https://linkedin.com/in/c-brennan-poole) | [Pinterest](https://www.pinterest.com/withWindllc)   
-:---|:---:|---:    
+:---|:---|---:    
 [LinkedIn with Wind](https://linkedin.com/company/the-wind) |  [Quora](https://quora.com/c-brennnan-poole) | [Twitter](https://twitter.com/oudcollective)    
 [instagram](https://instagram.com/twenty20times) | [Under Contract](https://www.undercontract.dev copy, design, strategy by c brennan poole with Wind, LLC") | [Medium](https://medium.com/@C.Brennan.Poole)    
 [Rockin' Chair Panel](https://medium.com/rockinchairpanel) | [DEV](https://dev.to/cbrennanpoole) | [Hackernoon](https:/hackernoon.com/@chasing-the-wind)    
