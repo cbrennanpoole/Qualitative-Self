@@ -1,35 +1,30 @@
-# [The Qualitative Self](https://oudcollective.github.io/Qualitative-Self/)
-
----
-
 ## [c brennan poole](https://crunchbase.com/person/c-brennan-poole "The growth - hack attack v.2.2 : aiming at the backend as it's where I belong. First, an algorithmic riddle : dropped the '-asey'. i.e. no more 'chasing'; do you want to go 'NASCAR racing'? It's 'verily verily' simple : Think Jot and Tittle")    
 Creative Strategist [withWind.LLC](https://withWind.llc "landing page for withWInd TBD")
 
-![qualitatitve-definition-by-c-brennan-poole](https://user-images.githubusercontent.com/50818414/92188261-182f1f80-ee2a-11ea-8291-019f53f0fbd1.jpg "credit: cbrennanpoole with an adobe spark assist" )    
+# [The Qualitative Self](https://cbrennanpoole.github.io/Qualitative-Self/ "faculty scholar and dean's list '05-'06 Robinson College of Business class 2006.")
+
+![qualitatitve-definition-by-c-brennan-poole](https://user-images.githubusercontent.com/50818414/92188261-182f1f80-ee2a-11ea-8291-019f53f0fbd1.jpg "definition of qualitative -the quality over the quant. credit: cbrennanpoole with an adobe spark assist" )    
+credit: @cbrennanpoole | assist: [Adobe Spark](https://spark.new "link to the dot-new-domains - unsure if this works on mobile; iterative design-thinking here - clearly.")    
 
 ---
 
 ### Résumé     
-
----
-
 `a more 'traditional' purview`
 
+---
 
 [Dark Theme Résumé](https://bit.ly/Real-time-PDF-dark-theme "Google Docs Viewer : Material Design by the Google LLC inspired document") | [ATS - Résumé](https://bit.ly/ATS-Real-time-PDF "a less disruptive version; also Google Docs Viewer for downloadable copies please see below")    
 :---|---:
 [Download the Dark Theme Résumé PDF](https://bit.ly/dark-theme-resume) | [Download ATS Résumé PDF](https://bit.ly/twenty-20-CV "c brennan boole : flipped scripts perspective with a left-handed millenial mindset.")
 [Slideshare Dark Theme](https://www.slideshare.net/OUDCollective/c-brennan-poole-creative-ops-strategist-chasing-the-wind "cbrennanpoole: Creative Strategist with Wind, LLC. 470-580-1515") | 🤔
-[The State Way CV ](https://www.slideshare.net/OUDCollective/caseybrennanpoolegeorgiastateuniversitybbaoperationsmanager "Dark Theme Docs. Creator: cbrennanpoole. Made with Microsoft Word. Hosted on: slideshare.net/oudcollective") | ✌🏽
+[The State Way CV ](https://www.slideshare.net/OUDCollective/caseybrennanpoolegeorgiastateuniversitybbaoperationsmanager "Dark Theme Docs. Creator: cbrennanpoole. Made with Microsoft Word. Hosted on: slideshare.net/oudcollective") | ~whoosh~
 
 ---
 
-### [The Quantified-Self](https://bit.ly/The-Quantified-Self-twenty-20 "Value-add to the self. Interactive Heatmap. Credit: Support.Google.com creator: cbrennanpoole.") : 
+### [The Quantified-Self](https://bit.ly/The-Quantified-Self-twenty-20 "Value-add to the self. Interactive Heatmap."):    
+![quantitative-definition-by-c-brennan-poole](https://user-images.githubusercontent.com/50818414/92188235-08174000-ee2a-11ea-8cab-28cfcc360607.jpg "what does quantitative mean?credit: Google SERP. Creator: cbrennanpoole made with Adobe Spark.")    
+[interactive CV | Google Sheets](https://bit.ly/The-Quantified-Self-twenty-20 "Quantified-Self Interactive Resume. **credit**: support.google.com. **creator**: C Brennan Poole"). **credit**: @cbrennanpoole. **ideation**: [support.google.com](https://support.google.com "i don't have the deep link at moment - will iterate."). **img+design**: [Adobe Spark](https://spark.new "again... a dot-new domain.").    
 
----
-
-![quantitative-definition-by-c-brennan-poole](https://user-images.githubusercontent.com/50818414/92188235-08174000-ee2a-11ea-8cab-28cfcc360607.jpg "what does quantitative mean?credit: Google SERP. Creator: cbrennanpoole made with Adobe Spark")    
-[Interactive CV on Google Sheets](https://bit.ly/The-Quantified-Self-twenty-20 "Quantified-Self Interactive Resume. credit: support.google.com. creator: C Brennan Poole")<br>
 
 ---
 
@@ -38,7 +33,7 @@ Creative Strategist [withWind.LLC](https://withWind.llc "landing page for withWI
 
 ---
 
-> Operations strategist providing total Customer Satisfaction by fostering the people process, developing cross-functional workplaces, & establishing collaborative environments.
+> Operations strategist providing total customer satisfaction by fostering & nurturing the people in the process; an iterative development of cross-functional organizational dynamics, and creative human-centered design-thinking -or- collaborative critical thinking/problem-solving.
 
 ---
 
@@ -475,8 +470,8 @@ J. Mack | GSU | Panthers
 ---
 
 MGS 4770 Service Operations Management | MGS 4760 Total Quality Management      
-:---|---:     
-MGS 4740 Operations Strategy | MGS 4500 Entrepreneurship / New Venture Management    
+:---:|:---:          
+MGS 4740 Operations Strategy | MGS 4500 Entrepreneurship/New Venture Management    
 MGS 4730 Project Management | MGS 4700 Operations Management    
 MK 4400 Distribution Management Consumer | MGS 4110 Analysis of Business Data    
 MGS 4120 Optimal Resource Allocation | MGS 4000 Managerial Decision Making
@@ -494,7 +489,7 @@ ECON 2100 The Global Economy | BIOL 1110K Human Anatomy & Phsyiology
 BIOL 1101 Intro to Biology | AH 1070 Survey of Art II   
 ENGL 2102 American Literature | MATH 1070 Elementary Statistics    
 POLS 1101 American Government | ASTR 1001 Intro to Astronomy    
-SPCH 1000 Human Communication | [Google Drive Root Folder](https://bit.ly/oudcollective "see record of success folder to further vet, if necessary.")       
+SPCH 1000 Human Communication | [G-Drive Root](https://bit.ly/oudcollective "see record of success folder to further vet, if necessary.")       
        
 ---
 
@@ -507,7 +502,7 @@ Talking | Bout | Shift-Work
 ---
 
 Raising Capital | Creating the Conditions for Others to Thrive | Developing a Learning Mindset     
-:---|:---|---:      
+:---|:---:|:---:      
 Enhancing Your Productivity | Google My Business Basics | Growing Your Small Business    
 Marketing Your Side Hustle | OMCA Certification for Online Marketing Test | Managing Your Time    
 Social Leadership | Teaching Technical Skills Through Video | Web Programming Foundations    
@@ -551,22 +546,23 @@ Word | Powerpoint | Excel | Project
 
 No # | Position | Employer | Physical Address | Start - End Date
 :---|:---|:---:|---:|---:
-1 | [Creative Strategist & Principal Chief of Operations](https://github.com/OUDcollective/Qualitative-Self#with-wind-llc "since 15NOV18; found clarity 10MAY19") | [with Wind, LLC](https://crunchbase.com/organization/chasing-the-wind-llc "On with Wind Crunchbase Profile") | Covington, GA | 2018 - Present     
-2 | [Logistics Coordinator](https://github.com/OUDcollective/Qualitative-Self#amazon-inc "temporary position : course of life pivot") | [Amazon Logistics](https://logistics.amazon.com/) | Stockbridge, GA | 2017 - 2018
-3 | Maintenance & Landscape  | Pine Hills | Stockbridge, GA | 2016 - 2017   
-4 | Self-employed (Freelance) | [Sub-Contract Work](https://google.com/search?q=c+brennan+poole+chasing+the+wind "Google SERP Footprint Establishment to help explain with Wind algorithmic understanding and associative-categorical theorizing using a closed network growth loop to make Wind actionable") | Stockbridge, GA | 2014 - 2017    
+1 | [Creative Strategist & Principal Chief of Operations](https://github.com/OUDcollective/Qualitative-Self#with-wind-llc "since 15NOV18; found clarity 10MAY19") | [with Wind, LLC](https://crunchbase.com/organization/chasing-the-wind-llc "On with Wind Crunchbase Profile") | Covington, GA | '18-?     
+2 | [Logistics Coordinator](https://github.com/OUDcollective/Qualitative-Self#amazon-inc "temporary position : course of life pivot") | [Amazon Logistics](https://logistics.amazon.com/) | Stockbridge, GA | '17-18
+3 | Maintenance & Landscape  | Pine Hills | Stockbridge, GA | '16-'17   
+4 | Self-employed (Freelance) | [Sub-Contract Work](https://google.com/search?q=c+brennan+poole+chasing+the+wind "Google SERP Footprint Establishment to help explain with Wind algorithmic understanding and associative-categorical theorizing using a closed network growth loop to make Wind actionable") | Stockbridge, GA | '14-'17.
 5 | [Dispatch Supervisor](https://github.com/OUDcollective/Qualitative-Self#annex-freight-systems-inc "Contract position") | [Annex Freight Systems](http://www.annexfreight.com/ "contract work with former friend and mentor from Roadway Express, Inc 'first college less-than-load position working the dock and throwing boxes and tires") | Newnan, GA | 2013 - 2013      
-6 | [Terminal Operations Manager](https://github.com/OUDcollective/Qualitative-Self#saia-ltl-freight-inc "return to work prematurely causing 7 year hiatus from industry") | [Saia, Inc](https://www.youtube.com/watch?v=HhE8iuLYaBY "Look at Ellenwood Facility and the 226 door 400+ driver & associate operation on YouTube") | Ellenwood, GA | 2011 - 2013  7 | [Dispatch Supervisor](https://github.com/OUDcollective/Qualitative-Self#saia-ltl-freight-inc-1) | Saia, Inc | Johns Creek, GA | 2009 - 2011     
-8 | [Operations Supervisor](https://github.com/OUDcollective/Qualitative-Self#saia-ltl-freight-inc-2) | Saia, Inc | Ellenwood, GA | 2008 - 2009    
-9 | Operations / Office Manager | South County Masonry Inc | Venice, FL | May 2006 - Aug 2007    
-10 | [Team Lead](https://github.com/OUDcollective/Qualitative-Self#teds-montana-grill) | Ted's Montana Grill | Midtown Atlanta, GA | 2005 - 2006     
-11| [Trainer / FOH Manager](https://github.com/OUDcollective/Qualitative-Self#the-italian-oven) | Italian Oven | Stockbridge, GA | 2003 - 2005     
-12 | Customer Service Associate II | [Lowe's Inc](https://lowes.com "Paint Department & Building Materials CSR II while studying at Georgia State's Robinson College of Business") | Stockbridge, GA - 2003 | 2003      
-13 | Freight Handler | Roadway Express Inc | Atlanta, GA | 2002-  2003     
-14 | Umpire | RYBA (Youth Baseball Assoc. Rockdale County) | Conyers, GA | 2000 - 2001    
-15 | Secretarial Assistant | [Richard H. Ramsey IV, Esquire](https://lawyers.findlaw.com/profile/view/2767034_1 "Work-study while at Northview High School Junior Year; and yes moved alot, allowing me to have a comprehensive, diverse, objective understanding of the educational institution that is in US") | Dothan, AL | Nov 2000 - May 2000    
-16 | Back of House | City Slickers, LLC | Conyers, GA | 1999 - 2001    
-17 | Innocence of Youth | American Dreamer | Historic Heartland of Georgia, US & Greater Metro Atlanta area | 1983 - TBD    
+6 | [Terminal Operations Manager](https://github.com/OUDcollective/Qualitative-Self#saia-ltl-freight-inc "return to work prematurely causing 7 year hiatus from industry") | [Saia, Inc](https://www.youtube.com/watch?v=HhE8iuLYaBY "Look at Ellenwood Facility and the 226 door 400+ driver & associate operation on YouTube") | Ellenwood, GA | '11-'13.
+7 | [Dispatch Supervisor](https://github.com/OUDcollective/Qualitative-Self#saia-ltl-freight-inc-1) | Saia, Inc | Johns Creek, GA | '09-'11     
+8 | [Operations Supervisor](https://github.com/OUDcollective/Qualitative-Self#saia-ltl-freight-inc-2) | Saia, Inc | Ellenwood, GA | '08 -'09    
+9 | Operations / Office Manager | South County Masonry Inc | Venice, FL | '06-'07      
+10 | [Team Lead](https://github.com/OUDcollective/Qualitative-Self#teds-montana-grill) | Ted's Montana Grill | Midtown Atlanta, GA | '05-'06     
+11| [Trainer / FOH Manager](https://github.com/OUDcollective/Qualitative-Self#the-italian-oven) | Italian Oven | Stockbridge, GA | '03 - '05     
+12 | Customer Service Associate II | [Lowe's Inc](https://lowes.com "Paint Department & Building Materials CSR II while studying at Georgia State's Robinson College of Business") | Stockbridge, GA - '03-'04      
+13 | Freight Handler | Roadway Express Inc | Atlanta, GA | '01-'03     
+14 | Umpire | RYBA (Youth Baseball Assoc. Rockdale County) | Conyers, GA | '00-'01    
+15 | Esquire Assistant | [Richard H. Ramsey IV, Esquire](https://lawyers.findlaw.com/profile/view/2767034_1 "Work-study while at Northview High School Junior Year; and yes moved alot, allowing me to have a comprehensive, diverse, objective understanding of the educational institution that is in US") | Dothan, AL | '99-'00      
+16 | Back of House | City Slickers, LLC | Conyers, GA | '99-'01    
+17 | Innocence of Youth | American Dreamer | Historic Heartland of GA+Metro Atlanta area | '83 -?     
 
 ---
 
@@ -575,25 +571,31 @@ No # | Position | Employer | Physical Address | Start - End Date
 Rolling Stone | Ramblin' Man | Time to Move On    
 :---|:---:|---:      
 Mick | Duane | Tom         
+Stones | Brothers Allmann | Earl    
+Rollin' w/ Jagger | Band with Gregg | Heartbreakers - Petty's      
+💋 | 🍑 | 🎩🎸💘    
+💨 | ♿ | 🌀    
 
 ---
 
-No | school | city | state | start-end     
-:---|:---|:---:|---:|---:    
-8 | Berkmar High School | Lawrenceville | GA | 1997-1998     
-7 | Sandy Creek High School | Tyrone | GA | 1998-1999            
-6 | Salem High School | Conyers | GA | 1999     
-5 | Northview High School | Dothan | AL | 1999-2000     
-4 | Salem High School | Conyers | GA | Aug 1999-2001       
-3 | University of West Georgia | Carrollton | GA | Aug 2001-2002      
-2 | Georgia State / Robinson College of Business | Atlanta | GA | '02-'06  
+No. | School | City, ST | Date      
+:---|:---:|:---|---:     
+8 | Berkmar High School | Lawrenceville, GA | '97-'98         
+7 | Sandy Creek High School | Tyrone, GA | '98-'99            
+6 | Salem High School | Conyers, GA | '99     
+5 | Northview High School | Dothan, AL | '99-'00      
+4 | Salem High School | Conyers, GA | Aug '00-'01       
+3 | University of West Georgia | Carrollton, GA | '01-'02       
+2 | Georgia State / Robinson College of Business | Atlanta, GA | '02-'06     
 
-No 1: `it's the real thing`<br>
+No. 1: `it's the real thing`<br>
 
 ---
 
 #### Links    
 `the pause that refreshes`    
+
+---
 
 Authentic | Digital | Self
 :---|:---:|---:    
@@ -605,7 +607,7 @@ CASEY | BRENNAN | POOLE
 [LinkedIn: Project](https://linkedin.com/in/oudcollective) | [LinkedIn: Control](https://linkedin.com/in/c-brennan-poole) | [Pinterest](https://www.pinterest.com/withWindllc)   
 :---|:---|---:    
 [LinkedIn with Wind](https://linkedin.com/company/the-wind) |  [Quora](https://quora.com/c-brennnan-poole) | [Twitter](https://twitter.com/oudcollective)    
-[instagram](https://instagram.com/twenty20times) | [Under Contract](https://www.undercontract.dev copy, design, strategy by c brennan poole with Wind, LLC") | [Medium](https://medium.com/@C.Brennan.Poole)    
+[instagram](https://instagram.com/twenty20times) | [Under Contract](https://www.undercontract.dev "copy, design, strategy by c brennan poole with Wind, LLC") | [Medium](https://medium.com/@C.Brennan.Poole)    
 [Rockin' Chair Panel](https://medium.com/rockinchairpanel) | [DEV](https://dev.to/cbrennanpoole) | [Hackernoon](https:/hackernoon.com/@chasing-the-wind)    
 [Crunchbase Founder Top 5k Bio](https://www.crunchbase.com/person/c-brennan-poole) | [Crunchbase with Wind Top 50k Organization](https://www.crunchbase.com/organization/chasing-the-wind-llc) | [Coil Blog](https://coil.com/u/oudcollective)    
 [GOOGLE SERP](https://www.google.com/search?q=c+brennan+poole+wind) | [BING SERP](https://www.bing.com/search?q=c+brennan+poole+chasing+the+wind) | [ORCID](https://orcid.org/0000-0001-6537-7683)     
@@ -616,7 +618,7 @@ CASEY | BRENNAN | POOLE
 [Telegram](https://t.me/oudcollective) | [Current Projects](https://github.com/OUDcollective/Qualitative-Self/projects "Projects section of 'Qualitative-Self'") | [EEOC Apple Inc Diversity](https://docs.google.com/spreadsheets/d/1wQbP_f9faXGKKyWBTsKOd9yt4xqnLktvq_8AofdupSI/edit#gid=785042388 "Major issue and use-case hypocrisy of the IT gates and Learned Trait Hate with Wind is adamant is a major player in these epidemic pandemic times of corpatocracy fueled greed killing US Peoples")    
 [Seed Startup Hub](https://www.seedstartuphub.com/Home/StartupProfile/~10505 "Invite 'unsolicited of course' via Harvard Business Review contact") | [Apple Music](https://music.apple.com/us/playlist/epidemic-statistics/pl.u-38oWZy3sYK72y0R "Epidemic Statistic : Petty, Tom Earl v.420.00; ya dig?") | [Vimeo](https://vimeo.com/accessibilityassistants "where there's a will there's a way biy God")
 [Google My Business](https://oudcollective.com "Stay - tuned as this one is the epitome of machines learning gone terribly learnng; while at the same time it will deliver a justified exoneration 'in the midst'; must just trust me on this Scorsese - like true story") | [Dark Theme Transcription Services](https://bit.ly/Podcast-Transcripts-Dark-Theme) | [Unsplash](https://unsplash.com/@oudcollective/stats?stats=last-30)    
-[Growth-hack Attack v.2.1](https://drive.google.com/drive/u/1/folders/1tBIWum7wR3weNNFrSUz6GpexeYgGMo9O) | [YC SUS 2020](https://www.startupschool.org/companies/withWind) | [Google Drive Root](https://bit.ly/OUDcollective)    
+[Growth-hack Attack v.2.1](https://drive.google.com/drive/u/1/folders/1tBIWum7wR3weNNFrSUz6GpexeYgGMo9O) | [YC SUS 2020](https://www.startupschool.org/companies/withWind) | [sites.google.com/view/withwindllc/home](https://sites.google.com/view/withwindllc/home "check out my creation. PLEASE?")    
 
 ---
 
@@ -641,7 +643,9 @@ Copyright© 2021. Chasing the Wind, LLC. DBA with Wind LLC. Some rights reserved
 
 This repository is licensed under* [MIT](../LICENSE)® #twenty20times [GitHub](https://github.com/OUDcollective/Quantified-Self "If ever I get around to delivering in-demand code"), Inc. All rights to logo are reserved. IAM [C Brennan Poole](https://www.bing.com/search?q=c+brennan+poole+chasing+the+wind "Bing powered by Microsoft : hacking traffic to the SERP to keep the sticky effect alive and well while attempting to roket launch inefficiencies into a total process overhaul i.e. digital transformation with Wind and C Brennan Poole pandemic forced states since dropped 'chasing' now simply DBA with Wind").
 
----
+---    
+
+###### If You Made It This Far, YOU ROCK; Thanks!   
 
 [with Wind, LLC](https://linkedin.com/company/the-wind) | [9114 Central Avenue SW Unit B Covington, GA US 30014](https://oudcollective.com "market research of GMB profile that will be a NYT Best Seller is all goes as expected ... STAY TUNED")     
 :---|---:    
