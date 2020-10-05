@@ -1,24 +1,26 @@
 title:  The Qualitative Self
-author: C-Brennan-Poole
+author: @cbrennanpoole
 affiliatation: with Wind
 email:  chief@chasingthewindllc.com
-description: The Qualitative Self a course of life's work
+description: a course of life's work (plain language for CV)
 # social links
-twitter_username: OUDcollective
-github_username: OUDcollective
+twitter_username: @oudcollective
+github_username: @cbrennanpoole
 linkedin_username: oudcollective
-linkedin_username: c-brennan-poole
+linkedin_username-2: c-brennan-poole
+linkedin_company_user: the-wind
 pinterest_username: withWindllc
-medium_username: C.Brennan.Poole
+medium_username: @C.Brennan.Poole
 dribbble_username: C-Brennan-Poole
 crunchbase_username: c-brennan-poole
-facebook_username: inthebusinessbusiness
+Dev.to_username: C-Brennan-Poole
+facebook_business_messenger: inthebusinessbusiness
 instagram_username: twenty20times
 snapchat_username: cbrennanp
 quora_username: c-brennan-poole
 startupschool_username: withWind
 show_excerpts: true # set to false to remove excerpts on the homepage
-creative commons: (CC BY-SA)
+creative commons: CC BY-SA International 4.0 license; some rights reserved
 
 theme: jekyll-theme-modernist
 
