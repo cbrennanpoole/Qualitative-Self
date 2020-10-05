@@ -1,8 +1,9 @@
 title:  The Qualitative Self
 author: @cbrennanpoole
-affiliatation: with Wind
+affiliatation: withWindllc    
 email:  chief@chasingthewindllc.com
-description: a course of life's work (plain language for CV)
+description: a course of life's work - plain language for CV
+
 # social links
 twitter_username: @oudcollective
 github_username: @cbrennanpoole
@@ -20,7 +21,7 @@ snapchat_username: cbrennanp
 quora_username: c-brennan-poole
 startupschool_username: withWind
 show_excerpts: true # set to false to remove excerpts on the homepage
-creative commons: CC BY-SA International 4.0 license; some rights reserved
+creative commons: CC BY-SA      
 
 theme: jekyll-theme-modernist
 
