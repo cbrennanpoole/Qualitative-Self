@@ -189,8 +189,6 @@ An Assignment!
 
 ```
 
----
-
 > Be nimble about Lean Six Sigma – to get started, just remember the DMAIC high-level approach and [create a document](https://bit.ly/withWind-DarkDoc "Google Docs Dark Theme with Wind LLC") with the below five steps outlined.   
 
 **For each step, think** *of the following points*:    
@@ -204,6 +202,11 @@ An Assignment!
 
 - credit : | [Google SERP](https://google.com/search?q=what+are+six-sigma+precepts"). [Lean Six-sigma for the Digital Analyst](https://online-behavior.com/analytics/lean-six-sigma "actionable too!"). [Online-behavior.com](https://online-behavior.com "Keep it simple, stupid.")     
 
+---
+
+##### [Saia, Inc Operating 2008-2013](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf)    
+![Saia, Inc. : Operating Ratio (2008-2013)](https://camo.githubusercontent.com/1ed6c0f6a03610a77c26acb7dc66f834bc159839/68747470733a2f2f7777772e617765736f6d6573637265656e73686f742e636f6d2f6170692f76312f64657374696e6174696f6e2f696d6167652f73686f773f496d6167654b65793d746d2d333935372d32303230352d3138313034666638633337623036316165376532653364633035616339616234 "Saia Inc. OR / Revenue in millionos for time-of-tenure - 2008-2013 - most impressed by my data sweat work than these numbers 😊")    
+credit :  [Saia, Inc 2013 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf "with Wind creation")    
 
 ---
 
@@ -224,7 +227,7 @@ Johns Creek, GA | Jul 2009 - Jul 2011
     - Call - offs.
     - Seniority standard work process.
 4. **Build rapport** *thru shared trust*.
-5. **Planning**:
+5. **Plan**:
     - Drivers:
         1. **Accomplish buy-in from drivers to adhere to SOP**.
             -  *Final Acceptance of long-standing rules*.
@@ -252,36 +255,28 @@ Ellenwood, GA | Mar 2008 - Jul 2009
     - City (PUD) Drivers.
     - Interline (3rd Party) Drivers.
     - Dispatch - to - Dock Ops.
-    - Administrative Assistants.
-2. **Support meeting of production metrics** *to establish continuous improvement environment*.
-3. **Guarantee on-time customer service standard**:    
-    - +98.6% : work tirelessly to improve all controllables & reduce the variables.
+    - Administrative Staff.
+2. **Support benchmark metrics as means to self-monitor performance** *establishing continuous improvement environment*.
+3. **Guarantee** *on-time service*:    
+    - +98.6% on-time Customer Service : work tirelessly to improve all controllables & reduce the variables.
         1. **On-time close schedule**: +93.5% standard expectation (*controllable*).
         2. **On time departure** : +93.5% (*indirect controllable*). 
 4. **Report due-service reconciliation** : continuous improvement and nightly responsibility.
     - Freight is both picked up & shows in proper status in AS400.
     - Account for:
         1. **Proper loading status** & technique in place `best practices`.
-        2. **Ensure AS400** (**dos-based**) remains an *iterative continuous improvement*.
-            - With plan for departure and direct verification with the linehaul unit; which 
-               1. Further tear - down barriers in place cross *dys*–functionally causing:
-               2. Stagnation to occur due to groupthink rather than thriving in growth thru *cross-functional collaboration*.
-5. **Audit national accounts** *incessantly checking for late arriving origin freight & due service inbound tonnage*.
-    - [Lowe's Inc]("").
+        2. **Ensure AS400** (**dos**) remained *iterative continuous improvement process*.
+            - With plan for departure and direct verification with linehaul team.
+5. **Audit national accounts**: *iterative process*; checking for late arriving & due service from over-the-road inbound shipments:
+    - [Lowe's Inc](https://"").
     - [Starbucks Coffee](https:// "").
     - [Behr](https:// "").
-    - Ingram Micro.
-    - Sherwin Williams.
-    - Benjamin Moore.
-    - Valspar Paints.
-    - Masterchem Paints.            
+    - [Ingram Micro](https:// "").
+    - [Sherwin Williams](https:// "").
+    - [Benjamin Moore](https:// "").
+    - [Valspar Paints](https:// "").
+    - [Masterchem Paints](https:// "").            
 
----
-
-##### [Saia, Inc Operating Ratio during time-of-tenure](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf)    
-![Saia, Inc. : Operating Ratio (2008-2013)](https://user-images.githubusercontent.com/50818414/89961638-5319ab00-dc10-11ea-95a2-63175100b6d2.png "Saia Inc. OR 2008-2013")    
-credit :  [Saia, Inc 2013 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf "with Wind creation")
-    
 ---
 
 ### Service Experience
@@ -289,11 +284,11 @@ credit :  [Saia, Inc 2013 Annual Report](https://assets.ctfassets.net/kjv8gs2ccg
 #### Ted's Montana Grill     
 `Trainer - Server`    
 Atlanta, GA  | Dec 2005 - May 2006    
-1. **Implement suggestive sales** *techniques. 
-2. **Identify customers preference using an empathetic ear**; with an *always-on presence*.
-2. **Offer custom tailored** *insight to menu*.
-3. **Ask open-ended questions** *in a pleasant tone*.
-4. **Encourage** *patrons to request services** the following week*.
+1. **Implement suggestive selling** *technique. 
+2. **Identify customers preference** through *active listening* with a *responsive presence*.
+2. **Offer custom-tailored** *insight and expertise in featured menu items*.
+3. **Ask qualitative questions** converying a *pleasurable tone*.
+4. **Encourage** *patrons to request services** the following week* building on a *regular guest-list*.
 
 ---
 
@@ -413,17 +408,17 @@ J. Mack | GSU | Panthers
     - Total Quality Management & [The Toyota Way](https://www.toyota-europe.com/world-of-toyota/this-is-toyota/the-toyota-way).    
     - [Toyota Production Systems Guiding Principles](https://global.toyota/en/company/vision-and-philosophy/production-system/).
         1. [**Continuous improvement**](https://en.wikipedia.org/wiki/Toyota_Production_System "Credit : Wikipedia Toyota Guiding Principles CC BY-SA")
-        2. **Challenge** : We form a **long-term vision**, **meeting challenges** with *courage* and *creativity* to *realize our dreams*.
+        2. **Challenge** : Form a **long-term vision**, **meeting challenges** with *courage* and *creativity* to *realize our dreams*.
             - [Kaizen](https://en.wikipedia.org/wiki/Kaizen "Source Credit : Wikipedia on Kaizen") : We *improve our business operations* **continuously**, *always driving* for *innovation* and *evolution*.
             - [Genchi Genbutsu](https://en.wikipedia.org/wiki/Genchi_Genbutsu "Source Credit : Wikipedia on Genchi Genbutsu CC BY-SA") : **Go to the source** to *find the facts* **to make correct decisions**.)
             - [Respect for People](https://en.wikipedia.org/wiki/Toyota_Production_System "Credit : Wikipedia Toyota Guiding Principles CC BY-SA")
                 1. Respect: We respect others, make every effort to understand each other, take responsibility and do our best to build mutual trust.
                 2. Teamwork : We stimulate personal and professional growth, share the opportunities of development and maximize individual and team performance.   
     - [The right process will produce the right results](https://en.wikipedia.org/wiki/Toyota_Production_System "Credit : Wikipedia Toyota Guiding Principles CC BY-SA")
-        1. **Create continuous process flow to bring problems to the surface**.
-        2. **Use the `pull` system to **avoid overproduction**.
-        3. **Level out the workload: `Approach work like the tortoise, not the hare`**.
-        4. Build a culture of *stopping to fix problems*, to *get quality right from the start*.
+        1. **Create continuous process** *flow to bring problems to the surface*.
+        2. **Use the pull system** to *avoid overproduction*.
+        3. **Level out the workload**: *Approach work like the tortoise, not the hare*.
+        4. **Build a culture** of *stopping to fix problems*, to *get quality right from the start*.
             - **Standardized tasks** are the foundation for *continuous improvement* and **employee empowerment.
             - **Use visual control** so no problems are hidden.
             - **Use only reliable**, *thoroughly* tested technology that **serves your people and processes.
@@ -431,21 +426,23 @@ J. Mack | GSU | Panthers
     - Grow leaders who:    
         1. **Thoroughly understand the work**.
         2. **Live the philosophy**.
-        3. **Teach it to others**.
-        4. **Develop exceptional people and teams who follow your company's philosophy***.
-        5. **Respect your extended network of partners and suppliers**:
-            - Challenging them and helping them improve.
-            - Continuously solving root problems drives organizational learning. 
+        3. **Teach to others**.
+        4. **Develop exceptional people** and *teams who follow your company's philosophy*.
+        5. **Respect your extended network** *of partners and suppliers*:
+            - *Challenging them and helping them improve*.
+            - *Continuously solving root problems drives organizational learning*. 
         6. **Go and see for yourself to thoroughly understand the situation**;
-            - Make decisions slowly by consensus, thoroughly considering all options: 
-        7. **Implement decisions rapidly**.
-            - Become a learning organization through relentless reflection.
+            - *Make decisions slowly by consensus, thoroughly considering all options*. 
+        7. **Implement decisions** *rapidly*.
+            - *Become a learning organization through relentless reflection*.
     - **Toyoda Precepts**:    
         1. **Always be faithful** to your duties, thereby contributing to the Company and to the overall good.
         2. **Always be studious** and creative, striving to stay ahead of the times.
         3. ***Always be practical** and avoid frivolousness.
         4. **Always strive to build** a homelike atmosphere at work that is warm and friendly.
         5. **Always have respect** for spiritual matters, and remember to be grateful at all times.
+
+---
 
 ![Total Quality Management : The Toyota Way](https://camo.githubusercontent.com/9f9698d6eabf54895654bcd67601b572e98189f9/68747470733a2f2f7777772e617765736f6d6573637265656e73686f742e636f6d2f6170692f76312f64657374696e6174696f6e2f696d6167652f73686f773f496d6167654b65793d746d2d333935372d31383430392d3362363130323138393563643936353139386337373534653138366232623964 "Image re-mix and credits to : Dark Reader, Squoosh App, Google Drawings, and Toyota Way Guiding Principles")    
 *credit*: [Toyoda Guiding Principles](https://toyota.eu "i think") *creator*: cbrennanpoole **support**: [Dark Reader](https://darkreader.org) & [AwesomeScreenshot](https://awesomescreenshot.com)
@@ -478,7 +475,7 @@ ECON 2100 The Global Economy | BIOL 1110K Human Anatomy & Phsyiology
 BIOL 1101 Intro to Biology | AH 1070 Survey of Art II      
 ENGL 2102 American Literature | MATH 1070 Elementary Statistics      
 POLS 1101 American Government | ASTR 1001 Intro to Astronomy      
-SPCH 1000 Human Communication | [G-Drive Root](https://bit.ly/oudcollective "see record of success folder to further vet, if necessary.")          
+SPCH 1000 Human Communication | [UnderContract.dev](https://UnderContract.dev "Next Project; care to ¿cc011aborate?")          
        
 ---
 
@@ -533,8 +530,8 @@ Markdown | CSS/SASS/SCSS | Real Estate Principles | Social Selling
 
 ---
 
-No # | Position | Employer | Physical Address | Start - End Date
-:---|:---|:---:|---:|---:
+No # | Position | Employer | Address | Start-End    
+:---|:---|:---|:---|---:     
 1 | [Creative Strategist & Principal Chief of Operations](https://github.com/OUDcollective/Qualitative-Self#with-wind-llc "since 15NOV18; found clarity 10MAY19") | [with Wind, LLC](https://crunchbase.com/organization/chasing-the-wind-llc "On with Wind Crunchbase Profile") | Covington, GA | '18-?     
 2 | [Logistics Coordinator](https://github.com/OUDcollective/Qualitative-Self#amazon-inc "temporary position : course of life pivot") | [Amazon Logistics](https://logistics.amazon.com/) | Stockbridge, GA | '17-18
 3 | Maintenance & Landscape  | Pine Hills | Stockbridge, GA | '16-'17   
@@ -559,16 +556,14 @@ No # | Position | Employer | Physical Address | Start - End Date
 
 Beast of Burden | Ramblin' Man | Time to Move On    
 :---|:---:|---:      
-Mick | Duane | Tom         
-The Rolling | Brothers Allmann | Earl    
-Jagge & Keith Stones  | Band. And Gregg | Heartbreakers. Petty's      
-💋 | 🍑 | 🎩🎸💘    
-💨 | ♿ | 🌀    
+Mick & Keith | Duane & Gregg | Tom & Mike         
+💋 | 🍑 | 💘    
+   
 
 ---
 
-No. | School | City, ST | Date      
-:---|:---:|:---|---:     
+No. | School | Location | Date      
+:---|:---|:---|---:     
 8 | Berkmar High School | Lawrenceville, GA | '97-'98         
 7 | Sandy Creek High School | Tyrone, GA | '98-'99            
 6 | Salem High School | Conyers, GA | '99     
@@ -577,11 +572,12 @@ No. | School | City, ST | Date
 3 | University of West Georgia | Carrollton, GA | '01-'02       
 2 | Georgia State / Robinson College of Business | Atl, GA | '02-'06     
 
-No. 1: `it's the real thing`<br>
+No. 1:    
+`it's the real thing`
 
 ---
 
-#### Links    
+#### cbrennanpoole Links    
 `the pause that refreshes`    
 
 ---
@@ -589,21 +585,21 @@ No. 1: `it's the real thing`<br>
 Authentic | Digital | Self
 :---|:---|---:    
 CASEY | BRENNAN | POOLE    
-10 | MAY | 1983      
+10 | MAY | 19      
 [LinkedIn: Project](https://linkedin.com/in/oudcollective) | [LinkedIn: Control](https://linkedin.com/in/c-brennan-poole) | [Pinterest](https://www.pinterest.com/withWindllc)   
 [LinkedIn with Wind](https://linkedin.com/company/the-wind) |  [Quora](https://quora.com/c-brennnan-poole) | [Twitter](https://twitter.com/oudcollective)    
-[instagram](https://instagram.com/twenty20times) | [Under Contract](https://www.undercontract.dev "copy, design, strategy by c brennan poole with Wind, LLC") | [Medium](https://medium.com/@C.Brennan.Poole)    
+[instagram](https://instagram.com/twenty20times) | [Under Contract](https://www.undercontract.dev "copy, design, strategy by c brennan poole with Wind, LLC") | [Medium](https://medium.com/@cbrennanpoole)    
 [Rockin' Chair Panel](https://medium.com/rockinchairpanel) | [DEV](https://dev.to/cbrennanpoole) | [Hackernoon](https:/hackernoon.com/@chasing-the-wind)    
 [Crunchbase Founder Top 5k Bio](https://www.crunchbase.com/person/c-brennan-poole) | [Crunchbase with Wind Top 50k Organization](https://www.crunchbase.com/organization/chasing-the-wind-llc) | [Coil Blog](https://coil.com/u/oudcollective)    
-[GOOGLE SERP](https://www.google.com/search?q=c+brennan+poole+wind) | [BING SERP](https://www.bing.com/search?q=c+brennan+poole+chasing+the+wind) | [ORCID](https://orcid.org/0000-0001-6537-7683)     
+[GOOGLE SERP](https://www.google.com/search?q=cbrennanpoole) | [BING SERP](https://www.bing.com/search?q=c+brennan+poole+chasing+the+wind) | [ORCID](https://orcid.org/0000-0001-6537-7683)     
 [dribbbler](https://dribbble.com/C-Brennan-Poole/about) | [North American Crisis](https://docs.google.com/spreadsheets/d/e/2PACX-1vQtNSLY1eaa8StJxhsTOh6DkVDyj8nTnqf9nQYz1QvJ0lWnrc7gQpiGyhlTuIkDPllAi0bwrDMDiQv3/pubchart?oid=181466766&format=interactive "for whole-truth >> pandemic >> epidemics >> follow the Franklins >> silent partnerships >> collaborative arrangements >> special interests >> pharmacological angles >> & think ... propaganda that is SUBoxone SUBstitution and an opioid crisis not improving - rather - parabolically failing with novel coronavirus further fueling this corporatocracy use-case-study MD >> understand, it's an all-cash establishment that further fuels off the fallacies in US dot GOV") | [Giphy](https://giphy.com/channel/chasing-the-wind)    
 [YouTube](https://www.youtube.com/channel/UCYVa4H5JraM-R6YoORABg3Q/about?disable_polymer=1) | [WIKI](https://en.wikipedia.org/wiki/User:C-Brennan-Poole) | [Stack Overflow Story](https://stackoverflow.com/story/c-brennan-poole)    
 [Stack Overflow CV](https://stackoverflow.com/cv/c-brennan-poole) | [Dark Docs Template](docs.google.com/document/d/1-JMQZuREnJHeSVKiyT7TKi_pyj1DCC1cfUR8Mhsilpo/template/preview) | [Dark Sheets Template](docs.google.com/spreadsheets/d/1m3ORMVcPysEeyoBzcJ4JPzHXRBgKYMnorIPJrMH1IOw/template/preview)    
 [GitHub Template](https://bit.ly/Git-Template) | [Hangouts to iOS Hack](https://hangouts.google.com/?hs=139&action=chat&pn=4705801515) | [Messenger](https://m.me/IntheBusinessBusiness)
-[Telegram](https://t.me/oudcollective) | [Current Projects](https://github.com/OUDcollective/Qualitative-Self/projects "Projects section of 'Qualitative-Self'") | [EEOC Apple Inc Diversity](https://docs.google.com/spreadsheets/d/1wQbP_f9faXGKKyWBTsKOd9yt4xqnLktvq_8AofdupSI/edit#gid=785042388 "Major issue and use-case hypocrisy of the IT gates and Learned Trait Hate with Wind is adamant is a major player in these epidemic pandemic times of corpatocracy fueled greed killing US Peoples")    
-[Seed Startup Hub](https://www.seedstartuphub.com/Home/StartupProfile/~10505 "Invite 'unsolicited of course' via Harvard Business Review contact") | [Apple Music](https://music.apple.com/us/playlist/epidemic-statistics/pl.u-38oWZy3sYK72y0R "Epidemic Statistic : Petty, Tom Earl v.420.00; ya dig?") | [Vimeo](https://vimeo.com/accessibilityassistants "where there's a will there's a way biy God")
-[Google My Business](https://oudcollective.com "Stay - tuned as this one is the epitome of machines learning gone terribly learnng; while at the same time it will deliver a justified exoneration 'in the midst'; must just trust me on this Scorsese - like true story") | [Dark Theme Transcription Services](https://bit.ly/Podcast-Transcripts-Dark-Theme) | [Unsplash](https://unsplash.com/@oudcollective/stats?stats=last-30)    
-[Growth-hack Attack v.2.1](https://drive.google.com/drive/u/1/folders/1tBIWum7wR3weNNFrSUz6GpexeYgGMo9O) | [YC SUS 2020](https://www.startupschool.org/companies/withWind) | [sites.google.com/view/withwindllc/home](https://sites.google.com/view/withwindllc/home "check out my creation. PLEASE?")    
+[Telegram](https://t.me/oudcollective) | [Current Projects](https://github.com/cbrennanpoole/Qualitative-Self/projects "Projects section of 'Qualitative-Self'") | [EEOC Apple Inc Diversity](https://docs.google.com/spreadsheets/d/1wQbP_f9faXGKKyWBTsKOd9yt4xqnLktvq_8AofdupSI/edit#gid=785042388 "Major issue and use-case hypocrisy of the IT gates and Learned Trait Hate with Wind is adamant is a major player in these epidemic pandemic times of corpatocracy fueled greed killing US Peoples")    
+[Seed Startup Hub](https://www.seedstartuphub.com/Home/StartupProfile/~10505 "Invite 'unsolicited of course' via Harvard Business Review contact") | [Apple Music](https://music.apple.com/us/playlist/epidemic-statistics/pl.u-38oWZy3sYK72y0R "Epidemic Statistic : Petty, Tom Earl v.420.00; ya dig?") | [Vimeo](https://vimeo.com/accessibilityassistants "where there's a will there's a God!")
+[UnderContract.dev](https://UnderContract.dev "Let's Close! git actionable!") | [Dark Theme Transcription Services](https://bit.ly/Podcast-Transcripts-Dark-Theme) | [Unsplash](https://unsplash.com/@cbrennanpoole/stats?stats=last-30)    
+[Growth-hack Attack v.2.1](https://drive.google.com/drive/u/1/folders/1tBIWum7wR3weNNFrSUz6GpexeYgGMo9O) | [YC SUS 2020](https://www.startupschool.org/companies/withWind) | [sites.google.com/view/withwindllc/home](https://sites.google.com/view/withwindllc/home)    
 
 ---
 
@@ -634,4 +630,4 @@ This repository is licensed under* [MIT](../LICENSE)® #twenty20times [GitHub](h
 
 [with Wind, LLC](https://linkedin.com/company/the-wind) | [9114 Central Avenue SW Unit B Covington, GA US 30014](https://oudcollective.com "market research of GMB profile that will be a NYT Best Seller is all goes as expected ... STAY TUNED")     
 :---|---:    
-[US](https://bit.ly/oudcollective "ONCE great NATION") | [Hangouts to iOS Hack](https://hangouts.google.com/?hl=en&action=chat&pn=%2B1470-580-1515&authuser=1)     
+[US](https://bit.ly/oudcollective) | [Hangouts to iOS Hack](https://hangouts.google.com/?hl=en&action=chat&pn=%2B1470-580-1515)     
