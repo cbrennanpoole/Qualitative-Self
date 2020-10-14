@@ -55,8 +55,8 @@ credit: @cbrennanpoole | assist: [Adobe Spark](https://spark.new "link to the do
 
 ---
 
-#### with Wind LLC / Creative Strategist    
-*Covington, GA | Nov 2018 - Present*    
+#### [with Wind LLC](https://plan.withWind.llc "Google Site IA planning the process, care to ¿CC011aborate?") / **Creative Strategist**    
+`Covington, GA | Nov 2018 - Present`    
 1. **Invitation from Executive Producer of** [**SXSW 2020 Pitch**](https://docs.google.com/spreadsheets/d/1i23nUbKEccvqhnrTq8qfO9Y0vqb85VezkMIzTIjjP-k/edit?usp=sharing "with a 48 - hour deadline : Think.FailHuge Think.ContinuousImprovement inception with a 48-hour to deadline invite to apply.").
 2. **Extend reach to garner the attention of** [**The United Nations**](https://drive.google.com/file/d/1v3chrKnW2E2dnxMvnXHgXMsHmLyA_Jl5/view?usp=sharing "had to vet; but it's more than legit : again however - no 'chasing' with twenty - three attempts of encouragement trying to get with Wind all - in; reason for not 'chasing' `Legal entity : Chasing the Wind LLC` : `Team` —less; plus being recognized for a conceptual sustainable model while not being a sustainable entity felt like (and likely is) utter `hypocrisy") - Habitat in partnership with Dubai Municipality and UAE [International Awards for Best Practices in Sustainable Development](http://dubaiaward.ae/).
 3. **Shortlists**:
@@ -91,15 +91,15 @@ credit: [Inbound Logistics](https://www.inboundlogistics.com/cms/article/georgia
 
 ---
 
-#### Annex Freight Systems Inc / Dispatch Supervisor    
-*Newnan, GA / Mar 2013-Oct 2013*    
+#### [Annex Freight Systems](https://http://www.annexfreight.com) / **Dispatch Supervisor**    
+`Newnan, GA / Mar 2013-Oct 2013`   
 1. **Stream-line processes** within the supply chain and within the internal, inter-departmental operations and customer service team
-2. **Provide Total Customer Satisfaction** through improvement the work atmosphere and day-to-day experience with team members, drivers, delivery partners, warehouse associates, third-party vendors, & most importantly, the customer.
-5. **Maintain direct contact with various departments** within the organization to coordinate and increase the efficiency driver, truck and trailer assignments.
-6. **Supervise local drivers and plan** current as well as future run schedules while aligning drivers and coverage for runs
-7. **Spot quote customer business** in a way that maximizes company revenue and resource utilization.Communicated any delays due to weather or other emergencies to the appropriate party to maintain client satisfaction rating of above 98.5%.
-
----
+2. **Provide Total Customer Satisfaction** through improvement the work atmosphere and day-to-day experience with team members, drivers, delivery partners, warehouse associates, third-party vendors, & most importantly, the customer.    
+5. **Maintain direct contact with various departments** within the organization to coordinate and increase the efficiency driver, truck and trailer assignments.     
+6. **Supervise local drivers and plan** current as well as future run schedules while aligning drivers and coverage for runs.    
+7. **Spot quote customer business** in a way that maximizes company revenue and resource utilization.Communicated any delays due to weather or other emergencies to the appropriate party to maintain client satisfaction rating of above 98.5%.    
+      
+---      
 
 [Saia 2013 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf) | [Saia 2012 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/358zUazvTQNm3jaMkpABaj/8e03804738cbe0beccff5fef0a3824ab/Saia_2012_Annual_Report_and_Form_10-K_0.pdf)    
 :---:|:---:    
@@ -108,30 +108,30 @@ credit : [Saia Inc](https://saia.com) | credit : [Saia Inc](https://saia.com/abo
      
  ---    
 
-#### Saia LTL Inc / Terminal Operations Manager
-*Ellenwood, GA / Jul 2011-Feb 2013*    
-1 **Spearhead company’s inaugural** [**dock-to-driver**]((https://www.youtube.com/watch?v=-mG5veBWS00&t=4s "YouTube video from Atlanta Dock as ATL is their flaship terminal and all rollouts literally rollout of Atlanta") *campaign to establish a sustainable competitive advantage*.
-2. **Institute total process overhaul**: [**Quality Matters**](https://www.youtube.com/watch?v=nPTt37YGdH4&list=PL7R4Ra-1Mrclih8qRlT9Z0ExjtdX_8vnm&index=2&t=3s "Atlanta dock is the flagship terminal and is an iterative environment as all programs roll-out thru that facility") campaign.
-3. **Support IT, Sales, and the Weight & Research team in implementation of** [**Freight Dimensioner**](https://www.youtube.com/watch?v=l3d6sJZ-mQ0 "most effective program serving as calalyst to total process overhaul and driver of quality; helping reduce operating ratio") technology.
-4. **Results**: 
-    - 177% increase in EPS. Equaling $1.94 or; 7% gain in revenues.
-    - 1.1 (Billion) shareholders’ equity.
-    - Top 10 Fortune ranking (LTL carriers).
-5. **Conduct trend analysis of seasonal tonnage versus historical manpower to**:
-    - Eliminate existing schedules by building dynamic loads to satellite (end) service centers.
+#### [Saia LTL Inc](https://saia.com/about-us) / **Terminal Operations Manager**
+`Ellenwood, GA / Jul 2011-Feb 2013`     
+1 **Spearhead company’s inaugural** [**dock-to-driver**]((https://www.youtube.com/watch?v=-mG5veBWS00&t=4s "YouTube video from Atlanta Dock as ATL is their flaship terminal and all rollouts literally rollout of Atlanta") *campaign to establish a sustainable competitive advantage*.     
+2. **Institute total process overhaul**: [**Quality Matters**](https://www.youtube.com/watch?v=nPTt37YGdH4&list=PL7R4Ra-1Mrclih8qRlT9Z0ExjtdX_8vnm&index=2&t=3s "Atlanta dock is the flagship terminal and is an iterative environment as all programs roll-out thru that facility") campaign.    
+3. **Support IT, Sales, and the Weight & Research team in implementation of** [**Freight Dimensioner**](https://www.youtube.com/watch?v=l3d6sJZ-mQ0 "most effective program serving as calalyst to total process overhaul and driver of quality; helping reduce operating ratio") technology.    
+4. **Results**:     
+    - 177% increase in EPS. Equaling $1.94 or; 7% gain in revenues.     
+    - 1.1 (Billion) shareholders’ equity.    
+    - Top 10 Fortune ranking (LTL carriers).    
+5. **Conduct trend analysis of seasonal tonnage versus historical manpower to**:    
+    - Eliminate existing schedules by building dynamic loads to satellite (end) service centers.    
     - Increase hiring efforts earlier in the calendar year (Jan and Feb); improving quality.
-6. **Design-thinking**:
-    - Re-position Atlanta dock-stand to the center of dock, improving: 
-		1. Accessibility, employee morale, productivity, on-time close & departs, & on-time service standard.
-7. **Craft operations strategy** aligning organizational vision with Atlanta Dock Ops daily game plan:
-    - 1st-day introduction issuance of the challenge to perform:
-        1. Command to excellence.
-        2. Demand accountability.
-        3. Assure return to always accessible open-door management policy.
-         
+6. **Design-thinking**:    
+    - Re-position Atlanta dock-stand to the center of dock, improving:    
+        1. Accessibility, employee morale, productivity, on-time close & departs, & on-time service standard.
+7. **Craft operations strategy** aligning organizational vision with Atlanta Dock Ops daily game plan:    
+    - 1st-day introduction issuance of the challenge to perform:    
+        1. Command to excellence.    
+	2. Demand accountability.     
+	3. Assure return to always accessible open-door management policy.    
+	
 ---    
 
-[**Saia, Inc: 2011 Annual Report**](https://assets.ctfassets.net/kjv8gs2ccggb/4M6d73qEcviGKIF2eMu4ro/130e6f2563346680b8b035864922e1f9/Saia_2012_Annual_Report.pdf "Quantifiable Analytics : Straight from the Source") | [**Saia, Inc: 2010 Annual Report**](https://www.annualreports.com/HostedData/AnnualReportArchive/s/NASDAQ_SAIA_2010.pdf "Quantifiable Analytics. Actionable")    
+[**Saia, Inc: 2011 Annual Report**](https://assets.ctfassets.net/kjv8gs2ccggb/4M6d73qEcviGKIF2eMu4ro/130e6f2563346680b8b035864922e1f9/Saia_2012_Annual_Report.pdf "Quantifiable Analytics: Straight from the Source") | [**Saia, Inc: 2010 Annual Report**](https://www.annualreports.com/HostedData/AnnualReportArchive/s/NASDAQ_SAIA_2010.pdf "Quantifiable Analytics. Actionable")    
 :---:|:---:    
 ![Saia, Inc: 2011 Annual Report](https://user-images.githubusercontent.com/50818414/89959039-768d2780-dc09-11ea-96ae-fca8892073b5.jpg)! | ![Saia, Inc : 2010 Annual Report](https://user-images.githubusercontent.com/50818414/89956466-3cb92280-dc03-11ea-9c21-fea34a8d3913.jpg "Full-year service in the single most impactful department in less-than-load industry; linehaul.")    
 credit : [Saia](https://saia.com/about-us "Top 10 Fortune Ranked lees-than-load freight & transportation carrier") | credit : [Saia](https://saia.com/awards "team awards reference : 2010 - 2014 cbrennanpoole service with company.")    
@@ -163,19 +163,18 @@ credit :  [Saia 2013 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/7q
 
 ---
 
-#### Saia LTL Inc / Linehaul Supervisor
-*Johns Creek, GA / Jul 2009 - Jul 2011*    
-1. **Regional travel** to provide:
-    - On-baording support & training.
-    - Serve as point-of-contact between regional management and terminal manager.
-    - Mentor peers in-person and in virtual / remote discussions via email, internal message boards and forums.
-2. **Develop inclusive practices** *to bridge divide between line-haul and city drivers*:
-3. **Foster authentic work relations** *with peers, subordinates, and executives*:
-4. **Build rapport** *thru shared trust*.
-    - Honor time-off requests with efficient consistency.
-5. **Improve* *overall Customer Service standard*:
-    - +99.4% on-time service.
-
+#### [Saia LTL Inc](https://saia.com/about-us) / **Linehaul Supervisor**
+`Johns Creek, GA / Jul 2009 - Jul 2011`
+1. **Regional travel** to provide:    
+    - On-board support & training.     
+    - Serve as point-of-contact between regional management and terminal manager.    
+    - Mentor peers in-person and in virtual / remote discussions via email, internal message boards and forums.     
+2. **Foster authentic work relations** *with peers, subordinates, and executives*.
+3. **Build rapport** *thru shared trust*.
+    - Honor time-off requests via efficiency & consistency.    
+4. **Improve* *overall Customer Service standard*:    
+    - +99.4% on-time service.     
+    
 ---
 
 [Saia, Inc: '09 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/3IEwyWksjECWYpTIQV1hpz/81790563baaf3d59e58c1f4b12c4f473/Saia_2009_Annual_Report___10-K.pdf) | [Saia, Inc: '08 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/5eLp57gLd4MTg6DQxj72Rb/a606477bdc8b4b38851a6ab130d4658f/Saia_2008_Annual_Report.pdf "Image of cover 2009 Annual Report for Saia LTL Freight, Inc. Service: Linehaul Dispatch July 2009-2011. Atlanta Corporate Office.")    
@@ -185,45 +184,45 @@ credit :  [Saia 2013 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/7q
 
 ---
 
-#### Saia LTL Freight Inc / Operations Supervisor    
-*Ellenwood, GA / Mar 2008-Jul 2009*    
-1. **Support benchmark metrics as means to self-monitor performance** *establishing continuous improvement environment*.
-2. **Guarantee** *on-time service*:    
+#### [Saia LTL Inc](https://saia.com/about-us) / **Operations Supervisor**    
+`Ellenwood, GA / Mar 2008-Jul 2009`    
+1. **Support benchmark metrics as means to self-monitor performance** *establishing continuous improvement environment*.     
+2. **Guarantee** *on-time service*:     
     - +98.6% on-time Customer Service : work tirelessly to improve all controllables & reduce the variables.
-        1. **On-time close schedule**: +93.5% standard expectation (*controllable*).
-        2. **On time departure** : +93.5% (*indirect controllable*). 
-3. **Report due-service reconciliation** : continuous improvement and nightly responsibility.
-    - Account for:
-        1. **Proper loading status**.
-        2. **Ensure AS400** (SAAS) remained *iterative prcoess and continuous improvement*.
+        1. **On-time close schedule**: +93.5% standard expectation (*controllable*).     
+	2. **On time departure** : +93.5% (*indirect controllable*).     
+	3. **Report due-service reconciliation** : continuous improvement and nightly responsibility.    
+            - Account for:    
+	        1. **Proper loading status**.
+                2. **Ensure AS400** (SAAS) remained *iterative prcoess and continuous improvement*.
 ---
 
 ### Service Experience
 
-#### Ted's Montana Grill / Trainer       
-*Atlanta, GA / Dec 2005-May 2006*
-1. **Implement suggestive selling** *technique. 
-2. **Identify customers preference** through *active listening* with a *responsive presence*.
-2. **Offer custom-tailored** *insight and expertise in featured menu items*.
-3. **Ask qualitative questions** converying a *pleasurable tone*.
-4. **Encourage** *patrons to request services** the following week* building on a *regular guest-list*.
+#### [Ted's Montana Grill](https://tedsmontanagrill.com) / **Trainer**       
+`Atlanta, GA / Dec 2005-May 2006`     
+1. **Implement suggestive selling** *technique.     
+2. **Identify customers preference** through *active listening* with a *responsive presence*.    
+2. **Offer custom-tailored** *insight and expertise in featured menu items*.    
+3. **Ask qualitative questions** converying a *pleasurable tone*.    
+4. **Encourage** *patrons to request services** the following week* building on a *regular guest-list*.    
 
 ---
 
-#### The Italian Oven / Manager
-*Stockbridge, GA / Dec 2003-Jan 2005*
+#### [The Italian Oven](https://theitalianoven.com) / **Manager**
+`Stockbridge, GA / Dec 2003-Jan 2005`
 1. **Present menu** in an understandable manner.
 2. **Suggest seasonsal dishes** / *chef's featured offerings*.
 3. **Pair wine & spirits** *with complementary main course*.
 
 ---
 
-#### Amazon Inc / Logistics Support
-*Work-at-Home / Oct 2017–Jan 2018*    
-1. **Virtual work environment** *encouraging active participation using open-source platform mattersmost as central virtual workspace*.
-2. **Serve** *as advocate for customer*.
-3. **Field inbound calls** *from Amazon Flex Delivery Partners*. 
-4. **Guide and encourage** *100% successful delivery of Amazon goods and services*.
+#### [Amazon Inc](https://logistics.amazon.com/) / **Logistics Support**
+`Work-at-Home / Oct 2017–Jan 2018`    
+1. **Virtual work environment** *encouraging active participation using open-source platform mattersmost as central virtual workspace*.     
+2. **Serve** *as advocate for customer*.    
+3. **Field inbound calls** *from Amazon Flex Delivery Partners*.     
+4. **Guide and encourage** *100% successful delivery of Amazon goods and services*.   
 
 ---
     
@@ -232,13 +231,13 @@ credit :  [Saia 2013 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/7q
 
 ---
 
-#### [**2013**](https://www.saia.com/about-us/awards "link to Saia, Inc Awards Page") **TEAM AWARDS**         
+#### [**2013**](https://www.saia.com/about-us/awards "link to Saia, Inc Awards Page") **TEAM AWARDS**             
 `Atlanta Dock` `Service Operations Manager`     
-1. **Responsible Care® Partner of the Year**     
+1. **Responsible Care® Partner of the Year**       
 `—American Chemistry Council`       
 2. **First Place for Safety** *in the "General Commodities LTL/Local Division*     
 `—American Trucking Associations Safety Management Council`    
-3. **Top 100 Motor Carrier**, *"G75" Green Supply Chain Partner*     
+3. **Top 100 Motor Carrier**, *"G75" Green Supply Chain Partner*      
 `—Inbound Logistics Magazine`     
 5. **Gold Team Award**     
 `—Lowe's Companies Inc.`      
@@ -250,120 +249,124 @@ credit :  [Saia 2013 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/7q
 #### [**2012**](https://www.saia.com/about-us/awards) **TEAM AWARDS**:    
 `Process Implementation`    
 1. **Carrier of the Year**      
-`—Ames True Temper`
-2. **First Place for Safety** *in the "General Commodities LTL/Local Division* 
-`—American Trucking Associations Safety Management Council`     
-3. **Top 100 Motor Carrier**     
-`—Inbound Logistics Magazine`
+`—Ames True Temper`    
+2. **First Place for Safety** *in the "General Commodities LTL/Local Division*     
+`—American Trucking Associations Safety Management Council`      
+3. **Top 100 Motor Carrier**      
+`—Inbound Logistics Magazine`     
 4. **Gold Team Award**      
-`—Lowe's Companies Inc.`     
+`—Lowe's Companies Inc.`      
 
 ---
 
 #### [**2011**](https://www.saia.com/about-us/awards) **TEAM AWARDS**
-`Quality Matters campaign roll-out` `First Year Terminal Operations Manager`    
-1. **Super Regional LTL Carrier of the Year** 
-`—Access America Transport`
-2. **First Place for Safety** *in the "General Commodities LTL/Local Division" 
-`—American Trucking Associations Safety Management Council`
+`Quality Matters campaign roll-out` `First Year Terminal Operations Manager`     
+1. **Super Regional LTL Carrier of the Year**     
+`—Access America Transport`    
+2. **First Place for Safety** *in the "General Commodities LTL/Local Division"      
+`—American Trucking Associations Safety Management Council`     
 3. **Best-in-Class Carrier**    
-`—GlobalTranz`
+`—GlobalTranz`     
 4. **Top 100 Motor Carrier**    
-`—Inbound Logistics Magazine`
-6. **InformationWeek 500 Honoree**    
-`—InformationWeek`
-7. **Interregional Quality Carrier of the Year**    
-`—Ryder System, Inc.`
-8. **Strategic Partner** *Carrier of the Year*     
-`—Unishippers Global Logistics, LLC`
+`—Inbound Logistics Magazine`     
+6. **InformationWeek 500 Honoree**     
+`—InformationWeek`    
+7. **Interregional Quality Carrier of the Year**     
+`—Ryder System, Inc.`     
+8. **Strategic Partner** *Carrier of the Year*       
+`—Unishippers Global Logistics, LLC`     
 
 ---
 
 #### [**2010**](https://www.saia.com/about-us/awards) **TEAM AWARDS**
-`Unsolicited Promotion by the [frmr VP of Linehaul & Current VP & General Manager. Schneider](https://www.linkedin.com/in/rob-bulick-34502213)  
+`Unsolicited Promotion` [`frmr VP of Linehaul & Current VP & General Manager. Schneider`](https://www.linkedin.com/in/rob-bulick-34502213)  
 
 ---
 
-1. Super Regional LTL Carrier of the Year 
-`—Access America Transport`
-2. **First Place for Safety** *in `General Commodities LTL/Local Division`*
-`—American Trucking Associations Safety Management Council`
-3. **Interregional Carrier of the Year** 
+1. Super Regional LTL Carrier of the Year     
+`—Access America Transport`    
+2. **First Place for Safety** *General Commodities LTL/Local Division*     
+`—American Trucking Associations Safety Management Council`    
+3. **Interregional Carrier of the Year**     
 `—CoLinx, LLC`
-4. **Best-in-Class Carrier**
-`—GlobalTranz`
-5. **InformationWeek 500 Honoree**    
-`—InformationWeek`
-6. **Top 100 Motor Carrier**    
-`—Inbound Logistics Magazine`
-7. **Silver Team Award**    
-`—Lowe's Companies Inc.`
+4. **Best-in-Class Carrier**    
+`—GlobalTranz`    
+5. **InformationWeek 500 Honoree**     
+`—InformationWeek`     
+6. **Top 100 Motor Carrier**      
+`—Inbound Logistics Magazine`    
+7. **Silver Team Award**      
+`—Lowe's Companies Inc.`     
 
 ---
 
-## Georgia State University    
-`RCB` `#TheStateWay`
+## [Georgia State University](https://gsu.edu)     
+`#TheStateWay`
 
 ---
-
-![US News & World Report Rankings for Robinson College of Business Courtesy robinson.gsu.edu](https://user-images.githubusercontent.com/50818414/89962968-45febb00-dc14-11ea-904e-03acb0b54471.png "Georgia State University BBA ranks in 50 31st among public institutions 2018.")    
-credit: [robinson.gsu.edu](https://robinson.gsu.edu/2019/09/three-robinson-undergraduate-programs-among-nations-best-in-latest-u-s-news-rankings/ "International Ranking with Significant International Influence: Eduniversal.")   
 
 Faculty Scholar 2004 | Dean's List 2005 | Class of 2006
 :---|:---:|---:    
 J. Mack | GSU | Panthers
 
+![US News & World Report Rankings for Robinson College of Business Courtesy robinson.gsu.edu](https://user-images.githubusercontent.com/50818414/89962968-45febb00-dc14-11ea-904e-03acb0b54471.png "Georgia State University BBA ranks in 50 31st among public institutions 2018.")    
+credit: [robinson.gsu.edu](https://robinson.gsu.edu/2019/09/three-robinson-undergraduate-programs-among-nations-best-in-latest-u-s-news-rankings/ "International Ranking with Significant International Influence: Eduniversal.")   
+
+
 ---
 
-1. **COLLEGE**:
-    - J Mack Robinson College of Business. 
-2. **DEGREE**:
-    - Bachelor of Business Administration.
-3. **FOCUS**:
-   - **Service Operations Management**.
-4. **CASE-STUDY**: 
-    - Total Quality Management & [The Toyota Way](https://www.toyota-europe.com/world-of-toyota/this-is-toyota/the-toyota-way).    
+1. **COLLEGE**: [*Robinson College of Business*](https://robinson.gsu.edu). 
+2. **DEGREE**: *Bachelor of Business Administration*.
+3. **FOCUS**: *Service Operations Management*.
+4. **CASE-STUDY**: [The Toyota Way](https://www.toyota-europe.com/world-of-toyota/this-is-toyota/the-toyota-way).    
     - [Toyota Production Systems Guiding Principles](https://global.toyota/en/company/vision-and-philosophy/production-system/).
-        1. [**Continuous improvement**](https://en.wikipedia.org/wiki/Toyota_Production_System "Credit : Wikipedia Toyota Guiding Principles CC BY-SA")
-        2. **Challenge** : Form a **long-term vision**, **meeting challenges** with *courage* and *creativity* to *realize our dreams*.
+        1. [Continuous improvement](https://en.wikipedia.org/wiki/Toyota_Production_System "Credit : Wikipedia Toyota Guiding Principles CC BY-SA")
+        2. Challenge : Form a long-term vision, meeting challenges with courage and creativity to realize our dreams.
             - [Kaizen](https://en.wikipedia.org/wiki/Kaizen "Source Credit : Wikipedia on Kaizen") : We *improve our business operations* **continuously**, *always driving* for *innovation* and *evolution*.
             - [Genchi Genbutsu](https://en.wikipedia.org/wiki/Genchi_Genbutsu "Source Credit : Wikipedia on Genchi Genbutsu CC BY-SA") : **Go to the source** to *find the facts* **to make correct decisions**.)
             - [Respect for People](https://en.wikipedia.org/wiki/Toyota_Production_System "Credit : Wikipedia Toyota Guiding Principles CC BY-SA")
                 1. Respect: We respect others, make every effort to understand each other, take responsibility and do our best to build mutual trust.
                 2. Teamwork : We stimulate personal and professional growth, share the opportunities of development and maximize individual and team performance.   
-    - [The right process will produce the right results](https://en.wikipedia.org/wiki/Toyota_Production_System "Credit : Wikipedia Toyota Guiding Principles CC BY-SA")
-        1. **Create continuous process** *flow to bring problems to the surface*.
-        2. **Use the pull system** to *avoid overproduction*.
-        3. **Level out the workload**: *Approach work like the tortoise, not the hare*.
-        4. **Build a culture** of *stopping to fix problems*, to *get quality right from the start*.
-            - **Standardized tasks** are the foundation for *continuous improvement* and **employee empowerment.
-            - **Use visual control** so no problems are hidden.
-            - **Use only reliable**, *thoroughly* tested technology that **serves your people and processes.
-            - **Add value** to the organization by developing your people and partners
-    - Grow leaders who:    
-        1. **Thoroughly understand the work**.
-        2. **Live the philosophy**.
-        3. **Teach to others**.
-        4. **Develop exceptional people** and *teams who follow your company's philosophy*.
-        5. **Respect your extended network** *of partners and suppliers*:
+        3. [The right process will produce the right results](https://en.wikipedia.org/wiki/Toyota_Production_System "Credit : Wikipedia Toyota Guiding Principles CC BY-SA")
+            - Create continuous process flow to bring problems to the surface.
+        4. Use pull system** to avoid overproduction.
+        5. Level out the workload: Approach work like the tortoise, not the hare.
+        6. Build culture of stopping to fix problem:
+            - Standardized tasks are the foundation for continuous improvement and employee empowerment.
+            - Use visual control so no problems are hidden.
+            - Use only reliable, thoroughly tested technology that serves your people and processes.
+            - Add value to the organization by developing your people and partners.
+        7. Grow leaders who:    
+        8. Thoroughly understand the work.
+        9. Live the philosophy.
+        10. Teach to others.
+        11. Develop exceptional people** and *teams who follow your company's philosophy.
+        12. Respect your extended network of partners and suppliers:
             - *Challenging them and helping them improve*.
             - *Continuously solving root problems drives organizational learning*. 
-        6. **Go and see for yourself to thoroughly understand the situation**;
-            - *Make decisions slowly by consensus, thoroughly considering all options*. 
-        7. **Implement decisions** *rapidly*.
-            - *Become a learning organization through relentless reflection*.
-    - **Toyoda Precepts**:    
-        1. **Always be faithful** to your duties, thereby contributing to the Company and to the overall good.
-        2. **Always be studious** and creative, striving to stay ahead of the times.
-        3. ***Always be practical** and avoid frivolousness.
-        4. **Always strive to build** a homelike atmosphere at work that is warm and friendly.
-        5. **Always have respect** for spiritual matters, and remember to be grateful at all times.
+        13. Go and see for yourself to thoroughly understand the situation:
+            - Make decisions slowly by consensus, thoroughly considering all options. 
+        14. Implement decisions rapidly.
+            - Become a learning organization through relentless reflection.
 
 ---
 
 ![Total Quality Management : The Toyota Way](https://camo.githubusercontent.com/9f9698d6eabf54895654bcd67601b572e98189f9/68747470733a2f2f7777772e617765736f6d6573637265656e73686f742e636f6d2f6170692f76312f64657374696e6174696f6e2f696d6167652f73686f773f496d6167654b65793d746d2d333935372d31383430392d3362363130323138393563643936353139386337373534653138366232623964 "Image re-mix and credits to : Dark Reader, Squoosh App, Google Drawings, and Toyota Way Guiding Principles")    
 *credit*: [Toyoda Guiding Principles](https://toyota.eu "i think") *creator*: cbrennanpoole **support**: [Dark Reader](https://darkreader.org) & [AwesomeScreenshot](https://awesomescreenshot.com)
 
+---
+
+```
+
+Toyoda Precepts:    
+
+```
+
+1. **Always be faithful** to your duties, thereby contributing to the Company and to the overall good.
+2. **Always be studious** and creative, striving to stay ahead of the times.
+3. ***Always be practical** and avoid frivolousness.
+4. **Always strive to build** a homelike atmosphere at work that is warm and friendly.
+5. **Always have respect** for spiritual matters, and remember to be grateful at all times.
 
 ---
 
@@ -431,7 +434,7 @@ Strategist | Lean-thinking | Agile work process | Planning
 Data Analysis | Empathy | Project Management | Power Bi     
 Cloud Principles |  Markdown | Empathy | Business Analysis     
 Workspace | Critical Thinking | Demand-planning | Executive Support     
-Processes Implementation | Process Improvement | Six Sigma | People Empowerment        
+Process Implementation | Process Improvement | Six Sigma | People Empowerment        
 Marketing & Sales | Social Sales | Ethics | Adaptability        
 Supply Chain | Resiliency | Total Quality Management | Technical Writing    
 Microsoft 365 | Sheets/Excel/Numbers | Powerpoint/Slides | iOS/Win10/Android    
