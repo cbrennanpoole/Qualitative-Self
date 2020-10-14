@@ -309,9 +309,8 @@ Faculty Scholar 2004 | Dean's List 2005 | Class of 2006
 :---|:---:|---:    
 J. Mack | GSU | Panthers
 
-![US News & World Report Rankings for Robinson College of Business Courtesy robinson.gsu.edu](https://user-images.githubusercontent.com/50818414/89962968-45febb00-dc14-11ea-904e-03acb0b54471.png "Georgia State University BBA ranks in 50 31st among public institutions 2018.")    
+![US News & World Report Rankings for Robinson College of Business Courtesy robinson.gsu.edu](https://camo.githubusercontent.com/0fead529b87da3cc81336603ee714243c8252c7d/68747470733a2f2f7777772e617765736f6d6573637265656e73686f742e636f6d2f6170692f76312f64657374696e6174696f6e2f696d6167652f73686f773f496d6167654b65793d746d2d333935372d32303433332d6533346237366564626463356534643537663763636633383139353963373139 "Georgia State University BBA ranks 53 31st among public institutions 2021.")    
 credit: [robinson.gsu.edu](https://robinson.gsu.edu/2019/09/three-robinson-undergraduate-programs-among-nations-best-in-latest-u-s-news-rankings/ "International Ranking with Significant International Influence: Eduniversal.")   
-
 
 ---
 
