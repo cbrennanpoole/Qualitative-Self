@@ -55,40 +55,31 @@ credit: @cbrennanpoole | assist: [Adobe Spark](https://spark.new "link to the do
 
 ---
 
-#### with Wind LLC    
-`CREATIVE STRATEGIST and PRINCIPAL CHIEF of OPERATIONS`    
-Covington, GA | Nov 2018 - Present    
-1.  **Invitation from Executive Producer** of [SXSW 2020 Pitch](https://docs.google.com/spreadsheets/d/1i23nUbKEccvqhnrTq8qfO9Y0vqb85VezkMIzTIjjP-k/edit?usp=sharing "with a 48 - hour deadline : Think.FailHuge Think.ContinuousImprovement inception with a 48-hour to deadline invite to apply.")
-2. **Extend reach** to garner attention of [The United Nations](https://drive.google.com/file/d/1v3chrKnW2E2dnxMvnXHgXMsHmLyA_Jl5/view?usp=sharing "had to vet; but it's more than legit : again however - no 'chasing' with twenty - three attempts of encouragement trying to get with Wind all - in; reason for not 'chasing' `Legal entity : Chasing the Wind LLC` : `Team` —less; plus being recognized for a conceptual sustainable model while not being a sustainable entity felt like (and likely is) utter `hypocrisy") - Habitat in partnership with Dubai Municipality and UAE [International Awards for Best Practices in Sustainable Development](http://dubaiaward.ae/).
-3. **Short-lists** : 
-    - [Red Herring’s Top 100`](https://www.redherring.com/events/top-100/ "North American Tech Startups").
-    - [`Inc 5000`; `annual publication`](https://www.inc.com/inc5000 "no chasing - plus they sought money"),
-    - [Oak Labs. Silicon Valley accelerator](https://www.oakslab.com/)
+#### with Wind LLC / Creative Strategist    
+*Covington, GA | Nov 2018 - Present*    
+1. **Invitation from Executive Producer of** [**SXSW 2020 Pitch**](https://docs.google.com/spreadsheets/d/1i23nUbKEccvqhnrTq8qfO9Y0vqb85VezkMIzTIjjP-k/edit?usp=sharing "with a 48 - hour deadline : Think.FailHuge Think.ContinuousImprovement inception with a 48-hour to deadline invite to apply.").
+2. **Extend reach to garner the attention of** [**The United Nations**](https://drive.google.com/file/d/1v3chrKnW2E2dnxMvnXHgXMsHmLyA_Jl5/view?usp=sharing "had to vet; but it's more than legit : again however - no 'chasing' with twenty - three attempts of encouragement trying to get with Wind all - in; reason for not 'chasing' `Legal entity : Chasing the Wind LLC` : `Team` —less; plus being recognized for a conceptual sustainable model while not being a sustainable entity felt like (and likely is) utter `hypocrisy") - Habitat in partnership with Dubai Municipality and UAE [International Awards for Best Practices in Sustainable Development](http://dubaiaward.ae/).
+3. **Shortlists**:
+    - [Red Herring Top 100](https://www.redherring.com/events/top-100/ "North American Tech Startups").
+    - [Inc 5000](https://www.inc.com/inc5000 "no chasing - plus they sought money").
+    - [Oak Labs](https://www.oakslab.com/)
     - [Learn Launch](https://learnlaunch.org/ "out of the whole gamut; this is the one the Wind may take to 'chasing'").
     - [Gener8tor](https://www.gener8tor.com/ "There's reason why `the Wind` did not attempt to go after these; it's hard to articulate, have to hold out `Faith` it seems").
     - [The Venture City](https://theventure.city/en/) Accelerator.
     - [Angel Effect](https://angeleffect.co/).    
-4. **Invite for feature**:    
-    - [AMC Networks](https://github.com/OUDcollective/Qualitative-Self/issues/30 "AMC Network Invite to feature with Wind, LLC & Creative Strategist C Brennan Poole")
-        1. [**NewsWatch**](https://newswatchtv.com/about-us/ "International Media publication and news content creators/editors")
+4. **Invites/Recognition**:    
+    - [AMC](https://github.com/OUDcollective/Qualitative-Self/issues/30 "AMC Network Invite to feature with Wind, LLC & Creative Strategist C Brennan Poole") Networks [NewsWatch](https://newswatchtv.com/about-us/ "International Media publication and news content creators/editors")
     - [Hatch Pitch](https://www.hatchpitch.com/ "maybe guilty of riding the SXSW 2020 Pitch invite and 'chasing this one; did take part in the actual event as an invite & voting participant") invite to participate in 1st virtual pitch event (Spring '20; great learning experience).
     - Invite to [GovCity III](https://govcity.com) cohort for [SXSW 2020](https://sxsw.com "South by Southwest is an annual conglomeration of parallel film, interactive media, and music festivals and conferences organized jointly that take place in mid-March in Austin, Texas, United States and 2nd invite to startup festival"). 
-5. **Chief Executive** of [dribbble](https://dribbble.com/C-Brennan-Poole/about "God–centered–human design-thinkning creative strategist"); [Zack Onisko](https://dribbble.com/Zack415 "Onisko Dribbble account"), drafts to design platform;.
-6. **Sustainable Impact Award** by [Climate Collaborative](https://climatecollaborative.org "Recognition in Sustainability was set for Anaheim, CA on Climate day COVID-19 N. American quarantine caused cancellation") 2020. 
-8. [Popular on Pinterest](https://www.pinterest.com/withWindllc "categorical associative algorithmic theory : proven success 500,000 + views / month ( average 02/2020 - 06/2020; Drive engagement analytics over 50% growth month-over-month (Feb and Mar 2020) attaining > 2.5 million / impressions past 90 days Apr - Jul '20 +300% increase of actionable engaged audience") sustainable presence; over quarter million monthly hits YOY median avg.
-9. **Establish +9.5% engagement rate** on [LinkedIn with Wind Company Page](https://linkedin.com/the-wind "Deliver 4,000% growth YOY Jan 2019 - Jan 2020 Increase followers + 750% (July '20) As of August 2020 450 Followers"). 
-    - *Sustainable impact YOY maintaining average*.
-10. **Google Cloud for Startups** 
-    - [Google Cloud Next Participant starting 14 July, 2020](https://g.co/cloudnext "free to register and participate; i have thousands to spend, let's talk!").
-        1. **Leadership Participant**.
-11. [Hatch Startup Program by Digital Ocean](https://www.digitalocean.com/hatch/ "10k in credits lets Develop already!") Participant.
-12. [Segment for Startups](https://segment.com/industry/startups/ "up to 1 million and I've found sustainable : seek geeks and whispering direct injects via Git.actionable y'all") participant.
-13. [Amazon (AWS) partner path](https://aws.amazon.com/partners/training/ "is there anybody out there? Just hit me at git.actionable@chasingthewindllc.com")
-14. [Microsoft partner](https://partner.microsoft.com/en-US/membership/competencies "it takes two; that's you! Yes You! +1 678-338-7339 Yes equity" ) Path.
+    - **Chief Executive** of [dribbble](https://dribbble.com/C-Brennan-Poole/about "God–centered–human design-thinkning creative strategist"); [Zack Onisko](https://dribbble.com/Zack415 "Onisko Dribbble account"), drafts to design platform;.
+    - **Sustainable Impact Award** by [Climate Collaborative](https://climatecollaborative.org "Recognition in Sustainability was set for Anaheim, CA on Climate day COVID-19 N. American quarantine caused cancellation") 2020. 6. Chief Executive of dribbble; Zack Onisko, drafts to design platform.
+5. [**Popular on Pinterest**](https://www.pinterest.com/withWindllc "categorical associative algorithmic theory : proven success 500,000 + views / month ( average 02/2020 - 06/2020; Drive engagement analytics over 50% growth month-over-month (Feb and Mar 2020) attaining > 2.5 million / impressions past 90 days Apr - Jul '20 +300% increase of actionable engaged audience") sustainable presence; over quarter million monthly hits YOY median avg.
+6. **Establish +9.5% engagement rate** on [LinkedIn with Wind Company Page](https://linkedin.com/the-wind "Deliver 4,000% growth YOY Jan 2019 - Jan 2020 Increase followers + 750% (July '20) As of August 2020 450 Followers"). 
+
 
 ---
 
-##### [On the State of Georgia : America's Top Logistics Hub](https://user-images.githubusercontent.com/50818414/89961460-bbb45800-dc0f-11ea-8df9-2ef272c8f56e.jpg "Georgia is a Prime Logistics Location. Taking full advantage of its geographic location at the crossroads of north-south and east-west travel in North America, Georgia provides shippers easy access to a wealth of major interstates, rail networks, airports, and sea ports. Abundant warehousing space rounds out the offerings, which add up to a convenient and efficient logistics sector.")
+##### [On Georgia: America's Top Logistics Hub](https://user-images.githubusercontent.com/50818414/89961460-bbb45800-dc0f-11ea-8df9-2ef272c8f56e.jpg "Georgia is a Prime Logistics Location. Taking full advantage of its geographic location at the crossroads of north-south and east-west travel in North America, Georgia provides shippers easy access to a wealth of major interstates, rail networks, airports, and sea ports. Abundant warehousing space rounds out the offerings, which add up to a convenient and efficient logistics sector.")
 
 ![Logistics in Georgia : `Competitive Advantage`](https://resources.inboundlogistics.com/userfiles/georgia_map_inline_0314.jpg)   
 credit: [Inbound Logistics](https://www.inboundlogistics.com/cms/article/georgia-logistics-sweet-spot/)
@@ -100,9 +91,8 @@ credit: [Inbound Logistics](https://www.inboundlogistics.com/cms/article/georgia
 
 ---
 
-#### Annex Freight Systems Inc 
-`DISPATCH SUPERVISOR`      
-Newnan, GA  | Mar 2013 - Oct 2013    
+#### Annex Freight Systems Inc / Dispatch Supervisor    
+*Newnan, GA / Mar 2013-Oct 2013*    
 1. **Stream-line processes** within the supply chain and within the internal, inter-departmental operations and customer service team
 2. **Provide Total Customer Satisfaction** through improvement the work atmosphere and day-to-day experience with team members, drivers, delivery partners, warehouse associates, third-party vendors, & most importantly, the customer.
 5. **Maintain direct contact with various departments** within the organization to coordinate and increase the efficiency driver, truck and trailer assignments.
@@ -111,77 +101,40 @@ Newnan, GA  | Mar 2013 - Oct 2013
 
 ---
 
-[Saia, Inc. 2013 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf) | [Saia, Inc. 2012 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/358zUazvTQNm3jaMkpABaj/8e03804738cbe0beccff5fef0a3824ab/Saia_2012_Annual_Report_and_Form_10-K_0.pdf)    
+[Saia 2013 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf) | [Saia 2012 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/358zUazvTQNm3jaMkpABaj/8e03804738cbe0beccff5fef0a3824ab/Saia_2012_Annual_Report_and_Form_10-K_0.pdf)    
 :---:|:---:    
 ![saia-inc-2013-annual-report -11-straight-quarters-improved-profitability-with-c-brennan-poole](https://user-images.githubusercontent.com/50818414/92198910-a9f75680-ee43-11ea-92df-ee8c63223e3d.png) | ![saia-inc-2012-annual-report-7-straight-quarters-improved-profitability-with-c-brennan-poole](https://user-images.githubusercontent.com/50818414/92198927-b4b1eb80-ee43-11ea-8791-ea8a0629f2e2.png)    
-credit : [Saia, Inc.](https://saia.com) | credit : [Saia, Inc.](https://saia.com/about-us/awards)
+credit : [Saia Inc](https://saia.com) | credit : [Saia Inc](https://saia.com/about-us/awards)
      
  ---    
 
-#### Saia LTL Freight Inc   
-`TERMINAL OPERATIONS MANAGER`     
-Ellenwood, GA | Jul 2011 - Feb 2013    
-1. **Design, Develop, and implement daily ops plan** to ensure 98.6% on-time service standard; consisting of approximately 650,000 to 1.5 million pounds of overnight due-service origin freight, and approximately 4 to 6 million pounds in-bound break tonnage due-in nightly (Tue - Sunday am) :
-    - Shift composition consisting of :
-        1. 100-125 Professional Freight Handlers,
-        2. 85-110 Line Drivers,
-        3. 60-75 PUD Drivers,
-        4. 12 Operations Supervisors, 
-        5. 6 Dispatch Supervisors,
-        6. 10 Clerical Teammembers,
-2. **Trend analysis** of seasonal tonnage fluctations with historical manpower levels; helping to :
-    - **Identify patterns** to develop new due service schedules for linehaul.
-    - **Eliminate existing** schedules by building dynamic loads to satellite (end) service centers.
-    - **Increase hiring efforts** earlier in calendar year (Jan and Feb) to improve quality thru more effective training as well as cover seasonal up-tick in tonnage and vacation requests.
-3. **Implement**: 
-    - [Lean-management]((https://google.com/search?=plean+management "hacking the SERP... It's that simple... and that complicated, unfortunate for me.").
-        - [**Six-sigma** *best practices*](https://online-behavior.com/analytics/lean-six-sigma "Lean six-sigma for the digital analyst")
-4. **Institute**:
-    - Just-in-time (JIT) workflow process.
-5. **Design-thinking**:
-    - Re-position Atlanta Central Dock-stand (center-of-action) to center of Atlanta dock, *a 226 door facility, helping Improve*:
-            - **Accessibility**.
-            - **Employee Morale**.
-            - **Productivity**.
-            - **On-time** *closure & departures*.
-            - **Customer service standard**.
-6. **Support Regional Management Objectives**:
-    - Improve shareholders' equity** through reduction in the Operating Ratio (OR); key driver for company-wide mandatory attendance of quarterly meetings.
-        1. **Articulate** *bottom-up operations strategy*:
-            - **Liaision** *for the employees who needed to be heard by upper management.
-            - **Catylyst** *for sustainable growth at quarterly meetings*.
-7. **Craft operations strategy aligning organizational vision with Atlanta Dock Ops daily game plan**.
-    - 1st day introduction issuuance of challenge to perform:
-        1. **Command** *to excellence*.
-        2. **Demand** *accountability thru job ownership*. 
-        3. **Assure** *a return to always open door management policy*. 
-8. **Identify & analyze underlying issues** *negatively affecting the workforce*: 
-    - Active listening:
-        1. **Individual** &,  
-        2. **Group** *sessions*. 
-    -  Empathy: 
-        1. **Human-centered** *approach to problem solving & human psychology*.  
-9. **End Results**: 
-> 177% increase in EPS. 
-> Equaling $1.94 or;
-> 7% gain in revenues.
-> + 1.1 (billion) to shareholders’ equity.
-10. **Spearhead company’s inaugural** [**dock-to-driver campaign**](https://www.youtube.com/watch?v=-mG5veBWS00&t=4s "YouTube video from Atlanta Dock as ATL is their flaship terminal and all rollouts literally rollout of Atlanta") *to establish a sustainable competitive advantage*.
-11. **Institute total process overhaul**: [Quality Matters campaign](https://www.youtube.com/watch?v=nPTt37YGdH4&list=PL7R4Ra-1Mrclih8qRlT9Z0ExjtdX_8vnm&index=2&t=3s "Atlanta dock is the flagship terminal and is an iterative environment as all programs roll-out thru that facility").
-12. **Integrate continuous improvement model** *using best-in-class business practices featuring*:
-    - Concept of pinwheeling and,
-    - Multi-stop dynamic loading of regions satellite facilities. (As info: satelliters are typically smaller, inter-regional terminals, strategically ppopsitionied to cover suburban, rural, and relay geopgraphical areas throughout US).
-    - Focus on meetings: 
-        1. **Re-institue pre-shift meetings / huddle** *to discuss 'why'* **Quality Matters**.
-13. **Support IT, Sales, and the Weight & Research team with** [*Freight Dimensioner Technology & Scanner*](https://www.youtube.com/watch?v=l3d6sJZ-mQ0 "most effective program serving as calalyst to total process overhaul and driver of quality; helping reduce operating ratio").
-14. **Deliver Top 10 Fortune LTL ranking resulting from implementation and continued success of above processes**.
+#### Saia LTL Inc / Terminal Operations Manager
+*Ellenwood, GA / Jul 2011-Feb 2013*    
+1 **Spearhead company’s inaugural** [**dock-to-driver**]((https://www.youtube.com/watch?v=-mG5veBWS00&t=4s "YouTube video from Atlanta Dock as ATL is their flaship terminal and all rollouts literally rollout of Atlanta") *campaign to establish a sustainable competitive advantage*.
+2. **Institute total process overhaul**: [**Quality Matters**](https://www.youtube.com/watch?v=nPTt37YGdH4&list=PL7R4Ra-1Mrclih8qRlT9Z0ExjtdX_8vnm&index=2&t=3s "Atlanta dock is the flagship terminal and is an iterative environment as all programs roll-out thru that facility") campaign.
+3. **Support IT, Sales, and the Weight & Research team in implementation of** [**Freight Dimensioner**](https://www.youtube.com/watch?v=l3d6sJZ-mQ0 "most effective program serving as calalyst to total process overhaul and driver of quality; helping reduce operating ratio") technology.
+4. **Results**: 
+    - 177% increase in EPS. Equaling $1.94 or; 7% gain in revenues.
+    - 1.1 (Billion) shareholders’ equity.
+    - Top 10 Fortune ranking (LTL carriers).
+5. **Conduct trend analysis of seasonal tonnage versus historical manpower to**:
+    - Eliminate existing schedules by building dynamic loads to satellite (end) service centers.
+    - Increase hiring efforts earlier in the calendar year (Jan and Feb); improving quality.
+6. **Design-thinking**:
+    - Re-position Atlanta dock-stand to the center of dock, improving: 
+		1. Accessibility, employee morale, productivity, on-time close & departs, & on-time service standard.
+7. **Craft operations strategy** aligning organizational vision with Atlanta Dock Ops daily game plan:
+    - 1st-day introduction issuance of the challenge to perform:
+        1. Command to excellence.
+        2. Demand accountability.
+        3. Assure return to always accessible open-door management policy.
          
 ---    
 
-[Saia, Inc : 2011 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/4M6d73qEcviGKIF2eMu4ro/130e6f2563346680b8b035864922e1f9/Saia_2012_Annual_Report.pdf "Quantifiable Analytics : Straight from the Source") | [Saia, Inc : 2010 Annual Report](https://www.annualreports.com/HostedData/AnnualReportArchive/s/NASDAQ_SAIA_2010.pdf "Quantifiable Analytics. Actionable")    
+[**Saia, Inc: 2011 Annual Report**](https://assets.ctfassets.net/kjv8gs2ccggb/4M6d73qEcviGKIF2eMu4ro/130e6f2563346680b8b035864922e1f9/Saia_2012_Annual_Report.pdf "Quantifiable Analytics : Straight from the Source") | [**Saia, Inc: 2010 Annual Report**](https://www.annualreports.com/HostedData/AnnualReportArchive/s/NASDAQ_SAIA_2010.pdf "Quantifiable Analytics. Actionable")    
 :---:|:---:    
-![Saia, Inc : 2011 Annual Report](https://user-images.githubusercontent.com/50818414/89959039-768d2780-dc09-11ea-96ae-fca8892073b5.jpg)! | ![Saia, Inc : 2010 Annual Report](https://user-images.githubusercontent.com/50818414/89956466-3cb92280-dc03-11ea-9c21-fea34a8d3913.jpg "Full-year service in the single most impactful department in less-than-load industry; linehaul.")    
-credit : [Saia Inc.](https://saia.com/about-us "Top 10 Fortune Ranked lees-than-load freight & transportation carrier") | credit : [Saia Inc.](https://saia.com/awards "team awards reference : 2010 - 2014 cbrennanpoole service with company.")    
+![Saia, Inc: 2011 Annual Report](https://user-images.githubusercontent.com/50818414/89959039-768d2780-dc09-11ea-96ae-fca8892073b5.jpg)! | ![Saia, Inc : 2010 Annual Report](https://user-images.githubusercontent.com/50818414/89956466-3cb92280-dc03-11ea-9c21-fea34a8d3913.jpg "Full-year service in the single most impactful department in less-than-load industry; linehaul.")    
+credit : [Saia](https://saia.com/about-us "Top 10 Fortune Ranked lees-than-load freight & transportation carrier") | credit : [Saia](https://saia.com/awards "team awards reference : 2010 - 2014 cbrennanpoole service with company.")    
 
 ```
 
@@ -204,86 +157,51 @@ An Assignment!
 
 ---
 
-##### [Saia, Inc Operating 2008-2013](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf)    
-![Saia, Inc. : Operating Ratio (2008-2013)](https://camo.githubusercontent.com/1ed6c0f6a03610a77c26acb7dc66f834bc159839/68747470733a2f2f7777772e617765736f6d6573637265656e73686f742e636f6d2f6170692f76312f64657374696e6174696f6e2f696d6167652f73686f773f496d6167654b65793d746d2d333935372d32303230352d3138313034666638633337623036316165376532653364633035616339616234 "Saia Inc. OR / Revenue in millionos for time-of-tenure - 2008-2013 - most impressed by my data sweat work than these numbers 😊")    
-credit :  [Saia, Inc 2013 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf "with Wind creation")    
+##### [Saia, Inc '09-'13](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf)    
+![**Saia, Inc: '09-'13**)](https://camo.githubusercontent.com/1ed6c0f6a03610a77c26acb7dc66f834bc159839/68747470733a2f2f7777772e617765736f6d6573637265656e73686f742e636f6d2f6170692f76312f64657374696e6174696f6e2f696d6167652f73686f773f496d6167654b65793d746d2d333935372d32303230352d3138313034666638633337623036316165376532653364633035616339616234 "Saia Inc. OR / Revenue in millionos for time-of-tenure - 2008-2013 - most impressed by my data sweat work than these numbers 😊")    
+credit :  [Saia 2013 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf "with Wind creation")    
 
 ---
 
-#### Saia LTL Freight Inc    
-`REGIIONAL LINEHAUL SUPERVISOR`    
-Johns Creek, GA | Jul 2009 - Jul 2011    
+#### Saia LTL Inc / Linehaul Supervisor
+*Johns Creek, GA / Jul 2009 - Jul 2011*    
 1. **Regional travel** to provide:
     - On-baording support & training.
     - Serve as point-of-contact between regional management and terminal manager.
     - Mentor peers in-person and in virtual / remote discussions via email, internal message boards and forums.
 2. **Develop inclusive practices** *to bridge divide between line-haul and city drivers*:
-    - **NOTE**: *In-house feedback and Human Resources identified a schism*:
-        1. **Driver-to-dispatch**.
-        2. **Drivers to ATL dock Ops**.
 3. **Foster authentic work relations** *with peers, subordinates, and executives*:
-4. **Remain consistent**:
-    - Conflict resolution.
-    - Call - offs.
-    - Seniority standard work process.
 4. **Build rapport** *thru shared trust*.
-5. **Plan**:
-    - Drivers:
-        1. **Accomplish buy-in from drivers to adhere to SOP**.
-            -  *Final Acceptance of long-standing rules*.
     - Honor time-off requests with efficient consistency.
-6. **Articulate expectations** *using clear and concise language*.
-7. **Develop efficient**, *near autonomous workflow processes*.
-8. **Improve* *overall Customer Service standard*:
-> +99.4% on-time service.
+5. **Improve* *overall Customer Service standard*:
+    - +99.4% on-time service.
 
 ---
 
-[Saia, Inc : 2009 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/3IEwyWksjECWYpTIQV1hpz/81790563baaf3d59e58c1f4b12c4f473/Saia_2009_Annual_Report___10-K.pdf) | [Saia, Inc : 2008 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/5eLp57gLd4MTg6DQxj72Rb/a606477bdc8b4b38851a6ab130d4658f/Saia_2008_Annual_Report.pdf "Image of cover 2009 Annual Report for Saia LTL Freight, Inc. Service: Linehaul Dispatch July 2009-2011. Atlanta Corporate Office.")    
+[Saia, Inc: '09 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/3IEwyWksjECWYpTIQV1hpz/81790563baaf3d59e58c1f4b12c4f473/Saia_2009_Annual_Report___10-K.pdf) | [Saia, Inc: '08 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/5eLp57gLd4MTg6DQxj72Rb/a606477bdc8b4b38851a6ab130d4658f/Saia_2008_Annual_Report.pdf "Image of cover 2009 Annual Report for Saia LTL Freight, Inc. Service: Linehaul Dispatch July 2009-2011. Atlanta Corporate Office.")    
 :---:|:---:      
 ![saia-inc-2009-annual-report-memphis-region-linehaul-planner-c-brennan-poole](https://user-images.githubusercontent.com/50818414/94346615-ce39f380-fffb-11ea-9cf4-98bf01ea9992.png "Year 2 from ACO") | ![saia-inc-2008-annual-report-c-brennan-poole-joins-saia-atlanta-not-pictured](https://user-images.githubusercontent.com/50818414/94346596-b06c8e80-fffb-11ea-89a6-7ba6e1ec6336.png "Image of 2008 Annual Report Saia LTL Freight, Inc.")     
- credit : [Saia, Inc : 2009 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/3IEwyWksjECWYpTIQV1hpz/81790563baaf3d59e58c1f4b12c4f473/Saia_2009_Annual_Report___10-K.pdf) | credit : [Saia, Inc 2008 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/5eLp57gLd4MTg6DQxj72Rb/a606477bdc8b4b38851a6ab130d4658f/Saia_2008_Annual_Report.pdf "Atlanta Dock Supervisor March 2008-July 2009. Image is courtesy Saia LTL Inc sourced from 2008 Annual Report to Shareholders.")       
+ credit: [Saia 2009 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/3IEwyWksjECWYpTIQV1hpz/81790563baaf3d59e58c1f4b12c4f473/Saia_2009_Annual_Report___10-K.pdf) | credit: [Saia Inc 2008 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/5eLp57gLd4MTg6DQxj72Rb/a606477bdc8b4b38851a6ab130d4658f/Saia_2008_Annual_Report.pdf "Atlanta Dock Supervisor March 2008-July 2009. Image is courtesy Saia LTL Inc sourced from 2008 Annual Report to Shareholders.")       
 
 ---
 
-#### Saia LTL Freight Inc
-`OPERATIONS SUPERVISOR`     
-Ellenwood, GA | Mar 2008 - Jul 2009    
-1. **Monitor, oversee, guide, and support** *overall work direction*:
-    - Professional Freighthandlers.
-    - Line Drivers.
-    - City (PUD) Drivers.
-    - Interline (3rd Party) Drivers.
-    - Dispatch - to - Dock Ops.
-    - Administrative Staff.
-2. **Support benchmark metrics as means to self-monitor performance** *establishing continuous improvement environment*.
-3. **Guarantee** *on-time service*:    
+#### Saia LTL Freight Inc / Operations Supervisor    
+*Ellenwood, GA / Mar 2008-Jul 2009*    
+1. **Support benchmark metrics as means to self-monitor performance** *establishing continuous improvement environment*.
+2. **Guarantee** *on-time service*:    
     - +98.6% on-time Customer Service : work tirelessly to improve all controllables & reduce the variables.
         1. **On-time close schedule**: +93.5% standard expectation (*controllable*).
         2. **On time departure** : +93.5% (*indirect controllable*). 
-4. **Report due-service reconciliation** : continuous improvement and nightly responsibility.
-    - Freight is both picked up & shows in proper status in AS400.
+3. **Report due-service reconciliation** : continuous improvement and nightly responsibility.
     - Account for:
-        1. **Proper loading status** & technique in place `best practices`.
-        2. **Ensure AS400** (**dos**) remained *iterative continuous improvement process*.
-            - With plan for departure and direct verification with linehaul team.
-5. **Audit national accounts**: *iterative process*; checking for late arriving & due service from over-the-road inbound shipments:
-    - [Lowe's Inc](https://"").
-    - [Starbucks Coffee](https:// "").
-    - [Behr](https:// "").
-    - [Ingram Micro](https:// "").
-    - [Sherwin Williams](https:// "").
-    - [Benjamin Moore](https:// "").
-    - [Valspar Paints](https:// "").
-    - [Masterchem Paints](https:// "").            
-
+        1. **Proper loading status**.
+        2. **Ensure AS400** (SAAS) remained *iterative prcoess and continuous improvement*.
 ---
 
 ### Service Experience
 
-#### Ted's Montana Grill     
-`Trainer - Server`    
-Atlanta, GA  | Dec 2005 - May 2006    
+#### Ted's Montana Grill / Trainer       
+*Atlanta, GA / Dec 2005-May 2006*
 1. **Implement suggestive selling** *technique. 
 2. **Identify customers preference** through *active listening* with a *responsive presence*.
 2. **Offer custom-tailored** *insight and expertise in featured menu items*.
@@ -292,26 +210,25 @@ Atlanta, GA  | Dec 2005 - May 2006
 
 ---
 
-#### The Italian Oven    
-`Trainer-Manager`
-Stockbridge, GA  | Dec 2003 - Jan 2005
+#### The Italian Oven / Manager
+*Stockbridge, GA / Dec 2003-Jan 2005*
 1. **Present menu** in an understandable manner.
 2. **Suggest seasonsal dishes** / *chef's featured offerings*.
 3. **Pair wine & spirits** *with complementary main course*.
 
 ---
 
-#### Amazon Inc
-`LOGISTICS COORDINATOR`    
-Virtual | Oct 2017 – Jan 2018     
-1. **Virtual work environment** *encouraging active participation using various mediums to foster the team dynamic and engaging cross-functional teams in facilitating the construction of innovative problem resolution strategies*.
+#### Amazon Inc / Logistics Support
+*Work-at-Home / Oct 2017–Jan 2018*    
+1. **Virtual work environment** *encouraging active participation using open-source platform mattersmost as central virtual workspace*.
 2. **Serve** *as advocate for customer*.
 3. **Field inbound calls** *from Amazon Flex Delivery Partners*. 
 4. **Guide and encourage** *100% successful delivery of Amazon goods and services*.
 
+---
     
 ### Shared Awards : 
-`Teamwork` *makes the* `Dreamwork`    
+`Teamwork`
 
 ---
 
@@ -508,20 +425,16 @@ UX Foundations | Time Management | Adobe CreativeCloud
 
 ---
 
-Creativity | Sustainability | Customer Focus | Decision Quality
-:---|:---|---|---     
-Strategic Mindset | Action-oriented | Lean & Agile | Planning & Alignment      
-Drives Results | Talent Developer | Strategic Vision | Effective   
-Drives Vision | Forward to Think | Instills Trust | Nimble Learner     
-Authentic | Patient Leader | Project Management | Power Bi     
-Cloud Principles |  Markdown | Accountancy | Business Analysis     
-G-Suite | Decision Making | Demand-planning | Executive Management    
-Processes Implementation | Process Improvement | Six Sigma | People Empowerment     
-Marketing & Sales | Social Media Marketing | Ethics | Resliency        
-Process Engineering | Product Team Integration | Project Management | Quality Assurance    
-Supply Chain | Telephone Skills | Total Quality Management | Technical Writing    
-Microsoft 365 | Sheets/Excel/Numbers | Powerpoint/Slides | iOS/Win10/Android
-Markdown | CSS/SASS/SCSS | Real Estate Principles | Social Selling    
+Creativity | Emotional Intelligence | Business Analysis | Creative Problem-solving    
+:---|:---|:---|---:      
+Strategist | Lean-thinking | Agile work process | Planning     
+Data Analysis | Empathy | Project Management | Power Bi     
+Cloud Principles |  Markdown | Empathy | Business Analysis     
+Workspace | Critical Thinking | Demand-planning | Executive Support     
+Processes Implementation | Process Improvement | Six Sigma | People Empowerment        
+Marketing & Sales | Social Sales | Ethics | Adaptability        
+Supply Chain | Resiliency | Total Quality Management | Technical Writing    
+Microsoft 365 | Sheets/Excel/Numbers | Powerpoint/Slides | iOS/Win10/Android    
 
 ---
 
@@ -554,12 +467,6 @@ No # | Position | Employer | Address | Start-End
 
 ### Closer Look at Education 
 
-Beast of Burden | Ramblin' Man | Time to Move On    
-:---|:---:|---:      
-Mick & Keith | Duane & Gregg | Tom & Mike         
-💋 | 🍑 | 💘    
-   
-
 ---
 
 No. | School | Location | Date      
@@ -570,7 +477,7 @@ No. | School | Location | Date
 5 | Northview High School | Dothan, AL | '99-'00      
 4 | Salem High School | Conyers, GA | Aug '00-'01       
 3 | University of West Georgia | Carrollton, GA | '01-'02       
-2 | Georgia State / Robinson College of Business | Atl, GA | '02-'06     
+2 | Georgia State/Robinson College of Business | Atl, GA | '02-'06     
 
 No. 1:    
 `it's the real thing`
@@ -582,10 +489,9 @@ No. 1:
 
 ---
 
-Authentic | Digital | Self
-:---|:---|---:    
 CASEY | BRENNAN | POOLE    
-10 | MAY | 19      
+:---|:---|---:    
+Authentic | Digital | Self
 [LinkedIn: Project](https://linkedin.com/in/oudcollective) | [LinkedIn: Control](https://linkedin.com/in/c-brennan-poole) | [Pinterest](https://www.pinterest.com/withWindllc)   
 [LinkedIn with Wind](https://linkedin.com/company/the-wind) |  [Quora](https://quora.com/c-brennnan-poole) | [Twitter](https://twitter.com/oudcollective)    
 [instagram](https://instagram.com/twenty20times) | [Under Contract](https://www.undercontract.dev "copy, design, strategy by c brennan poole with Wind, LLC") | [Medium](https://medium.com/@cbrennanpoole)    
@@ -618,7 +524,7 @@ Copyright© 2021. Chasing the Wind, LLC. DBA with Wind LLC. Some rights reserved
 ---
 
 ###### Software Licensing 
-`the good stuff!`    
+`the good stuff`    
 
 ---
 
@@ -626,7 +532,8 @@ This repository is licensed under* [MIT](../LICENSE)® #twenty20times [GitHub](h
 
 ---    
 
-###### If You Made It This Far, YOU ROCK; Thanks!   
+###### If You Made It This Far, Impressive!    
+`YOU ROCK` `Thanks!`
 
 [with Wind, LLC](https://linkedin.com/company/the-wind) | [9114 Central Avenue SW Unit B Covington, GA US 30014](https://oudcollective.com "market research of GMB profile that will be a NYT Best Seller is all goes as expected ... STAY TUNED")     
 :---|---:    
