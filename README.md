@@ -119,15 +119,15 @@ credit : [Saia Inc](https://saia.com) | credit : [Saia Inc](https://saia.com/abo
     - Top 10 Fortune ranking (LTL carriers).    
 5. **Conduct trend analysis of seasonal tonnage versus historical manpower to**:    
     - Eliminate existing schedules by building dynamic loads to satellite (end) service centers.    
-    - Increase hiring efforts earlier in the calendar year (Jan and Feb); improving quality.
-6. **Design-thinking**:    
+    - Increase hiring efforts earlier in the calendar year (Jan and Feb); improving quality.   
+6. **Design-thinking**:     
     - Re-position Atlanta dock-stand to the center of dock, improving:    
         1. Accessibility, employee morale, productivity, on-time close & departs, & on-time service standard.
 7. **Craft operations strategy** aligning organizational vision with Atlanta Dock Ops daily game plan:    
     - 1st-day introduction issuance of the challenge to perform:    
         1. Command to excellence.    
-	2. Demand accountability.     
-	3. Assure return to always accessible open-door management policy.    
+	      2. Demand accountability.     
+	      3. Assure return to always accessible open-door management policy.    
 	
 ---    
 
@@ -195,11 +195,14 @@ credit :  [Saia 2013 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/7q
             - Account for:    
 	        1. **Proper loading status**.
                 2. **Ensure AS400** (SAAS) remained *iterative prcoess and continuous improvement*.
+
 ---
 
 ### Service Experience
 
-#### [Ted's Montana Grill](https://tedsmontanagrill.com) / **Trainer**       
+---
+
+[Ted's Montana Grill](https://tedsmontanagrill.com) / **Trainer**       
 `Atlanta, GA / Dec 2005-May 2006`     
 1. **Implement suggestive selling** *technique.     
 2. **Identify customers preference** through *active listening* with a *responsive presence*.    
