@@ -110,9 +110,9 @@ credit : [Saia Inc](https://saia.com) | credit : [Saia Inc](https://saia.com/abo
 
 #### [Saia LTL Inc](https://saia.com/about-us) / **Terminal Operations Manager**
 `Ellenwood, GA / Jul 2011-Feb 2013`     
-1 **Spearhead company’s inaugural** [**dock-to-driver**]((https://www.youtube.com/watch?v=-mG5veBWS00&t=4s "YouTube video from Atlanta Dock as ATL is their flaship terminal and all rollouts literally rollout of Atlanta") *campaign to establish a sustainable competitive advantage*.     
-2. **Institute total process overhaul**: [**Quality Matters**](https://www.youtube.com/watch?v=nPTt37YGdH4&list=PL7R4Ra-1Mrclih8qRlT9Z0ExjtdX_8vnm&index=2&t=3s "Atlanta dock is the flagship terminal and is an iterative environment as all programs roll-out thru that facility") campaign.    
-3. **Support IT, Sales, and the Weight & Research team in implementation of** [**Freight Dimensioner**](https://www.youtube.com/watch?v=l3d6sJZ-mQ0 "most effective program serving as calalyst to total process overhaul and driver of quality; helping reduce operating ratio") technology.    
+1 **Spearhead company’s inaugural** [dock-to-driver](https://www.youtube.com/watch?v=-mG5veBWS00&t=4s "YouTube video from Atlanta Dock as ATL is their flaship terminal and all rollouts literally rollout of Atlanta") *campaign to establish a sustainable competitive advantage*.     
+2. **Institute total process overhaul**: [Quality Matters](https://www.youtube.com/watch?v=nPTt37YGdH4&list=PL7R4Ra-1Mrclih8qRlT9Z0ExjtdX_8vnm&index=2&t=3s "Atlanta dock is the flagship terminal and is an iterative environment as all programs roll-out thru that facility") campaign.    
+3. **Support IT, Sales, and the Weight & Research team in implementation of** [Freight Dimensioner](https://www.youtube.com/watch?v=l3d6sJZ-mQ0 "most effective program serving as calalyst to total process overhaul and driver of quality; helping reduce operating ratio") technology.    
 4. **Results**:     
     - 177% increase in EPS. Equaling $1.94 or; 7% gain in revenues.     
     - 1.1 (Billion) shareholders’ equity.    
