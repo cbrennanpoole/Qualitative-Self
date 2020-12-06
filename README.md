@@ -16,8 +16,8 @@ credit: @cbrennanpoole | assist: [Adobe Spark](https://spark.new "link to the do
 [Dark Theme Résumé](https://bit.ly/Real-time-PDF-dark-theme "Google Docs Viewer : Material Design by the Google LLC inspired document") | [ATS - Résumé](https://bit.ly/ATS-Real-time-PDF "a less disruptive version; also Google Docs Viewer for downloadable copies please see below")    
 :---|---:
 [Download the Dark Theme Résumé PDF](https://bit.ly/dark-theme-resume) | [Download ATS Résumé PDF](https://bit.ly/twenty-20-CV "c brennan boole : flipped scripts perspective with a left-handed millenial mindset.")
-[Slideshare Dark Theme](https://www.slideshare.net/OUDCollective/c-brennan-poole-creative-ops-strategist-chasing-the-wind "cbrennanpoole: Creative Strategist with Wind, LLC. 470-580-1515") | 🤔
-[The State Way CV ](https://www.slideshare.net/OUDCollective/caseybrennanpoolegeorgiastateuniversitybbaoperationsmanager "Dark Theme Docs. Creator: cbrennanpoole. Made with Microsoft Word. Hosted on: slideshare.net/oudcollective") | ~whoosh~
+[Slideshare Dark Theme](https://www.slideshare.net/OUDCollective/c-brennan-poole-creative-ops-strategist-chasing-the-wind "cbrennanpoole: Creative Strategist with Wind, LLC. 470-580-1515") | [Long December Dark Theme](https://docs.google.com/viewer?url=docs.google.com/document/d/1iL6-s1s6Czx254rsJZV-89HZEmg2LKObMXJDhHB2BhM/export?format=pdf "fifth of Dec, 2020."  
+[The State Way CV ](https://www.slideshare.net/OUDCollective/caseybrennanpoolegeorgiastateuniversitybbaoperationsmanager "Dark Theme Docs. Creator: cbrennanpoole. Made with Microsoft Word. Hosted on: slideshare.net/oudcollective") | (￣o￣) . z Z
 
 ---
 
@@ -72,7 +72,7 @@ credit: @cbrennanpoole | assist: [Adobe Spark](https://spark.new "link to the do
     - [Hatch Pitch](https://www.hatchpitch.com/ "maybe guilty of riding the SXSW 2020 Pitch invite and 'chasing this one; did take part in the actual event as an invite & voting participant") invite to participate in 1st virtual pitch event (Spring '20; great learning experience).
     - Invite to [GovCity III](https://govcity.com) cohort for [SXSW 2020](https://sxsw.com "South by Southwest is an annual conglomeration of parallel film, interactive media, and music festivals and conferences organized jointly that take place in mid-March in Austin, Texas, United States and 2nd invite to startup festival"). 
     - **Chief Executive** of [dribbble](https://dribbble.com/C-Brennan-Poole/about "God–centered–human design-thinkning creative strategist"); [Zack Onisko](https://dribbble.com/Zack415 "Onisko Dribbble account"), drafts to design platform;.
-    - **Sustainable Impact Award** by [Climate Collaborative](https://climatecollaborative.org "Recognition in Sustainability was set for Anaheim, CA on Climate day COVID-19 N. American quarantine caused cancellation") 2020. 6. Chief Executive of dribbble; Zack Onisko, drafts to design platform.
+    - **Sustainable Impact Award** by [Climate Collaborative](https://climatecollaborative.org "Recognition in Sustainability was set for Anaheim, CA on Climate day COVID-19 N. American quarantine caused cancellation") 2020. 
 5. [**Popular on Pinterest**](https://www.pinterest.com/withWindllc "categorical associative algorithmic theory : proven success 500,000 + views / month ( average 02/2020 - 06/2020; Drive engagement analytics over 50% growth month-over-month (Feb and Mar 2020) attaining > 2.5 million / impressions past 90 days Apr - Jul '20 +300% increase of actionable engaged audience") sustainable presence; over quarter million monthly hits YOY median avg.
 6. **Establish +9.5% engagement rate** on [LinkedIn with Wind Company Page](https://linkedin.com/the-wind "Deliver 4,000% growth YOY Jan 2019 - Jan 2020 Increase followers + 750% (July '20) As of August 2020 450 Followers"). 
 
