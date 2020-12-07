@@ -16,7 +16,7 @@ credit: @cbrennanpoole | assist: [Adobe Spark](https://spark.new "link to the do
 [Dark Theme Résumé](https://bit.ly/Real-time-PDF-dark-theme "Google Docs Viewer : Material Design by the Google LLC inspired document") | [ATS - Résumé](https://bit.ly/ATS-Real-time-PDF "a less disruptive version; also Google Docs Viewer for downloadable copies please see below")    
 :---|---:
 [Download the Dark Theme Résumé PDF](https://bit.ly/dark-theme-resume) | [Download ATS Résumé PDF](https://bit.ly/twenty-20-CV "c brennan boole : flipped scripts perspective with a left-handed millenial mindset.")
-[Slideshare Dark Theme](https://www.slideshare.net/OUDCollective/c-brennan-poole-creative-ops-strategist-chasing-the-wind "cbrennanpoole: Creative Strategist with Wind, LLC. 470-580-1515") | [Long December Dark Theme](https://docs.google.com/viewer?url=docs.google.com/document/d/1iL6-s1s6Czx254rsJZV-89HZEmg2LKObMXJDhHB2BhM/export?format=pdf "fifth of Dec, 2020."  
+[Slideshare Dark Theme](https://www.slideshare.net/OUDCollective/c-brennan-poole-creative-ops-strategist-chasing-the-wind "cbrennanpoole: Creative Strategist with Wind, LLC. 470-580-1515") | [Long December Dark Theme](https://docs.google.com/viewer?url=docs.google.com/document/d/1iL6-s1s6Czx254rsJZV-89HZEmg2LKObMXJDhHB2BhM/export?format=pdf "fifth of Dec, 2020.")  
 [The State Way CV ](https://www.slideshare.net/OUDCollective/caseybrennanpoolegeorgiastateuniversitybbaoperationsmanager "Dark Theme Docs. Creator: cbrennanpoole. Made with Microsoft Word. Hosted on: slideshare.net/oudcollective") | (￣o￣) . z Z
 
 ---
