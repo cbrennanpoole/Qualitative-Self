@@ -75,20 +75,26 @@ credit: @cbrennanpoole | assist: [Adobe Spark](https://spark.new "link to the do
 ### Professional & Leadership Roles    
 `Logistics` `Expertise`
 
-## [On Georgia: America's Top Logistics Hub](https://user-images.githubusercontent.com/50818414/89961460-bbb45800-dc0f-11ea-8df9-2ef272c8f56e.jpg "Georgia is a Prime Logistics Location. Taking full advantage of its geographic location at the crossroads of north-south and east-west travel in North America, Georgia provides shippers easy access to a wealth of major interstates, rail networks, airports, and sea ports. Abundant warehousing space rounds out the offerings, which add up to a convenient and efficient logistics sector.")
+---
 
-![Logistics in Georgia : `Competitive Advantage`](https://user-images.githubusercontent.com/50818414/102022508-599e6780-3d55-11eb-9cf1-c0abdbdfe0bb.png)   
+[On Georgia: America's Top Logistics Hub](https://user-images.githubusercontent.com/50818414/89961460-bbb45800-dc0f-11ea-8df9-2ef272c8f56e.jpg "Georgia is a Prime Logistics Location. Taking full advantage of its geographic location at the crossroads of north-south and east-west travel in North America, Georgia provides shippers easy access to a wealth of major interstates, rail networks, airports, and sea ports. Abundant warehousing space rounds out the offerings, which add up to a convenient and efficient logistics sector.")    
+![georgia-logistics-optimized-withwind](https://user-images.githubusercontent.com/50818414/102023978-0fb97f80-3d5d-11eb-920c-531a79f15376.jpeg)     
 Source Credit: [Georgia.org](https://www.georgia.org/industries/logistics-supply-chain)
 
 ---
 
 > A Few Georgia Grown Facts: 
 
-    - On any given week, a combined 5.9 million tons of freight move across Georgia’s 1,200 miles of interstate highways, including I-75, I-85, I-95 and I-20. Source: 
-    - 85% of the world’s top 3PLs operate in Georgia.
-	- 80% of the US overnight market is within a 2-hour flight from America's busiest airport, Hartsfield-Jackson; or, 2-day truck drive. 
-	- The state of Georgia houses the most extensive railroad system in southeastern US.
-	    - Source Credit: [Georgia.org](https://www.georgia.org/industries/logistics-supply-chain)
+```
+
+- On any given week, a combined 5.9 million tons of freight move across Georgia’s 1,200 miles of interstate highways, including I-75, I-85, I-95 and I-20. Source: 
+- 85% of the world’s top 3PLs operate in Georgia.
+- 80% of the US overnight market is within a 2-hour flight from America's busiest airport, Hartsfield-Jackson; or, 2-day truck drive. 
+- The state of Georgia houses the most extensive railroad system in southeastern US.
+
+```
+
+Source Credit: [Georgia.org](https://www.georgia.org/industries/logistics-supply-chain)
 
 ---
 
@@ -102,12 +108,11 @@ Source Credit: [Georgia.org](https://www.georgia.org/industries/logistics-supply
       
 ---      
 
-[Saia 2013 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf) | [Saia 2012 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/358zUazvTQNm3jaMkpABaj/8e03804738cbe0beccff5fef0a3824ab/Saia_2012_Annual_Report_and_Form_10-K_0.pdf)    
-:---:|:---:    
-![saia-inc-2013-annual-report -11-straight-quarters-improved-profitability-with-c-brennan-poole](https://user-images.githubusercontent.com/50818414/92198910-a9f75680-ee43-11ea-92df-ee8c63223e3d.png) | ![saia-inc-2012-annual-report-7-straight-quarters-improved-profitability-with-c-brennan-poole](https://user-images.githubusercontent.com/50818414/92198927-b4b1eb80-ee43-11ea-8791-ea8a0629f2e2.png)    
-credit : [Saia Inc](https://saia.com) | credit : [Saia Inc](https://saia.com/about-us/awards)
-     
- ---    
+##### [Saia, Inc '09-'13](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf)    
+![**Saia, Inc: '09-'13**)](https://camo.githubusercontent.com/1ed6c0f6a03610a77c26acb7dc66f834bc159839/68747470733a2f2f7777772e617765736f6d6573637265656e73686f742e636f6d2f6170692f76312f64657374696e6174696f6e2f696d6167652f73686f773f496d6167654b65793d746d2d333935372d32303230352d3138313034666638633337623036316165376532653364633035616339616234 "Saia Inc. OR / Revenue in millionos for time-of-tenure - 2008-2013 - most impressed by my data sweat work than these numbers 😊")    
+Source Credit :  [Saia 2013 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf "with Wind creation") 
+
+---    
 
 #### [Saia LTL Inc](https://saia.com/about-us) / **Terminal Operations Manager**
 `Ellenwood, GA / Jul 2011-Feb 2013`     
@@ -123,19 +128,19 @@ credit : [Saia Inc](https://saia.com) | credit : [Saia Inc](https://saia.com/abo
     - Increase hiring efforts earlier in the calendar year (Jan and Feb); improving quality.   
 6. **Design-thinking**:     
     - Re-position Atlanta dock-stand to the center of dock, improving:    
-        1. Accessibility, employee morale, productivity, on-time close & departs, & on-time service standard.
+    - Accessibility, employee morale, productivity, on-time close & departs, & on-time service standard.
 7. **Craft operations strategy** aligning organizational vision with Atlanta Dock Ops daily game plan:    
     - 1st-day introduction issuance of the challenge to perform:    
           1. Command to excellence.    
-	      2. Demand accountability.     
-	      3. Assure return to always accessible open-door management policy.    
+	  2. Demand accountability.     
+	  3. Assure return to always accessible open-door management policy.    
 	
 ---    
 
-[**Saia, Inc: 2011 Annual Report**](https://assets.ctfassets.net/kjv8gs2ccggb/4M6d73qEcviGKIF2eMu4ro/130e6f2563346680b8b035864922e1f9/Saia_2012_Annual_Report.pdf "Quantifiable Analytics: Straight from the Source") | [**Saia, Inc: 2010 Annual Report**](https://www.annualreports.com/HostedData/AnnualReportArchive/s/NASDAQ_SAIA_2010.pdf "Quantifiable Analytics. Actionable")    
+[Saia 2013 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf) | [Saia 2012 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/358zUazvTQNm3jaMkpABaj/8e03804738cbe0beccff5fef0a3824ab/Saia_2012_Annual_Report_and_Form_10-K_0.pdf)    
 :---:|:---:    
-![Saia, Inc: 2011 Annual Report](https://user-images.githubusercontent.com/50818414/89959039-768d2780-dc09-11ea-96ae-fca8892073b5.jpg)! | ![Saia, Inc : 2010 Annual Report](https://user-images.githubusercontent.com/50818414/89956466-3cb92280-dc03-11ea-9c21-fea34a8d3913.jpg "Full-year service in the single most impactful department in less-than-load industry; linehaul.")    
-credit : [Saia](https://saia.com/about-us "Top 10 Fortune Ranked lees-than-load freight & transportation carrier") | credit : [Saia](https://saia.com/awards "team awards reference : 2010 - 2014 cbrennanpoole service with company.")    
+![saia-inc-2013-annual-report -11-straight-quarters-improved-profitability-with-c-brennan-poole](https://user-images.githubusercontent.com/50818414/92198910-a9f75680-ee43-11ea-92df-ee8c63223e3d.png) | ![saia-inc-2012-annual-report-7-straight-quarters-improved-profitability-with-c-brennan-poole](https://user-images.githubusercontent.com/50818414/92198927-b4b1eb80-ee43-11ea-8791-ea8a0629f2e2.png)    
+Source Credit : [Saia Inc](https://saia.com) | Source Credit : [Saia Inc](https://saia.com/about-us/awards)
 
 ---
 
@@ -153,10 +158,10 @@ credit : [Saia](https://saia.com/about-us "Top 10 Fortune Ranked lees-than-load 
     
 ---
 
-[Saia, Inc: '09 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/3IEwyWksjECWYpTIQV1hpz/81790563baaf3d59e58c1f4b12c4f473/Saia_2009_Annual_Report___10-K.pdf) | [Saia, Inc: '08 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/5eLp57gLd4MTg6DQxj72Rb/a606477bdc8b4b38851a6ab130d4658f/Saia_2008_Annual_Report.pdf "Image of cover 2009 Annual Report for Saia LTL Freight, Inc. Service: Linehaul Dispatch July 2009-2011. Atlanta Corporate Office.")    
-:---:|:---:      
-![saia-inc-2009-annual-report-memphis-region-linehaul-planner-c-brennan-poole](https://user-images.githubusercontent.com/50818414/94346615-ce39f380-fffb-11ea-9cf4-98bf01ea9992.png "Year 2 from ACO") | ![saia-inc-2008-annual-report-c-brennan-poole-joins-saia-atlanta-not-pictured](https://user-images.githubusercontent.com/50818414/94346596-b06c8e80-fffb-11ea-89a6-7ba6e1ec6336.png "Image of 2008 Annual Report Saia LTL Freight, Inc.")     
-Source Credit: [Saia 2009 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/3IEwyWksjECWYpTIQV1hpz/81790563baaf3d59e58c1f4b12c4f473/Saia_2009_Annual_Report___10-K.pdf) | Source Credit: [Saia Inc 2008 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/5eLp57gLd4MTg6DQxj72Rb/a606477bdc8b4b38851a6ab130d4658f/Saia_2008_Annual_Report.pdf "Atlanta Dock Supervisor March 2008-July 2009. Image is courtesy Saia LTL Inc sourced from 2008 Annual Report to Shareholders.")       
+[**Saia, Inc: 2011 Annual Report**](https://assets.ctfassets.net/kjv8gs2ccggb/4M6d73qEcviGKIF2eMu4ro/130e6f2563346680b8b035864922e1f9/Saia_2012_Annual_Report.pdf "Quantifiable Analytics: Straight from the Source") | [**Saia, Inc: 2010 Annual Report**](https://www.annualreports.com/HostedData/AnnualReportArchive/s/NASDAQ_SAIA_2010.pdf "Quantifiable Analytics. Actionable")    
+:---:|:---:    
+![Saia, Inc: 2011 Annual Report](https://user-images.githubusercontent.com/50818414/89959039-768d2780-dc09-11ea-96ae-fca8892073b5.jpg) | ![Saia, Inc : 2010 Annual Report](https://user-images.githubusercontent.com/50818414/89956466-3cb92280-dc03-11ea-9c21-fea34a8d3913.jpg "Full-year service in the single most impactful department in less-than-load industry; linehaul.")    
+Source Credit : [Saia](https://saia.com/about-us "Top 10 Fortune Ranked lees-than-load freight & transportation carrier") | Source Credit : [Saia](https://saia.com/awards "team awards reference : 2010 - 2014 cbrennanpoole service with company.")    
 
 ---
 
@@ -174,9 +179,10 @@ Source Credit: [Saia 2009 Annual Report](https://assets.ctfassets.net/kjv8gs2ccg
 
 ---
 
-##### [Saia, Inc '09-'13](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf)    
-![**Saia, Inc: '09-'13**)](https://camo.githubusercontent.com/1ed6c0f6a03610a77c26acb7dc66f834bc159839/68747470733a2f2f7777772e617765736f6d6573637265656e73686f742e636f6d2f6170692f76312f64657374696e6174696f6e2f696d6167652f73686f773f496d6167654b65793d746d2d333935372d32303230352d3138313034666638633337623036316165376532653364633035616339616234 "Saia Inc. OR / Revenue in millionos for time-of-tenure - 2008-2013 - most impressed by my data sweat work than these numbers 😊")    
-credit :  [Saia 2013 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf "with Wind creation")    
+[Saia, Inc: '09 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/3IEwyWksjECWYpTIQV1hpz/81790563baaf3d59e58c1f4b12c4f473/Saia_2009_Annual_Report___10-K.pdf) | [Saia, Inc: '08 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/5eLp57gLd4MTg6DQxj72Rb/a606477bdc8b4b38851a6ab130d4658f/Saia_2008_Annual_Report.pdf "Image of cover 2009 Annual Report for Saia LTL Freight, Inc. Service: Linehaul Dispatch July 2009-2011. Atlanta Corporate Office.")    
+:---:|:---:      
+![saia-inc-2009-annual-report-memphis-region-linehaul-planner-c-brennan-poole](https://user-images.githubusercontent.com/50818414/94346615-ce39f380-fffb-11ea-9cf4-98bf01ea9992.png "Year 2 from ACO") | ![saia-inc-2008-annual-report-c-brennan-poole-joins-saia-atlanta-not-pictured](https://user-images.githubusercontent.com/50818414/94346596-b06c8e80-fffb-11ea-89a6-7ba6e1ec6336.png "Image of 2008 Annual Report Saia LTL Freight, Inc.")     
+Source Credit: [Saia 2009 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/3IEwyWksjECWYpTIQV1hpz/81790563baaf3d59e58c1f4b12c4f473/Saia_2009_Annual_Report___10-K.pdf) | Source Credit: [Saia Inc 2008 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/5eLp57gLd4MTg6DQxj72Rb/a606477bdc8b4b38851a6ab130d4658f/Saia_2008_Annual_Report.pdf "Atlanta Dock Supervisor March 2008-July 2009. Image is courtesy Saia LTL Inc sourced from 2008 Annual Report to Shareholders.")     
 
 ---
 
@@ -285,26 +291,22 @@ credit :  [Saia 2013 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/7q
 
 ---
 
-## [Georgia State University](https://gsu.edu)     
+## [Georgia State University](https://robinson.gsu.edu)     
 `#TheStateWay`
 
 ---
 
 Faculty Scholar 2004 | Dean's List 2005 | Class of 2006
 :---|:---:|---:    
-J. Mack | GSU | Panthers
 
 ![US News & World Report Rankings for Robinson College of Business Courtesy robinson.gsu.edu](https://camo.githubusercontent.com/0fead529b87da3cc81336603ee714243c8252c7d/68747470733a2f2f7777772e617765736f6d6573637265656e73686f742e636f6d2f6170692f76312f64657374696e6174696f6e2f696d6167652f73686f773f496d6167654b65793d746d2d333935372d32303433332d6533346237366564626463356534643537663763636633383139353963373139 "Georgia State University BBA ranks 53 31st among public institutions 2021.")    Source Credit: [robinson.gsu.edu](https://robinson.gsu.edu/2019/09/three-robinson-undergraduate-programs-among-nations-best-in-latest-u-s-news-rankings/ "International Ranking with Significant International Influence: Eduniversal.")   
 
 ---
 
-1. **COLLEGE**: [*Robinson College of Business*](https://robinson.gsu.edu). 
-2. **DEGREE**: *Bachelor of Business Administration*.
-3. **FOCUS**: *Service Operations Management*.
+1. **COLLEGE**: [Robinson College of Business](https://robinson.gsu.edu). 
+2. **DEGREE**: Bachelor of Business Administration.
+3. **FOCUS**: Service Operations Management.
 4. **CASE-STUDY**: [The Toyota Way](https://www.toyota-europe.com/world-of-toyota/this-is-toyota/the-toyota-way).    
-
----
-
 ---
 
 ![Total Quality Management : The Toyota Way](https://camo.githubusercontent.com/9f9698d6eabf54895654bcd67601b572e98189f9/68747470733a2f2f7777772e617765736f6d6573637265656e73686f742e636f6d2f6170692f76312f64657374696e6174696f6e2f696d6167652f73686f773f496d6167654b65793d746d2d333935372d31383430392d3362363130323138393563643936353139386337373534653138366232623964 "Image re-mix and credits to : Dark Reader, Squoosh App, Google Drawings, and Toyota Way Guiding Principles")    
@@ -317,34 +319,34 @@ J. Mack | GSU | Panthers
 ---
 
 [Toyota Production Systems Guiding Principles](https://global.toyota/en/company/vision-and-philosophy/production-system/).
-    1. [Continuous improvement](https://en.wikipedia.org/wiki/Toyota_Production_System "Credit : Wikipedia Toyota Guiding Principles CC BY-SA")
-    2. Challenge : Form a long-term vision, meeting challenges with courage and creativity to realize our dreams.
-        - [Kaizen](https://en.wikipedia.org/wiki/Kaizen "Source Credit : Wikipedia on Kaizen") : We *improve our business operations* **continuously**, *always driving* for *innovation* and *evolution*.
-        - [Genchi Genbutsu](https://en.wikipedia.org/wiki/Genchi_Genbutsu "Source Credit : Wikipedia on Genchi Genbutsu CC BY-SA") : **Go to the source** to *find the facts* **to make correct decisions**.)
-        - [Respect for People](https://en.wikipedia.org/wiki/Toyota_Production_System "Credit : Wikipedia Toyota Guiding Principles CC BY-SA")
-            1. Respect: We respect others, make every effort to understand each other, take responsibility and do our best to build mutual trust.
-            2. Teamwork : We stimulate personal and professional growth, share the opportunities of development and maximize individual and team performance.   
-            3. [The right process will produce the right results](https://en.wikipedia.org/wiki/Toyota_Production_System "Credit : Wikipedia Toyota Guiding Principles CC BY-SA")
-        - Create continuous process flow to bring problems to the surface.
-            1. Use pull system** to avoid overproduction.
-            2. Level out the workload: Approach work like the tortoise, not the hare.
-            3. Build culture of stopping to fix problem:
-                - Standardized tasks are the foundation for continuous improvement and employee empowerment.
-                - Use visual control so no problems are hidden.
-                - Use only reliable, thoroughly tested technology that serves your people and processes.
-                - Add value to the organization by developing your people and partners.
-	3. Grow leaders who:    
-            1. Thoroughly understand the work.
-            2. Live the philosophy.
-            3. Teach to others.
-            4. Develop exceptional people and teams who follow your company's philosophy.
-            5. Respect your extended network of partners and suppliers:
-                - Challenging them and helping them improve.    
-                - Continuously solving root problems drives organizational learning. 
-            6. Go and see for yourself to thoroughly understand the situation:
-                - Make decisions slowly by consensus, thoroughly considering all options. 
-            7. Implement decisions rapidly.
-    4. Become a learning organization through relentless reflection.
+1. [Continuous improvement](https://en.wikipedia.org/wiki/Toyota_Production_System "Credit : Wikipedia Toyota Guiding Principles CC BY-SA")
+2. Challenge : Form a long-term vision, meeting challenges with courage and creativity to realize our dreams.
+    - [Kaizen](https://en.wikipedia.org/wiki/Kaizen "Source Credit : Wikipedia on Kaizen") : We *improve our business operations* **continuously**, *always driving* for *innovation* and *evolution*.
+    - [Genchi Genbutsu](https://en.wikipedia.org/wiki/Genchi_Genbutsu "Source Credit : Wikipedia on Genchi Genbutsu CC BY-SA") : **Go to the source** to *find the facts* **to make correct decisions**.)
+3. [Respect for People](https://en.wikipedia.org/wiki/Toyota_Production_System "Credit : Wikipedia Toyota Guiding Principles CC BY-SA").    
+	- Respect: We respect others, make every effort to understand each other, take responsibility and do our best to build mutual trust.
+	- Teamwork : We stimulate personal and professional growth, share the opportunities of development and maximize individual and team performance.   
+4. [The right process will produce the right results](https://en.wikipedia.org/wiki/Toyota_Production_System "Credit : Wikipedia Toyota Guiding Principles CC BY-SA")
+5. Create continuous process flow to bring problems to the surface.
+	- Use pull system** to avoid overproduction.
+    - Level out the workload: Approach work like the tortoise, not the hare.
+6. Build culture of stopping to fix problem:
+	- Standardized tasks are the foundation for continuous improvement and employee empowerment.
+7. Use visual control so no problems are hidden.
+	- Use only reliable, thoroughly tested technology that serves your people and processes.
+8. Add value to the organization by developing your people and partners.
+9. Grow leaders who:    
+	- Thoroughly understand the work.
+	- Live the philosophy.
+	- Teach to others.
+10. Develop exceptional people and teams who follow your company's philosophy.
+11. Respect your extended network of partners and suppliers:
+	- Challenging them and helping them improve.    
+12. Continuously solving root problems drives organizational learning. 
+	- Go and see for yourself to thoroughly understand the situation:
+13. Make decisions slowly by consensus, thoroughly considering all options. 
+	- Implement decisions rapidly.
+14. Become a learning organization through relentless reflection.
 
 #### Toyoda Precepts:    
 
@@ -438,19 +440,19 @@ No # | Position | Employer | Address | Start-End
 2 | [Logistics Coordinator](https://github.com/OUDcollective/Qualitative-Self#amazon-inc "temporary position : course of life pivot") | [Amazon Logistics](https://logistics.amazon.com/) | Stockbridge, GA | '17-18
 3 | Maintenance & Landscape  | Pine Hills | Stockbridge, GA | '16-'17   
 4 | Self-employed (Freelance) | [Sub-Contract Work](https://google.com/search?q=c+brennan+poole+chasing+the+wind "Google SERP Footprint Establishment to help explain with Wind algorithmic understanding and associative-categorical theorizing using a closed network growth loop to make Wind actionable") | Stockbridge, GA | '14-'17.
-5 | [Dispatch Supervisor](https://github.com/OUDcollective/Qualitative-Self#annex-freight-systems-inc "Contract position") | [Annex Freight Systems](http://www.annexfreight.com/ "contract work with former friend and mentor from Roadway Express, Inc 'first college less-than-load position working the dock and throwing boxes and tires") | Newnan, GA | 2013 - 2013      
+5 | [Dispatch Supervisor](https://github.com/OUDcollective/Qualitative-Self#annex-freight-systems-inc "Contract position") | [Annex Freight Systems](http://www.annexfreight.com/ "contract work with former friend and mentor from Roadway Express, Inc 'first college less-than-load position working the dock and throwing boxes and tires") | Newnan, GA | '13 - '13      
 6 | [Terminal Operations Manager](https://github.com/OUDcollective/Qualitative-Self#saia-ltl-freight-inc "return to work prematurely causing 7 year hiatus from industry") | [Saia, Inc](https://www.youtube.com/watch?v=HhE8iuLYaBY "Look at Ellenwood Facility and the 226 door 400+ driver & associate operation on YouTube") | Ellenwood, GA | '11-'13.
 7 | [Dispatch Supervisor](https://github.com/OUDcollective/Qualitative-Self#saia-ltl-freight-inc-1) | Saia, Inc | Johns Creek, GA | '09-'11     
 8 | [Operations Supervisor](https://github.com/OUDcollective/Qualitative-Self#saia-ltl-freight-inc-2) | Saia, Inc | Ellenwood, GA | '08 -'09    
 9 | Operations / Office Manager | South County Masonry Inc | Venice, FL | '06-'07      
 10 | [Team Lead](https://github.com/OUDcollective/Qualitative-Self#teds-montana-grill) | Ted's Montana Grill | Midtown Atlanta, GA | '05-'06     
-11| [Trainer / FOH Manager](https://github.com/OUDcollective/Qualitative-Self#the-italian-oven) | Italian Oven | Stockbridge, GA | '03 - '05     
-12 | Customer Service Associate II | [Lowe's Inc](https://lowes.com "Paint Department & Building Materials CSR II while studying at Georgia State's Robinson College of Business") | Stockbridge, GA - '03-'04      
+11| [Trainer / FOH Manager](https://github.com/OUDcollective/Qualitative-Self#the-italian-oven) | Italian Oven | Stockbridge, GA | '03-'05     
+12 | Customer Service Associate II | [Lowe's Inc](https://lowes.com "Paint Department & Building Materials CSR II while studying at Georgia State's Robinson College of Business") | Stockbridge, GA | '03-'04      
 13 | Freight Handler | Roadway Express Inc | Atlanta, GA | '01-'03     
 14 | Umpire | RYBA (Youth Baseball Assoc. Rockdale County) | Conyers, GA | '00-'01    
 15 | Esquire Assistant | [Richard H. Ramsey IV, Esquire](https://lawyers.findlaw.com/profile/view/2767034_1 "Work-study while at Northview High School Junior Year; and yes moved alot, allowing me to have a comprehensive, diverse, objective understanding of the educational institution that is in US") | Dothan, AL | '99-'00      
 16 | Back of House | City Slickers, LLC | Conyers, GA | '99-'01    
-17 | Innocence of Youth | American Dreamer | Historic Heartland of GA+Metro Atlanta area | '83 -?     
+17 | Innocence of Youth | American Dreamer | State of Georgia | '83 -?     
 
 ---
 
@@ -466,14 +468,14 @@ No. | School | Location | Date
 5 | Northview High School | Dothan, AL | '99-'00      
 4 | Salem High School | Conyers, GA | Aug '00-'01       
 3 | University of West Georgia | Carrollton, GA | '01-'02       
-2 | Georgia State/Robinson College of Business | Atl, GA | '02-'06     
+2 | Georgia State/Robinson College of Business | Atlanta, GA | '02-'06     
 
 No. 1:    
 `it's the real thing`
 
 ---
 
-#### cbrennanpoole Links    
+#### A Few Links    
 `the pause that refreshes`    
 
 ---
