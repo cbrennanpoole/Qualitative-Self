@@ -78,7 +78,7 @@ credit: @cbrennanpoole | assist: [Adobe Spark](https://spark.new "link to the do
 ---
 
 [On Georgia: America's Top Logistics Hub](https://user-images.githubusercontent.com/50818414/89961460-bbb45800-dc0f-11ea-8df9-2ef272c8f56e.jpg "Georgia is a Prime Logistics Location. Taking full advantage of its geographic location at the crossroads of north-south and east-west travel in North America, Georgia provides shippers easy access to a wealth of major interstates, rail networks, airports, and sea ports. Abundant warehousing space rounds out the offerings, which add up to a convenient and efficient logistics sector.")    
-![georgia-logistics-optimized-withwind](https://user-images.githubusercontent.com/50818414/102023978-0fb97f80-3d5d-11eb-920c-531a79f15376.jpeg)     
+![georgia-logistics-optimized-withwind](https://user-images.githubusercontent.com/50818414/102022508-599e6780-3d55-11eb-9cf1-c0abdbdfe0bb.png)     
 Source Credit: [Georgia.org](https://www.georgia.org/industries/logistics-supply-chain)
 
 ---
@@ -130,10 +130,10 @@ Source Credit :  [Saia 2013 Annual Report](https://assets.ctfassets.net/kjv8gs2c
     - Re-position Atlanta dock-stand to the center of dock, improving:    
     - Accessibility, employee morale, productivity, on-time close & departs, & on-time service standard.
 7. **Craft operations strategy** aligning organizational vision with Atlanta Dock Ops daily game plan:    
-    - 1st-day introduction issuance of the challenge to perform:    
-          1. Command to excellence.    
-	  2. Demand accountability.     
-	  3. Assure return to always accessible open-door management policy.    
+	- 1st-day introduction issuance of the challenge to perform:
+		1. Command to excellence.    
+		2. Demand accountability.     
+		3. Assure return to always accessible open-door management policy.    
 	
 ---    
 
@@ -146,16 +146,17 @@ Source Credit : [Saia Inc](https://saia.com) | Source Credit : [Saia Inc](https:
 
 #### [Saia LTL Inc](https://saia.com/about-us) / **Linehaul Supervisor**
 `Johns Creek, GA / Jul 2009 - Jul 2011`
-1. **Regional travel** to provide:    
-    - On-board support & training.     
+1. **Regional travel**:    
+    - To provide on-board support & training.     
     - Serve as point-of-contact between regional management and terminal manager.    
-    - Mentor peers in-person and in virtual / remote discussions via email, internal message boards and forums.     
-2. **Foster authentic work relations** *with peers, subordinates, and executives*.
-3. **Build rapport** *thru shared trust*.
+2. **Foster**:
+	- Authentic work relations.
+3. **Build rapport**: 
+	- Thru shared trust.
     - Honor time-off requests via efficiency & consistency.    
-4. **Improve* *overall Customer Service standard*:    
-    - +99.4% on-time service.     
-    
+4. **Improve**: 
+	- Overall Customer Service standard (*+99.4% on-time service*).     
+   
 ---
 
 [**Saia, Inc: 2011 Annual Report**](https://assets.ctfassets.net/kjv8gs2ccggb/4M6d73qEcviGKIF2eMu4ro/130e6f2563346680b8b035864922e1f9/Saia_2012_Annual_Report.pdf "Quantifiable Analytics: Straight from the Source") | [**Saia, Inc: 2010 Annual Report**](https://www.annualreports.com/HostedData/AnnualReportArchive/s/NASDAQ_SAIA_2010.pdf "Quantifiable Analytics. Actionable")    
@@ -167,15 +168,12 @@ Source Credit : [Saia](https://saia.com/about-us "Top 10 Fortune Ranked lees-tha
 
 #### [Saia LTL Inc](https://saia.com/about-us) / **Operations Supervisor**    
 `Ellenwood, GA / Mar 2008-Jul 2009`    
-1. **Support benchmark metrics as means to self-monitor performance** *establishing continuous improvement environment*.     
-2. **Guarantee** *on-time service*:     
-    - +98.6% on-time Customer Service : work tirelessly to improve all controllables & reduce the variables.
-        1. **On-time close schedule**: +93.5% standard expectation (*controllable*).     
-	2. **On time departure** : +93.5% (*indirect controllable*).     
-	3. **Report due-service reconciliation** : continuous improvement and nightly responsibility.    
-            - Account for:    
-	        1. **Proper loading status**.
-                2. **Ensure AS400** (SAAS) remained *iterative prcoess and continuous improvement*.
+1. **Support**:
+	- Benchmark metrics to establish a continuous improvement environment.     
+2. **Guarantee**: 
+	- On-time service of +98.6%. 
+3. **Reconcile:
+	- Due-service tonnage, accounting for loading status.
 
 ---
 
@@ -192,28 +190,38 @@ Source Credit: [Saia 2009 Annual Report](https://assets.ctfassets.net/kjv8gs2ccg
 
 [Ted's Montana Grill](https://tedsmontanagrill.com) / **Trainer**       
 `Atlanta, GA / Dec 2005-May 2006`     
-1. **Implement suggestive selling** *technique.     
-2. **Identify customers preference** through *active listening* with a *responsive presence*.    
-2. **Offer custom-tailored** *insight and expertise in featured menu items*.    
-3. **Ask qualitative questions** converying a *pleasurable tone*.    
-4. **Encourage** *patrons to request services** the following week* building on a *regular guest-list*.    
+1. **Implement**:
+	- Suggestive selling technique.     
+2. **Identify**:
+	- Customers preference through active listening.
+2. **Offer**: 
+	- Custom-tailored insight and expertise in featured menu items.    
+3. **Encourage**:
+	- Patrons to request services the following week in order to build on a regular guest-list.    
 
 ---
 
 #### [The Italian Oven](https://theitalianoven.com) / **Manager**
 `Stockbridge, GA / Dec 2003-Jan 2005`
-1. **Present menu** in an understandable manner.
-2. **Suggest seasonsal dishes** / *chef's featured offerings*.
-3. **Pair wine & spirits** *with complementary main course*.
+1. **Present**:
+	- Menu specific to customer preferences.
+2. **Suggest**:
+	- Seasonsal dishes, blue plate specials, and the chef's featured menu items.
+3. **Pair**: 
+	- Wine & spirits with complementary main course.
 
 ---
 
 #### [Amazon Inc](https://logistics.amazon.com/) / **Logistics Support**
 `Work-at-Home / Oct 2017–Jan 2018`    
-1. **Virtual work environment** *encouraging active participation using open-source platform mattersmost as central virtual workspace*.     
-2. **Serve** *as advocate for customer*.    
-3. **Field inbound calls** *from Amazon Flex Delivery Partners*.     
-4. **Guide and encourage** *100% successful delivery of Amazon goods and services*.   
+1. **Virtual work environment**:
+	- Encourage active participation using open-source platform mattersmost as central virtual workspace.     
+2. **Serve**: 
+	- As the advocate for all customers.    
+3. **Field**:
+	- Inbound calls from Amazon Flex Delivery Partners.     
+4. **Guide and encourage**:
+	- 100% successful delivery of Amazon goods and services.   
 
 ---
     
@@ -310,11 +318,11 @@ Faculty Scholar 2004 | Dean's List 2005 | Class of 2006
 ---
 
 ![Total Quality Management : The Toyota Way](https://camo.githubusercontent.com/9f9698d6eabf54895654bcd67601b572e98189f9/68747470733a2f2f7777772e617765736f6d6573637265656e73686f742e636f6d2f6170692f76312f64657374696e6174696f6e2f696d6167652f73686f773f496d6167654b65793d746d2d333935372d31383430392d3362363130323138393563643936353139386337373534653138366232623964 "Image re-mix and credits to : Dark Reader, Squoosh App, Google Drawings, and Toyota Way Guiding Principles")    
-*credit*: [Toyoda Guiding Principles](https://toyota.eu "i think") *creator*: cbrennanpoole **support**: [Dark Reader](https://darkreader.org) & [AwesomeScreenshot](https://awesomescreenshot.com)
+**Source Credit**: [Toyoda Guiding Principles](https://toyota.eu "i think") **Creator**: cbrennanpoole **Tech**: [Dark Reader](https://darkreader.org) & [AwesomeScreenshot](https://awesomescreenshot.com)
 
 ---
 
-### More on Toyota's Sustainable Business Model 
+### More on the Toyota Sustainable Business Model 
 
 ---
 
@@ -347,6 +355,8 @@ Faculty Scholar 2004 | Dean's List 2005 | Class of 2006
 13. Make decisions slowly by consensus, thoroughly considering all options. 
 	- Implement decisions rapidly.
 14. Become a learning organization through relentless reflection.
+
+---
 
 #### Toyoda Precepts:    
 
