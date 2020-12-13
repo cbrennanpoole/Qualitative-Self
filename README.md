@@ -79,15 +79,22 @@ credit: @cbrennanpoole | assist: [Adobe Spark](https://spark.new "link to the do
 
 ---
 
-##### [On Georgia: America's Top Logistics Hub](https://user-images.githubusercontent.com/50818414/89961460-bbb45800-dc0f-11ea-8df9-2ef272c8f56e.jpg "Georgia is a Prime Logistics Location. Taking full advantage of its geographic location at the crossroads of north-south and east-west travel in North America, Georgia provides shippers easy access to a wealth of major interstates, rail networks, airports, and sea ports. Abundant warehousing space rounds out the offerings, which add up to a convenient and efficient logistics sector.")
+### Professional & Leadership Roles    
+`Logistics` `Continuous Improvement`
 
-![Logistics in Georgia : `Competitive Advantage`](https://resources.inboundlogistics.com/userfiles/georgia_map_inline_0314.jpg)   
-credit: [Inbound Logistics](https://www.inboundlogistics.com/cms/article/georgia-logistics-sweet-spot/)
+## [On Georgia: America's Top Logistics Hub](https://user-images.githubusercontent.com/50818414/89961460-bbb45800-dc0f-11ea-8df9-2ef272c8f56e.jpg "Georgia is a Prime Logistics Location. Taking full advantage of its geographic location at the crossroads of north-south and east-west travel in North America, Georgia provides shippers easy access to a wealth of major interstates, rail networks, airports, and sea ports. Abundant warehousing space rounds out the offerings, which add up to a convenient and efficient logistics sector.")
+
+![Logistics in Georgia : `Competitive Advantage`](https://user-images.githubusercontent.com/50818414/102022508-599e6780-3d55-11eb-9cf1-c0abdbdfe0bb.png)   
+credit: [](https://www.inboundlogistics.com/cms/article/georgia-logistics-sweet-spot/)
 
 ---
 
-### Professional & Leadership Roles    
-`Continuous Improvement`
+> A Few Facts: 
+    - On any given week, a combined 5.9 million tons of freight move across Georgia’s 1,200 miles of interstate highways, including I-75, I-85, I-95 and I-20. Source: 
+    - 85% of the world’s top 3PLs operate in Georgia.
+	- 80% of the US overnight market is within a 2-hour flight from America's busiest airport, Hartsfield-Jackson; or, 2-day truck drive. 
+	- The state of Georgia houses the most extensive railroad system in southeastern US.
+	    - Source Credit: [Georgia.org](https://www.georgia.org/industries/logistics-supply-chain)
 
 ---
 
