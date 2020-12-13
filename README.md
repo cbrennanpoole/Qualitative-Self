@@ -21,13 +21,6 @@ credit: @cbrennanpoole | assist: [Adobe Spark](https://spark.new "link to the do
 
 ---
 
-### [The Quantified-Self](https://bit.ly/The-Quantified-Self-twenty-20 "Value-add to the self. Interactive Heatmap."):    
-![quantitative-definition-by-c-brennan-poole](https://user-images.githubusercontent.com/50818414/92188235-08174000-ee2a-11ea-8cab-28cfcc360607.jpg "what does quantitative mean?credit: Google SERP. Creator: cbrennanpoole made with Adobe Spark.")    
-[interactive CV | Google Sheets](https://bit.ly/The-Quantified-Self-twenty-20 "Quantified-Self Interactive Resume. **credit**: support.google.com. **creator**: C Brennan Poole"). **credit**: @cbrennanpoole. **ideation**: [support.google.com](https://support.google.com "i don't have the deep link at moment - will iterate."). **img+design**: [Adobe Spark](https://spark.new "again... a dot-new domain.").    
-
-
----
-
 ### Executive Summary
 `Actionable`
 
@@ -80,16 +73,17 @@ credit: @cbrennanpoole | assist: [Adobe Spark](https://spark.new "link to the do
 ---
 
 ### Professional & Leadership Roles    
-`Logistics` `Continuous Improvement`
+`Logistics` `Expertise`
 
 ## [On Georgia: America's Top Logistics Hub](https://user-images.githubusercontent.com/50818414/89961460-bbb45800-dc0f-11ea-8df9-2ef272c8f56e.jpg "Georgia is a Prime Logistics Location. Taking full advantage of its geographic location at the crossroads of north-south and east-west travel in North America, Georgia provides shippers easy access to a wealth of major interstates, rail networks, airports, and sea ports. Abundant warehousing space rounds out the offerings, which add up to a convenient and efficient logistics sector.")
 
 ![Logistics in Georgia : `Competitive Advantage`](https://user-images.githubusercontent.com/50818414/102022508-599e6780-3d55-11eb-9cf1-c0abdbdfe0bb.png)   
-credit: [](https://www.inboundlogistics.com/cms/article/georgia-logistics-sweet-spot/)
+Source Credit: [Georgia.org](https://www.georgia.org/industries/logistics-supply-chain)
 
 ---
 
-> A Few Facts: 
+> A Few Georgia Grown Facts: 
+
     - On any given week, a combined 5.9 million tons of freight move across Georgia’s 1,200 miles of interstate highways, including I-75, I-85, I-95 and I-20. Source: 
     - 85% of the world’s top 3PLs operate in Georgia.
 	- 80% of the US overnight market is within a 2-hour flight from America's busiest airport, Hartsfield-Jackson; or, 2-day truck drive. 
@@ -132,7 +126,7 @@ credit : [Saia Inc](https://saia.com) | credit : [Saia Inc](https://saia.com/abo
         1. Accessibility, employee morale, productivity, on-time close & departs, & on-time service standard.
 7. **Craft operations strategy** aligning organizational vision with Atlanta Dock Ops daily game plan:    
     - 1st-day introduction issuance of the challenge to perform:    
-        1. Command to excellence.    
+          1. Command to excellence.    
 	      2. Demand accountability.     
 	      3. Assure return to always accessible open-door management policy.    
 	
@@ -142,31 +136,6 @@ credit : [Saia Inc](https://saia.com) | credit : [Saia Inc](https://saia.com/abo
 :---:|:---:    
 ![Saia, Inc: 2011 Annual Report](https://user-images.githubusercontent.com/50818414/89959039-768d2780-dc09-11ea-96ae-fca8892073b5.jpg)! | ![Saia, Inc : 2010 Annual Report](https://user-images.githubusercontent.com/50818414/89956466-3cb92280-dc03-11ea-9c21-fea34a8d3913.jpg "Full-year service in the single most impactful department in less-than-load industry; linehaul.")    
 credit : [Saia](https://saia.com/about-us "Top 10 Fortune Ranked lees-than-load freight & transportation carrier") | credit : [Saia](https://saia.com/awards "team awards reference : 2010 - 2014 cbrennanpoole service with company.")    
-
-```
-
-An Assignment! 
-
-```
-
-> Be nimble about Lean Six Sigma – to get started, just remember the DMAIC high-level approach and [create a document](https://bit.ly/withWind-DarkDoc "Google Docs Dark Theme with Wind LLC") with the below five steps outlined.   
-
-**For each step, think** *of the following points*:    
-
-**D**: | **Define**: | What's the objective? Can you state it as a SMART one? Who will be involved or impacted? What is in or out of scope?
-:---|:---:|:---
-**M**: | **Measure**: | What are the data sources? Anything missing? Is it good quality data? Can you gain initial insight from this data without too much effort?
-**A**: | **Analyze**: | What are the correlations and patterns? This is where your analysis skills are truly put to work!
-**I**: | **Improve**: | Be creative, think about various solutions that balance the optimal/best solution vs. what is realistic given the constraints.
-**C**: | **Control**: | It's not over until you can report the impact of your work –be humble and remember improvement rarely come from a sudden 100% increase in something, but from small improvements to dozens of little things.    
-
-- credit : | [Google SERP](https://google.com/search?q=what+are+six-sigma+precepts"). [Lean Six-sigma for the Digital Analyst](https://online-behavior.com/analytics/lean-six-sigma "actionable too!"). [Online-behavior.com](https://online-behavior.com "Keep it simple, stupid.")     
-
----
-
-##### [Saia, Inc '09-'13](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf)    
-![**Saia, Inc: '09-'13**)](https://camo.githubusercontent.com/1ed6c0f6a03610a77c26acb7dc66f834bc159839/68747470733a2f2f7777772e617765736f6d6573637265656e73686f742e636f6d2f6170692f76312f64657374696e6174696f6e2f696d6167652f73686f773f496d6167654b65793d746d2d333935372d32303230352d3138313034666638633337623036316165376532653364633035616339616234 "Saia Inc. OR / Revenue in millionos for time-of-tenure - 2008-2013 - most impressed by my data sweat work than these numbers 😊")    
-credit :  [Saia 2013 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf "with Wind creation")    
 
 ---
 
@@ -187,7 +156,7 @@ credit :  [Saia 2013 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/7q
 [Saia, Inc: '09 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/3IEwyWksjECWYpTIQV1hpz/81790563baaf3d59e58c1f4b12c4f473/Saia_2009_Annual_Report___10-K.pdf) | [Saia, Inc: '08 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/5eLp57gLd4MTg6DQxj72Rb/a606477bdc8b4b38851a6ab130d4658f/Saia_2008_Annual_Report.pdf "Image of cover 2009 Annual Report for Saia LTL Freight, Inc. Service: Linehaul Dispatch July 2009-2011. Atlanta Corporate Office.")    
 :---:|:---:      
 ![saia-inc-2009-annual-report-memphis-region-linehaul-planner-c-brennan-poole](https://user-images.githubusercontent.com/50818414/94346615-ce39f380-fffb-11ea-9cf4-98bf01ea9992.png "Year 2 from ACO") | ![saia-inc-2008-annual-report-c-brennan-poole-joins-saia-atlanta-not-pictured](https://user-images.githubusercontent.com/50818414/94346596-b06c8e80-fffb-11ea-89a6-7ba6e1ec6336.png "Image of 2008 Annual Report Saia LTL Freight, Inc.")     
- credit: [Saia 2009 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/3IEwyWksjECWYpTIQV1hpz/81790563baaf3d59e58c1f4b12c4f473/Saia_2009_Annual_Report___10-K.pdf) | credit: [Saia Inc 2008 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/5eLp57gLd4MTg6DQxj72Rb/a606477bdc8b4b38851a6ab130d4658f/Saia_2008_Annual_Report.pdf "Atlanta Dock Supervisor March 2008-July 2009. Image is courtesy Saia LTL Inc sourced from 2008 Annual Report to Shareholders.")       
+Source Credit: [Saia 2009 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/3IEwyWksjECWYpTIQV1hpz/81790563baaf3d59e58c1f4b12c4f473/Saia_2009_Annual_Report___10-K.pdf) | Source Credit: [Saia Inc 2008 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/5eLp57gLd4MTg6DQxj72Rb/a606477bdc8b4b38851a6ab130d4658f/Saia_2008_Annual_Report.pdf "Atlanta Dock Supervisor March 2008-July 2009. Image is courtesy Saia LTL Inc sourced from 2008 Annual Report to Shareholders.")       
 
 ---
 
@@ -202,6 +171,12 @@ credit :  [Saia 2013 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/7q
             - Account for:    
 	        1. **Proper loading status**.
                 2. **Ensure AS400** (SAAS) remained *iterative prcoess and continuous improvement*.
+
+---
+
+##### [Saia, Inc '09-'13](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf)    
+![**Saia, Inc: '09-'13**)](https://camo.githubusercontent.com/1ed6c0f6a03610a77c26acb7dc66f834bc159839/68747470733a2f2f7777772e617765736f6d6573637265656e73686f742e636f6d2f6170692f76312f64657374696e6174696f6e2f696d6167652f73686f773f496d6167654b65793d746d2d333935372d32303230352d3138313034666638633337623036316165376532653364633035616339616234 "Saia Inc. OR / Revenue in millionos for time-of-tenure - 2008-2013 - most impressed by my data sweat work than these numbers 😊")    
+credit :  [Saia 2013 Annual Report](https://assets.ctfassets.net/kjv8gs2ccggb/7q8zvEXBsEXFTMfYo6l8xP/27c0d48b4b60ecf7ff77fa78695f556b/Saia_2013_Annual_Report.pdf "with Wind creation")    
 
 ---
 
@@ -319,8 +294,7 @@ Faculty Scholar 2004 | Dean's List 2005 | Class of 2006
 :---|:---:|---:    
 J. Mack | GSU | Panthers
 
-![US News & World Report Rankings for Robinson College of Business Courtesy robinson.gsu.edu](https://camo.githubusercontent.com/0fead529b87da3cc81336603ee714243c8252c7d/68747470733a2f2f7777772e617765736f6d6573637265656e73686f742e636f6d2f6170692f76312f64657374696e6174696f6e2f696d6167652f73686f773f496d6167654b65793d746d2d333935372d32303433332d6533346237366564626463356534643537663763636633383139353963373139 "Georgia State University BBA ranks 53 31st among public institutions 2021.")    
-credit: [robinson.gsu.edu](https://robinson.gsu.edu/2019/09/three-robinson-undergraduate-programs-among-nations-best-in-latest-u-s-news-rankings/ "International Ranking with Significant International Influence: Eduniversal.")   
+![US News & World Report Rankings for Robinson College of Business Courtesy robinson.gsu.edu](https://camo.githubusercontent.com/0fead529b87da3cc81336603ee714243c8252c7d/68747470733a2f2f7777772e617765736f6d6573637265656e73686f742e636f6d2f6170692f76312f64657374696e6174696f6e2f696d6167652f73686f773f496d6167654b65793d746d2d333935372d32303433332d6533346237366564626463356534643537663763636633383139353963373139 "Georgia State University BBA ranks 53 31st among public institutions 2021.")    Source Credit: [robinson.gsu.edu](https://robinson.gsu.edu/2019/09/three-robinson-undergraduate-programs-among-nations-best-in-latest-u-s-news-rankings/ "International Ranking with Significant International Influence: Eduniversal.")   
 
 ---
 
@@ -328,35 +302,8 @@ credit: [robinson.gsu.edu](https://robinson.gsu.edu/2019/09/three-robinson-under
 2. **DEGREE**: *Bachelor of Business Administration*.
 3. **FOCUS**: *Service Operations Management*.
 4. **CASE-STUDY**: [The Toyota Way](https://www.toyota-europe.com/world-of-toyota/this-is-toyota/the-toyota-way).    
-    - [Toyota Production Systems Guiding Principles](https://global.toyota/en/company/vision-and-philosophy/production-system/).
-        1. [Continuous improvement](https://en.wikipedia.org/wiki/Toyota_Production_System "Credit : Wikipedia Toyota Guiding Principles CC BY-SA")
-        2. Challenge : Form a long-term vision, meeting challenges with courage and creativity to realize our dreams.
-            - [Kaizen](https://en.wikipedia.org/wiki/Kaizen "Source Credit : Wikipedia on Kaizen") : We *improve our business operations* **continuously**, *always driving* for *innovation* and *evolution*.
-            - [Genchi Genbutsu](https://en.wikipedia.org/wiki/Genchi_Genbutsu "Source Credit : Wikipedia on Genchi Genbutsu CC BY-SA") : **Go to the source** to *find the facts* **to make correct decisions**.)
-            - [Respect for People](https://en.wikipedia.org/wiki/Toyota_Production_System "Credit : Wikipedia Toyota Guiding Principles CC BY-SA")
-                1. Respect: We respect others, make every effort to understand each other, take responsibility and do our best to build mutual trust.
-                2. Teamwork : We stimulate personal and professional growth, share the opportunities of development and maximize individual and team performance.   
-        3. [The right process will produce the right results](https://en.wikipedia.org/wiki/Toyota_Production_System "Credit : Wikipedia Toyota Guiding Principles CC BY-SA")
-            - Create continuous process flow to bring problems to the surface.
-        4. Use pull system** to avoid overproduction.
-        5. Level out the workload: Approach work like the tortoise, not the hare.
-        6. Build culture of stopping to fix problem:
-            - Standardized tasks are the foundation for continuous improvement and employee empowerment.
-            - Use visual control so no problems are hidden.
-            - Use only reliable, thoroughly tested technology that serves your people and processes.
-            - Add value to the organization by developing your people and partners.
-        7. Grow leaders who:    
-        8. Thoroughly understand the work.
-        9. Live the philosophy.
-        10. Teach to others.
-        11. Develop exceptional people** and *teams who follow your company's philosophy.
-        12. Respect your extended network of partners and suppliers:
-            - *Challenging them and helping them improve*.
-            - *Continuously solving root problems drives organizational learning*. 
-        13. Go and see for yourself to thoroughly understand the situation:
-            - Make decisions slowly by consensus, thoroughly considering all options. 
-        14. Implement decisions rapidly.
-            - Become a learning organization through relentless reflection.
+
+---
 
 ---
 
@@ -365,11 +312,41 @@ credit: [robinson.gsu.edu](https://robinson.gsu.edu/2019/09/three-robinson-under
 
 ---
 
-```
+### More on Toyota's Sustainable Business Model 
 
-Toyoda Precepts:    
+---
 
-```
+[Toyota Production Systems Guiding Principles](https://global.toyota/en/company/vision-and-philosophy/production-system/).
+    1. [Continuous improvement](https://en.wikipedia.org/wiki/Toyota_Production_System "Credit : Wikipedia Toyota Guiding Principles CC BY-SA")
+    2. Challenge : Form a long-term vision, meeting challenges with courage and creativity to realize our dreams.
+        - [Kaizen](https://en.wikipedia.org/wiki/Kaizen "Source Credit : Wikipedia on Kaizen") : We *improve our business operations* **continuously**, *always driving* for *innovation* and *evolution*.
+        - [Genchi Genbutsu](https://en.wikipedia.org/wiki/Genchi_Genbutsu "Source Credit : Wikipedia on Genchi Genbutsu CC BY-SA") : **Go to the source** to *find the facts* **to make correct decisions**.)
+        - [Respect for People](https://en.wikipedia.org/wiki/Toyota_Production_System "Credit : Wikipedia Toyota Guiding Principles CC BY-SA")
+            1. Respect: We respect others, make every effort to understand each other, take responsibility and do our best to build mutual trust.
+            2. Teamwork : We stimulate personal and professional growth, share the opportunities of development and maximize individual and team performance.   
+            3. [The right process will produce the right results](https://en.wikipedia.org/wiki/Toyota_Production_System "Credit : Wikipedia Toyota Guiding Principles CC BY-SA")
+        - Create continuous process flow to bring problems to the surface.
+            1. Use pull system** to avoid overproduction.
+            2. Level out the workload: Approach work like the tortoise, not the hare.
+            3. Build culture of stopping to fix problem:
+                - Standardized tasks are the foundation for continuous improvement and employee empowerment.
+                - Use visual control so no problems are hidden.
+                - Use only reliable, thoroughly tested technology that serves your people and processes.
+                - Add value to the organization by developing your people and partners.
+	3. Grow leaders who:    
+            1. Thoroughly understand the work.
+            2. Live the philosophy.
+            3. Teach to others.
+            4. Develop exceptional people and teams who follow your company's philosophy.
+            5. Respect your extended network of partners and suppliers:
+                - Challenging them and helping them improve.    
+                - Continuously solving root problems drives organizational learning. 
+            6. Go and see for yourself to thoroughly understand the situation:
+                - Make decisions slowly by consensus, thoroughly considering all options. 
+            7. Implement decisions rapidly.
+    4. Become a learning organization through relentless reflection.
+
+#### Toyoda Precepts:    
 
 1. **Always be faithful** to your duties, thereby contributing to the Company and to the overall good.
 2. **Always be studious** and creative, striving to stay ahead of the times.
@@ -390,21 +367,20 @@ MGS 4740 Operations Strategy | MGS 4500 Entrepreneurship/New Venture Management
 MGS 4730 Project Management | MGS 4700 Operations Management    
 MK 4400 Distribution Management Consumer | MGS 4110 Analysis of Business Data    
 MGS 4120 Optimal Resource Allocation | MGS 4000 Managerial Decision Making    
-MGS 4710 Analysis of Business Data | ACCT 4210 Cost/Managerial Accounting    
+ACCT 4210 Cost/Managerial Accounting | BUSA 3000 Globalization and Business Practices     
 BCOM 3950 Business Communication | MGS 3400 Managing People in Organization       
 FI 3300 Corporation Finance | MGS 3100 Business Analysis     
 CRJU 3100 Intro to Criminal Justice | MK 3010 Basic Marketing     
-RE 3010 Real Estate Principles | BUSA 3000 Globalization and Business Practices     
+RE 3010 Real Estate Principles | CIS 2010 Computer Information Systems      
 PHIL 2410 Critical Thinking | CRJU 2200 Social Sciences & America's Criminology Problem      
 BUSA 2106 Legal Environment of Business | ACCT 2102 Principles of Accounting II      
-ACCT 2101 Principles of Accounting I | HIST 2110 Survey of US History      
-MATH 2101 Mathematical Modeling | ECON 2106 Principles of Microeconomics    
-ECON 2105 Principles Of Macroeconomics | CIS 2010 Computer Information Systems      
-ECON 2100 The Global Economy | BIOL 1110K Human Anatomy & Phsyiology     
+ACCT 2101 Principles of Accounting I | HIST 2110 Survey of US History       
+MATH 2101 Mathematical Modeling | ECON 2106 Principles of Microeconomics       
+ECON 2105 Principles Of Macroeconomics | ECON 2100 The Global Economy    
+BIOL 1110K Human Anatomy & Phsyiology | SPCH 1000 Human Communication    
 BIOL 1101 Intro to Biology | AH 1070 Survey of Art II      
 ENGL 2102 American Literature | MATH 1070 Elementary Statistics      
-POLS 1101 American Government | ASTR 1001 Intro to Astronomy      
-SPCH 1000 Human Communication | [UnderContract.dev](https://UnderContract.dev "Next Project; care to ¿cc011aborate?")          
+POLS 1101 American Government | ASTR 1001 Intro to Astronomy           
        
 ---
 
@@ -429,6 +405,7 @@ Data Science | Resiliency | Pitch Yourself
 Purpose-Driven Sales | HTML Foundations | Strategic Thinking       
 Diversity & Inclusion  | Logistics Foundations | Marketing to Millennials    
 UX Foundations | Time Management | Adobe CreativeCloud    
+Principles of Design | 4th Industrial Revolution | Business Analysis
 
 ---
 
@@ -477,7 +454,7 @@ No # | Position | Employer | Address | Start-End
 
 ---
 
-### Closer Look at Education 
+### Formative Years
 
 ---
 
@@ -503,21 +480,23 @@ No. 1:
 
 CASEY | BRENNAN | POOLE    
 :---|:---|---:    
-Authentic | Digital | Self
 [LinkedIn: Project](https://linkedin.com/in/oudcollective) | [LinkedIn: Control](https://linkedin.com/in/c-brennan-poole) | [Pinterest](https://www.pinterest.com/withWindllc)   
 [LinkedIn with Wind](https://linkedin.com/company/the-wind) |  [Quora](https://quora.com/c-brennnan-poole) | [Twitter](https://twitter.com/oudcollective)    
 [instagram](https://instagram.com/twenty20times) | [Under Contract](https://www.undercontract.dev "copy, design, strategy by c brennan poole with Wind, LLC") | [Medium](https://medium.com/@cbrennanpoole)    
 [Rockin' Chair Panel](https://medium.com/rockinchairpanel) | [DEV](https://dev.to/cbrennanpoole) | [Hackernoon](https:/hackernoon.com/@chasing-the-wind)    
 [Crunchbase Founder Top 5k Bio](https://www.crunchbase.com/person/c-brennan-poole) | [Crunchbase with Wind Top 50k Organization](https://www.crunchbase.com/organization/chasing-the-wind-llc) | [Coil Blog](https://coil.com/u/oudcollective)    
 [GOOGLE SERP](https://www.google.com/search?q=cbrennanpoole) | [BING SERP](https://www.bing.com/search?q=c+brennan+poole+chasing+the+wind) | [ORCID](https://orcid.org/0000-0001-6537-7683)     
-[dribbbler](https://dribbble.com/C-Brennan-Poole/about) | [North American Crisis](https://docs.google.com/spreadsheets/d/e/2PACX-1vQtNSLY1eaa8StJxhsTOh6DkVDyj8nTnqf9nQYz1QvJ0lWnrc7gQpiGyhlTuIkDPllAi0bwrDMDiQv3/pubchart?oid=181466766&format=interactive "for whole-truth >> pandemic >> epidemics >> follow the Franklins >> silent partnerships >> collaborative arrangements >> special interests >> pharmacological angles >> & think ... propaganda that is SUBoxone SUBstitution and an opioid crisis not improving - rather - parabolically failing with novel coronavirus further fueling this corporatocracy use-case-study MD >> understand, it's an all-cash establishment that further fuels off the fallacies in US dot GOV") | [Giphy](https://giphy.com/channel/chasing-the-wind)    
+[dribbbler](https://dribbble.com/C-Brennan-Poole/about) | [North American Crisis](https://docs.google.com/spreadsheets/d/e/2PACX-1vQtNSLY1eaa8StJxhsTOh6DkVDyj8nTnqf9nQYz1QvJ0lWnrc7gQpiGyhlTuIkDPllAi0bwrDMDiQv3/pubchart?oid=181466766&format=interactive "for whole-truth >> pandemic >> epidemics >> follow the Franklins >> silent partnerships >> collaborative arrangements >> special interests >> pharmacological angles >> & think ... propaganda that is SUBoxone SUBstitution and an opioid crisis not improving - rather - parabolically failing with novel coronavirus further fueling this corporatocracy use-case-study MD >> understand, it's an all-cash establishment that further fuels off the fallacies in US dot GOV") | [Giphy](https://giphy.com/channel/chasing-the-wind)   
 [YouTube](https://www.youtube.com/channel/UCYVa4H5JraM-R6YoORABg3Q/about?disable_polymer=1) | [WIKI](https://en.wikipedia.org/wiki/User:C-Brennan-Poole) | [Stack Overflow Story](https://stackoverflow.com/story/c-brennan-poole)    
 [Stack Overflow CV](https://stackoverflow.com/cv/c-brennan-poole) | [Dark Docs Template](docs.google.com/document/d/1-JMQZuREnJHeSVKiyT7TKi_pyj1DCC1cfUR8Mhsilpo/template/preview) | [Dark Sheets Template](docs.google.com/spreadsheets/d/1m3ORMVcPysEeyoBzcJ4JPzHXRBgKYMnorIPJrMH1IOw/template/preview)    
 [GitHub Template](https://bit.ly/Git-Template) | [Hangouts to iOS Hack](https://hangouts.google.com/?hs=139&action=chat&pn=4705801515) | [Messenger](https://m.me/IntheBusinessBusiness)
 [Telegram](https://t.me/oudcollective) | [Current Projects](https://github.com/cbrennanpoole/Qualitative-Self/projects "Projects section of 'Qualitative-Self'") | [EEOC Apple Inc Diversity](https://docs.google.com/spreadsheets/d/1wQbP_f9faXGKKyWBTsKOd9yt4xqnLktvq_8AofdupSI/edit#gid=785042388 "Major issue and use-case hypocrisy of the IT gates and Learned Trait Hate with Wind is adamant is a major player in these epidemic pandemic times of corpatocracy fueled greed killing US Peoples")    
 [Seed Startup Hub](https://www.seedstartuphub.com/Home/StartupProfile/~10505 "Invite 'unsolicited of course' via Harvard Business Review contact") | [Apple Music](https://music.apple.com/us/playlist/epidemic-statistics/pl.u-38oWZy3sYK72y0R "Epidemic Statistic : Petty, Tom Earl v.420.00; ya dig?") | [Vimeo](https://vimeo.com/accessibilityassistants "where there's a will there's a God!")
 [UnderContract.dev](https://UnderContract.dev "Let's Close! git actionable!") | [Dark Theme Transcription Services](https://bit.ly/Podcast-Transcripts-Dark-Theme) | [Unsplash](https://unsplash.com/@cbrennanpoole/stats?stats=last-30)    
-[Growth-hack Attack v.2.1](https://drive.google.com/drive/u/1/folders/1tBIWum7wR3weNNFrSUz6GpexeYgGMo9O) | [YC SUS 2020](https://www.startupschool.org/companies/withWind) | [sites.google.com/view/withwindllc/home](https://sites.google.com/view/withwindllc/home)    
+[Growth-hack Attack v.2.1](https://drive.google.com/drive/u/1/folders/1tBIWum7wR3weNNFrSUz6GpexeYgGMo9O) | [YC SUS 2020](https://www.startupschool.org/companies/withWind) | [sites.google](https://sites.google.com/view/withwindllc/home)   
+[plan.withWind.llc](https://plan.withWind.llc) | [ChasingtheWindll.com](https://chasingthewindllc.com)    
+[Credit Repair](https://docs.google.com/viewer?url=docs.google.com/document/d/1MyDGHOUwKu4DbdwuVJHPtoD52NtcG05k1ArJ3XoEJlM/export?format=pdf) | [UnderContract.dev](https://UnderContract.dev)    
+Authentic | Digital | Self    
 
 ---
 
@@ -536,7 +515,7 @@ Copyright© 2021. Chasing the Wind, LLC. DBA with Wind LLC. Some rights reserved
 ---
 
 ###### Software Licensing 
-`the good stuff`    
+`if ever` `the good stuff`    
 
 ---
 
@@ -544,8 +523,8 @@ This repository is licensed under* [MIT](../LICENSE)® #twenty20times [GitHub](h
 
 ---    
 
-###### If You Made It This Far, Impressive!    
-`YOU ROCK` `Thanks!`
+###### If You Made It This Far
+`YOU ROCK` `Thanks`
 
 [with Wind, LLC](https://linkedin.com/company/the-wind) | [9114 Central Avenue SW Unit B Covington, GA US 30014](https://oudcollective.com "market research of GMB profile that will be a NYT Best Seller is all goes as expected ... STAY TUNED")     
 :---|---:    
