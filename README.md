@@ -72,7 +72,7 @@ credit: @cbrennanpoole | assist: [Adobe Spark](https://spark.new "link to the do
 
 ---
 
-### Professional & Leadership Roles    
+### Szakmai Tapasztalat 
 `Logistics` `Expertise`
 
 ---
