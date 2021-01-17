@@ -23,5 +23,5 @@ startupschool_username: withWind
 show_excerpts: true # set to false to remove excerpts on the homepage
 creative commons: CC BY-SA      
 
-theme: jekyll-theme-modernist
+theme: jekyll-theme-hacker
 
